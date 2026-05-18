@@ -19,6 +19,18 @@ enableEmoji = true
   tagline = "SITE_TAGLINE"
   primary_color = "SITE_COLOR"
   cloudflare_analytics = "CF_ANALYTICS_TOKEN"
+  # Authority theme — hero gradient
+  hero_color_1 = "#1c0a0a"
+  hero_color_2 = "#7f1d1d"
+  hero_color_3 = "#b91c1c"
+  hero_color_4 = "#0f172a"
+  monthly_readers = 74000
+  research_hours = 720
+  satisfaction = 98
+  trust_extra = "Attorney-reviewed content"
+  # Impact affiliate (pet-doctor-guide only — others leave blank)
+  impact_verification = ""
+  impact_tracking_id  = ""
 
 [taxonomies]
   category = "categories"
@@ -37,6 +49,10 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
 
 [permalinks]
   posts = "/:slug/"
