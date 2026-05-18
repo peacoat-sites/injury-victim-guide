@@ -1,0 +1,42 @@
+baseURL = "https://injuryvictimguide.com/"
+languageCode = "en-us"
+title = "Injury Victim Guide"
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Know your rights after an injury. Clear, honest guides on personal injury claims, settlements, insurance tactics, and how to protect yourself after an accident."
+  niche = "Personal Injury Law"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
+  image_query = "injury accident legal consultation attorney"
+  author = "Injury Victim Guide Editorial Team"
+  logo_text = "Injury Victim Guide"
+  tagline = "Know Your Rights. Protect Your Recovery."
+  primary_color = "#8b0000"
+  cloudflare_analytics = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug/"
