@@ -34,3 +34,13 @@ Negligence doesn't require intent. The driver who hit you didn't have to *mean* 
 Most personal injury attorneys offer free consultations and work on contingency — meaning they only get paid if you win. There's no cost to get a professional opinion on whether your situation qualifies.
 
 *This guide is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed attorney in your jurisdiction.*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements, and how to maximize your payout.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect at each stage.
+
