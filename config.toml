@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Injury Victim Guide"
 [pagination]
   pagerSize = 12
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableEmoji = true
 
 [params]
