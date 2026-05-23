@@ -1,5 +1,6 @@
 ---
 title: "Do You Have a Personal Injury Case? Here's How to Find Out"
+image: "https://images.pexels.com/photos/261621/pexels-photo-261621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-05-18
 slug: "do-you-have-a-personal-injury-case"
 description: "Not every accident automatically leads to a personal injury claim. Learn the four key elements you need to have a valid case and what steps to take next."
