@@ -1,6 +1,5 @@
 googleAnalytics = "G-4958ZNEERV"
 baseURL = "https://injuryvictimguide.com/"
-enableGitInfo = true
 languageCode = "en-us"
 title = "Injury Victim Guide"
 [pagination]
