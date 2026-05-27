@@ -1,43 +1,43 @@
 ---
 title: "About Injury Victim Guide"
-description: "Learn about Injury Victim Guide — our mission, editorial standards, and the topics we cover."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "About Injury Victim Guide — meet Marcus Webb and learn about our mission to help injury victims understand their rights."
 ---
 
-## Our Mission
+## About Injury Victim Guide
 
-Injury Victim Guide exists to help accident victims understand their rights before they walk into an attorney's office or accept an insurance settlement. We break down the legal process, explain what makes a strong claim, and help you ask the right questions — so you're never taken advantage of.
+Injury Victim Guide is an independent information resource created to help people understand what happens after an accident — before they make decisions they can't take back.
+
+## Meet the Editor
+
+**Marcus Webb** is the editor behind Injury Victim Guide.
+
+Marcus spent more than a decade as a claims adjuster for a major property and casualty insurer, reviewing hundreds of personal injury claims across auto accidents, slip-and-falls, and workplace injuries. He watched what happened when claimants didn't understand the process: they accepted the first offer without knowing how settlements are calculated, gave recorded statements that weakened their own position, or missed deadlines that cost them their right to file.
+
+After leaving the industry, Marcus started writing about personal injury claims from the other side — not for insurers, but for the people filing claims. Everything on this site is written from that perspective: what a real claimant needs to know, explained in plain language.
 
 ## What We Cover
 
-Injury Victim Guide publishes in-depth, reader-first guides on personal injury claims, car accidents, slip and fall cases, negligence law, insurance settlements, statute of limitations, and working with personal injury attorneys.
+Injury Victim Guide covers the personal injury claims process from start to finish — settlement values by injury type, how insurance companies calculate damages, negotiation tactics, statute of limitations by state, and when hiring an attorney makes financial sense.
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Our Approach
 
-## Editorial Standards
+We don't represent attorneys. We don't take referral fees from law firms. Our goal is to give you accurate, useful information so you can walk into any conversation — with an adjuster, an attorney, or an insurance company — with a clearer picture of where you stand.
 
-We follow a straightforward editorial process:
-
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+Every guide on this site is:
+- **Researched** from industry sources, state court records, and claims data
+- **Written for clarity** — not to impress lawyers or search algorithms
+- **Updated regularly** as laws, average settlement values, and claim procedures change
 
 ## Important Disclaimer
 
-<div class="disclaimer-box">
+Injury Victim Guide is an informational resource. Marcus Webb is a former insurance professional and researcher — not an attorney. **Nothing on this site constitutes legal advice.** Personal injury law varies significantly by state, and every case is different. We strongly encourage you to consult a licensed personal injury attorney before making any decisions about your claim.
 
-The content on this site is for **general informational purposes only** and does **not constitute legal advice**. No attorney-client relationship is formed by reading or using this site. Laws vary significantly by state and individual circumstances. Always consult a **licensed personal injury attorney** in your jurisdiction before making any legal decisions regarding your claim.
+## Affiliate Disclosure
 
-</div>
-
-## About This Site
-
-Injury Victim Guide is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
+Some links on this site are affiliate links (primarily Amazon book recommendations). If you click and make a purchase, we may earn a small commission at no additional cost to you. This never influences what we cover or recommend.
 
 ## Contact
 
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@injuryvictimguide.com](mailto:hello@injuryvictimguide.com)
+Questions, corrections, or topic requests? [Reach out here](/contact/).
