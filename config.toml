@@ -2,6 +2,7 @@ baseURL = "https://injuryvictimguide.com/"
 languageCode = "en-us"
 title = "Injury Victim Guide"
 
+
 enableRobotsTXT = true
 enableEmoji = true
 
