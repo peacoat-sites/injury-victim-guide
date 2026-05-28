@@ -7,7 +7,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  page_bg = "#fafaf8"
+  page_bg = "#faf8f7"
   nav_style = "dark"
 logo_text_2 = "Victim Guide"
 logo_text_1 = "Injury"
@@ -21,7 +21,7 @@ logo_text_1 = "Injury"
   author = "Injury Victim Guide Editorial Team"
   logo_text = "Injury Victim Guide"
   tagline = "Know Your Rights. Protect Your Recovery."
-  primary_color = "#b91c1c"
+  primary_color = "#9b1c1c"
   cloudflare_analytics = ""
 
   # Authority theme
