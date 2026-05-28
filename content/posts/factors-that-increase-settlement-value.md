@@ -3,7 +3,7 @@ title: "Factors That Increase Settlement Value"
 date: 2026-05-23T10:48:43.626448+00:00
 draft: false
 description: "Factors that increase settlement value include injury severity, medical expenses, lost wages, liability clarity, and expert testimony. Learn what impacts your c"
-image: "https://pixabay.com/get/g39d83cde397eb7976a0ec552d53d7cd8c11e68c719afacf132633641af8d561f1b8cb407684df0949ba1ab13e17c3fc911d18ed241ac0bce4a2b1a0683bf7080_1280.jpg"
+image: "https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Settlement Values"]
 tags: ["factors", "that", "increase", "settlement", "value"]
 author: "James Harmon"
