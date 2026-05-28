@@ -3,7 +3,7 @@ title: "Uninsured Motorist Claim Process"
 date: 2026-05-27T12:36:40.038435+00:00
 draft: false
 description: "Uninsured motorist claims help protect you financially when hit by a driver without insurance. Learn the step-by-step process, required documentation, and tips."
-image: "https://pixabay.com/get/gb5fdc997160a45871c2b9a8d924f66880d8e0544e12752ae28f3478455c34f203603fef79af30cf2c3275c77cb8d0accf9eed04fddf59df8692e0f59f32e201a_1280.jpg"
+image: "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Car Accidents"]
 tags: ["uninsured", "motorist", "claim", "process"]
 author: "Sarah Chen"
