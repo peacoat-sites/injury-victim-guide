@@ -12,6 +12,7 @@ title = "Injury Victim Guide"
 
 disableHugoGeneratorInject = true
 
+
 enableRobotsTXT = true
 enableEmoji = true
 
