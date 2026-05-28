@@ -1,4 +1,3 @@
-googleAnalytics = "G-4958ZNEERV"
 baseURL = "https://injuryvictimguide.com/"
 languageCode = "en-us"
 title = "Injury Victim Guide"
@@ -79,3 +78,7 @@ logo_text_1 = "Injury"
   [[related.indices]]
     name   = "categories"
     weight = 50
+
+[services]
+  [services.googleAnalytics]
+    id = "G-4958ZNEERV"
