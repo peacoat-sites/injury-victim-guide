@@ -8,7 +8,6 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-author = "Stephen Brenish"
   description = "Know your rights after an injury. Clear, honest guides on personal injury claims, settlements, insurance tactics, and how to protect yourself after an accident."
   niche = "Personal Injury Law"
   adsense_id = "ca-pub-3466203197759215"
