@@ -8,6 +8,13 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+hero_color_4 = "#080003"
+hero_color_3 = "#ef4444"
+hero_color_2 = "#1a0010"
+hero_color_1 = "#0d0005"
+primary_color = "#ef4444"
+logo_text_2 = "Victim Guide"
+logo_text_1 = "Injury"
   description = "Know your rights after an injury. Clear, honest guides on personal injury claims, settlements, insurance tactics, and how to protect yourself after an accident."
   niche = "Personal Injury Law"
   adsense_id = "ca-pub-3466203197759215"
