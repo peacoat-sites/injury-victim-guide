@@ -8,8 +8,11 @@ title = "Injury Victim Guide"
 
 
 
+
 enableRobotsTXT = true
 enableEmoji = true
+
+disableHugoGeneratorInject = true
 
 [pagination]
   pagerSize = 12
