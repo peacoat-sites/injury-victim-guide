@@ -1,6 +1,6 @@
 ---
 title: "Back Injury Settlement Amounts Car Accident"
-date: 2026-05-20T00:37:06.750843+00:00
+date: 2026-05-24T08:28:18.227155+00:00
 draft: false
 description: "Get an idea of typical back injury settlement amounts after a car accident. Learn what factors affect your compensation and how to maximize your claim."
 image: "https://images.pexels.com/photos/7298429/pexels-photo-7298429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

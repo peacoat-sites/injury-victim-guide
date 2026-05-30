@@ -1,6 +1,6 @@
 ---
 title: "Car Accident Injury Claim Denied What To Do"
-date: 2026-05-29T12:32:31.329342+00:00
+date: 2026-05-25T01:03:30.522962+00:00
 draft: false
 description: "Find out what steps to take if your car accident injury claim has been denied. Learn how to appeal, gather evidence, and fight for the compensation you deserve."
 image: "https://images.pexels.com/photos/7876150/pexels-photo-7876150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

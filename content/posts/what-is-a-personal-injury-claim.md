@@ -1,6 +1,6 @@
 ---
 title: "What Is A Personal Injury Claim"
-date: 2026-05-18T15:41:21.701431+00:00
+date: 2026-05-20T17:54:18.255842+00:00
 draft: false
 description: "Find out what a personal injury claim is, how the process works, and what compensation you could be entitled to if you've been injured due to someone else's neg"
 image: "https://images.pexels.com/photos/7247409/pexels-photo-7247409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

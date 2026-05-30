@@ -1,6 +1,6 @@
 ---
 title: "How Insurance Companies Calculate Settlements"
-date: 2026-05-21T12:33:21.041687+00:00
+date: 2026-05-26T08:26:20.576759+00:00
 draft: false
 description: "Find out how insurance companies calculate settlements, including the key factors that affect your payout, from medical costs to liability and negotiation tacti"
 image: "https://images.pexels.com/photos/6919757/pexels-photo-6919757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

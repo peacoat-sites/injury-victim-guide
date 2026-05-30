@@ -1,6 +1,6 @@
 ---
 title: "Sideswipe Accident Injury Claim"
-date: 2026-05-28T12:49:28.359527+00:00
+date: 2026-05-20T21:06:23.027913+00:00
 draft: false
 description: "Learn how to file a sideswipe accident injury claim, what compensation you may be entitled to, and how to protect your legal rights after a collision."
 image: "https://images.pexels.com/photos/7876047/pexels-photo-7876047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

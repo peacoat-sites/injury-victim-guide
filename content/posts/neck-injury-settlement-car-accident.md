@@ -1,6 +1,6 @@
 ---
 title: "Neck Injury Settlement Car Accident"
-date: 2026-05-21T12:29:54.653830+00:00
+date: 2026-05-25T14:20:14.426491+00:00
 draft: false
 description: "Injured your neck in a car accident? Learn what affects settlement amounts, average payouts, and how to maximize your compensation with the right legal steps."
 image: "https://images.pexels.com/photos/7298634/pexels-photo-7298634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

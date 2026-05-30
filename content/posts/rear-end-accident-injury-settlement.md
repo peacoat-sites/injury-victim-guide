@@ -1,6 +1,6 @@
 ---
 title: "Rear End Accident Injury Settlement"
-date: 2026-05-28T12:47:24.095741+00:00
+date: 2026-05-19T22:08:40.390879+00:00
 draft: false
 description: "Get the compensation you deserve after a rear end accident. Learn what factors affect your injury settlement amount and how to maximize your claim today."
 image: "https://images.pexels.com/photos/7876150/pexels-photo-7876150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "How To Negotiate Higher Personal Injury Settlement"
-date: 2026-05-23T10:46:29.872850+00:00
+date: 2026-05-25T16:30:56.383813+00:00
 draft: false
 description: "Discover proven strategies to negotiate a higher personal injury settlement. Learn how to value your claim, counter lowball offers, and maximize your compensati"
 image: "https://images.pexels.com/photos/5520322/pexels-photo-5520322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

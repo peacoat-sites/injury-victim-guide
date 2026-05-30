@@ -1,6 +1,6 @@
 ---
 title: "What To Do Immediately After An Accident"
-date: 2026-05-18T21:14:42.090505+00:00
+date: 2026-05-24T10:17:36.127300+00:00
 draft: false
 description: "Stay safe and protect your legal rights. Learn the essential steps to take immediately after an accident, from calling 911 to documenting the scene and notifyin"
 image: "https://images.pexels.com/photos/6129050/pexels-photo-6129050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

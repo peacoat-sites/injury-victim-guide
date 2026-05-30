@@ -1,6 +1,6 @@
 ---
 title: "Personal Injury Claim Process Step By Step"
-date: 2026-05-18T18:25:00.133427+00:00
+date: 2026-05-19T12:08:30.985168+00:00
 draft: false
 description: "Learn how the personal injury claim process works step by step, from gathering evidence and filing your claim to negotiating a settlement or taking your case to"
 image: "https://images.pexels.com/photos/7731332/pexels-photo-7731332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

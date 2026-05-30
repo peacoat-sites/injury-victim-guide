@@ -1,6 +1,6 @@
 ---
 title: "Supermarket Slip And Fall Lawsuit"
-date: 2026-05-29T21:55:09.848160+00:00
+date: 2026-05-28T12:36:38.723034+00:00
 draft: false
 description: "Injured in a supermarket slip and fall? Learn how to file a lawsuit, prove negligence, and recover compensation for medical bills, lost wages, and pain and suff"
 image: "https://images.pexels.com/photos/18631414/pexels-photo-18631414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

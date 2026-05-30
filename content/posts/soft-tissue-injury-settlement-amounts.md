@@ -1,6 +1,6 @@
 ---
 title: "Soft Tissue Injury Settlement Amounts"
-date: 2026-05-19T12:25:38.047198+00:00
+date: 2026-05-23T06:06:08.840762+00:00
 draft: false
 description: "Learn what soft tissue injury settlement amounts typically look like, what factors affect your payout, and how to maximize compensation for your claim."
 image: "https://images.pexels.com/photos/8219158/pexels-photo-8219158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Average Personal Injury Settlement Amounts"
-date: 2026-05-19T02:29:15.470096+00:00
+date: 2026-05-18T21:03:39.620978+00:00
 draft: false
 description: "Find out what average personal injury settlement amounts look like, what factors affect your payout, and how to maximize compensation for your claim."
 image: "https://images.pexels.com/photos/6191128/pexels-photo-6191128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

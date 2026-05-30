@@ -1,6 +1,6 @@
 ---
 title: "What Is Pain And Suffering In Personal Injury"
-date: 2026-05-19T02:24:50.315630+00:00
+date: 2026-05-19T04:13:55.720934+00:00
 draft: false
 description: "Learn what pain and suffering means in personal injury claims, how it's calculated, and what compensation you may be entitled to after an accident or injury."
 image: "https://images.pexels.com/photos/15149596/pexels-photo-15149596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Permanent Disability Settlement Amounts"
-date: 2026-05-24T10:54:50.408166+00:00
+date: 2026-05-23T03:15:20.478589+00:00
 draft: false
 description: "Permanent Disability Settlement Amounts: Learn how settlements are calculated, typical award ranges, and factors affecting your claim payout."
 image: "https://images.pexels.com/photos/6077326/pexels-photo-6077326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

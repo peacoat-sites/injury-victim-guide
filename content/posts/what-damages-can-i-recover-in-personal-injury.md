@@ -1,7 +1,7 @@
 ---
 title: "What Damages Can I Recover In Personal Injury"
 image: "https://images.pexels.com/photos/7876195/pexels-photo-7876195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-date: 2026-05-18T18:28:36.605739+00:00
+date: 2026-05-19T00:53:40.851971+00:00
 draft: false
 description: "Injured due to someone else's negligence? Learn what damages you may recover in a personal injury claim, including medical bills, lost wages, and pain and suffe"
 image: "https://images.pexels.com/photos/7876195/pexels-photo-7876195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
