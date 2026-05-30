@@ -3,7 +3,7 @@ title: "Property Owner Liability Slip And Fall"
 date: 2026-05-29T21:50:51.733074+00:00
 draft: false
 description: "Find out when property owners are legally liable for slip and fall accidents, what victims must prove, and how to protect your rights after an injury."
-image: ""
+image: "https://images.pexels.com/photos/8469989/pexels-photo-8469989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["property", "owner", "liability", "slip", "fall"]
 author: "Claire Novak"
