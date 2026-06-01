@@ -3,7 +3,7 @@ title: "Insurance Company Delay Tactics Injury Claim"
 date: 2026-05-30T10:55:37.845015+00:00
 draft: false
 description: "Learn how insurance companies use delay tactics to stall injury claims, and discover proven strategies to fight back and secure the compensation you deserve fas"
-image: ""
+image: "https://images.pexels.com/photos/8815849/pexels-photo-8815849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["insurance", "company", "delay", "tactics", "injury"]
 author: "Dana Hargrove"
