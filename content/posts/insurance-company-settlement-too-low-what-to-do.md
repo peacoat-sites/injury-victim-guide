@@ -3,7 +3,7 @@ title: "Insurance Company Settlement Too Low What To Do"
 date: 2026-05-30T10:57:37.125492+00:00
 draft: false
 description: "Received a low insurance settlement offer? Learn your options, how to negotiate effectively, and when to hire an attorney to get the compensation you deserve."
-image: ""
+image: "https://images.pexels.com/photos/33175673/pexels-photo-33175673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["insurance", "company", "settlement", "what"]
 author: "Alex Reeves"
