@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "car-accident-injury-claim-denied-what-to-do"
 affiliate_disclosure: true
+faqs:
+  - q: "How long do I have to appeal a denied car accident claim?"
+    a: "This varies by state and by the type of claim. Your own insurance policy will usually specify an appeal window, often between 30 and 180 days. State statutes of limitations for personal injury lawsuits typically run 2-3 years from the date of the accident, though some states are shorter. Don't assume you have plenty of time. Deadlines in insurance law are often hard cutoffs with no exceptions."
+  - q: "Can I sue the insurance company directly for bad faith?"
+    a: "In many states, yes. Insurance bad faith is a real legal claim when an insurer unreasonably denies a valid claim, delays processing without justification, or misrepresents policy terms. Bad faith claims can sometimes result in damages beyond the original claim amount. If you believe your denial was unreasonable and without proper investigation, this is something to specifically ask an attorney about."
+  - q: "The other driver's insurance denied my claim. Should I go through my own insurance instead?"
+    a: "Possibly. If you have uninsured/underinsured motorist coverage or collision coverage, your own insurance may step in and pay the claim, then pursue the other insurer on their own. Using your own insurance doesn't mean you're admitting fault. It means you're using coverage you've already paid for. Check your policy or call your own insurer to understand what coverage applies."
+  - q: "Does a police report help overturn a denial?"
+    a: "It can, but it's not automatically decisive. A police report that assigns fault to the other driver is useful evidence, but insurers aren't legally bound by police reports. They conduct their own liability investigations. That said, a police report that directly contradicts the insurer's liability finding is a meaningful piece of your appeal."
+  - q: "What if I can't afford an attorney?"
+    a: "Most personal injury attorneys take car accident cases on contingency, meaning you pay nothing unless they recover money for you. The fee comes out of the settlement or verdict. This structure exists specifically so that people without resources can access legal representation. A free consultation costs you nothing and gives you information to make a better decision."
 ---
 
 You filed the claim. You waited. You did everything they told you to do. And then the letter arrived: *denied*. I've watched this moment land on people like a gut punch, and I want to be honest with you, the denial letter is not the end of the road. Not even close. What most injury claimants don't realize is that insurance companies deny valid claims every single day, sometimes because of a genuine coverage issue, but often because a denial costs them nothing and betting that you'll give up costs them very little. Understanding why your claim was denied, and what you can actually do about it, changes everything.

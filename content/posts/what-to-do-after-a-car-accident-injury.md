@@ -10,6 +10,17 @@ author: "Rachel Webb"
 author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "what-to-do-after-a-car-accident-injury"
 affiliate_disclosure: true
+faqs:
+  - q: "How long do I have to file a claim after a car accident injury?"
+    a: "This depends on your state. The statute of limitations for personal injury claims is typically two to three years from the date of the accident, but some states give you as little as one year. There are also separate deadlines for filing claims with government entities if a public vehicle or poorly maintained road was involved. Don't rely on memory here; look up your state's specific rules or ask an attorney early."
+  - q: "What if I was partly at fault for the accident?"
+    a: "You may still have a claim. Most states follow either comparative negligence or modified comparative negligence rules. Under comparative negligence, your compensation is reduced by your percentage of fault. So if you were 20% at fault and your damages are $100,000, you might recover $80,000. Some states bar recovery if you're more than 50% at fault. The other driver's insurer will almost certainly try to assign you some fault regardless, so documentation matters."
+  - q: "Should I accept the first settlement offer?"
+    a: "Almost never. First offers are almost always lower than what your case is worth. Insurance companies know many people are dealing with stress, medical bills, and pressure to resolve things quickly. If you've received an offer that feels low, this guide on what to do when you get a lowball settlement offer walks through your options clearly."
+  - q: "What if my injuries don't show up immediately?"
+    a: "This is extremely common. Whiplash, herniated discs, soft tissue damage, and concussions often don't manifest fully for days or even weeks. This is one of the strongest arguments for seeking medical attention immediately after any accident, even a 'minor' one. Your medical records will show when symptoms were first reported, and that timeline matters."
+  - q: "How much is my car accident injury case worth?"
+    a: "There's no honest one-size-fits-all answer, and anyone who gives you a number without reviewing your specific facts is guessing. Settlement values depend on the severity of your injury, your medical costs, lost income, your state's laws, and the available insurance coverage. For a broader picture of how these figures are determined, this overview of how personal injury settlements work is a solid place to start."
 ---
 
 You're sitting in a crumpled car on the side of the highway. Your hands are shaking. Someone just rear-ended you at 45 mph, and your neck already feels wrong. In the next 60 minutes, you'll make decisions that could either protect your health and your legal rights or quietly destroy both. Most people have no idea what those decisions are. I spent 12 years on the insurance side watching injury victims make the same costly mistakes over and over, and I switched careers specifically to help people avoid them.

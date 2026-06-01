@@ -10,6 +10,17 @@ author: "Rachel Webb"
 author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "do-i-have-a-personal-injury-case"
 affiliate_disclosure: false
+faqs:
+  - q: "Does a personal injury case always mean going to court?"
+    a: "No, and in fact most cases don't. The majority of personal injury claims are resolved through settlement negotiations before a lawsuit is ever filed, or before a case goes to trial. Litigation is expensive and time-consuming for everyone involved, including insurance companies. That said, sometimes filing a lawsuit is necessary to get a fair outcome, and having an attorney who is genuinely willing to go to trial matters."
+  - q: "What if I can't afford a lawyer?"
+    a: "Most personal injury attorneys take cases on a contingency fee basis, typically around 33% of the recovery, though this varies. You pay nothing upfront. If the case doesn't result in a recovery, you generally owe no attorney's fee. This structure was specifically designed to give ordinary people access to legal representation they couldn't otherwise afford."
+  - q: "How long will my case take?"
+    a: "It depends heavily on the complexity of your injuries, whether liability is disputed, and whether the case settles or goes to trial. A straightforward car accident claim with clear fault and a cooperative insurer might resolve in a few months. A disputed case involving serious injuries or litigation can take one to three years or longer. Don't let anyone promise you a quick resolution."
+  - q: "What if the other driver didn't have insurance?"
+    a: "You may still have options. If you have uninsured motorist (UM) coverage on your own auto policy, that coverage exists specifically for this scenario. It's worth reviewing your own policy carefully. Some states require UM coverage; others allow drivers to opt out. If you don't have it, your options narrow significantly, which is one reason consumer advocates consistently recommend carrying it."
+  - q: "Should I accept the first settlement offer?"
+    a: "Almost always, no. Insurance companies make early offers precisely because they're usually lower than what a fully documented, well-represented claim would recover. Once you sign a release and accept a settlement, you can't go back and ask for more, even if your injuries turn out to be worse than expected. Before accepting any offer, at least talk to an attorney about whether it's fair."
 ---
 
 You're sitting in the hospital waiting room, ice pack on your knee, replaying the moment the grocery store floor sent you sliding across the tile. Or maybe you're home three days after a car accident, realizing the soreness isn't fading like you expected. Either way, the same question is circling in your head: *do I actually have a case, or am I just wasting everyone's time?*

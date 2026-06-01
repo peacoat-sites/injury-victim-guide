@@ -10,6 +10,17 @@ author: "Rachel Webb"
 author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "average-personal-injury-settlement-amounts"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does a personal injury settlement typically take?"
+    a: "Simple cases with clear liability, limited injuries, and cooperative insurers can resolve in a few months. Complex cases involving serious injuries, disputed liability, or uncooperative defendants can take one to three years, especially if they go to litigation. Wrongful death cases and those involving catastrophic injuries often take the longest because there's more at stake for everyone involved."
+  - q: "Should I accept the first settlement offer?"
+    a: "Almost never, at least not without evaluating it carefully against your actual damages. First offers are opening positions in a negotiation. They're often calculated to close your file quickly at the lowest number you might accept. That doesn't mean the final number will be dramatically higher, but you owe it to yourself to understand what your claim is actually worth before you sign a release, which is permanent and legally binding."
+  - q: "Does hiring an attorney actually increase my settlement?"
+    a: "In most cases, yes, even after the attorney's contingency fee is taken out. Studies and legal resources consistently show that represented claimants receive higher gross settlements on average than unrepresented ones. The gap is widest in complex cases or those involving serious injuries. For minor fender-benders with minimal injuries and quick recoveries, handling it yourself is sometimes reasonable. For anything involving significant medical bills, lost wages, or ongoing symptoms, representation almost always pays."
+  - q: "What is a 'demand letter' and how does it affect my settlement?"
+    a: "A demand letter is a formal written document sent to the at-fault party's insurance company laying out your injuries, your damages, your evidence, and the amount you're requesting. It's the opening move in the negotiation. A well-documented demand letter that clearly articulates your damages and attaches supporting evidence tends to produce better counteroffers than a vague verbal request. Attorneys write these regularly. You can write one yourself, but it requires careful preparation."
+  - q: "What happens if the settlement doesn't cover all my medical bills?"
+    a: "This is a real problem, particularly when policy limits are low. A few options exist. Your health insurer may have paid some bills and will expect reimbursement from your settlement through a legal concept called subrogation. Medical providers sometimes negotiate down their liens if you can show the settlement was insufficient. Your own underinsured motorist coverage, if applicable, may provide an additional layer of recovery. These are exactly the situations where an attorney's ability to negotiate with multiple parties simultaneously makes a significant difference."
 ---
 
 Imagine you're sitting in a hospital bed, arm in a cast, wondering whether the $8,500 the insurance adjuster just offered you is fair or a lowball designed to close your file before you know better. That moment, right there, is why understanding settlement amounts matters so much. I spent 12 years on the other side of that phone call. I know how adjusters think, and I know that the first offer is almost never the best one.

@@ -10,6 +10,17 @@ author: "James Harmon"
 author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "back-injury-settlement-amounts-car-accident"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to settle a back injury claim from a car accident?"
+    a: "It varies considerably. Minor soft-tissue injuries that resolve in a few months might settle in three to six months. Cases involving surgery, permanent impairment, or liability disputes can take one to three years, or longer if litigation is necessary. The most important timeline factor is reaching maximum medical improvement before settling, which means the clock is largely set by your medical recovery, not by the insurance company."
+  - q: "Will my pre-existing back condition hurt my claim?"
+    a: "Not necessarily. Most states follow the 'eggshell plaintiff' or 'aggravation' doctrine, which holds that an at-fault driver takes the victim as they find them. If you had a stable L5-S1 disc bulge for years that never caused problems, and the accident made it herniate and symptomatic, you're entitled to compensation for that aggravation. The insurer will use your prior records to argue otherwise, which is why having an attorney who understands spinal injury medicine can make a real difference."
+  - q: "What if the at-fault driver doesn't have enough insurance to cover my injury?"
+    a: "This is where your own underinsured motorist (UIM) coverage becomes critical. If you have UIM coverage on your own auto policy, it can supplement the at-fault driver's policy up to your UIM limits. Check your declarations page now, before you're in an accident. Many people discover they're underinsured only after they need coverage."
+  - q: "Does hiring an attorney really make a difference for back injury claims?"
+    a: "For minor injuries with clear liability and a quick recovery, you can often handle a claim yourself. For any injury involving disc damage, surgery, permanent impairment, or significant lost wages, an attorney almost always justifies the contingency fee. The complexity of future medical cost projection, permanency ratings, and countering insurer tactics is significant. A free consultation lets you make an informed decision."
+  - q: "Should I accept the first settlement offer on my back injury?"
+    a: "Rarely, and almost never on a serious injury. First offers are typically opening positions designed to close claims cheaply. They routinely undervalue future treatment, permanent impairment, and pain and suffering. Get the offer in writing, don't respond immediately, and consult with a personal injury attorney before you decide anything."
 ---
 
 You're sitting in the ER two days after a rear-end collision, waiting for the doctor to read your MRI, and a thought keeps creeping in: *what is this actually going to be worth?* It's a completely human question, and nobody blames you for thinking it. Medical bills are already arriving, your boss is asking when you're coming back, and the other driver's insurance company called this morning wanting a recorded statement. Here's the uncomfortable truth the insurance industry doesn't advertise: back injuries are the single most disputed category of soft-tissue and structural injuries in car accident claims, and the gap between what insurers initially offer and what cases ultimately settle for can be enormous.

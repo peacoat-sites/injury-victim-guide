@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "car-accident-pain-and-suffering-claim"
 affiliate_disclosure: true
+faqs:
+  - q: "How long do I have to file a pain and suffering claim after a car accident?"
+    a: "This is governed by what's called the statute of limitations, which varies by state, but is most commonly two years from the date of the accident. Some states allow one year; others allow three. If you're filing a claim against a government entity (a city bus, a municipal vehicle), the deadline can be as short as 90 days. Don't assume you have time to wait. Consult an attorney or check your state's specific rules as early as possible."
+  - q: "Can I file a pain and suffering claim if the accident was partly my fault?"
+    a: "Possibly, yes. It depends on your state's comparative fault laws. In many states, as long as you are less than 50% (or in some states, 51%) at fault, you can still recover compensation, though it will be reduced by your percentage of fault. A lawyer familiar with your state's laws can tell you where you stand."
+  - q: "Do I need to see a therapist or psychiatrist to claim emotional distress?"
+    a: "You don't legally need to, but it helps enormously. A documented diagnosis of anxiety, PTSD, or depression from a licensed mental health professional is far more persuasive than a self-reported account. If you're genuinely struggling emotionally after your accident, please seek help both for your wellbeing and for your claim."
+  - q: "What if my injuries seem minor? Is it still worth making a pain and suffering claim?"
+    a: "That depends on how you define 'minor' and what the actual impact has been on your daily life. Soft tissue injuries like whiplash are frequently dismissed as minor, but I've seen people live with legitimate, chronic pain from them for years. If your quality of life has changed in any meaningful way, that's worth talking to an attorney about before you accept any settlement."
+  - q: "Will my pain and suffering claim go to trial?"
+    a: "The vast majority of personal injury claims, somewhere around 95%, settle before trial. Insurance companies generally prefer settlement to the unpredictability of a jury. That said, having an attorney who is prepared and willing to go to trial is a negotiating asset. Insurers know which attorneys actually litigate and which ones always settle. That reputation matters. If you take one thing from all of this, let it be this: what you're experiencing is real, it has legal standing, and you have more tools than you probably realize to document it and present it effectively. You don't have to accep"
 ---
 
 You went to the doctor, you missed work, and your car is finally fixed. On paper, those losses are measurable. But here you are, three weeks later, still waking up at 3 a.m. because your neck aches, still anxious every time someone cuts you off on the highway, still explaining to your family why you're just not yourself. That part, the part that doesn't show up on a medical bill, is what a pain and suffering claim is designed to address. And if you've never heard of it before this moment, you're not alone. Most people don't know this category of compensation even exists until they're already in the middle of a situation where they desperately need it.

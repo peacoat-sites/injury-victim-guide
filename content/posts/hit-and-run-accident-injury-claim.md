@@ -10,6 +10,17 @@ author: "Rachel Webb"
 author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "hit-and-run-accident-injury-claim"
 affiliate_disclosure: true
+faqs:
+  - q: "What if there was no physical contact and the other driver ran?"
+    a: "This is a real issue. Many states require physical contact between vehicles for a hit-and-run UM claim to apply. If a car cut you off, caused you to swerve, and then fled without touching you, some insurers will deny coverage on those grounds. States like California have specific rules about this. Check your policy language and your state's UM statutes, and consult an attorney if you're in a gray area."
+  - q: "How long do I have to file a hit-and-run claim?"
+    a: "Two timelines matter here. Your insurance policy likely has a reporting requirement measured in days or weeks. The statute of limitations for a civil lawsuit in your state is separate and measured in years, typically two to three years for personal injury claims. Missing either deadline can be catastrophic. Don't wait."
+  - q: "What if I don't have uninsured motorist coverage?"
+    a: "Your options narrow considerably, but they're not zero. MedPay or PIP (if you have them) can cover medical bills. Your health insurance covers treatment. If the driver is eventually identified, you can pursue their insurance or them personally. Some states also have crime victim compensation funds that may apply. Talk to an attorney before assuming you have no recourse."
+  - q: "Will filing a UM claim raise my insurance rates?"
+    a: "It depends on your state and your policy. In many states, UM claims are treated as 'not-at-fault' claims and can't be used to raise your rates. But this isn't universal. Ask your insurer directly, and read your policy. Going in informed is always better than a surprise at renewal time."
+  - q: "Should I accept the first settlement offer from my insurance company?"
+    a: "Almost never. First offers on UM claims are typically lower than what you may be entitled to. Once you accept a settlement and sign a release, that's usually final. You can't go back for more if your injuries worsen or you discover additional costs. Have an attorney review any offer before you sign anything."
 ---
 
 You're standing on the side of the road. Your car is crumpled. Your hands are shaking. And the driver who hit you is gone, nothing but a fading set of tail lights in the distance. Every year, roughly 737,100 hit-and-run crashes occur in the United States, according to the AAA Foundation for Traffic Safety. That's about one every 43 seconds. If you're reading this from a hospital waiting room or your kitchen table after one of those crashes, here's what you need to know: you are not automatically out of luck just because the other driver ran.

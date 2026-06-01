@@ -10,6 +10,17 @@ author: "Sarah Chen"
 author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "car-accident-injury-claim-tips"
 affiliate_disclosure: true
+faqs:
+  - q: "How long do I have to file a car accident injury claim?"
+    a: "Every state has a statute of limitations, which is the legal deadline to file a lawsuit. For personal injury cases, this is most commonly two to three years from the date of the accident, but it varies. Some states go as low as one year. Missing this deadline typically means losing your right to compensation entirely. Don't assume you have unlimited time because you're still treating."
+  - q: "Should I accept the first settlement offer from the insurance company?"
+    a: "Rarely, if ever. First offers are almost always lower than what the claim is actually worth. The insurer's goal is resolution at minimum cost. That doesn't mean you have to fight endlessly, but you should understand what your claim is worth before accepting anything. Our article on how to negotiate a higher personal injury settlement covers this in detail."
+  - q: "What if I was partially at fault for the accident?"
+    a: "You may still be able to recover compensation. Most states use comparative negligence rules, meaning your recovery is reduced by your percentage of fault. If you were 20 percent at fault and your damages total $50,000, you'd recover $40,000. Some states use contributory negligence, which can bar recovery entirely if you were even slightly at fault. Know your state's rules."
+  - q: "How long will my injury claim take to resolve?"
+    a: "It depends on injury complexity, liability disputes, and whether your case settles or goes to litigation. Minor claims can resolve in a few months. Cases involving serious injuries, surgery, or disputed liability can take one to three years or longer. For a realistic breakdown, our piece on how long personal injury cases take covers the typical timeline and what affects it."
+  - q: "Do I need a lawyer for a minor car accident claim?"
+    a: "Not always. If your injuries were genuinely minor, you fully recovered quickly, liability is clear, and the insurer is treating you fairly, you may be able to handle the claim yourself. But 'minor' is worth scrutinizing carefully. Soft tissue injuries that seem minor can have lasting effects. If you're unsure whether you even have a viable claim, start with our overview of what it takes to have a personal injury case."
 ---
 
 You walk away from a car accident feeling shaken but okay. You decline the ambulance. You figure it's just some stiffness. Three days later you can't turn your neck, your back is in spasms, and your doctor is talking about an MRI. Now the other driver's insurance company is calling you twice a day, friendly as can be, asking you to give a recorded statement. Here's the thing: that adjuster isn't your friend. I know, because I used to be that adjuster.

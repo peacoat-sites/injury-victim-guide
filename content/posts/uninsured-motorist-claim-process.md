@@ -10,6 +10,17 @@ author: "Sarah Chen"
 author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "uninsured-motorist-claim-process"
 affiliate_disclosure: true
+faqs:
+  - q: "What if I can't afford a lawyer to handle my UM claim?"
+    a: "Most personal injury attorneys who handle UM claims work on a contingency fee basis. You pay no upfront fees. If they recover money for you, they take a percentage, typically 33 percent before a lawsuit is filed and sometimes higher afterward. If they don't recover anything, you owe nothing for their legal fee (though some contracts do include costs like filing fees, so read the retainer agreement carefully). A free consultation costs you nothing and can tell you a lot about where you stand."
+  - q: "Can I sue the uninsured driver directly?"
+    a: "Technically, yes. Practically, it's often not worth pursuing. If someone is driving without insurance, they frequently don't have significant assets to collect against. You can get a judgment, but collecting on a judgment against someone with no money is a different problem entirely. Your UM coverage is usually the more reliable path to actual compensation."
+  - q: "What if the uninsured driver fled the scene (hit and run)?"
+    a: "Hit-and-run situations are specifically addressed in most UM policies under what's called 'phantom driver' or 'unidentified motorist' coverage. The rules differ by state. Some require physical contact between vehicles. Others allow claims based on witness testimony alone. Report the accident to police immediately, and notify your insurer right away. Don't assume a hit-and-run means no recovery."
+  - q: "Will filing a UM claim raise my insurance rates?"
+    a: "This depends on your insurer and your state's laws. Some states prohibit insurers from raising your rates when you file a UM claim for an accident that wasn't your fault. Others allow it. Ask your insurer directly before you file, and get the answer in writing if you can. Even in states that allow rate increases, the hit to your premium is usually far less than walking away from a legitimate injury claim."
+  - q: "How long does a UM claim take to resolve?"
+    a: "It varies. A straightforward claim with clear liability and limited injuries might resolve in a few months. Complex cases involving serious injuries, disputed liability, or arbitration can take a year or longer. The timeline for how long personal injury cases take covers this in much more detail and is worth a read if you're trying to plan financially."
 ---
 
 You're sitting in a hospital waiting room, ice pack on your neck, when the officer's words finally sink in: the driver who ran the red light and hit you had no insurance. No policy. Nothing. According to [CDC injury data](https://www.cdc.gov/injury/wisqars/), motor vehicle crashes send millions of Americans to emergency departments every year. And the Insurance Research Council estimates that roughly 1 in 8 drivers on the road is uninsured. That's not a fringe risk. That's the car two spots ahead of you in traffic right now.

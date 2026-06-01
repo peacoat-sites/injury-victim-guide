@@ -10,6 +10,17 @@ author: "Rachel Webb"
 author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "what-is-pain-and-suffering-in-personal-injury"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I claim pain and suffering if I wasn't hospitalized?"
+    a: "Yes. Hospitalization is not a requirement. What matters is that you experienced real physical pain or emotional suffering as a result of someone else's negligence. A soft-tissue injury that never required a hospital stay but kept you in pain for three months is absolutely compensable. The key is documentation. Without medical records showing consistent treatment, the claim is much harder to support."
+  - q: "Is there a cap on pain and suffering damages?"
+    a: "It depends on your state. Several states have enacted caps on non-economic damages, particularly in medical malpractice cases. In general personal injury cases, fewer states impose hard caps, but many have nuanced rules. California, for example, has a $350,000 cap on non-economic damages in medical malpractice cases (raised recently from the longstanding $250,000 cap). Your state's rules matter, and an attorney can tell you exactly what limits apply to your situation."
+  - q: "How long do I have to file a claim for pain and suffering?"
+    a: "Your state's statute of limitations controls this. Most states allow two to three years from the date of injury to file a lawsuit. Some are shorter. A few are longer. Missing the deadline means you lose your right to sue, full stop. Don't wait. Get a consultation early, even if you're not sure you want to pursue the case."
+  - q: "What if my pain and suffering was partly caused by a pre-existing condition?"
+    a: "This is genuinely complicated, but a pre-existing condition doesn't disqualify you. The legal principle is called the 'eggshell plaintiff' rule. It holds that a defendant takes the plaintiff as they find them. If your pre-existing back problem was aggravated or accelerated by the accident, the defendant is responsible for that aggravation. The challenge is proving which portion of your suffering is accident-related versus pre-existing, which requires careful medical documentation and often expert testimony."
+  - q: "Can pain and suffering be claimed after a loved one's death?"
+    a: "Yes, though the framework shifts. In a wrongful death case, surviving family members can typically claim damages for their own grief, loss of companionship, and emotional suffering. Some states also allow a 'survival action,' which captures the pain and suffering the deceased person experienced between the injury and death. These cases are legally complex and really do require an attorney with wrongful death experience."
 ---
 
 Imagine you're rear-ended at a red light. The other driver's insurance pays your $4,200 repair bill and your $1,800 in medical bills without much argument. Case closed, right? Not even close. You still wake up at 3 a.m. because your neck hurts. You've stopped going to your Saturday morning basketball games. You feel anxious every time someone rides your bumper on the highway. None of that shows up on a receipt, but all of it has real value under the law. That's pain and suffering, and most injury victims either don't know they can claim it or they wildly underestimate what it's worth.

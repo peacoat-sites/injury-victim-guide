@@ -11,6 +11,17 @@ author: "Sarah Chen"
 author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "what-damages-can-i-recover-in-personal-injury"
 affiliate_disclosure: true
+faqs:
+  - q: "Does my own negligence affect what I can recover?"
+    a: "Yes, and this is a critical point. Most states use either 'comparative negligence' or 'contributory negligence' rules. Under comparative negligence, which is more common, your compensation is reduced by your percentage of fault. If a jury finds you were 20% responsible for an accident and your total damages are $100,000, you'd recover $80,000. A small number of states still use contributory negligence, which can bar your recovery entirely if you were even slightly at fault. Know which rule applies in your state before assuming anything."
+  - q: "Can I recover damages if I didn't go to the doctor right away?"
+    a: "Technically you can still file a claim, but delayed treatment genuinely hurts you. Insurance adjusters are trained to argue that if you didn't see a doctor for three days, your injuries couldn't have been that serious. The gap becomes a credibility problem. If you delayed for a legitimate reason, document that reason clearly. But whenever possible, get evaluated as soon as symptoms appear."
+  - q: "What if the at-fault driver has no insurance or minimal coverage?"
+    a: "This is where your own insurance policy matters more than most people realize. Uninsured motorist (UM) and underinsured motorist (UIM) coverage are designed exactly for this situation. They allow you to make a claim against your own policy when the at-fault party can't cover your losses. Review your declarations page today, before you ever need it, to understand what coverage you carry."
+  - q: "How long do I have to file a personal injury claim?"
+    a: "Every state has a statute of limitations, a deadline by which you must file your lawsuit or lose your right to do so. In most states, this runs between one and three years from the date of injury. But certain circumstances, like injuries involving government entities or claims where you didn't immediately discover the cause of your harm, can change that window. Don't assume you have time. Get advice early."
+  - q: "Will I have to go to court to receive compensation?"
+    a: "The vast majority of personal injury claims settle before trial. Estimates vary, but most sources suggest roughly 95% of civil cases settle out of court. That said, having an attorney prepared to go to trial often produces significantly better settlement offers. Insurance companies know when the person across the table is willing to walk into a courtroom, and it changes the math."
 ---
 
 You've just left the emergency room with a fractured wrist, a prescription for pain medication, and a bill for $4,200. The driver who ran the red light has insurance. So now what? Most people in that moment have one burning question: what can I actually get paid for? The answer is almost always broader than they expect, and I've watched countless people leave money on the table simply because they didn't know what to ask for.

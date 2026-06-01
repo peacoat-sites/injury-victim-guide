@@ -10,6 +10,17 @@ author: "James Harmon"
 author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "how-to-negotiate-higher-personal-injury-settlement"
 affiliate_disclosure: true
+faqs:
+  - q: "How many times can I counter-offer during a personal injury negotiation?"
+    a: "There's no legal limit. Negotiations can go back and forth multiple times before a number is reached or talks break down. That said, if you've exchanged three to four offers and the gap isn't closing meaningfully, it may be time to consult an attorney or consider whether a lawsuit is warranted."
+  - q: "What happens if I reject a settlement offer and get less at trial?"
+    a: "It's a real risk. Trials are unpredictable, and a jury could award you less than the insurer offered, or nothing at all. This is exactly why most cases settle. An experienced attorney can help you assess whether a given offer is reasonable relative to your trial risk."
+  - q: "Should I ever accept the first offer?"
+    a: "Rarely. The exception might be a case with genuinely disputed liability where you share significant fault, or where your damages are modest and fully covered by the initial offer. But if your medical treatment is still ongoing, accepting early is almost always a mistake."
+  - q: "How long does personal injury negotiation typically take?"
+    a: "It varies widely. A straightforward claim might settle in a few months. Complex cases involving serious injuries, surgery, or disputed liability can take a year or more. For a realistic sense of timelines, the breakdown of how long personal injury cases take covers the factors that extend or shorten the process."
+  - q: "What if the insurance company stops responding to my letters?"
+    a: "Document every attempt at contact. If an insurer is genuinely stonewalling, that's called bad faith, a legal term for an insurer unreasonably refusing to process or negotiate a legitimate claim. Bad faith carries its own legal consequences and is another situation where consulting an attorney becomes urgent, not optional."
 ---
 
 You submitted a claim. The insurance adjuster reviewed it, ran it through their system, and sent back a number. It feels official. It looks final. But here's what most people don't know: that first offer is almost never the best offer. In my 12 years adjusting claims, I watched insurance companies routinely open with figures 30 to 50 percent below what they were ultimately authorized to pay. The adjuster isn't trying to be cruel. They're doing their job, which is to close your claim for as little as possible. Your job is to push back, and push back smart.

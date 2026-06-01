@@ -10,6 +10,17 @@ author: "Rachel Webb"
 author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "how-much-is-my-personal-injury-case-worth"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to find out what my case is worth?"
+    a: "There's no single timeline. Simple cases with clear liability and a full recovery can be evaluated within a few months. Complex cases involving serious injuries, disputed fault, or high damages can take a year or more just to reach MMI, which needs to happen before you can accurately value the claim. Rushing this process almost always costs you money."
+  - q: "Does hiring a personal injury attorney increase my case value?"
+    a: "In most cases, yes. Studies consistently show that represented claimants receive higher settlements on average, even after attorney fees. An experienced attorney knows how adjusters think, what documentation is most persuasive, and when to push back. That said, for very minor claims involving small damages, you may reasonably handle it yourself. An initial consultation with an attorney is almost always free, so there's little reason not to get that perspective."
+  - q: "What if the other driver has no insurance or minimal coverage?"
+    a: "This is more common than most people expect. Your options include pursuing the at-fault driver personally (often impractical if they have no assets), filing a claim under your own UM/UIM coverage if you have it, and exploring whether any other parties share liability (an employer if it was a work vehicle, for instance). This situation is a strong argument for carrying robust UM/UIM coverage on your own policy before an accident happens."
+  - q: "Can I still recover damages if I was partially at fault?"
+    a: "Usually yes, depending on your state. Most states use some form of comparative negligence. In a 'pure comparative' state like California, you can recover even if you were 99% at fault, though your award is reduced proportionally. In 'modified comparative' states, you're typically barred from recovery if you were 50% or 51% or more at fault (the threshold varies). Understanding your state's rule matters a lot to your case strategy."
+  - q: "Is a lawsuit always necessary to get a fair settlement?"
+    a: "No, and most cases don't go to trial. The litigation process, meaning actually filing a lawsuit, often motivates insurance companies to take settlement discussions more seriously. But a filed lawsuit doesn't mean a trial. The vast majority of cases resolve through negotiation or mediation before a jury ever hears them. Filing is a tool, not a commitment to fighting it out in a courtroom."
 ---
 
 Imagine you're sitting in a hospital bed three days after a rear-end collision, and the at-fault driver's insurance company calls to offer you $4,500 to settle. Is that a fair number? A lowball? A windfall? Most people have absolutely no idea, and the insurance adjuster on the other end of that phone knows it. I spent 12 years as an adjuster before switching sides to help injury victims, and I can tell you that initial offer almost never reflects what a case is actually worth. Understanding how value gets calculated won't make you a lawyer, but it will stop you from making a decision you'll regret for years.

@@ -10,6 +10,17 @@ author: "James Harmon"
 author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "car-accident-injury-no-insurance-options"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I still get compensation if both me and the at-fault driver are uninsured?"
+    a: "Yes, but your options narrow considerably. You can still sue the at-fault driver directly and potentially pursue a judgment against their assets. You won't be able to use your own UM coverage if you didn't carry it. In no-fault states, PIP coverage on your own policy would also be unavailable. Being uninsured yourself can also affect how courts view your claim in some states. This is a situation where speaking with an attorney quickly is especially important."
+  - q: "Will filing a UM claim raise my insurance rates?"
+    a: "It depends on your state and your insurer. Many states prohibit insurers from raising rates solely because you filed a UM claim, since you were the victim, not the at-fault party. However, policies vary. Ask your agent directly and get the answer in writing before filing if you're concerned. The protection UM coverage offers typically outweighs the risk of a modest rate increase."
+  - q: "What if the uninsured driver left the scene (hit and run)?"
+    a: "A hit-and-run is treated similarly to an uninsured motorist situation for claims purposes. Your UM coverage should apply, though most policies require you to have made physical contact with the other vehicle and to have reported the accident to police promptly. Read your specific policy language carefully. Some states have additional protections for hit-and-run victims through state guarantee funds."
+  - q: "How long do I have to file a claim or lawsuit?"
+    a: "Every state has a statute of limitations for personal injury claims, typically between one and three years from the date of the accident. Missing this deadline almost certainly bars you from recovering anything. Don't assume you have more time than you do. UM claims with your own insurer also have policy-specific reporting deadlines that can be much shorter. Act promptly."
+  - q: "What if my injuries are still developing and I don't know the full extent of the damage yet?"
+    a: "Don't settle anything before you've reached what doctors call 'maximum medical improvement,' the point where your condition has stabilized and your care team can give a realistic long-term prognosis. Settling too early locks in a number that may not account for future surgeries, ongoing therapy, or permanent limitations. This is another reason why having an attorney review your case before you sign anything is genuinely valuable. For a deeper look at this, how personal injury settlements work explains the process from demand to final resolution."
 ---
 
 You get rear-ended at a red light. The other driver gets out, looks at the damage, and then says three words that make your stomach drop: "I don't have insurance." You're hurt, your car is damaged, and suddenly everything you thought you knew about how this works goes out the window. It's a nightmare scenario, but it happens more often than most people realize. According to the Insurance Research Council, roughly 1 in 8 drivers on American roads is uninsured. In some states, that number climbs closer to 1 in 4.

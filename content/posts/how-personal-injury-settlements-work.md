@@ -10,6 +10,17 @@ author: "Rachel Webb"
 author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "how-personal-injury-settlements-work"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does a personal injury settlement take?"
+    a: "It varies enormously. A straightforward case where liability is clear and injuries are resolved might settle in three to six months. A complex case involving disputed fault, severe injuries, or litigation can take two to four years. The single biggest factor in timeline is how long it takes to reach maximum medical improvement. Settling too early to get money faster is one of the most common and costly mistakes I've seen."
+  - q: "Will I have to go to court?"
+    a: "Probably not. As mentioned, around 95 percent of personal injury cases settle before trial. However, filing a lawsuit doesn't automatically mean you'll see a courtroom. A lawsuit is often a negotiating tool that signals you're serious. Many cases settle during the discovery phase or at mediation, which is a structured negotiation session with a neutral third party."
+  - q: "Is my settlement taxable?"
+    a: "In most cases, compensation for physical injuries and physical sickness is not taxable under federal law. However, punitive damages typically are taxable, and any portion of a settlement attributed to emotional distress not linked to a physical injury may be taxable. Tax laws are genuinely complex here, and a tax professional familiar with personal injury settlements is worth consulting before you spend settlement funds."
+  - q: "What if the at-fault party has no insurance?"
+    a: "This is where your own policy becomes critical. Uninsured motorist (UM) coverage pays your damages when the at-fault driver has no insurance. Underinsured motorist (UIM) coverage steps in when their policy limits aren't enough to cover your losses. Check your own policy now, before you need it. Many people don't realize they have this coverage, or don't realize they can increase it affordably."
+  - q: "Can I reopen a case after settling?"
+    a: "With very limited exceptions, no. A signed settlement release is final. The narrow exceptions involve fraud, a mutual mistake about material facts, or in some jurisdictions, situations where injuries that were completely unknown and unknowable at the time later manifest. These exceptions are rare and hard to prove. This is exactly why settling before you've reached maximum medical improvement, and before you understand the full extent of your injuries, is so risky."
 ---
 
 You rear-end someone at a stoplight, or a wet floor in a grocery store sends you to the ER, and suddenly you're staring at medical bills, a stack of insurance paperwork, and a phone that won't stop ringing with calls from adjusters. Most people have no idea what happens next. According to [the CDC's injury statistics](https://www.cdc.gov/injury/wisqars/), unintentional injuries are the leading cause of death for Americans aged 1 to 44, and millions more are injured seriously enough to miss work, rack up medical debt, and need long-term care. The majority of those people will eventually deal with a personal injury settlement, yet almost no one understands how that process actually works until they're already in the middle of it. Let me walk you through it.

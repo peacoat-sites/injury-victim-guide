@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "wet-floor-slip-and-fall-injury"
 affiliate_disclosure: true
+faqs:
+  - q: "What if I didn't see a wet floor sign? Does that mean the business is automatically liable?"
+    a: "Not automatically, but it's significant evidence of negligence. A missing or absent warning sign suggests the business didn't take reasonable steps to warn visitors of a known hazard. However, the business may argue the condition arose so recently that there wasn't time to place signage. That's why documentation of how long the floor was wet matters."
+  - q: "What if I was wearing flip-flops or slick-soled shoes?"
+    a: "Your footwear can become part of the comparative negligence argument. Adjusters and defense attorneys will often raise it. That said, wearing flip-flops doesn't automatically disqualify you from a claim. It's one factor among many. The floor's condition, the business's maintenance practices, and whether you were in an area where you had a right to be will all be weighed together."
+  - q: "Can I still file a claim if I didn't go to the doctor right away?"
+    a: "You can, but it becomes more difficult. Insurance companies will argue that if you were truly injured, you would have sought care immediately. If you delayed treatment, be prepared to explain why clearly and consistently. Going now is still far better than not going at all. Medical records, even delayed ones, are better than no records."
+  - q: "The store gave me an accident report number. Is that enough documentation?"
+    a: "It's a start, but nowhere near enough on its own. Businesses often write their own incident reports in ways that minimize their liability. Get your own copy if possible, and supplement it with everything else: photos, witness information, your written account, and medical records. Don't rely on the business to tell your story accurately."
+  - q: "What kinds of compensation can I potentially recover?"
+    a: "Slip and fall claims can include compensation for medical expenses (current and future), lost income, reduced earning capacity if your injuries affect your ability to work, and pain and suffering. In some cases involving especially reckless conduct, punitive damages are possible, though rare. The range of outcomes varies enormously based on the severity of injuries, the strength of evidence, the jurisdiction, and whether the case settles or goes to trial. Anyone who promises you a specific dollar figure before reviewing your full case is not being straight with you."
 ---
 
 You were just trying to get from point A to point B. Maybe it was a grocery store aisle, a hotel lobby, or a restaurant bathroom. One second you were upright, and the next you were on the floor, confused, in pain, and probably embarrassed. If that sounds familiar, you're not alone. The Centers for Disease Control and Prevention reports that slip and fall accidents are the leading cause of emergency room visits in the United States, and wet floors are one of the most common culprits. What happens in the days and weeks after that fall matters enormously, and most people have no idea where to start.

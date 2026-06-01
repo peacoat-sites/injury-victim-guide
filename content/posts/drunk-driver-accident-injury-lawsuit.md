@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "drunk-driver-accident-injury-lawsuit"
 affiliate_disclosure: true
+faqs:
+  - q: "How long do I have to file a drunk driving injury lawsuit?"
+    a: "Every state has a statute of limitations, which is the legal deadline for filing a civil lawsuit. In most states it's two to three years from the date of the accident, but it varies. Some states have exceptions that extend the deadline if the victim was a minor or if the injury wasn't immediately discovered. Missing this deadline almost always means losing your right to sue entirely. Don't test it. Consult an attorney well before the deadline, not the week before."
+  - q: "Can I sue if the drunk driver was uninsured?"
+    a: "Yes, though your recovery options shift. You'd look to your own uninsured motorist (UM) coverage if you have it, and you'd still have a claim directly against the driver personally. The practical challenge: if the driver has no insurance, they often have limited assets. This is why dram shop claims become especially important in uninsured drunk driver cases."
+  - q: "Does it matter if the drunk driver wasn't convicted?"
+    a: "Less than you might expect. Remember: the civil standard of proof is lower than criminal. A driver can be acquitted in criminal court, or have charges reduced or dismissed, and still be found civilly liable. O.J. Simpson's civil trial is the famous example. Your civil case moves forward regardless of the criminal outcome."
+  - q: "What if I was partly at fault for the accident?"
+    a: "That depends on your state's fault rules. States use either 'contributory negligence' (where any fault on your part bars recovery, which only a handful of states still use), 'pure comparative negligence' (you recover minus your percentage of fault), or 'modified comparative negligence' (you recover as long as you're less than 50% or 51% at fault, depending on the state). Even if you bear some responsibility, you may still have a viable claim."
+  - q: "Should I accept the first settlement offer?"
+    a: "Almost never. First offers from insurance companies are almost always lower than what a fully documented claim is worth. Before accepting anything, you should have a clear understanding of your total damages, including future medical costs and non-economic losses. Have an attorney review any offer before you sign a release."
 ---
 
 You survived the crash. The other driver failed a field sobriety test at the scene, blew a 0.14 on the breathalyzer, and is currently sitting in a jail cell. You'd think that makes your injury claim straightforward. It doesn't. A DUI arrest doesn't automatically win you a civil lawsuit, and the insurance company representing that drunk driver is already working to limit what they pay you. Here's what that process actually looks like, and what you can do about it.

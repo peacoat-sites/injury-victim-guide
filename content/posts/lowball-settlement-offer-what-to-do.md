@@ -10,6 +10,17 @@ author: "Rachel Webb"
 author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "lowball-settlement-offer-what-to-do"
 affiliate_disclosure: true
+faqs:
+  - q: "Is a first offer from an insurance company ever fair?"
+    a: "It can be, but it's rare. In my experience, a fair first offer usually only happens when liability is crystal clear, the damages are modest and fully documented, and the adjuster has seen all the records. Even then, 'fair' is often still a little low. You should always verify the offer against your actual documented damages before accepting anything."
+  - q: "Should I sign the release that comes with the settlement check?"
+    a: "No, not without reading it extremely carefully. A general release typically means you're giving up all future claims related to this incident, forever. If you later discover you need additional surgery or your condition worsens, you can't go back. Never sign a release before your medical treatment is complete, and ideally not before an attorney has reviewed it."
+  - q: "Can I negotiate without a lawyer?"
+    a: "Yes. Many people handle minor injury claims on their own successfully. But if your injuries are serious, if the insurer is disputing fault, or if there are multiple parties involved, working without legal representation puts you at a significant disadvantage. The consultation is free. Use it."
+  - q: "How long does this process usually take?"
+    a: "It varies enormously depending on injury severity, how quickly you reach maximum medical improvement, and how cooperative the insurer is. Simple claims can resolve in a few months. Complex ones can stretch to two years or more. For a realistic timeline based on injury type, understanding how long personal injury cases typically take helps set expectations."
+  - q: "What if I already accepted a lowball offer?"
+    a: "In most cases, once you've signed a release and cashed the check, it's over. That's exactly why insurers move quickly. There are rare exceptions, such as fraud or duress, but they're legally difficult to prove. If you signed recently and haven't cashed the check, contact an attorney immediately. If the settlement check is already cashed and the release is signed, your options are extremely limited."
 ---
 
 You open the envelope, and the number staring back at you is insultingly small. Maybe you've been out of work for six weeks, you've got $14,000 in medical bills, and the insurance company is offering you $3,500 to go away. That's not a negotiation. That's a test. They're checking whether you know what your claim is actually worth, or whether you'll just take the money and sign the release.

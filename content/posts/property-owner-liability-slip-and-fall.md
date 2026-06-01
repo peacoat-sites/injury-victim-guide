@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "property-owner-liability-slip-and-fall"
 affiliate_disclosure: true
+faqs:
+  - q: "How long do I have to file a slip and fall lawsuit?"
+    a: "The deadline is called the statute of limitations, and it varies by state. Most states give you two to three years from the date of injury to file a personal injury lawsuit. Some states are shorter. If your fall happened on government property (a city sidewalk, a public school), you may have as little as 90 to 180 days to file a formal notice of claim before any lawsuit. Missing these deadlines typically ends your case permanently, regardless of merit. Check the rules in your state early."
+  - q: "Does it matter if there was a wet floor sign?"
+    a: "Yes, but not as a complete shield for the property owner. A wet floor sign is evidence they had some awareness of the hazard, which can actually help establish they knew about it. The question becomes whether the sign was adequately placed, whether the underlying problem was addressed in a timely way, and whether the warning was sufficient given the circumstances. A sign placed behind a display where no one could see it before reaching the wet area doesn't give the owner a clean pass."
+  - q: "What if I was partly at fault for the fall?"
+    a: "In most states, being partly at fault doesn't eliminate your claim; it reduces your recovery proportionally. The exceptions are the small number of states that still use pure contributory negligence, where any fault on your part can bar recovery entirely. In comparative fault states, the real question is how fault gets allocated, which is ultimately a factual dispute. Don't assume partial fault means you have no case."
+  - q: "What kinds of damages can I recover in a slip and fall case?"
+    a: "Generally: medical expenses (past and future), lost wages and lost earning capacity if the injury affects your ability to work, pain and suffering, and in some cases loss of enjoyment of life. In rare cases involving particularly egregious conduct (a property owner who knowingly covered up a dangerous condition, for example), punitive damages may be available. The value of any specific claim depends entirely on the severity of the injury, the strength of the liability evidence, and the jurisdiction."
+  - q: "Do I need a lawyer for a slip and fall claim?"
+    a: "For minor injuries with quick and full recovery, you may be able to handle a claim directly. For anything involving significant medical treatment, surgery, ongoing symptoms, or time away from work, having an attorney is strongly advisable. Personal injury attorneys who handle slip and fall cases typically work on contingency, meaning you pay nothing unless they recover money for you. Given that insurers have experienced adjusters and lawyers on their side from day one, having professional representation levels the field considerably."
 ---
 
 You slipped on a wet floor at a grocery store, caught yourself on a display rack, and felt something pop in your shoulder. The manager handed you an incident report, apologized, and offered you a coupon. Now you're home with a sling, a stack of medical bills, and a growing suspicion that a coupon isn't going to cover a torn rotator cuff. You're right. It won't.

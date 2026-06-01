@@ -10,6 +10,17 @@ author: "James Harmon"
 author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "neck-injury-settlement-car-accident"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does a neck injury settlement take?"
+    a: "There's no single answer. A straightforward soft tissue case where liability is clear might settle in three to six months. A case involving surgery, disputed liability, or significant wage loss can take one to two years or longer, especially if litigation becomes necessary. Reaching maximum medical improvement before settling, even if it takes time, is almost always the right call financially."
+  - q: "Can I settle my neck injury claim without an attorney?"
+    a: "Yes, and some people do, particularly in minor soft tissue cases. The honest reality is that studies have repeatedly found represented claimants tend to receive higher settlements, even after attorney fees, than unrepresented ones. The complexity of your injury and the insurer's behavior early on are the best signals of whether you need help."
+  - q: "What if my neck injury shows up days after the accident?"
+    a: "Delayed onset is extremely common with whiplash and cervical injuries. See a doctor as soon as symptoms appear, and make sure the medical record clearly connects your symptoms to the accident. Keep a daily symptom journal starting the day of the crash. That contemporaneous record can be powerful evidence."
+  - q: "What is a 'release' and why does it matter?"
+    a: "A release is a legal document you sign when you accept a settlement. It permanently closes your claim. Once signed, you cannot ask for more money if your injury worsens, requires additional surgery, or causes problems years later. Never sign a release before you fully understand your diagnosis, prognosis, and the total value of your damages."
+  - q: "Does fault matter if I live in a no-fault state?"
+    a: "Yes, but differently. No-fault states require you to go through your own insurer for medical expenses and lost wages up to your policy's PIP (Personal Injury Protection) limits, regardless of who caused the crash. However, most no-fault states still allow you to step outside the no-fault system and sue the at-fault driver when your injuries meet a certain threshold of severity. If you're in a no-fault state, understanding your PIP coverage and that threshold is essential."
 ---
 
 You're sitting in a parking lot, heart still racing, and the back of your neck is already starting to tighten. The other driver is apologetic. You feel mostly okay, so you wave it off, exchange insurance information, and drive home. Three days later, you can't turn your head without a sharp, shooting pain that wakes you up at 2 a.m. What happens next, and what is that injury actually worth to an insurance company? Those two questions are what this article is really about.

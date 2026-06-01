@@ -10,6 +10,17 @@ author: "Sarah Chen"
 author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "personal-injury-statute-of-limitations-by-state"
 affiliate_disclosure: true
+faqs:
+  - q: "Does the statute of limitations clock pause if I'm in settlement negotiations with the insurance company?"
+    a: "No, it does not. Settlement negotiations do not toll the statute of limitations under any state law. This is one of the most dangerous misconceptions out there. The insurer can keep you talking until your deadline passes, and then the lawsuit option disappears. If you're close to your deadline, file first, negotiate after."
+  - q: "What happens if I miss the deadline by just a few days?"
+    a: "Courts almost never make exceptions for late filings based on missed deadlines, even by a day or two. There are narrow exceptions, such as fraudulent concealment by the defendant, but they are genuinely rare and hard to prove. Assume the deadline is firm."
+  - q: "Does the statute of limitations apply to property damage claims too?"
+    a: "Property damage claims typically have their own separate statute of limitations, and it's often different from the personal injury deadline in the same state. In many states, property damage claims have a three or four year limit even when the personal injury limit is two years. Verify both separately."
+  - q: "Can I still sue if my state's limit has passed but the accident happened in a different state?"
+    a: "Potentially, yes. When an accident crosses state lines, or when you live in a different state than where the injury occurred, choice-of-law questions come into play. Courts use various tests to decide which state's statute of limitations governs. This is genuinely complex territory and requires a lawyer, not a general resource."
+  - q: "If the at-fault driver's insurance already paid me something, does that affect the deadline?"
+    a: "Receiving a partial payment or signing certain documents with an insurer might affect your claim depending on the language, but it does not automatically stop the statute of limitations clock. Some release forms, if you signed one, might actually have waived your right to sue for additional damages. Get a lawyer to review anything you signed before assuming you're still free to file."
 ---
 
 You filed a police report. You saw a doctor. You kept every receipt. And then life happened, the way it always does, and you put the folder in a drawer and told yourself you'd deal with it soon. Fourteen months later, you pull that folder out and start looking for a lawyer. That's when you hear the words that can hollow out your stomach: "I'm sorry, but the statute of limitations on your case may have already expired." In some states, that means your right to sue is completely gone, no matter how legitimate your claim, no matter how serious your injuries. I've watched this happen to good people who did everything else right. Understanding deadlines before they become a crisis is the single most important thing you can do to protect yourself after an injury.
