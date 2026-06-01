@@ -1,0 +1,149 @@
+{
+  "title": "Could You Have a Personal Injury Claim?",
+  "intro": "Answer 7 quick questions to reflect on whether your situation has some of the common features people consider before exploring a personal injury claim. This is an educational self-reflection tool, not legal advice or a case evaluation.",
+  "questions": [
+    {
+      "q": "When you think about how the injury happened, what role did someone else play?",
+      "options": [
+        {
+          "t": "Another person, business, or driver clearly did something careless",
+          "s": 3
+        },
+        {
+          "t": "It is murky, maybe partly someone else, maybe partly me",
+          "s": 1
+        },
+        {
+          "t": "It was purely an accident with no one really at fault",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How recently did the injury or accident happen?",
+      "options": [
+        {
+          "t": "Fairly recently, within the last several months",
+          "s": 3
+        },
+        {
+          "t": "A while ago, but I am not sure how time limits work",
+          "s": 1
+        },
+        {
+          "t": "Years ago, and I have mostly moved on",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What kind of records or evidence do you have from the event?",
+      "options": [
+        {
+          "t": "Photos, reports, names, or messages I saved at the time",
+          "s": 3
+        },
+        {
+          "t": "A few scattered things, but nothing organized",
+          "s": 1
+        },
+        {
+          "t": "Honestly, nothing at all",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Did the injury actually affect your life in a measurable way?",
+      "options": [
+        {
+          "t": "Yes, through medical bills, missed work, or ongoing pain",
+          "s": 3
+        },
+        {
+          "t": "Somewhat, it was disruptive but hard to quantify",
+          "s": 1
+        },
+        {
+          "t": "Not really, I recovered quickly with little impact",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Did you get medical attention for the injury?",
+      "options": [
+        {
+          "t": "Yes, I saw a professional and have documentation",
+          "s": 3
+        },
+        {
+          "t": "I went eventually, or only once",
+          "s": 1
+        },
+        {
+          "t": "No, I just dealt with it on my own",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How ready do you feel to learn about your options?",
+      "options": [
+        {
+          "t": "Ready, I just want to understand what is realistic",
+          "s": 3
+        },
+        {
+          "t": "Curious, but a bit overwhelmed by the whole idea",
+          "s": 1
+        },
+        {
+          "t": "Not really, I am mostly here out of idle curiosity",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about speaking with a licensed attorney for a free consultation?",
+      "options": [
+        {
+          "t": "Open to it, a no-pressure conversation sounds useful",
+          "s": 3
+        },
+        {
+          "t": "Maybe, if I felt my situation was strong enough",
+          "s": 1
+        },
+        {
+          "t": "I would rather avoid lawyers entirely",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "This might not be your easiest path right now",
+      "body": "Based on your answers, a few of the common building blocks people look at, like clear fault, recent timing, documentation, or measurable impact, may not be strongly present in your situation. That does not mean nothing is possible, but it suggests starting smaller. Learning the basics of how claims work and what evidence matters can help you decide if a deeper look is worthwhile. Every situation is different, so this is just a gentle nudge, not a no.",
+      "cta": "Read our personal injury basics guide"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "It could be worth exploring, with a plan",
+      "body": "Your answers show several factors that people commonly consider, alongside some uncertainty, which is completely normal. The thoughtful next move is to get organized: gather any records you have, write down what you remember while it is fresh, and learn how time limits and fault work in your state. With a clearer picture, a free attorney consultation becomes much easier to navigate.",
+      "cta": "See our step-by-step claim process guide"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "This is worth a closer look",
+      "body": "Many of the factors people weigh, clear fault, timely circumstances, documentation, real impact, and your own readiness, appear to line up in your reflection. That is exactly the kind of situation where a free, no-obligation conversation with a licensed personal injury attorney can be genuinely helpful. They can assess the specifics no quiz ever could and explain your real options.",
+      "cta": "Learn how to choose the right attorney"
+    }
+  ],
+  "disclaimer": "This quiz is for general education and self-reflection only. It is not legal advice, not a case evaluation, and does not predict any outcome. Outcomes vary widely based on facts and state law. Nothing here creates an attorney-client relationship. For advice about your specific situation, consult a licensed attorney in your area."
+}
