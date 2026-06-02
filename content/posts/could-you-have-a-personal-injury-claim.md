@@ -15,3 +15,13 @@ This quick 7-question quiz is a gentle starting point for that reflection. It do
 {{< quiz >}}
 
 However your answers landed, remember this is just a thinking tool, not a verdict on your situation. Real cases turn on facts, evidence, and laws that vary widely by state and circumstance. If anything here resonated, the most useful next step is a free consultation with a licensed personal injury attorney in your area, and browsing our beginner guides to understand the process before you do.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+
