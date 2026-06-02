@@ -1,6 +1,7 @@
 ---
 quiz_page: true
 title: "Could You Have a Personal Injury Claim? Take the Quiz"
+image: "https://images.pexels.com/photos/6519904/pexels-photo-6519904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "A free 7-question self-reflection quiz to explore whether your situation has the hallmarks of a personal injury claim. General education only, not legal advice."
 slug: "could-you-have-a-personal-injury-claim"
 date: 2026-05-27T10:00:00+00:00
