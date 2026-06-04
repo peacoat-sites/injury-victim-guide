@@ -3,7 +3,7 @@ title: "Permanent Disability Workers Comp Settlement"
 date: 2026-06-02T12:56:25.200077+00:00
 draft: false
 description: "Get the facts on permanent disability workers comp settlements, including how payouts are calculated, what affects your amount, and how to maximize your compens"
-image: "https://images.pexels.com/photos/8112153/pexels-photo-8112153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["permanent", "disability", "workers", "comp", "settlement"]
 author: "Maria Vasquez"

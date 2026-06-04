@@ -3,7 +3,7 @@ title: "What To Do After A Car Accident Injury"
 date: 2026-05-23T22:36:58.703370+00:00
 draft: false
 description: "Discover essential steps to take after a car accident injury, from seeking medical care to documenting evidence and filing insurance claims for compensation."
-image: "https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/6520055/pexels-photo-6520055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["what", "after", "accident", "injury"]
 author: "Rachel Webb"

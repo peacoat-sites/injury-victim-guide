@@ -3,7 +3,7 @@ title: "Truck Accident Injury Settlement"
 date: 2026-05-23T14:24:24.762189+00:00
 draft: false
 description: "Injured in a truck accident? Learn what factors affect your settlement amount, how to maximize compensation, and what steps to take after a crash."
-image: "https://images.pexels.com/photos/8112153/pexels-photo-8112153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34610705/pexels-photo-34610705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["truck", "accident", "injury", "settlement"]
 author: "Alex Reeves"

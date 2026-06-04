@@ -3,7 +3,7 @@ title: "Workers Comp Denied What To Do"
 date: 2026-06-04T12:23:16.263351+00:00
 draft: false
 description: "Find out what to do when your workers comp claim is denied. Learn your rights, how to appeal the decision, and when to hire a workers compensation attorney."
-image: "https://images.pexels.com/photos/7876047/pexels-photo-7876047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14846150/pexels-photo-14846150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["workers", "comp", "denied", "what"]
 author: "Claire Novak"
