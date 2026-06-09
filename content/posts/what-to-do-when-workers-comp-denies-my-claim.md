@@ -23,10 +23,6 @@ faqs:
     a: "Get an attorney before you accept anything. Settlement offers after a contested denial are sometimes fair and sometimes not. A lump-sum settlement typically closes out your claim permanently, meaning if your condition worsens later, you can't go back. That's a significant trade-off that deserves professional evaluation, not a decision you should make because you're exhausted and need the money now."
 ---
 
-*By Dana Hargrove*
-
----
-
 Your denial letter arrived on a Tuesday. You probably read it three times trying to find the part where they explain the mistake, because surely this is a mistake. You hurt yourself at work. You reported it. You went to the doctor they sent you to. And now they're telling you no.
 
 I spent 12 years on the other side of that letter. I wrote denials. I know exactly what goes into them, and I know something most injured workers don't: a denial is not the end. It's often the beginning of a negotiation, and the insurance company is counting on the fact that you won't push back.
