@@ -6,8 +6,6 @@ description: "Find out what a personal injury claim is, how the process works, a
 image: "https://images.pexels.com/photos/7247409/pexels-photo-7247409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["what", "personal", "injury", "claim"]
-author: "Michael Torres"
-author_bio: "Legal educator and personal injury claims consultant. Writes to help everyday people navigate the system."
 slug: "what-is-a-personal-injury-claim"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Probably not. The overwhelming majority of personal injury claims settle out of court. Trials are expensive, unpredictable, and time-consuming for everyone involved, including the insurance company. That said, being willing to go to court, and having an attorney who is prepared to do so, typically produces better settlement outcomes because the insurer knows you're serious."
   - q: "What does it cost to hire a personal injury attorney?"
     a: "Most personal injury attorneys work on a contingency fee arrangement. You pay no upfront costs. If they recover money for you, they take a percentage, commonly 33 percent before a lawsuit is filed and up to 40 percent if the case goes to litigation. If they don't win, you owe nothing. Out-of-pocket costs like filing fees and expert witnesses may be handled separately, so always clarify the full arrangement upfront."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You're sitting in an urgent care waiting room, ice pack on your wrist, replaying the moment you slipped on that unmarked wet floor at the grocery store. The manager handed you an incident report form, the staff was polite, and now you're wondering: do I have a case? What does "filing a personal injury claim" even mean? Most people have heard the phrase a hundred times, but very few understand what actually happens when you pursue one.

@@ -6,8 +6,6 @@ description: "Get the compensation you deserve after a rear end accident. Learn 
 image: "https://images.pexels.com/photos/6520104/pexels-photo-6520104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["rear", "accident", "injury", "settlement"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "rear-end-accident-injury-settlement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. The legal concept is called the 'eggshell plaintiff' rule: defendants take victims as they find them. If a prior neck injury made you more vulnerable to the crash injury, that vulnerability doesn't reduce your recovery. What you can recover is the aggravation of your prior condition caused by the crash. This requires clear medical documentation comparing your pre-crash and post-crash condition, which is another reason prompt and thorough medical care matters."
   - q: "Should I accept the first settlement offer?"
     a: "Rarely. First offers from insurance adjusters are opening positions, not final offers. They're calculated to close the file quickly and cheaply. In my experience, first offers on soft tissue claims frequently don't account for the full cost of ongoing treatment, lost wages, or pain and suffering. Get the offer in writing, don't respond immediately, and consult an attorney before accepting anything."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You're sitting at a red light. Full stop. Then: impact. The other driver hit you from behind, and now your neck hurts, your car is crumpled, and someone at the insurance company is already calling to ask how you're feeling. That call isn't courtesy. It's strategy.

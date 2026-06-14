@@ -6,8 +6,6 @@ description: "Find out the personal injury statute of limitations in your state.
 image: "https://images.pexels.com/photos/5060979/pexels-photo-5060979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "statute", "limitations", "state"]
-author: "Sarah Chen"
-author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "personal-injury-statute-of-limitations-by-state"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Potentially, yes. When an accident crosses state lines, or when you live in a different state than where the injury occurred, choice-of-law questions come into play. Courts use various tests to decide which state's statute of limitations governs. This is genuinely complex territory and requires a lawyer, not a general resource."
   - q: "If the at-fault driver's insurance already paid me something, does that affect the deadline?"
     a: "Receiving a partial payment or signing certain documents with an insurer might affect your claim depending on the language, but it does not automatically stop the statute of limitations clock. Some release forms, if you signed one, might actually have waived your right to sue for additional damages. Get a lawyer to review anything you signed before assuming you're still free to file."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You filed a police report. You saw a doctor. You kept every receipt. And then life happened, the way it always does, and you put the folder in a drawer and told yourself you'd deal with it soon. Fourteen months later, you pull that folder out and start looking for a lawyer. That's when you hear the words that can hollow out your stomach: "I'm sorry, but the statute of limitations on your case may have already expired." In some states, that means your right to sue is completely gone, no matter how legitimate your claim, no matter how serious your injuries. I've watched this happen to good people who did everything else right. Understanding deadlines before they become a crisis is the single most important thing you can do to protect yourself after an injury.

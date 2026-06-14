@@ -6,8 +6,6 @@ description: "Get fair compensation for your car accident pain and suffering cla
 image: "https://images.pexels.com/photos/7876137/pexels-photo-7876137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "pain", "suffering", "claim"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "car-accident-pain-and-suffering-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "That depends on how you define 'minor' and what the actual impact has been on your daily life. Soft tissue injuries like whiplash are frequently dismissed as minor, but I've seen people live with legitimate, chronic pain from them for years. If your quality of life has changed in any meaningful way, that's worth talking to an attorney about before you accept any settlement."
   - q: "Will my pain and suffering claim go to trial?"
     a: "The vast majority of personal injury claims, somewhere around 95%, settle before trial. Insurance companies generally prefer settlement to the unpredictability of a jury. That said, having an attorney who is prepared and willing to go to trial is a negotiating asset. Insurers know which attorneys actually litigate and which ones always settle. That reputation matters. If you take one thing from all of this, let it be this: what you're experiencing is real, it has legal standing, and you have more tools than you probably realize to document it and present it effectively. You don't have to accep"
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You went to the doctor, you missed work, and your car is finally fixed. On paper, those losses are measurable. But here you are, three weeks later, still waking up at 3 a.m. because your neck aches, still anxious every time someone cuts you off on the highway, still explaining to your family why you're just not yourself. That part, the part that doesn't show up on a medical bill, is what a pain and suffering claim is designed to address. And if you've never heard of it before this moment, you're not alone. Most people don't know this category of compensation even exists until they're already in the middle of a situation where they desperately need it.

@@ -6,8 +6,6 @@ description: "Learn what pain and suffering means in personal injury claims, how
 image: "https://images.pexels.com/photos/15149596/pexels-photo-15149596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["what", "pain", "suffering", "personal", "injury"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "what-is-pain-and-suffering-in-personal-injury"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is genuinely complicated, but a pre-existing condition doesn't disqualify you. The legal principle is called the 'eggshell plaintiff' rule. It holds that a defendant takes the plaintiff as they find them. If your pre-existing back problem was aggravated or accelerated by the accident, the defendant is responsible for that aggravation. The challenge is proving which portion of your suffering is accident-related versus pre-existing, which requires careful medical documentation and often expert testimony."
   - q: "Can pain and suffering be claimed after a loved one's death?"
     a: "Yes, though the framework shifts. In a wrongful death case, surviving family members can typically claim damages for their own grief, loss of companionship, and emotional suffering. Some states also allow a 'survival action,' which captures the pain and suffering the deceased person experienced between the injury and death. These cases are legally complex and really do require an attorney with wrongful death experience."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 Imagine you're rear-ended at a red light. The other driver's insurance pays your $4,200 repair bill and your $1,800 in medical bills without much argument. Case closed, right? Not even close. You still wake up at 3 a.m. because your neck hurts. You've stopped going to your Saturday morning basketball games. You feel anxious every time someone rides your bumper on the highway. None of that shows up on a receipt, but all of it has real value under the law. That's pain and suffering, and most injury victims either don't know they can claim it or they wildly underestimate what it's worth.

@@ -6,8 +6,6 @@ description: "Discover what evidence you need for a personal injury claim, inclu
 image: "https://images.pexels.com/photos/7876155/pexels-photo-7876155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Evidence and Documentation"]
 tags: ["what", "evidence", "need", "personal", "injury"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "what-evidence-do-i-need-for-a-personal-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This depends on your state's statute of limitations, the legal deadline for filing a personal injury lawsuit. In most states it's between one and three years from the date of the accident, but some exceptions (like claims against government entities) have much shorter deadlines. Don't wait. Evidence fades, witnesses move, memories dim. Start documenting now and consult an attorney soon."
   - q: "What if the other party is trying to destroy or hide evidence?"
     a: "This is called spoliation and it's a serious issue. If you have reason to believe relevant evidence is being tampered with or destroyed, an attorney can file for an emergency preservation order. Do not handle this one yourself. This is exactly the situation where having legal representation makes a concrete, practical difference."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 If you're reading this, you probably just went through something scary. Maybe a few days ago, maybe a few weeks. You're dealing with pain, medical appointments, missed work, and now someone's telling you that you need to gather "evidence" for your claim, and you have no idea where to start or what that even means in practice.

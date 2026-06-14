@@ -6,8 +6,6 @@ description: "Discover proven strategies to negotiate a higher personal injury s
 image: "https://images.pexels.com/photos/5520322/pexels-photo-5520322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["negotiate", "higher", "personal", "injury", "settlement"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "how-to-negotiate-higher-personal-injury-settlement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It varies widely. A straightforward claim might settle in a few months. Complex cases involving serious injuries, surgery, or disputed liability can take a year or more. For a realistic sense of timelines, the breakdown of how long personal injury cases take covers the factors that extend or shorten the process."
   - q: "What if the insurance company stops responding to my letters?"
     a: "Document every attempt at contact. If an insurer is genuinely stonewalling, that's called bad faith, a legal term for an insurer unreasonably refusing to process or negotiate a legitimate claim. Bad faith carries its own legal consequences and is another situation where consulting an attorney becomes urgent, not optional."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You submitted a claim. The insurance adjuster reviewed it, ran it through their system, and sent back a number. It feels official. It looks final. But here's what most people don't know: that first offer is almost never the best offer. In my 12 years adjusting claims, I watched insurance companies routinely open with figures 30 to 50 percent below what they were ultimately authorized to pay. The adjuster isn't trying to be cruel. They're doing their job, which is to close your claim for as little as possible. Your job is to push back, and push back smart.

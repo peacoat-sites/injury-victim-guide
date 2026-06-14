@@ -6,8 +6,6 @@ description: "File a car accident injury claim by documenting the scene, collect
 image: "https://images.pexels.com/photos/8942694/pexels-photo-8942694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["file", "accident", "injury", "claim"]
-author: "Sarah Chen"
-author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "how-to-file-car-accident-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It varies enormously based on injury severity, how quickly you reach maximum medical improvement, whether liability is disputed, and how willing the insurer is to negotiate reasonably. Simple claims with clear fault and healed injuries can settle in a few weeks. Cases involving surgery, permanent injury, or disputed liability can take one to three years or longer if litigation is required. The timeline for personal injury cases has more detail on what drives those differences."
   - q: "What is pain and suffering and how is it calculated?"
     a: "Pain and suffering is a category of 'non-economic damages' covering physical pain, emotional distress, loss of enjoyment of life, and the overall impact of your injuries on daily living. Unlike medical bills, there's no receipt for it, which is why documentation matters so much. Insurers often use a multiplier (applying a number between 1.5 and 5 to your total economic damages) or a per-diem method (assigning a daily dollar value to your suffering for the duration of your recovery). Neither method is legally mandated; they're negotiating frameworks. Strong documentation, objective medical evid"
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 You're sitting in a hospital waiting room, your neck stiff, your car totaled, and your phone buzzing with calls from an insurance adjuster who somehow already knows about your accident. That adjuster is friendly, sympathetic, and asking you to give a recorded statement "just to get the claim moving." Here's what you need to know right now: that call is not on your side. It's the first move in a process that, if you're not careful, can leave you settling for far less than your injuries actually cost.

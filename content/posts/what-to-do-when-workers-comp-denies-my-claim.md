@@ -6,8 +6,6 @@ description: "Find out what steps to take when workers comp denies your claim, i
 image: "https://images.pexels.com/photos/8961034/pexels-photo-8961034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["what", "when", "workers", "comp", "denies"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "what-to-do-when-workers-comp-denies-my-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is more common than most people know, and a denial based on pre-existing condition doesn't automatically hold up. Under a doctrine most states recognize called the 'aggravation rule,' an employer (and their insurer) can be responsible for the portion of your disability caused or worsened by the work injury, even if a pre-existing condition is also involved. You need a doctor who will specifically address how the work event aggravated your condition. This is a medical-legal opinion and your treating physician should be willing to provide one."
   - q: "Should I accept a settlement offer after a denial?"
     a: "Get an attorney before you accept anything. Settlement offers after a contested denial are sometimes fair and sometimes not. A lump-sum settlement typically closes out your claim permanently, meaning if your condition worsens later, you can't go back. That's a significant trade-off that deserves professional evaluation, not a decision you should make because you're exhausted and need the money now."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 Your denial letter arrived on a Tuesday. You probably read it three times trying to find the part where they explain the mistake, because surely this is a mistake. You hurt yourself at work. You reported it. You went to the doctor they sent you to. And now they're telling you no.

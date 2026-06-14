@@ -6,8 +6,6 @@ description: "Discover average traumatic brain injury settlement amounts in 2026
 image: "https://images.pexels.com/photos/7876050/pexels-photo-7876050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["average", "settlement", "traumatic", "brain", "injury"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "average-settlement-for-traumatic-brain-injury-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and this is a significant part of many TBI settlements. Personality changes, depression, anxiety, difficulty with memory and concentration, and strain on personal relationships all fall under the general damage categories of pain and suffering and loss of enjoyment of life. Documenting these changes carefully, through your own records and ideally through mental health treatment, is key to recovering for them."
   - q: "Should I accept the first offer the insurance company makes?"
     a: "Almost never, and certainly not before you've reached maximum medical improvement and had an attorney review the offer. First offers in TBI cases routinely reflect the insurer's best hope, not a fair assessment of damages. This is the part of the process where having experienced legal counsel matters most."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 Nobody can tell you what your traumatic brain injury case is worth. Not me, not a personal injury attorney you found at 2 a.m., not a settlement calculator you stumbled across online. What I *can* tell you is that most of what you'll read about "average TBI settlements" is either dangerously misleading or so vague it's useless -- and after 12 years on the other side of these claims, I think you deserve a more honest picture.

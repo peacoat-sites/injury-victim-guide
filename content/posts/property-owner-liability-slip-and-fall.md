@@ -6,8 +6,6 @@ description: "Find out when property owners are legally liable for slip and fall
 image: "https://images.pexels.com/photos/8469989/pexels-photo-8469989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["property", "owner", "liability", "slip", "fall"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "property-owner-liability-slip-and-fall"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally: medical expenses (past and future), lost wages and lost earning capacity if the injury affects your ability to work, pain and suffering, and in some cases loss of enjoyment of life. In rare cases involving particularly egregious conduct (a property owner who knowingly covered up a dangerous condition, for example), punitive damages may be available. The value of any specific claim depends entirely on the severity of the injury, the strength of the liability evidence, and the jurisdiction."
   - q: "Do I need a lawyer for a slip and fall claim?"
     a: "For minor injuries with quick and full recovery, you may be able to handle a claim directly. For anything involving significant medical treatment, surgery, ongoing symptoms, or time away from work, having an attorney is strongly advisable. Personal injury attorneys who handle slip and fall cases typically work on contingency, meaning you pay nothing unless they recover money for you. Given that insurers have experienced adjusters and lawyers on their side from day one, having professional representation levels the field considerably."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You slipped on a wet floor at a grocery store, caught yourself on a display rack, and felt something pop in your shoulder. The manager handed you an incident report, apologized, and offered you a coupon. Now you're home with a sling, a stack of medical bills, and a growing suspicion that a coupon isn't going to cover a torn rotator cuff. You're right. It won't.

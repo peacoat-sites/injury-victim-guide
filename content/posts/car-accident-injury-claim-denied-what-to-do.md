@@ -6,8 +6,6 @@ description: "Find out what steps to take if your car accident injury claim has 
 image: "https://images.pexels.com/photos/7876150/pexels-photo-7876150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim", "denied", "what"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "car-accident-injury-claim-denied-what-to-do"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can, but it's not automatically decisive. A police report that assigns fault to the other driver is useful evidence, but insurers aren't legally bound by police reports. They conduct their own liability investigations. That said, a police report that directly contradicts the insurer's liability finding is a meaningful piece of your appeal."
   - q: "What if I can't afford an attorney?"
     a: "Most personal injury attorneys take car accident cases on contingency, meaning you pay nothing unless they recover money for you. The fee comes out of the settlement or verdict. This structure exists specifically so that people without resources can access legal representation. A free consultation costs you nothing and gives you information to make a better decision."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You filed the claim. You waited. You did everything they told you to do. And then the letter arrived: *denied*. I've watched this moment land on people like a gut punch, and I want to be honest with you, the denial letter is not the end of the road. Not even close. What most injury claimants don't realize is that insurance companies deny valid claims every single day, sometimes because of a genuine coverage issue, but often because a denial costs them nothing and betting that you'll give up costs them very little. Understanding why your claim was denied, and what you can actually do about it, changes everything.

@@ -6,8 +6,6 @@ description: "Get expert guidance on T-bone accident injury compensation. Learn 
 image: "https://images.pexels.com/photos/8942736/pexels-photo-8942736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["T-bone", "accident", "injury", "compensation"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "t-bone-accident-injury-compensation"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost always, no. First offers are typically low. Insurers know that many injured people are under financial pressure from medical bills and lost wages, and early offers are often made precisely because the insurer hopes you'll take less than your claim is worth before you fully understand your damages. Don't sign anything until you know the full extent of your injuries and have consulted with an attorney."
   - q: "How long do I have to file a claim?"
     a: "The statute of limitations varies by state, typically ranging from one to three years from the date of the accident for a personal injury lawsuit. Separate deadlines can apply if a government entity is involved, and those can be as short as 60 to 180 days for filing a formal notice. Filing the insurance claim itself is a different deadline, governed by your policy. Don't wait. Consult an attorney early so you understand every deadline that applies to your situation."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 You're sitting in your car, or maybe you're already home, and everything happened so fast. One moment you're moving through an intersection, and the next there's an impact you didn't even see coming, a wall of force hitting the side of your door. T-bone collisions, where one vehicle strikes the side of another at roughly a perpendicular angle, are among the most violent crashes on the road. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) consistently shows that side-impact crashes account for a disproportionate share of serious injuries and fatalities compared to other crash types, largely because the door panel offers far less protection than the front or rear of a vehicle. If you're reading this, you might be wondering what your injuries are actually worth, who's responsible, and how to avoid making a costly mistake in the days ahead. Let me walk you through all of it.

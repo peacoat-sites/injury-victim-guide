@@ -6,8 +6,6 @@ description: "Find out if you have a personal injury case. Learn the key factors
 image: "https://images.pexels.com/photos/8112112/pexels-photo-8112112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["have", "personal", "injury", "case"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "do-i-have-a-personal-injury-case"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You may still have options. If you have uninsured motorist (UM) coverage on your own auto policy, that coverage exists specifically for this scenario. It's worth reviewing your own policy carefully. Some states require UM coverage; others allow drivers to opt out. If you don't have it, your options narrow significantly, which is one reason consumer advocates consistently recommend carrying it."
   - q: "Should I accept the first settlement offer?"
     a: "Almost always, no. Insurance companies make early offers precisely because they're usually lower than what a fully documented, well-represented claim would recover. Once you sign a release and accept a settlement, you can't go back and ask for more, even if your injuries turn out to be worse than expected. Before accepting any offer, at least talk to an attorney about whether it's fair."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You're sitting in the hospital waiting room, ice pack on your knee, replaying the moment the grocery store floor sent you sliding across the tile. Or maybe you're home three days after a car accident, realizing the soreness isn't fading like you expected. Either way, the same question is circling in your head: *do I actually have a case, or am I just wasting everyone's time?*

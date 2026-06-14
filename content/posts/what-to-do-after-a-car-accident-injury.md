@@ -6,8 +6,6 @@ description: "Discover essential steps to take after a car accident injury, from
 image: "https://images.pexels.com/photos/6520055/pexels-photo-6520055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["what", "after", "accident", "injury"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "what-to-do-after-a-car-accident-injury"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is extremely common. Whiplash, herniated discs, soft tissue damage, and concussions often don't manifest fully for days or even weeks. This is one of the strongest arguments for seeking medical attention immediately after any accident, even a 'minor' one. Your medical records will show when symptoms were first reported, and that timeline matters."
   - q: "How much is my car accident injury case worth?"
     a: "There's no honest one-size-fits-all answer, and anyone who gives you a number without reviewing your specific facts is guessing. Settlement values depend on the severity of your injury, your medical costs, lost income, your state's laws, and the available insurance coverage. For a broader picture of how these figures are determined, this overview of how personal injury settlements work is a solid place to start."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You're sitting in a crumpled car on the side of the highway. Your hands are shaking. Someone just rear-ended you at 45 mph, and your neck already feels wrong. In the next 60 minutes, you'll make decisions that could either protect your health and your legal rights or quietly destroy both. Most people have no idea what those decisions are. I spent 12 years on the insurance side watching injury victims make the same costly mistakes over and over, and I switched careers specifically to help people avoid them.

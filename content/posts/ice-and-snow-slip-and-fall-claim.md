@@ -6,8 +6,6 @@ description: "Injured in an ice or snow slip and fall accident? Find out how to 
 image: "https://images.pexels.com/photos/4341/sign-slippery-wet-caution.jpg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["snow", "slip", "fall", "claim"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "ice-and-snow-slip-and-fall-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Read it very carefully before you sign anything. You're generally fine signing a report that accurately documents the basic facts of the fall, where it happened, when, and that you reported it. You should not sign anything that includes language releasing the business from liability, accepting any fault, or characterizing your injuries as minor. If anything feels off, politely decline to sign until you've had a chance to review it."
   - q: "Do I need an attorney for a slip and fall claim?"
     a: "Not always, but often the answer is yes, especially if your injuries required medical treatment beyond a basic ER visit, if you missed work, or if liability is disputed. Personal injury attorneys in these cases typically work on a contingency fee, meaning they only get paid if you recover compensation. The initial consultation is almost always free. A claim that seems straightforward can get complicated quickly, and having someone who understands how insurers operate on your side is worth the conversation."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You walked across that parking lot a hundred times before. Then one morning, under a thin glaze of ice that looked like nothing more than wet pavement, your feet went out and the ground came up fast. Maybe you grabbed for something that wasn't there. Maybe you don't even remember the fall itself, just the sudden shock of cold pavement and the slow realization that something was wrong. If that's where you are right now, or if it happened recently and you're still sorting out what to do, you're in the right place. According to [the CDC's injury data](https://www.cdc.gov/injury/wisqars/), falls are the leading cause of nonfatal injuries treated in emergency rooms in the United States, and winter slips on ice and snow account for a significant portion of those visits every single year. That number isn't abstract when you're the one who fell.

@@ -6,8 +6,6 @@ description: "Permanent Disability Settlement Amounts: Learn how settlements are
 image: "https://images.pexels.com/photos/6077326/pexels-photo-6077326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Settlement Values"]
 tags: ["permanent", "disability", "settlement", "amounts"]
-author: "Sarah Chen"
-author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "permanent-disability-settlement-amounts"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is extremely common. Insurance-appointed physicians conducting IMEs sometimes reach conclusions that favor the insurer. Their opinions aren't automatically controlling. Your own treating physician's records and opinions carry real weight, especially if you've been a consistent patient over time. Disputed disability ratings often get resolved through negotiation, additional medical opinions, or, in litigation, through testimony before a judge or jury. According to Nolo's personal injury resources, having strong contemporaneous medical records is one of the most effective tools for counteri"
   - q: "How long does a permanent disability settlement take?"
     a: "Cases involving permanent disabilities tend to take longer than straightforward injury claims, because you need to reach MMI first, gather expert opinions on future losses, and often fight harder against lowball offers. A relatively straightforward case might resolve in 12 to 18 months. Complex cases involving catastrophic injuries, disputed liability, or large dollar amounts can take two to four years or longer if they go to trial. Understanding how long personal injury cases take and what drives those timelines helps you plan accordingly."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 Imagine you're 38 years old, a plumber who's spent 15 years building a business, and a distracted driver runs a red light and crushes your dominant hand. Surgery. Physical therapy. Six months later, your doctor delivers the news you've been dreading: permanent partial disability. You'll never grip a pipe wrench the same way again. Your career as you knew it is over. Now the insurance adjuster calls with a settlement offer. How do you know if it's fair? How do you even know what "fair" looks like when the injury is going to affect you for the next 30 years? That question is exactly what this article is built to answer.

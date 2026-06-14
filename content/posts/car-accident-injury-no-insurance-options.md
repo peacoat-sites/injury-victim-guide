@@ -6,8 +6,6 @@ description: "Car accident injury without insurance? Learn your legal options, c
 image: "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "insurance", "options"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "car-accident-injury-no-insurance-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Every state has a statute of limitations for personal injury claims, typically between one and three years from the date of the accident. Missing this deadline almost certainly bars you from recovering anything. Don't assume you have more time than you do. UM claims with your own insurer also have policy-specific reporting deadlines that can be much shorter. Act promptly."
   - q: "What if my injuries are still developing and I don't know the full extent of the damage yet?"
     a: "Don't settle anything before you've reached what doctors call 'maximum medical improvement,' the point where your condition has stabilized and your care team can give a realistic long-term prognosis. Settling too early locks in a number that may not account for future surgeries, ongoing therapy, or permanent limitations. This is another reason why having an attorney review your case before you sign anything is genuinely valuable. For a deeper look at this, how personal injury settlements work explains the process from demand to final resolution."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You get rear-ended at a red light. The other driver gets out, looks at the damage, and then says three words that make your stomach drop: "I don't have insurance." You're hurt, your car is damaged, and suddenly everything you thought you knew about how this works goes out the window. It's a nightmare scenario, but it happens more often than most people realize. According to the Insurance Research Council, roughly 1 in 8 drivers on American roads is uninsured. In some states, that number climbs closer to 1 in 4.

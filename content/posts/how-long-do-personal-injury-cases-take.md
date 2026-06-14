@@ -6,8 +6,6 @@ description: "Find out how long personal injury cases typically take to settle o
 image: "https://images.pexels.com/photos/20101881/pexels-photo-20101881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["long", "personal", "injury", "cases", "take"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "how-long-do-personal-injury-cases-take"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Possibly, but you need to check your state's statute of limitations immediately. Many states allow two or three years, so you may still be within the window. Some states allow only one year for certain claims. Contact a personal injury attorney as soon as possible if you're concerned about timing. Don't assume you're too late until you've confirmed the deadline for your specific state and type of claim."
   - q: "Why do insurance companies take so long to respond?"
     a: "Some of it is genuinely workload. But some of it is strategy. Delay is a documented tactic used to pressure claimants into accepting lower settlements out of financial desperation. If you're not represented by an attorney, adjusters may be less responsive because there's less urgency. Sending written follow-ups (email creates a paper trail), documenting every interaction, and having an attorney send demand correspondence can move things along."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You filed the insurance claim two weeks ago. The adjuster has gone quiet. Your medical bills are stacking up, your car still isn't fixed, and someone told you these cases "can take years." Is that true? Sometimes, yes. But a minor rear-end collision with clear liability and a few thousand dollars in damages might settle in six to eight weeks. A complex case involving a traumatic brain injury, disputed fault, and multiple defendants can stretch three to five years. The range is that wide, and understanding what drives it can help you make smarter decisions right now.

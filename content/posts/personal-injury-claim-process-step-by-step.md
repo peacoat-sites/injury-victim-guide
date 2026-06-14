@@ -6,8 +6,6 @@ description: "Learn how the personal injury claim process works step by step, fr
 image: "https://images.pexels.com/photos/7731332/pexels-photo-7731332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "claim", "process", "step"]
-author: "Michael Torres"
-author_bio: "Legal educator and personal injury claims consultant. Writes to help everyday people navigate the system."
 slug: "personal-injury-claim-process-step-by-step"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A release is the document that formally ends your claim in exchange for the settlement payment. Once you sign it, you cannot go back and ask for more money, even if your injuries turn out to be worse than expected. This is why settling before you've reached maximum medical improvement is so risky. Read any release carefully and make sure you understand every word before you sign."
   - q: "Can I handle my personal injury claim without an attorney?"
     a: "Yes, and for minor claims it may make sense. If your injuries were minor, treatment is complete, and the insurance company is offering what seems fair, you may not need representation. But be realistic about what you don't know. Insurance adjusters handle hundreds of claims a year. Most injured people handle one in a lifetime. For any claim involving significant injury, surgery, disability, lost wages, or disputed liability, having professional representation typically results in a better outcome, even after deducting attorney fees."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You wake up in a hospital bed after a car accident that wasn't your fault. A nurse hands you paperwork. Your phone has fourteen missed calls. Somewhere across town, an insurance adjuster is already opening a new claim file with your name on it. That adjuster's job, and I say this having done it for twelve years, is to close your file for as little money as possible. Your job is to understand what comes next before you make a single move that could hurt you.

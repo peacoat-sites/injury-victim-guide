@@ -6,8 +6,6 @@ description: "Learn how to document injuries for an insurance claim with our ste
 image: "https://images.pexels.com/photos/7821686/pexels-photo-7821686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Evidence and Documentation"]
 tags: ["document", "injury", "insurance", "claim"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-document-injury-for-insurance-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and badly. Photos of you at a birthday party two weeks after claiming you can't walk will get screenshotted and used against you. Insurance companies routinely check social media. This doesn't mean you have to disappear online, but be thoughtful. Avoid posts that contradict your injury claims, and don't discuss your case publicly."
   - q: "Should I hire an attorney to help with documentation?"
     a: "An attorney can't document your daily experience for you, but they can tell you exactly what evidence will matter most for your specific claim, help you avoid common documentation mistakes, and make sure you're not signing away rights accidentally. Most personal injury attorneys work on contingency (meaning they only get paid if you win) and offer free initial consultations. There's little downside to talking to one early."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 Most people assume that going to the hospital after an accident is enough. The insurance company will get the records, the doctors will write things down, and the claim will sort itself out. I believed that too, back when I was on the other side of the table. Then I spent 12 years as an insurance adjuster watching legitimate claims get reduced or denied because the medical documentation told a vague, incomplete story. The injury was real. The suffering was real. But the paper trail looked like Swiss cheese, and that gap was all the adjuster needed to justify a lower offer. What surprised me most wasn't the dishonest claims we flagged. It was how often honest people with serious injuries simply didn't know how to document what had happened to them.

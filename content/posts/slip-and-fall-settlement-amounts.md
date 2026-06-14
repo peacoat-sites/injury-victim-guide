@@ -6,8 +6,6 @@ description: "Find out what slip and fall settlement amounts look like, what fac
 image: "https://images.pexels.com/photos/4386473/pexels-photo-4386473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["slip", "fall", "settlement", "amounts"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "slip-and-fall-settlement-amounts"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, no. You're typically required to cooperate with your own insurance company. You are not required to give a recorded statement to the at-fault party's insurer, and I strongly recommend against it before you've spoken with an attorney. Adjusters are trained to ask questions in ways that elicit statements they can use to reduce or deny your claim. A polite 'I'll have my attorney be in touch' is a complete and appropriate response."
   - q: "What documents should I keep from the very beginning?"
     a: "Keep everything: the incident report, photos of the scene and your injuries, medical records and bills, prescription receipts, correspondence with the property owner or their insurer, records of missed work, and any written statements from witnesses. A medical records organizer, available at office supply stores or on Amazon (this site may earn a commission), can help you keep everything in one place from day one. Organization isn't glamorous, but I've watched well-documented cases settle for multiples of what poorly documented cases of similar severity received."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You're standing in the grocery store parking lot, soaking wet from a broken drainage pipe nobody bothered to fix, your ankle throbbing in a way that tells you something is seriously wrong. A store employee hands you an incident report form, and somewhere in the back of your mind you're already wondering: what is this actually worth? I've spent more than two decades watching that question get answered badly, first from the insurance side where I helped companies pay as little as possible, and now from the side of people who deserve fair compensation. The number that shows up on a settlement check varies wildly, and understanding why is the most useful thing you can do right now.

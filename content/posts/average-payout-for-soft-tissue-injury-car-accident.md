@@ -6,8 +6,6 @@ description: "Discover the average payout for soft tissue injury car accidents, 
 image: "https://images.pexels.com/photos/7841466/pexels-photo-7841466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["average", "payout", "soft", "tissue", "injury"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "average-payout-for-soft-tissue-injury-car-accident"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Pain and suffering (technically called general or non-economic damages) compensates you for the physical pain, emotional distress, and reduced quality of life caused by your injury. There's no fixed formula. Insurers use multiplier methods or per diem calculations (assigning a daily dollar value for each day you suffered). It's the most negotiable component of a soft tissue claim."
   - q: "Should I give a recorded statement to the other driver's insurance?"
     a: "You're generally not legally required to give a recorded statement to the at-fault driver's insurer (your own policy may have different requirements). Most attorneys advise against it before you've consulted with someone, because off-the-cuff answers to carefully worded questions can create inconsistencies that hurt your claim later."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 Nobody can tell you what your soft tissue injury is "worth." Not me, not a settlement calculator, not the adjuster who calls you three days after the crash with a number that sounds surprisingly reasonable. I'll be honest: I spent over a decade on the insurance side helping set those numbers, and the whole framing of "average payout" is something the industry quietly benefits from you believing in.

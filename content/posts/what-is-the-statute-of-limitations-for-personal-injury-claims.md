@@ -6,8 +6,6 @@ description: "Discover how long you have to file a personal injury claim. Learn 
 image: "https://images.pexels.com/photos/5673479/pexels-photo-5673479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["what", "statute", "limitations", "personal", "injury"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "what-is-the-statute-of-limitations-for-personal-injury-claims"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and the deadline is often different from the general personal injury deadline. Most states have a separate wrongful death statute, and the clock typically starts from the date of death, not the date of the underlying injury. A few states start it from the date the injury occurred, which can be earlier. If you've lost someone and are still grieving, I know this feels like the last thing you want to think about. But waiting can cost the family everything."
   - q: "What if the person who injured me died or went bankrupt?"
     a: "These situations complicate things but don't necessarily end your claim. If they had insurance, you may be able to pursue the claim through their insurer. If they died, you may be able to file against their estate. Bankruptcy triggers an automatic stay that might pause your ability to sue, but there are procedures for injury creditors within bankruptcy proceedings. This is one situation where you genuinely need a professional to sort out your specific options quickly, because the timelines can get compressed fast."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 Three years. That's the number I hear most often when people ask about deadlines for injury claims. And honestly? Three years lulls people into a dangerous sense of comfort, because in a lot of states the real deadline is two years, and in some situations it can be as short as six months.

@@ -6,8 +6,6 @@ description: "Learn how catastrophic injury lawsuits work, from filing a claim t
 image: "https://images.pexels.com/photos/7876289/pexels-photo-7876289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["catastrophic", "injury", "lawsuit", "process"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "catastrophic-injury-lawsuit-process"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost all personal injury attorneys, including those handling catastrophic cases, work on contingency. That means no upfront fees. They take a percentage of the recovery, typically 33% to 40% depending on whether the case settles or goes to trial, and state rules on fee caps. Case expenses, which can be substantial in catastrophic cases given the expert witnesses required, are usually advanced by the firm and reimbursed from the settlement. Make sure you understand the fee agreement before signing."
   - q: "Should I accept the insurance company's first offer?"
     a: "In a catastrophic injury case? Almost certainly not. First offers in serious cases are routinely structured to close the claim before the full cost picture is established. I watched this happen from the inside for over a decade. The first offer is a starting point for negotiation, not a fair assessment. The only way to know whether any offer is reasonable is to have a complete damages analysis done first, which requires medical stabilization and expert review. A knowledgeable attorney will tell you immediately if an offer is even in the ballpark."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 You're sitting in a hospital room, three weeks after a construction crane dropped a steel beam on your spouse's car. The bills are already past $200,000. The insurance adjuster called yesterday, friendly as a neighbor, offering a settlement that won't cover next year's care, let alone the next decade. You have no idea what you're supposed to do next. And every article you've found online either reads like a law school textbook or a billboard ad.

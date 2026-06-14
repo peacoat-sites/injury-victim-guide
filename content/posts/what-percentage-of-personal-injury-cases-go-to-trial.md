@@ -6,8 +6,6 @@ description: "Discover what percentage of personal injury cases actually go to t
 image: "https://images.pexels.com/photos/7876199/pexels-photo-7876199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Case Outcomes"]
 tags: ["what", "percentage", "personal", "injury", "cases"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "what-percentage-of-personal-injury-cases-go-to-trial"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Mediation is a structured negotiation session with a neutral third party, usually a retired judge or experienced attorney, who helps both sides find common ground. It's not binding -- you don't have to accept anything. It's genuinely effective: success rates in civil personal injury mediation run around 70-80%, meaning most cases that reach mediation resolve there rather than proceeding to trial."
   - q: "If I turn down a settlement and lose at trial, do I owe money?"
     a: "Typically, you won't owe the defendant's legal fees just for losing -- the U.S. system generally doesn't shift attorney fees to the losing party the way some countries do. However, you will be responsible for your own side's litigation costs, which your attorney may have advanced. If your attorney worked on contingency, review your fee agreement carefully to understand who bears litigation expenses in a zero verdict."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 Most people who file personal injury claims picture a dramatic courtroom showdown. They imagine cross-examining the other driver, watching a jury deliberate, hearing a verdict read aloud. It almost never happens that way.

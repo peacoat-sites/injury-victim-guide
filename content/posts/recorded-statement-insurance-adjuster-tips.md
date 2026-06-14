@@ -6,8 +6,6 @@ description: "Learn how to handle a recorded statement with an insurance adjuste
 image: "https://images.pexels.com/photos/5668798/pexels-photo-5668798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["recorded", "statement", "insurance", "adjuster", "tips"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "recorded-statement-insurance-adjuster-tips"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There's no universal deadline, but adjusters often try to contact you quickly, sometimes within days, before you've had time to consult an attorney or understand the extent of your injuries. Early contact is strategic, not necessarily urgent from a claims-processing standpoint."
   - q: "Will refusing a recorded statement hurt my claim?"
     a: "The research here is mixed and honestly depends on the carrier, the adjuster, and the circumstances. Some claims proceed fine without a recorded statement. Others stall. An attorney can help you weigh this based on your specific situation, which is another good reason to consult one early."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 The call takes less than ten minutes. And it can cost you tens of thousands of dollars.

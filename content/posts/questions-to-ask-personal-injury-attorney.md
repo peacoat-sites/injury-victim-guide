@@ -6,8 +6,6 @@ description: "Discover the essential questions to ask a personal injury attorney
 image: "https://images.pexels.com/photos/7876295/pexels-photo-7876295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding an Attorney"]
 tags: ["questions", "personal", "injury", "attorney"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "questions-to-ask-personal-injury-attorney"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. You always have the right to change representation. The complication is that your original attorney may place a lien on your eventual settlement for the work they performed. Before switching, talk to the new attorney about how that lien would be handled."
   - q: "What should I bring to a first consultation with a personal injury attorney?"
     a: "Bring everything you have: police or accident reports, medical records and bills, photos of injuries and the accident scene, insurance correspondence, your own written account of what happened, and any documentation of lost wages. The more a lawyer can see upfront, the more useful their assessment will be."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 Most people walk into a first consultation with a personal injury attorney and ask exactly one useful question: "Do I have a case?" That's not enough. Not even close.

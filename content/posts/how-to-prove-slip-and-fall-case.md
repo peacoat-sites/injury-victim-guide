@@ -6,8 +6,6 @@ description: "Learn how to prove a slip and fall case with key evidence, witness
 image: "https://images.pexels.com/photos/9521952/pexels-photo-9521952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["prove", "slip", "fall", "case"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-prove-slip-and-fall-case"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "I won't give you a number, because the honest answer is: it depends on too many factors to generalize. The severity and permanence of your injuries, your lost income, the strength of your evidence, your share of fault, and the policy limits of the property owner's insurance all play a role. Anyone who quotes you a specific dollar figure before reviewing your actual medical records and case details is guessing."
   - q: "Do I really need a lawyer for a slip and fall case?"
     a: "For minor injuries where you've fully recovered, you might handle a small claim yourself. But for anything involving significant medical treatment, time off work, or lasting effects, an attorney almost always improves your outcome. Studies consistently show that represented claimants receive higher settlements on average, even after attorney fees. Most personal injury attorneys work on contingency, so there's no upfront cost."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 Most people who slip and fall on someone else's property walk away thinking they have an obvious case. The floor was wet. There was no sign. They fell. What's complicated about that? What surprises them, sometimes weeks later when they're deep in a dispute with an insurance adjuster, is that "I fell" and "someone is legally responsible for my fall" are two completely different things. I've seen genuinely injured people get nothing because they couldn't connect those dots. And I've seen cases that looked shaky on the surface result in fair compensation because the injured person understood what actually needed to be proven.

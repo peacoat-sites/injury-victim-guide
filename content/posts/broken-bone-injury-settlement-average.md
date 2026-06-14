@@ -6,8 +6,6 @@ description: "Find out the average settlement for broken bone injuries. Learn wh
 image: "https://images.pexels.com/photos/5723885/pexels-photo-5723885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["broken", "bone", "injury", "settlement", "average"]
-author: "Michael Torres"
-author_bio: "Legal educator and personal injury claims consultant. Writes to help everyday people navigate the system."
 slug: "broken-bone-injury-settlement-average"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You're still entitled to compensation. The legal concept that applies here is the 'eggshell plaintiff' rule: defendants take you as they find you. If your bone was weakened by osteoporosis and a fall that might cause a minor injury in a healthier person caused a severe fracture in you, that's still a compensable injury. The challenge is proving causation clearly, which makes medical documentation even more critical."
   - q: "Do I need an attorney for a broken bone claim?"
     a: "For minor fractures with small medical bills and clear liability, some people successfully handle their own claims. But for anything involving surgery, significant lost wages, permanent hardware, lasting pain, or disputed fault, having legal representation almost always makes financial sense. Personal injury attorneys who handle these cases charge contingency fees, typically 33 percent pre-litigation and higher if the case goes to trial. Even after that fee, represented claimants typically recover more than unrepresented ones on comparable injuries."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You just got the call from the insurance adjuster. Your arm is still in a cast, the hospital bills are piling up on the kitchen table, and this person on the phone is throwing out a number that sounds like it might be fair, but you honestly have no idea. That moment, right there, is exactly why understanding broken bone settlements matters before you need the information, not after.

@@ -6,8 +6,6 @@ description: "Calculate pain and suffering damages using proven formulas. Learn 
 image: "https://images.pexels.com/photos/7298881/pexels-photo-7298881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["pain", "suffering", "calculation", "formula"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "pain-and-suffering-calculation-formula"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you're found partially at fault, most states reduce your total damages by your percentage of fault. In a pure comparative negligence state, you can recover even if you're 99% at fault (though your recovery is minimal). In a modified comparative negligence state, you're typically barred from recovery if you're 50% or 51% or more at fault, depending on the state. Check your state's specific rules."
   - q: "What if the insurance company uses software to calculate my damages?"
     a: "Many large insurers use programs like Colossus to generate settlement ranges. These systems weigh coded inputs from your medical records and apply internal multipliers. The problem is that the output is only as good as the data entered, and adjusters often enter conservative values. An attorney familiar with these systems can identify when a software-generated offer undervalues your claim."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You're lying in a hospital bed three days after a rear-end collision, and someone from the insurance company calls to tell you they're prepared to offer a settlement. The number sounds reasonable at first. Then you realize they've only accounted for your medical bills. Nothing for the six weeks you couldn't pick up your kids, the sleep you lost, or the anxiety that hits every time you get behind the wheel. That gap between what they offered and what you actually suffered? That's what pain and suffering damages are supposed to fill, and understanding how those numbers get calculated can mean the difference between accepting a check that barely covers your losses and walking away with something that actually reflects what you've been through.

@@ -6,8 +6,6 @@ description: "Learn what soft tissue injury settlement amounts typically look li
 image: "https://images.pexels.com/photos/8219158/pexels-photo-8219158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["soft", "tissue", "injury", "settlement", "amounts"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "soft-tissue-injury-settlement-amounts"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily, and don't let an adjuster convince you it does. The legal standard in most states is the 'eggshell plaintiff' rule: defendants must take you as they find you. If you had a prior neck injury and the accident aggravated or accelerated that condition, you're entitled to compensation for the aggravation. The challenge is documenting the difference between your baseline before the accident and your condition after, which is another reason medical records from before and after the incident matter so much."
   - q: "Will my claim be worth less if I didn't go to the hospital right away?"
     a: "It makes things harder, but it doesn't necessarily destroy your claim. You'll need a compelling explanation for the gap, and it should be honest. Many people genuinely don't feel hurt immediately after an accident. What matters is what you do once symptoms appear: seek treatment promptly, be consistent, and document everything from that point forward."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You walked away from the accident feeling fine. Maybe a little shaken, a little stiff. By morning your neck ached, your shoulder was screaming, and you couldn't turn your head to check your blind spot. The ER diagnosed you with a cervical strain, which is just a medical way of saying your neck's soft tissues got wrenched. No broken bones, no visible damage on the X-ray. And right there is the problem: insurance adjusters know that "nothing broke" is an easy story to tell a jury, which is exactly why soft tissue injury claims are among the most fought-over in personal injury law.

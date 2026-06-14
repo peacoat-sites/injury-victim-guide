@@ -6,8 +6,6 @@ description: "Learn what bad faith insurance claims are, how to identify unfair 
 image: "https://images.pexels.com/photos/7876300/pexels-photo-7876300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["faith", "insurance", "claim", "explained"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "bad-faith-insurance-claim-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The statute of limitations (the legal deadline to file) varies by state and sometimes by the type of bad faith claim. It's often between two and four years from when the bad faith conduct occurred, but don't rely on that range for your situation. Talk to an attorney sooner rather than later, because waiting rarely helps you."
   - q: "What if the insurer was just slow and disorganized, not deliberately acting in bad faith?"
     a: "Intent matters, but it's not always required. Many state bad faith statutes impose liability for unreasonable conduct regardless of whether the insurer intended to harm you. Systemic incompetence that results in your claim being mishandled can still be actionable. The question is whether the conduct was reasonable, not whether someone had evil intent."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 Most people filing an insurance claim assume the worst that can happen is a low settlement offer they'll have to haggle over. That assumption has cost a lot of injured people a lot of money.

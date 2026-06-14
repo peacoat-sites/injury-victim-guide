@@ -6,8 +6,6 @@ description: "Unsure whether to choose a structured settlement or lump sum after
 image: "https://images.pexels.com/photos/7876086/pexels-photo-7876086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Case Outcomes"]
 tags: ["structured", "settlement", "lump", "injury"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "structured-settlement-vs-lump-sum-injury"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and specifically a fee-only advisor, meaning one who charges a flat fee or hourly rate rather than earning commissions on products. Ask about your state's bar association for referrals to attorneys who work with settlement planning specialists. The few hundred dollars you spend on independent financial advice before signing can be worth far more than that."
   - q: "Is a lump sum better for someone with ongoing medical needs?"
     a: "Not necessarily, and this is where I'd actually caution against the lump sum assumption. If your injuries are permanent and your medical costs are predictable and long-term, a structured settlement can be designed to mirror those costs precisely. The risk with a lump sum in that scenario is that the money gets spent, mismanaged, or eroded by market downturns right when you need it most for medical care. The structure removes that risk."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 *I've watched people cry in my office over a decision they made three years earlier.* Not because they were cheated, exactly. Because nobody sat down with them and explained what they were actually choosing between before they signed.

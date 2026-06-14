@@ -6,8 +6,6 @@ description: "Discover what factors affect amputation injury settlement amounts,
 image: "https://images.pexels.com/photos/7876040/pexels-photo-7876040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["amputation", "injury", "settlement", "amount"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "amputation-injury-settlement-amount"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost never, especially in an amputation case. First offers in catastrophic injury cases are typically far below the full value of the claim, and they're sometimes made before the full extent of future medical needs is clear. Have an attorney review any offer before responding."
   - q: "Does the type of accident affect how much I can recover?"
     a: "Yes, significantly. Workers' compensation claims are generally capped under state statutory schedules and don't include pain and suffering damages, while third-party personal injury claims (against a negligent driver, manufacturer, or property owner) allow for a much broader range of damages. If your workplace amputation involved defective equipment, you may have both a workers' comp claim and a product liability claim running simultaneously, which can substantially increase your total recovery."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 Most people I talk to after a catastrophic injury have already made at least one serious mistake with their claim before they ever call an attorney. They've given a recorded statement to the insurance adjuster. They've accepted a quick "goodwill" payment that quietly released part of their claim. They've posted a photo on Instagram trying to prove they're coping okay.

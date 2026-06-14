@@ -6,8 +6,6 @@ description: "Unsure whether to file a personal injury lawsuit or accept a settl
 image: "https://images.pexels.com/photos/8112201/pexels-photo-8112201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "lawsuit", "settlement"]
-author: "Sarah Chen"
-author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "personal-injury-lawsuit-vs-settlement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Under a contingency fee agreement, your attorney gets paid a percentage of your recovery, typically 33% if the case settles before trial, and often 40% or higher if it goes to trial. If you recover nothing, you owe no attorney's fee, though you may still be responsible for case expenses like filing fees and expert witness costs. Always ask about both the fee percentage and how expenses are handled."
   - q: "Should I accept the insurance company's first offer?"
     a: "In most cases, the answer is no, at least not without having the offer reviewed by an attorney who understands your full medical picture. First offers are often initial negotiating positions, not final ones. That said, there are situations where a first offer is genuinely fair, particularly in clear-cut cases with limited damages. The key is knowing the difference, which is hard to do without professional guidance."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 You're sitting in a hospital bed, arm in a cast, replaying the moment a distracted driver ran a red light and changed your life in seconds. The insurance adjuster calls within 48 hours, friendly as a neighbor, offering you a check that sounds significant until you realize you haven't even seen a specialist yet. Do you take it? Do you sue? Most injury victims have no idea how different those two paths really are, and choosing the wrong one too fast can cost you far more than the accident itself.

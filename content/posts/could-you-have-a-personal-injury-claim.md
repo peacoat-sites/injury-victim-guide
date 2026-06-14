@@ -6,6 +6,11 @@ description: "A free 7-question self-reflection quiz to explore whether your sit
 slug: "could-you-have-a-personal-injury-claim"
 date: 2026-05-27T10:00:00+00:00
 tags: ["personal injury", "injury claims", "self-assessment quiz", "accident recovery", "legal education"]
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 After an accident or injury, it is hard to know whether what happened to you is just bad luck or something that might actually support a legal claim. The questions swirl fast: Was someone else at fault? Did I wait too long? Is it even worth looking into?

@@ -6,8 +6,6 @@ description: "Learn how to make a pedestrian accident injury claim, what compens
 image: "https://images.pexels.com/photos/17286517/pexels-photo-17286517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Other Injury Types"]
 tags: ["pedestrian", "accident", "injury", "claim"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "pedestrian-accident-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This doesn't automatically eliminate your claim. Most states use comparative fault rules, meaning your compensation is reduced by your percentage of fault. If you were 20% at fault and your damages are $100,000, you might recover $80,000. A smaller number of states use contributory negligence, which can bar recovery if you're even slightly at fault. Knowing your state's rule matters enormously. Don't assume you have no case because you weren't in a crosswalk."
   - q: "How long does a pedestrian accident claim typically take to resolve?"
     a: "It depends heavily on the severity of injuries, how quickly you reach maximum medical improvement, and how cooperative the insurer is. Minor claims with clear liability can resolve in a few months. Cases involving serious injuries, disputed fault, or litigation can take one to three years or longer. The pressure you'll feel to settle quickly is real, and it's almost always in the insurer's interest, not yours, to close the claim fast."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You're walking home from the grocery store, arms full of bags, crossing at a marked crosswalk with the walk signal in your favor. A driver runs the light, clips you, and suddenly you're on the pavement. The driver gets out, apologizes profusely, says their insurance will "take care of everything." Three weeks later you're dealing with a fractured ankle, mounting medical bills, and an insurance adjuster offering you $1,800 to sign away all your rights. That scenario plays out thousands of times every year across the country, and I've seen it from both sides of the table.

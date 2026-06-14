@@ -6,8 +6,6 @@ description: "Find out if your personal injury settlement is taxable. Learn whic
 image: "https://images.pexels.com/photos/8112153/pexels-photo-8112153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Case Outcomes"]
 tags: ["personal", "injury", "settlement", "taxable"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "is-personal-injury-settlement-taxable"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Workers' compensation payments received under a workers' comp statute are specifically excluded from taxable income under IRC Section 104(a)(1). This is a separate exclusion from the personal injury one, but the result is the same: not taxable."
   - q: "Can the defendant's insurance company issue a 1099 for the full settlement even if it's not taxable?"
     a: "Yes, and this happens regularly. A 1099 is a reporting document, not a tax bill. The payer often doesn't know, or doesn't make the determination about, the taxability of what they're paying. You address this on your own return using the appropriate IRS exclusion."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 Most people assume a personal injury settlement is basically free money, tax-wise. Walk away with $200,000, keep $200,000. I'll be honest: that assumption is mostly right, but the "mostly" part is where people get hurt twice.

@@ -6,8 +6,6 @@ description: "Find out how insurance companies calculate settlements, including 
 image: "https://images.pexels.com/photos/6919757/pexels-photo-6919757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["insurance", "companies", "calculate", "settlements"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "how-insurance-companies-calculate-settlements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Pre-existing conditions are a complication, not a disqualifier. Under a legal doctrine called the 'eggshell plaintiff' rule, defendants are required to take injured people as they find them. If you had a degenerative disc condition that was asymptomatic before the accident, and the accident caused that condition to become painful and debilitating, you're entitled to compensation for the aggravation. The key is thorough documentation showing the difference between your baseline health before the accident and your condition afterward."
   - q: "Should I give a recorded statement to the insurance company?"
     a: "Be very careful here. You're typically required to cooperate with your own insurer under the terms of your policy, but you're generally not legally obligated to give a recorded statement to the other driver's insurance company. Adjusters are trained interviewers, and they ask questions designed to elicit statements that can later reduce your claim. Phrases like 'I'm doing okay' or 'I didn't see them coming' can be used against you. If you're represented by an attorney, all communications typically go through them. If you're not yet represented and the other insurer is pushing for a recorded st"
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You filed a claim after a rear-end collision left you with whiplash, a totaled car, and three weeks of missed work. The other driver was clearly at fault. So why did the insurance company just offer you $4,200 when your medical bills alone are $6,800? That gap isn't an accident. It's math, and it's deliberate. Understanding the formula behind that offer is the first step to knowing whether you should take it, negotiate it, or get a lawyer involved.

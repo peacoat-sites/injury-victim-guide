@@ -6,8 +6,6 @@ description: "If you receive a lowball settlement offer, learn your rights and s
 image: "https://images.pexels.com/photos/7841822/pexels-photo-7841822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["lowball", "settlement", "offer", "what"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "lowball-settlement-offer-what-to-do"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It varies enormously depending on injury severity, how quickly you reach maximum medical improvement, and how cooperative the insurer is. Simple claims can resolve in a few months. Complex ones can stretch to two years or more. For a realistic timeline based on injury type, understanding how long personal injury cases typically take helps set expectations."
   - q: "What if I already accepted a lowball offer?"
     a: "In most cases, once you've signed a release and cashed the check, it's over. That's exactly why insurers move quickly. There are rare exceptions, such as fraud or duress, but they're legally difficult to prove. If you signed recently and haven't cashed the check, contact an attorney immediately. If the settlement check is already cashed and the release is signed, your options are extremely limited."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You open the envelope, and the number staring back at you is insultingly small. Maybe you've been out of work for six weeks, you've got $14,000 in medical bills, and the insurance company is offering you $3,500 to go away. That's not a negotiation. That's a test. They're checking whether you know what your claim is actually worth, or whether you'll just take the money and sign the release.

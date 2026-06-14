@@ -6,8 +6,6 @@ description: "Injured your neck in a car accident? Learn what affects settlement
 image: "https://images.pexels.com/photos/7298634/pexels-photo-7298634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["neck", "injury", "settlement", "accident"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "neck-injury-settlement-car-accident"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A release is a legal document you sign when you accept a settlement. It permanently closes your claim. Once signed, you cannot ask for more money if your injury worsens, requires additional surgery, or causes problems years later. Never sign a release before you fully understand your diagnosis, prognosis, and the total value of your damages."
   - q: "Does fault matter if I live in a no-fault state?"
     a: "Yes, but differently. No-fault states require you to go through your own insurer for medical expenses and lost wages up to your policy's PIP (Personal Injury Protection) limits, regardless of who caused the crash. However, most no-fault states still allow you to step outside the no-fault system and sue the at-fault driver when your injuries meet a certain threshold of severity. If you're in a no-fault state, understanding your PIP coverage and that threshold is essential."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 You're sitting in a parking lot, heart still racing, and the back of your neck is already starting to tighten. The other driver is apologetic. You feel mostly okay, so you wave it off, exchange insurance information, and drive home. Three days later, you can't turn your head without a sharp, shooting pain that wakes you up at 2 a.m. What happens next, and what is that injury actually worth to an insurance company? Those two questions are what this article is really about.

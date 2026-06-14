@@ -6,8 +6,6 @@ description: "Learn how medical bills are handled in personal injury settlements
 image: "https://images.pexels.com/photos/7841456/pexels-photo-7841456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Evidence and Documentation"]
 tags: ["medical", "bills", "personal", "injury", "settlement"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "medical-bills-personal-injury-settlement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Medicare's right to recovery under federal law is not optional, and ignoring it can result in serious legal consequences for both you and your attorney. That said, the amount Medicare claims can sometimes be reduced, particularly if the settlement is less than the full value of your losses. Your attorney should be handling this directly with Medicare."
   - q: "Does taking a settlement mean I can't get more money later if my injuries get worse?"
     a: "In almost every case, yes. When you sign a settlement release, you're releasing all future claims related to that injury, even if your condition worsens unexpectedly. This is why it's so important not to settle before your doctors have a clear picture of your long-term prognosis. Settling too early is one of the most common and most costly mistakes I see."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You're probably staring at a stack of medical bills right now, wondering whether the settlement check you're waiting on is actually going to cover any of it. Maybe you've already gotten the check and you're not sure why there's less money than you expected. Both situations are incredibly common, and both come with a confusion that nobody warned you about when this whole thing started.

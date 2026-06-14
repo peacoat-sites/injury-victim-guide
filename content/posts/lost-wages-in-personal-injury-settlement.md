@@ -6,8 +6,6 @@ description: "Recover your lost wages in a personal injury settlement. Learn how
 image: "https://images.pexels.com/photos/5198201/pexels-photo-5198201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["lost", "wages", "personal", "injury", "settlement"]
-author: "Michael Torres"
-author_bio: "Legal educator and personal injury claims consultant. Writes to help everyday people navigate the system."
 slug: "lost-wages-in-personal-injury-settlement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends heavily on your income, the severity of your injury, and how long you were unable to work. For some people it's a few hundred dollars. For others, especially those with serious long-term injuries, it can represent the largest part of their claim. If you're trying to get a sense of the overall picture, reading about how much your personal injury case might be worth can help frame your expectations."
   - q: "Should I hire an attorney to recover lost wages?"
     a: "For minor injuries with a few days of missed work, you may be able to handle it yourself with proper documentation. For anything involving extended recovery, self-employment income, or potential lost earning capacity, an attorney with personal injury experience can make a substantial difference. Most personal injury attorneys work on contingency, meaning you pay nothing unless you recover money. The consultation is almost always free."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You got hurt. You're lying on the couch, your car is still at the body shop, and your boss just texted asking when you're coming back. The answer is: you don't know. And the worst part? Every day you're not working is money you're not making. What most injury victims don't realize until it's almost too late is that those lost paychecks aren't just a personal hardship. They're a compensable loss, meaning the person or company responsible for your injury may owe you that money back. Lost wages are one of the most undervalued parts of a personal injury claim, and insurance adjusters know exactly how to lowball them.

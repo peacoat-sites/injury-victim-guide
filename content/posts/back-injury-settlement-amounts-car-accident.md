@@ -6,8 +6,6 @@ description: "Get an idea of typical back injury settlement amounts after a car 
 image: "https://images.pexels.com/photos/7298429/pexels-photo-7298429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["back", "injury", "settlement", "amounts", "accident"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "back-injury-settlement-amounts-car-accident"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For minor injuries with clear liability and a quick recovery, you can often handle a claim yourself. For any injury involving disc damage, surgery, permanent impairment, or significant lost wages, an attorney almost always justifies the contingency fee. The complexity of future medical cost projection, permanency ratings, and countering insurer tactics is significant. A free consultation lets you make an informed decision."
   - q: "Should I accept the first settlement offer on my back injury?"
     a: "Rarely, and almost never on a serious injury. First offers are typically opening positions designed to close claims cheaply. They routinely undervalue future treatment, permanent impairment, and pain and suffering. Get the offer in writing, don't respond immediately, and consult with a personal injury attorney before you decide anything."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You're sitting in the ER two days after a rear-end collision, waiting for the doctor to read your MRI, and a thought keeps creeping in: *what is this actually going to be worth?* It's a completely human question, and nobody blames you for thinking it. Medical bills are already arriving, your boss is asking when you're coming back, and the other driver's insurance company called this morning wanting a recorded statement. Here's the uncomfortable truth the insurance industry doesn't advertise: back injuries are the single most disputed category of soft-tissue and structural injuries in car accident claims, and the gap between what insurers initially offer and what cases ultimately settle for can be enormous.

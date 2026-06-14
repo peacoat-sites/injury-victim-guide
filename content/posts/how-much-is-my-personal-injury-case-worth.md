@@ -6,8 +6,6 @@ description: "Find out what factors determine the value of your personal injury 
 image: "https://images.pexels.com/photos/7876093/pexels-photo-7876093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["much", "personal", "injury", "case", "worth"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "how-much-is-my-personal-injury-case-worth"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually yes, depending on your state. Most states use some form of comparative negligence. In a 'pure comparative' state like California, you can recover even if you were 99% at fault, though your award is reduced proportionally. In 'modified comparative' states, you're typically barred from recovery if you were 50% or 51% or more at fault (the threshold varies). Understanding your state's rule matters a lot to your case strategy."
   - q: "Is a lawsuit always necessary to get a fair settlement?"
     a: "No, and most cases don't go to trial. The litigation process, meaning actually filing a lawsuit, often motivates insurance companies to take settlement discussions more seriously. But a filed lawsuit doesn't mean a trial. The vast majority of cases resolve through negotiation or mediation before a jury ever hears them. Filing is a tool, not a commitment to fighting it out in a courtroom."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 Imagine you're sitting in a hospital bed three days after a rear-end collision, and the at-fault driver's insurance company calls to offer you $4,500 to settle. Is that a fair number? A lowball? A windfall? Most people have absolutely no idea, and the insurance adjuster on the other end of that phone knows it. I spent 12 years as an adjuster before switching sides to help injury victims, and I can tell you that initial offer almost never reflects what a case is actually worth. Understanding how value gets calculated won't make you a lawyer, but it will stop you from making a decision you'll regret for years.

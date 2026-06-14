@@ -6,8 +6,6 @@ description: "Injured in a supermarket slip and fall? Learn how to file a lawsui
 image: "https://images.pexels.com/photos/18631414/pexels-photo-18631414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["supermarket", "slip", "fall", "lawsuit"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "supermarket-slip-and-fall-lawsuit"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Damages generally fall into two categories. Economic damages are the concrete financial losses: medical bills, future medical costs, lost wages, and out-of-pocket expenses. Non-economic damages cover things like pain and suffering, loss of enjoyment of life, and emotional distress. In rare cases involving gross negligence, punitive damages are sometimes available, though that's uncommon in standard premises liability cases."
   - q: "What if the store manager was very apologetic? Does that mean they admit fault?"
     a: "An expression of sympathy or concern does not constitute a legal admission of liability. The manager saying 'I'm so sorry, are you okay?' is not the same as the store admitting negligence. That said, any statements made by store employees should be documented carefully in your written account, including who said what and when."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You're walking through the produce section, basket in hand, thinking about what to make for dinner. Then your foot hits a wet patch near the misted vegetable display, and everything happens in less than a second. You're on the floor, your hip is screaming, and a teenage stock clerk is standing over you asking if you're okay. By the time you get home from the urgent care, the soreness has deepened into something that makes you wonder if this is going to be a bigger deal than you first thought.

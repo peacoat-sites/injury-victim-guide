@@ -6,8 +6,6 @@ description: "Before giving a recorded statement to an insurance company, learn 
 image: "https://images.pexels.com/photos/7876153/pexels-photo-7876153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["should", "give", "recorded", "statement", "insurance"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "should-i-give-a-recorded-statement-to-the-insurance-company"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Significantly. An attorney can object to questions outside the proper scope, prevent the paraphrase trap, advise you on what not to answer, and ensure the statement is taken fairly. If your own insurer requires a recorded statement, asking to have counsel present is a reasonable request they generally have to accommodate."
   - q: "What should I never say in a recorded statement, even if I think it's harmless?"
     a: "Avoid any speculation about fault ('I might have been going too fast'), any minimizing of your symptoms ('it's not that bad'), any reference to prior injuries without legal guidance, and any agreement with the adjuster's summary of what you said. Stick to direct observations: what you saw, what you felt, what happened step by step. If you don't know or don't remember, say exactly that."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You got a call from an insurance adjuster asking for a recorded statement. Maybe it came the same day as the accident, maybe a week later. Either way, you're probably sitting with that uneasy feeling of not knowing whether saying yes is the right move -- and whether saying no will make you look guilty of something.

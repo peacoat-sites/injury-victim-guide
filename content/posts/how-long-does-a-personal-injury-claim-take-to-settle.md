@@ -6,8 +6,6 @@ description: "Wondering how long a personal injury claim takes to settle? Discov
 image: "https://images.pexels.com/photos/8112134/pexels-photo-8112134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["long", "does", "personal", "injury", "claim"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-long-does-a-personal-injury-claim-take-to-settle"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can avoid slowing it down: get medical treatment quickly, keep detailed records, respond promptly to your attorney's requests, and don't let paperwork pile up on your end. Beyond that, a lot of the timeline depends on the insurance company, the court system, and your medical recovery, none of which you can rush."
   - q: "What happens if the insurance company won't offer a fair settlement?"
     a: "Your attorney can file a lawsuit, which opens the door to discovery and eventually trial. Most cases settle during or after the litigation process, but before the actual trial date. Filing suit often brings insurers to the table more seriously. It's a significant decision with real tradeoffs, and it's worth having a frank conversation with your attorney about when that step makes sense for your situation."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 Three months. That's what the adjuster told Maria when she called to check on her rear-end collision claim. Three months turned into eleven. By the time her case settled, she'd missed two car payments, borrowed money from her mother, and had a collection notice from her physical therapist sitting on the kitchen table.

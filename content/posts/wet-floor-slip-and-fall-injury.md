@@ -6,8 +6,6 @@ description: "Slipped on a wet floor? Learn about your legal rights, how to prov
 image: "https://images.pexels.com/photos/32594477/pexels-photo-32594477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["floor", "slip", "fall", "injury"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "wet-floor-slip-and-fall-injury"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It's a start, but nowhere near enough on its own. Businesses often write their own incident reports in ways that minimize their liability. Get your own copy if possible, and supplement it with everything else: photos, witness information, your written account, and medical records. Don't rely on the business to tell your story accurately."
   - q: "What kinds of compensation can I potentially recover?"
     a: "Slip and fall claims can include compensation for medical expenses (current and future), lost income, reduced earning capacity if your injuries affect your ability to work, and pain and suffering. In some cases involving especially reckless conduct, punitive damages are possible, though rare. The range of outcomes varies enormously based on the severity of injuries, the strength of evidence, the jurisdiction, and whether the case settles or goes to trial. Anyone who promises you a specific dollar figure before reviewing your full case is not being straight with you."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You were just trying to get from point A to point B. Maybe it was a grocery store aisle, a hotel lobby, or a restaurant bathroom. One second you were upright, and the next you were on the floor, confused, in pain, and probably embarrassed. If that sounds familiar, you're not alone. The Centers for Disease Control and Prevention reports that slip and fall accidents are the leading cause of emergency room visits in the United States, and wet floors are one of the most common culprits. What happens in the days and weeks after that fall matters enormously, and most people have no idea where to start.

@@ -6,8 +6,6 @@ description: "Learn why car accident injuries like whiplash and concussions ofte
 image: "https://images.pexels.com/photos/7875998/pexels-photo-7875998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["delayed", "injury", "symptoms", "after", "accident"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "delayed-injury-symptoms-after-car-accident"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is recoverable. Don't spiral. What matters now is that you get medical care, document your symptoms thoroughly, and stop having unrecorded conversations with the adjuster. Anything you say can be noted in your claim file. You have the right to say: 'I've developed symptoms I need to address and I'll be in touch.' That's it. Then get to a doctor and consider speaking with an attorney before your next call with the insurer."
   - q: "How do I know if I need a personal injury attorney?"
     a: "If your symptoms required any medical treatment, caused missed work, or are ongoing, at minimum you should have a free consultation with a personal injury attorney. This is especially true if the other driver was at fault and their insurance is involved. Attorneys who specialize in personal injury cases know how to document delayed injuries, handle insurer negotiations, and calculate damages you might not think to include, like future treatment costs or loss of earning capacity. You don't have to commit to anything in a consultation."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You walked away from the fender-bender feeling shaken but okay. The other driver exchanged insurance info, a police officer filed a report, and you told everyone on the scene that you were fine. Three days later you wake up and can't turn your head. By day five, you're having headaches so severe you're calling out of work. Sound familiar? I've sat across from dozens of people in this exact situation, and the first thing most of them say is: "I feel stupid. I told them I wasn't hurt." You're not stupid. You're human. And what happened to your body is backed by real biology.

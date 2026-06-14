@@ -6,8 +6,6 @@ description: "Stay safe and protect your legal rights. Learn the essential steps
 image: "https://images.pexels.com/photos/6129050/pexels-photo-6129050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["what", "immediately", "after", "accident"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "what-to-do-immediately-after-an-accident"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost never. The first offer is rarely the final or fair one. Insurance adjusters are trained to resolve claims quickly and cheaply. They often extend early offers before you've finished treatment or know the full cost of your recovery. Once you accept a settlement and sign a release, you typically can't go back for more, even if your medical bills exceed what you received. At minimum, wait until your doctor says you've reached 'maximum medical improvement' (MMI), meaning your condition has stabilized, before considering any settlement."
   - q: "Do I need a personal injury attorney for a minor accident?"
     a: "For a true fender bender with no injuries and minimal property damage, you might handle it fine on your own. But if there are any injuries, disputed fault, or significant vehicle damage, an attorney can make a real difference. Most personal injury attorneys work on a contingency fee basis, meaning they don't get paid unless you win or settle. An initial consultation is almost always free, and it gives you a clear picture of whether your situation warrants legal representation. I've seen clients leave money on the table simply because they didn't know what they were entitled to."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 Most people walk away from a car accident thinking they handled it fine. They exchange insurance cards, maybe take a few photos, and drive home shaken but relieved. Then, six weeks later, they get a letter saying the other driver is claiming *they* caused the accident. Or the insurance company offers a settlement that barely covers the first emergency room visit. I spent 12 years on the insurance side of these situations, and I can tell you: the decisions you make in the first 60 minutes after a crash can either protect you completely or cost you everything.

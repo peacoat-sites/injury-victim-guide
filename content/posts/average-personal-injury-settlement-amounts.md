@@ -6,8 +6,6 @@ description: "Find out what average personal injury settlement amounts look like
 image: "https://images.pexels.com/photos/6191128/pexels-photo-6191128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["average", "personal", "injury", "settlement", "amounts"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "average-personal-injury-settlement-amounts"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A demand letter is a formal written document sent to the at-fault party's insurance company laying out your injuries, your damages, your evidence, and the amount you're requesting. It's the opening move in the negotiation. A well-documented demand letter that clearly articulates your damages and attaches supporting evidence tends to produce better counteroffers than a vague verbal request. Attorneys write these regularly. You can write one yourself, but it requires careful preparation."
   - q: "What happens if the settlement doesn't cover all my medical bills?"
     a: "This is a real problem, particularly when policy limits are low. A few options exist. Your health insurer may have paid some bills and will expect reimbursement from your settlement through a legal concept called subrogation. Medical providers sometimes negotiate down their liens if you can show the settlement was insufficient. Your own underinsured motorist coverage, if applicable, may provide an additional layer of recovery. These are exactly the situations where an attorney's ability to negotiate with multiple parties simultaneously makes a significant difference."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 Imagine you're sitting in a hospital bed, arm in a cast, wondering whether the $8,500 the insurance adjuster just offered you is fair or a lowball designed to close your file before you know better. That moment, right there, is why understanding settlement amounts matters so much. I spent 12 years on the other side of that phone call. I know how adjusters think, and I know that the first offer is almost never the best one.

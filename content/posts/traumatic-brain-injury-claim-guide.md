@@ -6,10 +6,13 @@ description: "Learn how to make a traumatic brain injury claim, understand your 
 image: "https://images.pexels.com/photos/7876146/pexels-photo-7876146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["traumatic", "brain", "injury", "claim", "guide"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "traumatic-brain-injury-claim-guide"
 affiliate_disclosure: true
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 Something most people don't realize: a traumatic brain injury can look completely invisible on a CT scan and still turn your life inside out. I watched this happen to claimants again and again during my years on the insurance side. The scan comes back "unremarkable." The adjuster notes it. And suddenly, a person who can't drive anymore, can't work a full day, can't sit in a room with noise without a migraine, is being told their injury is soft or minor or unverifiable. It's one of the things that pushed me out of that world.

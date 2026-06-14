@@ -6,8 +6,6 @@ description: "Discover exactly what evidence you need to win your personal injur
 image: "https://images.pexels.com/photos/7876088/pexels-photo-7876088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Evidence and Documentation"]
 tags: ["personal", "injury", "claim", "evidence", "checklist"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "personal-injury-claim-evidence-checklist"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, no. You're typically required to cooperate with your own insurer per your policy terms, but the opposing insurer has no contractual hold over you. Recorded statements can be used to lock you into details that may later be used against you. Many attorneys advise against giving one without counsel."
   - q: "How do I get my medical records if a provider is slow to respond?"
     a: "Submit a written HIPAA-compliant request (most providers have a form). Follow up in writing, noting the date of your original request. If a provider is unresponsive, your state's health department or the Office for Civil Rights within HHS handles HIPAA complaints. An attorney handling your claim can also send a request on your behalf, which tends to move faster."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 Most evidence checklists for personal injury claims read like they were written by someone who has never actually sat across from an insurance adjuster. They tell you to "gather documentation" and "keep records." Thanks. Very helpful.

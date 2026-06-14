@@ -6,8 +6,6 @@ description: "Injured in a truck accident? Learn what factors affect your settle
 image: "https://images.pexels.com/photos/34610705/pexels-photo-34610705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["truck", "accident", "injury", "settlement"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "truck-accident-injury-settlement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Possibly. Your own auto insurance policy may include medical payments coverage (MedPay) or personal injury protection (PIP) depending on your state. These coverages can help pay medical bills while your claim against the trucking company is being resolved. Uninsured/underinsured motorist coverage may also be relevant in some circumstances. Check your policy or call your own insurer (separate from giving any statement to the other party's insurer) to understand what's available to you."
   - q: "What if I was partly at fault for the accident?"
     a: "Most states use some version of comparative negligence, which means your compensation can be reduced by your percentage of fault but you may still be able to recover something. A few states still follow contributory negligence rules, which can bar recovery entirely if you're found even slightly at fault. The trucking company's insurer will almost certainly try to assign some fault to you, which is another reason having legal representation to push back on those arguments matters."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 Most people assume a truck accident settlement works roughly the same as a car accident settlement. Same process, just bigger numbers. I spent 12 years on the other side of that assumption, working as an insurance adjuster, and I can tell you directly: that belief is one of the most expensive mistakes an injured person can make. Truck accident cases operate in an entirely different legal and regulatory universe, and the gap between what an uninformed claimant accepts and what a well-prepared one recovers can be staggering.

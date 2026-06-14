@@ -6,8 +6,6 @@ description: "Learn how to file a workers compensation claim step by step. Under
 image: "https://images.pexels.com/photos/7876154/pexels-photo-7876154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["workers", "compensation", "claim", "process"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "workers-compensation-claim-process"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "An IME is a medical exam requested by the insurance carrier, performed by a doctor they select, to evaluate your injury and your reported limitations. In most states, you are required to attend or risk losing your benefits. You can and should inform your own treating physician beforehand and bring someone with you to take notes."
   - q: "What happens if my employer doesn't have workers' comp insurance?"
     a: "Most states have a fund specifically for this situation, often called an 'uninsured employer fund' or similar. You may also be able to sue the employer directly in civil court, which bypasses the usual restrictions on suing employers. An attorney who knows your state's laws is really your best resource here."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You filed the report, you iced the injury, and now you're sitting with a stack of paperwork you don't fully understand and a nagging worry that you're about to do something wrong. Maybe you've already heard a coworker say something like "they'll try to deny you" or "you need a lawyer immediately." Maybe you're afraid to say the wrong thing to your employer. Maybe you just want to know what actually happens next.

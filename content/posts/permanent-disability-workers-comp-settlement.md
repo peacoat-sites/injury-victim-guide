@@ -6,8 +6,6 @@ description: "Get the facts on permanent disability workers comp settlements, in
 image: "https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["permanent", "disability", "workers", "comp", "settlement"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "permanent-disability-workers-comp-settlement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If your settlement closes the medical portion of your claim, you'll lose the right to future injury-related treatment through workers' comp. That means your regular health insurance (or Medicare/Medicaid) will need to cover ongoing care. Plan for this before you sign. If you need continued treatment, a structured settlement that preserves future medical benefits may be worth more than a larger lump sum."
   - q: "Can my workers' comp settlement affect my Social Security Disability benefits?"
     a: "Yes, it can. The Social Security Administration applies what's called a 'workers' comp offset' that can reduce your SSDI payments if your combined workers' comp and SSDI benefits exceed 80% of your pre-injury average earnings. How your settlement is structured, paid all at once versus spread over time, can affect the size of this offset. An attorney or a benefits counselor who understands both systems should review this before you finalize your settlement."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 If you've recently been told your work injury has left you with a "permanent disability," you're probably sitting with a lot of feelings right now, and maybe a stack of paperwork you don't fully understand. You might have a settlement number on the table that sounds big but somehow doesn't feel right. Or maybe the insurance company has gone quiet, and you're not sure what that silence means. What I want you to know, before we get into anything else, is that a permanent disability workers' comp settlement is one of the most significant financial decisions you'll make in your lifetime, and the difference between a fair outcome and a bad one often comes down to whether you understood the process before you signed anything.

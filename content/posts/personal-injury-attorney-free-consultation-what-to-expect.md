@@ -6,8 +6,6 @@ description: "Learn what to expect during a free personal injury attorney consul
 image: "https://images.pexels.com/photos/7876314/pexels-photo-7876314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding an Attorney"]
 tags: ["personal", "injury", "attorney", "free", "consultation"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "personal-injury-attorney-free-consultation-what-to-expect"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In most personal injury contingency agreements, you owe no attorney fees if you lose. However, some firms charge for hard costs like court filing fees or expert reports regardless of outcome. Ask specifically about this before signing, and get the answer in writing."
   - q: "Can I consult more than one attorney before deciding?"
     a: "Yes, absolutely. There's no obligation created by attending a free consultation, and comparing two or three attorneys before committing is smart. Just be mindful of your state's statute of limitations so the process doesn't eat up time you don't have."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 Most articles about free consultations with personal injury attorneys spend 800 words telling you to "gather your documents and be honest." That's not useless advice, but it misses the part that actually matters: the consultation is a two-way interview, and most injured people walk in not realizing they're the ones doing the hiring.

@@ -6,8 +6,6 @@ description: "Learn how personal injury settlements work, from filing a claim to
 image: "https://images.pexels.com/photos/7841469/pexels-photo-7841469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "settlements", "work"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "how-personal-injury-settlements-work"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is where your own policy becomes critical. Uninsured motorist (UM) coverage pays your damages when the at-fault driver has no insurance. Underinsured motorist (UIM) coverage steps in when their policy limits aren't enough to cover your losses. Check your own policy now, before you need it. Many people don't realize they have this coverage, or don't realize they can increase it affordably."
   - q: "Can I reopen a case after settling?"
     a: "With very limited exceptions, no. A signed settlement release is final. The narrow exceptions involve fraud, a mutual mistake about material facts, or in some jurisdictions, situations where injuries that were completely unknown and unknowable at the time later manifest. These exceptions are rare and hard to prove. This is exactly why settling before you've reached maximum medical improvement, and before you understand the full extent of your injuries, is so risky."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You rear-end someone at a stoplight, or a wet floor in a grocery store sends you to the ER, and suddenly you're staring at medical bills, a stack of insurance paperwork, and a phone that won't stop ringing with calls from adjusters. Most people have no idea what happens next. According to [the CDC's injury statistics](https://www.cdc.gov/injury/wisqars/), unintentional injuries are the leading cause of death for Americans aged 1 to 44, and millions more are injured seriously enough to miss work, rack up medical debt, and need long-term care. The majority of those people will eventually deal with a personal injury settlement, yet almost no one understands how that process actually works until they're already in the middle of it. Let me walk you through it.

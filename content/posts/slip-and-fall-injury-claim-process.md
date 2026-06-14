@@ -6,8 +6,6 @@ description: "Learn how to file a slip and fall injury claim, what steps to foll
 image: "https://images.pexels.com/photos/27115292/pexels-photo-27115292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["slip", "fall", "injury", "claim", "process"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "slip-and-fall-injury-claim-process"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There's no single answer, but most slip and fall claims settle somewhere between a few months and two years from the date of injury. Cases with clear liability, good documentation, and cooperative insurers resolve faster. Cases involving surgery, permanent injury, disputed liability, or litigation take longer. Waiting until you've reached maximum medical improvement before settling is important because once you accept a settlement, you typically can't go back for more money even if your condition worsens."
   - q: "What if I signed an incident report and said I wasn't hurt?"
     a: "This comes up more often than you'd think. People are shaken, they want to minimize the situation, they don't feel the full extent of their injury in the moment. A statement saying you weren't hurt at the scene doesn't permanently bar your claim, but it does create a hurdle. The insurer will use it. The best approach is to be honest going forward, document when symptoms appeared or worsened, and get legal advice sooner rather than later."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You're standing in a grocery store aisle, one moment upright and the next on the floor, stunned, your hip throbbing, a wet produce bag near your hand that nobody bothered to clean up. Or maybe it happened at a neighbor's apartment complex, or a big-box retail store with a freshly mopped floor and no warning sign in sight. However it happened, you're probably reading this from an uncomfortable place, physically and emotionally, wondering whether you even have a case, whether it's worth the trouble, and what on earth you're supposed to do next. That's exactly where we're going to start.

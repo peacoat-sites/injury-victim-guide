@@ -6,8 +6,6 @@ description: "Car accident injury claims can be complex. Learn essential tips fo
 image: "https://images.pexels.com/photos/12002262/pexels-photo-12002262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim", "tips"]
-author: "Sarah Chen"
-author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "car-accident-injury-claim-tips"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on injury complexity, liability disputes, and whether your case settles or goes to litigation. Minor claims can resolve in a few months. Cases involving serious injuries, surgery, or disputed liability can take one to three years or longer. For a realistic breakdown, our piece on how long personal injury cases take covers the typical timeline and what affects it."
   - q: "Do I need a lawyer for a minor car accident claim?"
     a: "Not always. If your injuries were genuinely minor, you fully recovered quickly, liability is clear, and the insurer is treating you fairly, you may be able to handle the claim yourself. But 'minor' is worth scrutinizing carefully. Soft tissue injuries that seem minor can have lasting effects. If you're unsure whether you even have a viable claim, start with our overview of what it takes to have a personal injury case."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You walk away from a car accident feeling shaken but okay. You decline the ambulance. You figure it's just some stiffness. Three days later you can't turn your neck, your back is in spasms, and your doctor is talking about an MRI. Now the other driver's insurance company is calling you twice a day, friendly as can be, asking you to give a recorded statement. Here's the thing: that adjuster isn't your friend. I know, because I used to be that adjuster.

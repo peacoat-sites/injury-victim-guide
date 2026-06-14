@@ -6,8 +6,6 @@ description: "Injured in a drunk driver accident? Learn how to file a lawsuit, p
 image: "https://images.pexels.com/photos/6519906/pexels-photo-6519906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["drunk", "driver", "accident", "injury", "lawsuit"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "drunk-driver-accident-injury-lawsuit"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "That depends on your state's fault rules. States use either 'contributory negligence' (where any fault on your part bars recovery, which only a handful of states still use), 'pure comparative negligence' (you recover minus your percentage of fault), or 'modified comparative negligence' (you recover as long as you're less than 50% or 51% at fault, depending on the state). Even if you bear some responsibility, you may still have a viable claim."
   - q: "Should I accept the first settlement offer?"
     a: "Almost never. First offers from insurance companies are almost always lower than what a fully documented claim is worth. Before accepting anything, you should have a clear understanding of your total damages, including future medical costs and non-economic losses. Have an attorney review any offer before you sign a release."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 You survived the crash. The other driver failed a field sobriety test at the scene, blew a 0.14 on the breathalyzer, and is currently sitting in a jail cell. You'd think that makes your injury claim straightforward. It doesn't. A DUI arrest doesn't automatically win you a civil lawsuit, and the insurance company representing that drunk driver is already working to limit what they pay you. Here's what that process actually looks like, and what you can do about it.

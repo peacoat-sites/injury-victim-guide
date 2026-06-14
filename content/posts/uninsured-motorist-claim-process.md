@@ -6,8 +6,6 @@ description: "Uninsured motorist claims help protect you financially when hit by
 image: "https://images.pexels.com/photos/16862086/pexels-photo-16862086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["uninsured", "motorist", "claim", "process"]
-author: "Sarah Chen"
-author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "uninsured-motorist-claim-process"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This depends on your insurer and your state's laws. Some states prohibit insurers from raising your rates when you file a UM claim for an accident that wasn't your fault. Others allow it. Ask your insurer directly before you file, and get the answer in writing if you can. Even in states that allow rate increases, the hit to your premium is usually far less than walking away from a legitimate injury claim."
   - q: "How long does a UM claim take to resolve?"
     a: "It varies. A straightforward claim with clear liability and limited injuries might resolve in a few months. Complex cases involving serious injuries, disputed liability, or arbitration can take a year or longer. The timeline for how long personal injury cases take covers this in much more detail and is worth a read if you're trying to plan financially."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 You're sitting in a hospital waiting room, ice pack on your neck, when the officer's words finally sink in: the driver who ran the red light and hit you had no insurance. No policy. Nothing. According to [CDC injury data](https://www.cdc.gov/injury/wisqars/), motor vehicle crashes send millions of Americans to emergency departments every year. And the Insurance Research Council estimates that roughly 1 in 8 drivers on the road is uninsured. That's not a fringe risk. That's the car two spots ahead of you in traffic right now.

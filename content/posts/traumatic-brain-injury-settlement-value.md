@@ -7,8 +7,6 @@ description: "Learn what factors determine traumatic brain injury settlement val
 image: "https://images.pexels.com/photos/5723883/pexels-photo-5723883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["traumatic", "brain", "injury", "settlement", "value"]
-author: "Sarah Chen"
-author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "traumatic-brain-injury-settlement-value"
 affiliate_disclosure: true
 faqs:
@@ -22,6 +20,11 @@ faqs:
     a: "A life care planner, who is typically a nurse or rehabilitation specialist, develops a detailed projection of all anticipated future medical needs and their costs over your expected lifetime. An economist then converts those future costs into a present-dollar value. Insurance companies will challenge these projections aggressively, so the qualifications and methodology of your experts matter significantly."
   - q: "Should I accept a structured settlement instead of a lump sum?"
     a: "It depends entirely on your situation. A structured settlement pays out over time through an annuity, which can provide tax advantages and long-term financial stability. A lump sum gives you full control but requires careful financial management. For people whose injury has affected cognitive function and financial decision-making, a structured settlement or a special needs trust may provide better long-term protection. This is a conversation to have with both your attorney and a financial advisor."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You're sitting in a neurologist's office six weeks after a car accident, and the doctor is explaining that your headaches, memory gaps, and sudden irritability aren't "just stress." You have a traumatic brain injury. Meanwhile, the other driver's insurance company has already called twice, offering a settlement that sounds like a lot of money until you realize you may need ongoing care for years. That gap between what they're offering and what you actually need is exactly what this article is about.

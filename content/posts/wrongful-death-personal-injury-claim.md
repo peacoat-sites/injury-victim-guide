@@ -6,8 +6,6 @@ description: "Learn how to file a wrongful death personal injury claim, understa
 image: "https://images.pexels.com/photos/7876315/pexels-photo-7876315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["wrongful", "death", "personal", "injury", "claim"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "wrongful-death-personal-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost all personal injury and wrongful death attorneys work on contingency, meaning they take a percentage of whatever you recover (typically 33% before trial, sometimes more if it goes to trial or appeal). You pay nothing upfront. If the case doesn't recover anything, you don't owe attorney fees. You might still owe case expenses depending on your agreement, so read that contingency agreement carefully."
   - q: "Does it matter if my loved one was also partially at fault?"
     a: "It can, significantly. Depending on your state's fault rules, shared liability can reduce your recovery or in rare cases eliminate it. But 'partial fault' arguments are also frequently used by insurance companies to lowball settlements, sometimes unfairly. Don't accept a fault determination from an insurer as the final word before getting an independent assessment."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 Someone you loved died because of another person's negligence. You're probably exhausted, you might be deep in grief, and somewhere in the middle of all that, someone told you that you might have a "wrongful death claim." And now you're sitting here trying to figure out what that even means while also trying to hold everything else together.

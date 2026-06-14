@@ -6,8 +6,6 @@ description: "Learn how taxes on personal injury settlements work, what compensa
 image: "https://images.pexels.com/photos/7821688/pexels-photo-7821688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Case Outcomes"]
 tags: ["taxes", "personal", "injury", "settlement"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "taxes-on-personal-injury-settlement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually, but not always. Most states conform to federal tax treatment for personal injury settlements, meaning what's excluded federally is also excluded at the state level. But some states have their own rules. California, for example, generally follows federal treatment, but you should always verify with a local tax professional or your state's department of revenue, especially if your settlement includes taxable components like punitive damages."
   - q: "Can I do anything during settlement negotiations to reduce my tax exposure?"
     a: "Yes, and this is worth raising with your attorney before you finalize anything. Ensuring the settlement agreement clearly identifies the payment as compensation for physical injuries is important. If punitive damages are involved, having them documented separately (versus bundled into a single payment) creates a cleaner paper trail. You can't eliminate taxes on components that are legally taxable, but proper documentation and allocation can prevent unnecessary disputes and protect your exclusions. Your attorney and a tax advisor working together on the settlement structure can make a real diff"
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You just got the call you've been waiting months for. The insurance company agreed to a settlement. You're relieved, maybe even a little emotional, and then your brain goes somewhere unexpected: *wait, do I have to pay taxes on this?* That question stops a lot of people cold, and honestly, it's one of the smartest things you can ask. Because the answer isn't a simple yes or no. It depends on what that money is actually for.

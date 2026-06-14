@@ -6,8 +6,6 @@ description: "Injured in a workplace slip and fall? Learn how to file a successf
 image: "https://images.pexels.com/photos/10395785/pexels-photo-10395785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["workplace", "slip", "fall", "injury", "claim"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "workplace-slip-and-fall-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Two separate deadlines apply here. The workers' comp reporting deadline (notifying your employer) is typically 30 to 90 days from the injury, depending on the state. The statute of limitations for filing a workers' comp claim or a personal injury lawsuit is separate, typically one to three years from the date of injury, again depending on jurisdiction. Missing either deadline can be fatal to your claim. Don't let the workers' comp process lull you into thinking the civil lawsuit clock isn't also running."
   - q: "What if my employer says I don't qualify for workers' comp because I'm an independent contractor?"
     a: "This is a real and growing issue, particularly in gig economy and construction contexts. Employers sometimes misclassify workers as independent contractors to avoid workers' comp obligations. The legal test for worker classification isn't what your contract says. It's how the work relationship actually functions, including who controls how you work, whether you use the employer's equipment, and whether this work is central to the employer's business. If you suspect misclassification, a workers' comp attorney or your state's labor department can help you challenge it."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You slipped on a wet floor at work, hit the ground hard, and now you're lying there wondering whether this counts as a workers' comp claim or a personal injury lawsuit. The answer is: it depends on who owns that wet floor. Most articles skip right past that distinction and cost people real money.

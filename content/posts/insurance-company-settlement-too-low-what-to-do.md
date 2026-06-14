@@ -6,8 +6,6 @@ description: "Received a low insurance settlement offer? Learn your options, how
 image: "https://images.pexels.com/photos/33175673/pexels-photo-33175673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["insurance", "company", "settlement", "what"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "insurance-company-settlement-too-low-what-to-do"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research here is genuinely mixed, and it depends heavily on the complexity of your case, how quickly you reach maximum medical improvement (the point where your treatment is complete or stable), and how motivated the insurer is to resolve things. Simple cases can settle in weeks. Cases involving surgery, long-term treatment, or disputed liability can take months or longer. Don't let impatience push you into accepting less than you're owed. Settling too early, especially before you know your full medical picture, is one of the most common and costly mistakes I've seen."
   - q: "What is 'maximum medical improvement' and why does it matter?"
     a: "Maximum medical improvement, often abbreviated MMI, is the point at which your doctor determines your condition has stabilized. You may still have ongoing issues, but your treatment has reached a plateau. This matters enormously because once you settle, you typically can't go back for more money even if your condition worsens. Settling before MMI means you might not know yet whether you'll need future surgery, physical therapy, or long-term medication. Waiting until you or your doctor have a clear picture of your future medical needs is almost always the right move, even when the wait is frust"
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 You open the envelope, see the number, and your stomach drops. The insurance company is offering you $4,200 for an accident that totaled your car, sent you to the ER, and kept you out of work for three weeks. That number doesn't come close to covering your medical bills alone. Here's what most people don't realize: that first offer is almost never the final offer. Insurance companies count on you not knowing that.

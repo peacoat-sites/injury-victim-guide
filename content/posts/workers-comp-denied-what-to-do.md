@@ -6,8 +6,6 @@ description: "Find out what to do when your workers comp claim is denied. Learn 
 image: "https://images.pexels.com/photos/14846150/pexels-photo-14846150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["workers", "comp", "denied", "what"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "workers-comp-denied-what-to-do"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Probably not in the way you're worried about. Most employers have workers' comp insurance specifically so that the carrier handles claims, not them personally. The adversarial relationship is usually between you and the insurer, not you and your boss. That said, workplace dynamics are real, and you know your situation better than anyone."
   - q: "Do I need a workers' comp attorney specifically, or will any personal injury lawyer do?"
     a: "Workers' comp law is genuinely specialized. The rules, deadlines, fee structures, and hearing procedures are completely different from a car accident case or slip and fall. A general personal injury attorney can point you in the right direction, but for the actual appeal, find someone who does workers' comp regularly. It makes a real difference."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 Your claim got denied. That piece of paper feels like the end of the road. It isn't.

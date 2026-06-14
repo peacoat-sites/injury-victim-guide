@@ -6,8 +6,6 @@ description: "Learn how insurance companies use delay tactics to stall injury cl
 image: "https://images.pexels.com/photos/8815849/pexels-photo-8815849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["insurance", "company", "delay", "tactics", "injury"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "insurance-company-delay-tactics-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Pre-existing conditions complicate claims but don't automatically disqualify them. The legal concept that applies is called the 'eggshell plaintiff' rule, which holds that a defendant takes the victim as they find them. If an accident aggravated or worsened a pre-existing condition, that aggravation is generally compensable. The insurer will try to minimize this. Your treating physician's documentation of how the injury changed your condition from your baseline is your best counter to this argument."
   - q: "What is a demand letter and should I send one?"
     a: "A demand letter is a written communication to the insurance company stating the facts of your claim, summarizing your damages, and naming a specific dollar amount you'll accept to settle. It's often the first formal step before litigation. You can write one yourself, but an attorney-drafted demand letter carries more weight and is less likely to inadvertently weaken your position. If your claim is relatively minor and straightforward, Nolo's personal injury resources have guidance on how to write one effectively on your own."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You filed the claim weeks ago. The adjuster seemed friendly on the phone, promised to "get back to you soon," and then... nothing. You call again. They're "still reviewing your file." Your medical bills are stacking up, you're missing work, and the insurance company keeps dangling the possibility of a settlement just far enough out of reach to keep you waiting. Sound familiar?

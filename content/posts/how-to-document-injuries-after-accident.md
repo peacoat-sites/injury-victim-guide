@@ -6,8 +6,6 @@ description: "Learn how to properly document injuries after an accident with our
 image: "https://images.pexels.com/photos/10480829/pexels-photo-10480829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["document", "injuries", "after", "accident"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "how-to-document-injuries-after-accident"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Having a pre-existing condition doesn't disqualify you from recovering compensation, but it does complicate things. The legal standard in most states is that a defendant takes you as they find you, sometimes called the 'eggshell plaintiff' rule. This means if an accident aggravates a prior injury, you can still recover for that aggravation. The key is being upfront with your doctors about your medical history and making clear in the records which symptoms are new or worsened since the accident. Trying to hide a pre-existing condition almost always backfires."
   - q: "What should I do if the insurance company says my injuries aren't documented?"
     a: "Get more documentation. Request a complete copy of your medical records and review them yourself. Look for any missing visits, any vague language, or any inconsistencies. Ask your treating physician to write a narrative letter connecting your injuries to the accident and explaining your prognosis and functional limitations. This is sometimes called a causation letter, and it carries real weight. If the insurer is still refusing to engage seriously, that's a strong signal to consult with a personal injury attorney before the situation gets worse."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You took the ibuprofen, iced your neck, and figured you'd feel better in a couple of days. Six weeks later you're still in pain, your medical bills are climbing, and the insurance adjuster is on the phone telling you there's "no documentation" of your injuries right after the accident. That scenario plays out thousands of times every year, and it costs injured people real money. Thorough, timely documentation is the single most controllable factor in what happens to your claim. Here's how to do it right.

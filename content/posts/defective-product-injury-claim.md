@@ -6,8 +6,6 @@ description: "Injured by a defective product? Learn how to file a product liabil
 image: "https://images.pexels.com/photos/5668790/pexels-photo-5668790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Other Injury Types"]
 tags: ["defective", "product", "injury", "claim"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "defective-product-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You're not required to, but it can help. The Consumer Product Safety Commission (CPSC) maintains a database of product injury reports at SaferProducts.gov, and filing there creates a public record that can surface similar incidents involving the same product. For food, drugs, and medical devices, the FDA has its own reporting systems. These filings support your claim indirectly by building evidence of a pattern."
   - q: "How long do product liability cases typically take?"
     a: "Honestly, this varies so much that specific timelines can be misleading. Straightforward cases that settle without litigation can resolve in months. Complex cases involving major manufacturers, multiple defendants, and significant injuries can take two to four years or longer if they go to trial. The CDC's injury data shows just how common product-related injuries are nationally, which also means courts and insurers have well-worn processes for handling them, for better and worse."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 Most people who get hurt by a defective product assume their biggest problem is proving the product was dangerous. I spent twelve years on the other side of these claims, and I'll be honest: that's rarely where cases actually fall apart. The real landmines are the ones nobody warns you about before you throw out the broken blender or accept that first phone call from the manufacturer's insurance rep.

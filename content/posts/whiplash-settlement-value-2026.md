@@ -6,8 +6,6 @@ description: "Discover what whiplash settlements are worth in 2026. Learn key fa
 image: "https://images.pexels.com/photos/7298628/pexels-photo-7298628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["whiplash", "settlement", "value", "2026"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "whiplash-settlement-value-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The vast majority, somewhere around 95% of personal injury claims, settle before trial. But having a credible threat of trial is what forces fair settlements. Insurers know which plaintiffs have attorneys willing to file suit and which ones just want a quick check. Being prepared to go to court, even if you never do, is part of the negotiation leverage."
   - q: "Should I give a recorded statement to the other driver's insurance company?"
     a: "Be very careful here. You are not legally required to give a recorded statement to the adverse insurer. They will use anything you say to minimize your claim. Statements like 'I'm feeling okay' in the immediate aftermath or minimizing your symptoms even slightly can and do get used against claimants. Speak with an attorney before agreeing to any recorded statement, especially if your injuries are more than minor."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You rear-ended at a stoplight. The other driver apologizes, you feel fine, and you wave it off. Three days later you can't turn your head without a stabbing pain shooting down your neck and into your shoulder. Sound familiar? Here's the uncomfortable truth: whiplash is the most commonly disputed soft-tissue injury in personal injury claims, and insurance adjusters are trained, from day one, to minimize it. I know because I was one of them for 12 years. What your claim is actually worth in 2026 depends on a surprising number of factors that have nothing to do with how much pain you're in.

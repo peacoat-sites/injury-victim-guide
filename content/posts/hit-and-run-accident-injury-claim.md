@@ -6,8 +6,6 @@ description: "Hit and run accident injuries can be devastating. Learn how to fil
 image: "https://images.pexels.com/photos/5207232/pexels-photo-5207232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "hit-and-run-accident-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on your state and your policy. In many states, UM claims are treated as 'not-at-fault' claims and can't be used to raise your rates. But this isn't universal. Ask your insurer directly, and read your policy. Going in informed is always better than a surprise at renewal time."
   - q: "Should I accept the first settlement offer from my insurance company?"
     a: "Almost never. First offers on UM claims are typically lower than what you may be entitled to. Once you accept a settlement and sign a release, that's usually final. You can't go back for more if your injuries worsen or you discover additional costs. Have an attorney review any offer before you sign anything."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You're standing on the side of the road. Your car is crumpled. Your hands are shaking. And the driver who hit you is gone, nothing but a fading set of tail lights in the distance. Every year, roughly 737,100 hit-and-run crashes occur in the United States, according to the AAA Foundation for Traffic Safety. That's about one every 43 seconds. If you're reading this from a hospital waiting room or your kitchen table after one of those crashes, here's what you need to know: you are not automatically out of luck just because the other driver ran.

@@ -6,8 +6,6 @@ description: "Learn how to file a sideswipe accident injury claim, what compensa
 image: "https://images.pexels.com/photos/7876047/pexels-photo-7876047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["sideswipe", "accident", "injury", "claim"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "sideswipe-accident-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Personal injury claims generally allow for economic damages, which are things with a clear dollar value like medical bills, lost wages, and future treatment costs, and non-economic damages, which cover pain and suffering, emotional distress, and loss of enjoyment of life. In some cases involving extreme negligence, punitive damages are possible. The realistic value of your specific claim depends on the severity of your injuries, the clarity of liability, the available insurance coverage, and your jurisdiction."
   - q: "Should I post about my accident on social media?"
     a: "Please don't. Anything you post publicly can be found by insurance adjusters and defense attorneys. A photo of you smiling at a birthday party three weeks after claiming serious back pain will be used against you, even if your pain is completely real and the smile was genuine. Keep your accident, your injuries, and your claim off all social platforms for the duration of the process."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You heard the scrape before you felt it. One moment you were driving normally, and then a vehicle drifted into your lane, metal grinding against metal, and suddenly everything changed. Sideswipe accidents have a way of feeling almost minor in the moment, especially if both cars kept moving. But here's a fact that surprises a lot of people: these collisions are far more dangerous than they look. According to the [Insurance Information Institute](https://www.iii.org/), lane-change and sideswipe crashes are among the most common causes of multi-vehicle fatalities on highways. And the injuries they cause, from soft tissue damage to serious spinal trauma, can surface days after the crash when the adrenaline has long worn off.

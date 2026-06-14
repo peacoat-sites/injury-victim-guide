@@ -6,8 +6,6 @@ description: "Factors that increase settlement value include injury severity, me
 image: "https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Settlement Values"]
 tags: ["factors", "that", "increase", "settlement", "value"]
-author: "James Harmon"
-author_bio: "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."
 slug: "factors-that-increase-settlement-value"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The at-fault driver's policy limit is a real ceiling in most cases. If someone carries state-minimum liability coverage of $25,000 and your damages are $90,000, collecting the full amount from that policy alone isn't possible. However, your own underinsured motorist (UIM) coverage may apply to bridge the gap if you carry it. Your attorney can also investigate whether other parties bear liability, whether the defendant has personal assets worth pursuing, or whether other theories of liability apply."
   - q: "Can the at-fault driver's criminal charges affect my civil settlement?"
     a: "Yes, in meaningful ways. A criminal conviction for DUI or reckless driving establishes facts in the civil case that the defendant can't reliably re-litigate. It also signals to the insurance company that egregious conduct is in the record, which can open the door to punitive damages discussions. Criminal charges don't automatically resolve your civil case, and the two proceedings run separately, but a conviction is powerful evidence that shifts the entire negotiation dynamic."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 Picture this: two people are rear-ended at the same intersection, one week apart, by drivers who ran the same red light. Both suffer whiplash. Both miss two weeks of work. One settles for $18,000. The other walks away with $74,000. Same accident type, same injury label, wildly different outcomes. What's the difference? It almost never comes down to luck. It comes down to the specific factors that made one claim more compelling, more documented, and harder for the insurance company to minimize.

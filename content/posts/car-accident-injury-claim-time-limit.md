@@ -6,8 +6,6 @@ description: "Find out how long you have to make a car accident injury claim. Le
 image: "https://images.pexels.com/photos/11870919/pexels-photo-11870919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim", "time", "limit"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "car-accident-injury-claim-time-limit"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, you can look up your state's personal injury statute of limitations through your state legislature's website or a reputable legal reference site. However, knowing the base deadline is only part of the picture. Whether the discovery rule applies, whether a government notice requirement shortens your window, whether your specific circumstances toll the deadline, those questions genuinely require professional evaluation. Use the number you find as a starting point, not a final answer."
   - q: "What if I was a passenger in the car, not the driver?"
     a: "Passengers typically have the same statute of limitations as any other injury victim. You may have claims against the driver of the vehicle you were in, the other driver, or both, depending on fault. Passengers are often in a cleaner legal position because they're not arguing about their own fault. But the same deadlines apply, and the same urgency exists."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 Every year, people walk away from car accidents feeling shaken but relieved they survived, deciding to "wait and see" how their injuries develop before doing anything official. Some of those people wait too long. Not a little too long. Fatally too long, legally speaking. They try to file a claim or lawsuit and discover that a deadline they didn't know existed has permanently closed the door on any compensation. The money they needed for surgery, lost wages, or ongoing treatment is simply gone. This happens constantly, and it happens to people who aren't careless or uninformed. It happens because the insurance industry and even many general-interest articles bury the critical details about time limits under layers of reassuring language.

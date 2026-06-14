@@ -6,8 +6,6 @@ description: "Injured in a parking lot slip and fall? Learn about your legal rig
 image: "https://images.pexels.com/photos/9213534/pexels-photo-9213534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["parking", "slip", "fall", "injury"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "parking-lot-slip-and-fall-injury"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is genuinely harder, but not necessarily hopeless. Your own detailed account, written close to the time of the incident, carries more weight than people expect. Physical evidence like your clothing, your shoes, photos of the scene, and medical records documenting the injury all help establish the narrative. Weather records, maintenance logs obtained through discovery, and prior complaint records about the same hazard can also support your case."
   - q: "Can I still file a claim if I signed an incident report that said I wasn't injured?"
     a: "Sometimes in the shock and adrenaline of a fall, people say they're fine when they're not. That initial statement can create a complication, but it's not automatically the end of the road. Courts and juries understand that injury symptoms often emerge or worsen hours or days later. What matters is seeking medical care promptly once symptoms develop and being honest and consistent about your account of events going forward."
+author: "Maya Rivera"
+author_slug: "maya-rivera"
+author_title: "Insurance Analyst"
+author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+
 ---
 
 You stepped out of your car, arms full of groceries, and the next thing you remember is staring up at the sky with your hip screaming. Or maybe you slipped on a patch of black ice near the shopping cart return, or tripped over a pothole that had been there long enough to grow weeds. Parking lot slip and fall injuries happen to thousands of people every year, and what surprises most of them isn't the fall itself. It's what happens after. The store manager hands you an incident report, the security footage "malfunctions," and suddenly you're left wondering whether any of this was even someone else's fault. I've sat on both sides of this equation, and I want to give you the real picture.

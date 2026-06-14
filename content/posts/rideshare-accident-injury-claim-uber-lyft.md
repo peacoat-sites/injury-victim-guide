@@ -6,8 +6,6 @@ description: "Get help with your rideshare accident injury claim against Uber or
 image: "https://images.pexels.com/photos/8943282/pexels-photo-8943282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["rideshare", "accident", "injury", "claim", "Uber"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "rideshare-accident-injury-claim-uber-lyft"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It doesn't automatically destroy your claim, but it can complicate it. Insurers will point to those words. What helps counter it: seeking medical attention immediately, getting a documented diagnosis, and having medical records that explain the delayed onset of symptoms (which is medically common and well-documented, especially for whiplash and soft tissue injuries). Don't wait to get checked out, even now."
   - q: "How long do I have to file a claim?"
     a: "This depends on your state's statute of limitations for personal injury claims, which typically ranges from one to three years from the date of the accident. Missing that deadline usually means losing your right to sue entirely. Some states have shorter deadlines for certain types of claims. The clock starts ticking the day of the accident, so don't assume you have unlimited time to decide what to do."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 You're sitting in the backseat of an Uber, heading home from a late dinner. The driver runs a yellow light, gets clipped by a pickup truck, and suddenly you're being helped out of the car by a stranger while your shoulder throbs and your phone screen is cracked. In the chaos, someone asks if you're okay and you say "I think so" because that's what people say. Two days later, the shoulder is worse. You file a claim. And then you discover that getting compensated for a rideshare accident is nothing like filing a claim after a regular car crash.

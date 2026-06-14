@@ -6,8 +6,6 @@ description: "Find out typical car accident settlement amounts by injury type, i
 image: "https://images.pexels.com/photos/35784044/pexels-photo-35784044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["accident", "settlement", "amounts", "injury", "type"]
-author: "Rachel Webb"
-author_bio: "Consumer rights advocate with a background in insurance claims and settlement negotiation."
 slug: "car-accident-settlement-amounts-by-injury-type"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You may still have options. Your own uninsured motorist (UM) coverage can step in. If you don't have it, this is an important reminder to add it immediately. You can also sue the at-fault driver personally, though collecting on a judgment against someone with no assets can be practically difficult."
   - q: "Do I need a lawyer for a car accident settlement?"
     a: "Not always. For minor injuries with clear liability and a quick, fair-looking offer, some people handle claims on their own successfully. But for any injury requiring surgery, hospitalization, ongoing treatment, or resulting in permanent limitation, having a personal injury attorney evaluate your case costs you nothing upfront (most work on contingency) and almost always results in a higher recovery even after the attorney's fee. In my experience, insurers simply negotiate differently when they know you have representation."
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
+author_title: "Patient Advocate"
+author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+
 ---
 
 You're sitting in the hospital, arm in a cast, still shaken from the crash. A claims adjuster calls within 48 hours, friendly voice, quick offer. You have no idea if the number they mention is fair, low, or embarrassingly insulting. Most people don't. And that gap in knowledge costs injury victims real money every single year.

@@ -6,8 +6,6 @@ description: "Injured in a slip and fall on stairs? Learn your legal rights, com
 image: "https://images.pexels.com/photos/7876198/pexels-photo-7876198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["slip", "fall", "stairs", "injury"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "slip-and-fall-on-stairs-injury"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It makes the case harder, but not necessarily unwinnable. Your medical records, photographs, and your own detailed written account of the fall still carry weight. Physical evidence of the hazardous condition, if it still exists and can be documented, matters a lot here."
   - q: "Can I still make a claim if I was partially at fault?"
     a: "In most states, yes. Under comparative negligence rules, your compensation is reduced by your percentage of fault, but you can often still recover something. A handful of states still use contributory negligence, which can bar recovery if you're found even slightly at fault. An attorney familiar with your state's rules can tell you where you stand."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Workers Comp Writer"
+author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+
 ---
 
 Three steps from the bottom. That's where most stair falls happen, and I can tell you that from twelve years of reading accident reports, not from a brochure.

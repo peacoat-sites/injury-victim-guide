@@ -7,8 +7,6 @@ description: "Injured due to someone else's negligence? Learn what damages you m
 image: "https://images.pexels.com/photos/7876195/pexels-photo-7876195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["what", "damages", "recover", "personal", "injury"]
-author: "Sarah Chen"
-author_bio: "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."
 slug: "what-damages-can-i-recover-in-personal-injury"
 affiliate_disclosure: true
 faqs:
@@ -22,6 +20,11 @@ faqs:
     a: "Every state has a statute of limitations, a deadline by which you must file your lawsuit or lose your right to do so. In most states, this runs between one and three years from the date of injury. But certain circumstances, like injuries involving government entities or claims where you didn't immediately discover the cause of your harm, can change that window. Don't assume you have time. Get advice early."
   - q: "Will I have to go to court to receive compensation?"
     a: "The vast majority of personal injury claims settle before trial. Estimates vary, but most sources suggest roughly 95% of civil cases settle out of court. That said, having an attorney prepared to go to trial often produces significantly better settlement offers. Insurance companies know when the person across the table is willing to walk into a courtroom, and it changes the math."
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
+author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+
 ---
 
 You've just left the emergency room with a fractured wrist, a prescription for pain medication, and a bill for $4,200. The driver who ran the red light has insurance. So now what? Most people in that moment have one burning question: what can I actually get paid for? The answer is almost always broader than they expect, and I've watched countless people leave money on the table simply because they didn't know what to ask for.

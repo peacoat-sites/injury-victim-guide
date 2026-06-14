@@ -6,8 +6,6 @@ description: "Discover how to file a nursing home abuse personal injury claim, p
 image: "https://images.pexels.com/photos/7876205/pexels-photo-7876205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Other Injury Types"]
 tags: ["nursing", "home", "abuse", "personal", "injury"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "nursing-home-abuse-personal-injury-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You may still have options. Some arbitration clauses are unenforceable due to how they were presented (particularly if a cognitively impaired resident signed without a legal representative), and regulatory challenges have created ongoing uncertainty about their validity. An attorney who handles nursing home cases specifically will know your state's current case law on this."
   - q: "Can I file a criminal complaint in addition to a civil claim?"
     a: "Yes, and in some cases of egregious abuse, it may be appropriate. Criminal complaints go through local law enforcement or the state attorney general's office and are separate from your civil personal injury claim. A criminal investigation can sometimes generate evidence that strengthens your civil case, though the two processes move on different timelines and with different standards of proof."
+author: "Lisa Anderson"
+author_slug: "lisa-anderson"
+author_title: "Auto Accident Writer"
+author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+
 ---
 
 Roughly 91,000 complaints about nursing home abuse and neglect are filed in the United States every year, according to federal data. I'll be honest: when I was adjusting claims on the insurance side, nursing home cases made me genuinely uncomfortable. Not because they were legally complex, though they are. Because I watched families who were already grieving, already guilty about placing a loved one in a facility, walk into the claims process completely unprepared and get ground down by it.
