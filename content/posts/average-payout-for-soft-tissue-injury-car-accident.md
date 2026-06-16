@@ -104,27 +104,6 @@ Document the difference explicitly. Ask your doctor to note in your records what
 
 ---
 
-## FAQ
-
-### How long do soft tissue injury settlements take?
-
-Simple claims with short treatment courses can settle in two to four months. Claims involving ongoing treatment, disputes over liability, or significant lost wages often take one to two years, especially if a lawsuit is filed. Rushing to settle before treatment is complete almost always costs you money.
-
-### Does hiring an attorney actually increase what I'll receive?
-
-For most soft tissue claims of meaningful value, yes, in my experience. Attorney fees (typically 33% pre-suit, higher post-suit) can feel like a lot, but the net recovery after fees is frequently higher than what unrepresented claimants receive. That said, on small, clean, fast-resolving claims, the math is sometimes different. It's worth getting a free consultation to find out.
-
-### Will the insurance company access my social media?
-
-Yes. This is not paranoia. Adjusters and defense investigators routinely review public social media for posts or photos that contradict claimed injury severity. I've personally seen claims significantly reduced because of a Facebook photo posted two weeks after the accident. Be thoughtful about what you share while your claim is open.
-
-### What is "pain and suffering" and how is it calculated?
-
-Pain and suffering (technically called general or non-economic damages) compensates you for the physical pain, emotional distress, and reduced quality of life caused by your injury. There's no fixed formula. Insurers use multiplier methods or per diem calculations (assigning a daily dollar value for each day you suffered). It's the most negotiable component of a soft tissue claim.
-
-### Should I give a recorded statement to the other driver's insurance?
-
-You're generally not legally required to give a recorded statement to the at-fault driver's insurer (your own policy may have different requirements). Most attorneys advise against it before you've consulted with someone, because off-the-cuff answers to carefully worded questions can create inconsistencies that hurt your claim later.
 
 ---
 

@@ -123,27 +123,6 @@ If you want a structured way to do this, a medical records and injury documentat
 
 ---
 
-## Frequently Asked Questions
-
-### How long does a car accident settlement typically take?
-
-It depends heavily on how long your medical treatment lasts and how disputed liability is. Simple, clear-fault cases with minor injuries might resolve in three to six months. Cases involving serious injuries, disputed fault, or litigation can take one to three years. You generally want to reach "maximum medical improvement," the point where your doctors say you've healed as much as you're going to, before settling. Settling too soon means you might not know the full extent of your injuries.
-
-### Should I accept the first settlement offer?
-
-Almost never. First offers are almost always low. They're calibrated to close your claim before you understand its full value. Counter-offer. Negotiate. If the injury is significant, get a personal injury attorney to evaluate the offer before you respond.
-
-### Does a pre-existing condition kill my claim?
-
-No. Under the "eggshell plaintiff" doctrine, recognized in courts across the country, a defendant takes you as they find you. If a pre-existing back condition was aggravated or worsened by the crash, you can claim damages for that worsening. Insurers will absolutely use the pre-existing condition to minimize your claim, but it doesn't eliminate it.
-
-### What if the other driver had no insurance?
-
-You may still have options. Your own uninsured motorist (UM) coverage can step in. If you don't have it, this is an important reminder to add it immediately. You can also sue the at-fault driver personally, though collecting on a judgment against someone with no assets can be practically difficult.
-
-### Do I need a lawyer for a car accident settlement?
-
-Not always. For minor injuries with clear liability and a quick, fair-looking offer, some people handle claims on their own successfully. But for any injury requiring surgery, hospitalization, ongoing treatment, or resulting in permanent limitation, having a personal injury attorney evaluate your case costs you nothing upfront (most work on contingency) and almost always results in a higher recovery even after the attorney's fee. In my experience, insurers simply negotiate differently when they know you have representation.
 
 ---
 

@@ -113,27 +113,6 @@ If you've been told your injury is permanent or likely permanent, there are conc
 
 7. **Consult a personal injury attorney.** Attorneys who handle permanent disability cases typically work on contingency, meaning no upfront cost to you. The [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) offers solid public resources on how to find and evaluate legal representation.
 
-## FAQ
-
-### How much is a permanent disability settlement worth?
-
-There's no honest universal answer here, and anyone who gives you a number without knowing the details of your case is guessing. Settlements range from tens of thousands of dollars for minor permanent impairments to millions for catastrophic injuries like spinal cord damage or severe traumatic brain injury. The variables that matter most are your age, your pre-injury earnings, the nature and extent of your impairment, your medical documentation, and the liability picture. Looking at [average personal injury settlement amounts](/average-personal-injury-settlement-amounts/) can give you a baseline sense of ranges, but your specific circumstances drive the actual number.
-
-### Should I accept a lump sum or structured settlement?
-
-A lump sum gives you immediate access to the full amount. A structured settlement pays out over time in installments, often with tax advantages on the income stream. For people with catastrophic permanent injuries who need guaranteed long-term income, structured settlements can provide security. For others, the flexibility of a lump sum is more valuable. This is genuinely a decision worth discussing with both a financial advisor and your attorney, because the right answer depends on your situation.
-
-### Can my permanent disability settlement be taxed?
-
-Generally, compensation for physical injuries and physical sickness in a personal injury settlement is not taxable under federal law. That includes medical expenses and pain and suffering. But portions of a settlement attributed to punitive damages, emotional distress not tied to a physical injury, or lost wages can be taxable. Workers' comp benefits are also typically tax-exempt. Tax treatment is complex enough that consulting a tax professional on the specifics of your settlement is always worthwhile.
-
-### What if the insurance company's doctor says my disability is less severe than mine does?
-
-This is extremely common. Insurance-appointed physicians conducting IMEs sometimes reach conclusions that favor the insurer. Their opinions aren't automatically controlling. Your own treating physician's records and opinions carry real weight, especially if you've been a consistent patient over time. Disputed disability ratings often get resolved through negotiation, additional medical opinions, or, in litigation, through testimony before a judge or jury. According to [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury), having strong contemporaneous medical records is one of the most effective tools for countering adverse IME findings.
-
-### How long does a permanent disability settlement take?
-
-Cases involving permanent disabilities tend to take longer than straightforward injury claims, because you need to reach MMI first, gather expert opinions on future losses, and often fight harder against lowball offers. A relatively straightforward case might resolve in 12 to 18 months. Complex cases involving catastrophic injuries, disputed liability, or large dollar amounts can take two to four years or longer if they go to trial. Understanding [how long personal injury cases take](/how-long-do-personal-injury-cases-take/) and what drives those timelines helps you plan accordingly.
 
 ---
 

@@ -118,27 +118,6 @@ Outcomes vary significantly by state, because bad faith law is largely state-spe
 
 ---
 
-## FAQ
-
-### Is a low settlement offer automatically bad faith?
-
-No. An insurer can make a low offer and it's not bad faith on its own. It becomes bad faith when the insurer knows the offer is inadequate based on its own evidence and offers it anyway as a deliberate strategy, or when the offer has no reasonable basis in the facts of the claim.
-
-### Can I file a bad faith complaint myself, without an attorney?
-
-You can file a complaint with your state's Department of Insurance, and you should, it creates a paper record and regulators do act on patterns of complaints. But a bad faith lawsuit requires an attorney. The legal standards are specific and the discovery process is complex.
-
-### Does bad faith apply to health insurance too?
-
-Yes. Health insurers can act in bad faith by wrongfully denying coverage, delaying authorizations for medically necessary treatment, or misrepresenting what your policy covers. The legal framework is similar, though health insurance bad faith has some additional layers due to federal ERISA rules if your coverage is employer-sponsored.
-
-### How long do I have to file a bad faith claim?
-
-The statute of limitations (the legal deadline to file) varies by state and sometimes by the type of bad faith claim. It's often between two and four years from when the bad faith conduct occurred, but don't rely on that range for your situation. Talk to an attorney sooner rather than later, because waiting rarely helps you.
-
-### What if the insurer was just slow and disorganized, not deliberately acting in bad faith?
-
-Intent matters, but it's not always required. Many state bad faith statutes impose liability for unreasonable conduct regardless of whether the insurer intended to harm you. Systemic incompetence that results in your claim being mishandled can still be actionable. The question is whether the conduct was reasonable, not whether someone had evil intent.
 
 ---
 

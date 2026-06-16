@@ -130,27 +130,6 @@ One factor that complicates timing: medical liens. If your health insurance paid
 
 ---
 
-## FAQ
-
-### How long do I have to file a claim after a rear-end accident?
-
-The relevant deadline is the statute of limitations for personal injury claims in your state. It typically ranges from one year to three years from the date of the accident, though some states allow more. Missing this deadline almost certainly bars your claim permanently. Don't treat this as a rough guideline. Mark the date and consult an attorney well before it arrives.
-
-### Do I need an attorney for a minor rear-end accident?
-
-Not always. If your injuries were genuinely minor, fully resolved in a few weeks, and your medical expenses were modest, you may be able to negotiate directly with the insurer and reach a fair result. But "minor" is easy to misjudge in the first few weeks. If your symptoms persist past 30 days, if you missed work, or if you're receiving conflicting signals from the adjuster, a free consultation with an attorney costs you nothing and may change your assessment.
-
-### What if the other driver says I stopped suddenly and caused the crash?
-
-Sudden stop arguments are a standard defense, but they rarely succeed. Following distance is the rear driver's legal responsibility. That said, if there's any argument about your share of fault, your state's comparative or contributory negligence rules come into play. This is exactly the kind of dispute where legal representation matters most.
-
-### Can I still recover damages if I had a pre-existing condition?
-
-Yes. The legal concept is called the "eggshell plaintiff" rule: defendants take victims as they find them. If a prior neck injury made you more vulnerable to the crash injury, that vulnerability doesn't reduce your recovery. What you can recover is the aggravation of your prior condition caused by the crash. This requires clear medical documentation comparing your pre-crash and post-crash condition, which is another reason prompt and thorough medical care matters.
-
-### Should I accept the first settlement offer?
-
-Rarely. First offers from insurance adjusters are opening positions, not final offers. They're calculated to close the file quickly and cheaply. In my experience, first offers on soft tissue claims frequently don't account for the full cost of ongoing treatment, lost wages, or pain and suffering. Get the offer in writing, don't respond immediately, and consult an attorney before accepting anything.
 
 ---
 

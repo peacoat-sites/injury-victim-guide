@@ -98,27 +98,6 @@ If you're in the middle of this right now, here's what you should be doing in ro
 | Your age/occupation | Younger person, physical occupation | Shorter work life remaining, sedentary work |
 | Documentation | Thorough records, injury journal, photos | Sparse records, no contemporaneous evidence |
 
-## FAQ
-
-### How long does a broken bone settlement typically take?
-
-It varies widely. A straightforward claim with clear liability and a fully healed injury might resolve in three to six months. Complex cases, especially those involving surgery, disputed liability, or ongoing medical treatment, often take one to three years, and sometimes longer if litigation is necessary. One important principle: don't settle before you've reached "maximum medical improvement" (MMI). That's the point at which your doctor says you've healed as much as you're likely to. Settling before MMI means you might not know the full extent of your damages yet.
-
-### Should I accept the first offer from the insurance company?
-
-Almost never. First offers from insurance adjusters are typically low, sometimes significantly so. They're testing whether you know your claim's value. That's not cynicism, it's how the system works. I've watched adjusters triple their initial offers when a claimant came back with organized documentation and a clear demand. Always respond with a written counteroffer supported by your documented damages.
-
-### Does my health insurance affect my settlement?
-
-Yes, and this is something a lot of people don't realize until late in the process. If your health insurance paid for treatment related to the injury, they often have a right of subrogation, meaning they can seek reimbursement from your settlement. This is especially common with employer-sponsored insurance and Medicare/Medicaid. An attorney can sometimes negotiate these liens down, which affects your net recovery.
-
-### What if I have a pre-existing condition in the same bone that was fractured?
-
-You're still entitled to compensation. The legal concept that applies here is the "eggshell plaintiff" rule: defendants take you as they find you. If your bone was weakened by osteoporosis and a fall that might cause a minor injury in a healthier person caused a severe fracture in you, that's still a compensable injury. The challenge is proving causation clearly, which makes medical documentation even more critical.
-
-### Do I need an attorney for a broken bone claim?
-
-For minor fractures with small medical bills and clear liability, some people successfully handle their own claims. But for anything involving surgery, significant lost wages, permanent hardware, lasting pain, or disputed fault, having legal representation almost always makes financial sense. Personal injury attorneys who handle these cases charge contingency fees, typically 33 percent pre-litigation and higher if the case goes to trial. Even after that fee, represented claimants typically recover more than unrepresented ones on comparable injuries.
 
 ---
 

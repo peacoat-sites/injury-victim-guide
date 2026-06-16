@@ -119,27 +119,6 @@ If the case goes to trial, the outcome is decided by a judge or jury and can be 
 
 ---
 
-## FAQ
-
-### How long does a TBI settlement take?
-
-There's no universal timeline, but TBI cases are often slower than simpler injury claims. Because it can take 12 to 24 months or longer to reach MMI and get a full picture of future care needs, rushing the process usually hurts the claimant. Cases that go into litigation can take several years from accident to resolution.
-
-### Can I get compensation if my TBI doesn't show on imaging?
-
-Yes. Many documented TBIs, especially mild to moderate ones, don't show structural damage on a standard CT or MRI. Neuropsychological testing, functional MRI (fMRI), and diffusion tensor imaging (DTI) can detect functional and connectivity changes that standard scans miss. The absence of visible damage on a CT scan does not mean the injury isn't real or compensable.
-
-### What if I had a pre-existing brain condition before the accident?
-
-Pre-existing conditions don't automatically disqualify you from compensation. Under the "eggshell plaintiff" rule, defendants are generally required to take victims as they find them. If the accident aggravated or accelerated a pre-existing condition, you may still recover damages for the worsened state. This is a complex area and genuinely requires attorney guidance.
-
-### How are future medical costs calculated in a TBI settlement?
-
-A life care planner, who is typically a nurse or rehabilitation specialist, develops a detailed projection of all anticipated future medical needs and their costs over your expected lifetime. An economist then converts those future costs into a present-dollar value. Insurance companies will challenge these projections aggressively, so the qualifications and methodology of your experts matter significantly.
-
-### Should I accept a structured settlement instead of a lump sum?
-
-It depends entirely on your situation. A structured settlement pays out over time through an annuity, which can provide tax advantages and long-term financial stability. A lump sum gives you full control but requires careful financial management. For people whose injury has affected cognitive function and financial decision-making, a structured settlement or a special needs trust may provide better long-term protection. This is a conversation to have with both your attorney and a financial advisor.
 
 ---
 

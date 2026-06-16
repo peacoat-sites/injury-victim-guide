@@ -156,27 +156,6 @@ You can also file a complaint with your state's Department of Insurance. It does
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if a settlement offer is actually too low?
-
-Compare the offer against your documented losses, not your gut feeling. Add up your medical bills, lost wages, out-of-pocket costs, and an honest estimate of your pain and suffering. If the offer doesn't cover your economic damages alone, that's a clear signal. If it barely covers them and ignores non-economic damages entirely, it's almost certainly too low. A free consultation with a personal injury attorney can give you an outside perspective on what your claim might actually be worth.
-
-### Can I negotiate with the insurance company myself, or do I need a lawyer?
-
-You can absolutely negotiate yourself. Many people do, successfully. What I've seen, though, is that the more serious and complicated the case, the more valuable professional representation becomes. For a minor fender-bender with no ongoing medical issues, self-negotiation with a good demand letter can work well. For anything involving significant injury, disputed fault, or large dollar amounts, the research suggests represented claimants consistently do better, even after attorney fees.
-
-### What if I already said I'd accept the offer?
-
-If you've verbally indicated acceptance but haven't signed a release or cashed a check, your options may still be open. Do not sign anything until you're certain. If you've signed a release, the situation is much more difficult. A release is a legally binding document that typically ends your right to pursue additional compensation. This is exactly why the "don't accept, don't imply acceptance" step is so critical at the start.
-
-### How long does the negotiation process usually take?
-
-The research here is genuinely mixed, and it depends heavily on the complexity of your case, how quickly you reach maximum medical improvement (the point where your treatment is complete or stable), and how motivated the insurer is to resolve things. Simple cases can settle in weeks. Cases involving surgery, long-term treatment, or disputed liability can take months or longer. Don't let impatience push you into accepting less than you're owed. Settling too early, especially before you know your full medical picture, is one of the most common and costly mistakes I've seen.
-
-### What is "maximum medical improvement" and why does it matter?
-
-Maximum medical improvement, often abbreviated MMI, is the point at which your doctor determines your condition has stabilized. You may still have ongoing issues, but your treatment has reached a plateau. This matters enormously because once you settle, you typically can't go back for more money even if your condition worsens. Settling before MMI means you might not know yet whether you'll need future surgery, physical therapy, or long-term medication. Waiting until you or your doctor have a clear picture of your future medical needs is almost always the right move, even when the wait is frustrating.
 
 ---
 

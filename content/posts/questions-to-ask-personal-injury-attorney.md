@@ -126,27 +126,6 @@ Consult at least two attorneys before choosing. Consultations are free. The comp
 
 ---
 
-## FAQ
-
-### How many attorneys should I consult before choosing one?
-
-At minimum, two. Three is better. Consultations cost you nothing but time, and the contrast between attorneys -- how they explain things, what they emphasize, how they treat you -- tells you a lot. Don't default to the first person you meet just because the meeting went fine.
-
-### Is it okay to ask an attorney about their win rate?
-
-Yes, though interpret the answer carefully. "Win rate" can be defined in different ways, and a high settlement rate doesn't necessarily tell you whether those settlements were good outcomes relative to the case value. More useful: ask how many of their cases go to trial and how those cases have typically resolved.
-
-### What if I can't afford to pay for case expenses upfront?
-
-Most personal injury firms advance case expenses and recover them from the settlement. This is standard practice. Ask explicitly whether you'll owe anything out of pocket if the case doesn't settle or you lose at trial -- some firms absorb those costs entirely, others do not.
-
-### Can I switch attorneys after I've already signed with one?
-
-Yes. You always have the right to change representation. The complication is that your original attorney may place a lien on your eventual settlement for the work they performed. Before switching, talk to the new attorney about how that lien would be handled.
-
-### What should I bring to a first consultation with a personal injury attorney?
-
-Bring everything you have: police or accident reports, medical records and bills, photos of injuries and the accident scene, insurance correspondence, your own written account of what happened, and any documentation of lost wages. The more a lawyer can see upfront, the more useful their assessment will be.
 
 ## Helpful Resources
 

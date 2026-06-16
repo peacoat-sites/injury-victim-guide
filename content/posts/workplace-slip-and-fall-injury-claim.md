@@ -122,27 +122,6 @@ I spent 12 years on the other side of this. I know how claims get minimized, del
 
 ---
 
-## Frequently Asked Questions
-
-### Can I be fired for filing a workers' comp claim?
-
-Legally, no. Retaliation for filing a workers' comp claim is prohibited under the laws of every U.S. state. In practice, some employers create a hostile environment, find pretextual reasons to terminate, or suddenly discover "performance issues" after a claim is filed. If you believe you're experiencing retaliation, document everything and consult an employment attorney. That becomes a separate legal matter from your injury claim.
-
-### Do I need an attorney for a workplace slip and fall?
-
-Not always, but it depends on severity and complexity. A minor injury with clear liability and a cooperative employer may settle through the workers' comp system without legal representation. A serious injury, a disputed claim, a third-party liability situation, or any case where your employer's insurer is pushing back hard: those benefit from an attorney's involvement. Most personal injury attorneys take these cases on contingency, meaning no upfront fees. A consultation typically costs nothing.
-
-### What if the fall was partly my fault?
-
-Workers' comp doesn't require you to prove the employer was at fault, so your own negligence generally doesn't eliminate your workers' comp benefits. For a personal injury lawsuit against a third party, comparative fault laws apply. In most states, you can still recover even if you were partially at fault, but your award is reduced by your percentage of responsibility. A few states still use contributory negligence rules where any fault on your part can bar recovery entirely. Know your state's rules.
-
-### How long do I have to file a claim?
-
-Two separate deadlines apply here. The workers' comp reporting deadline (notifying your employer) is typically 30 to 90 days from the injury, depending on the state. The statute of limitations for filing a workers' comp claim or a personal injury lawsuit is separate, typically one to three years from the date of injury, again depending on jurisdiction. Missing either deadline can be fatal to your claim. Don't let the workers' comp process lull you into thinking the civil lawsuit clock isn't also running.
-
-### What if my employer says I don't qualify for workers' comp because I'm an independent contractor?
-
-This is a real and growing issue, particularly in gig economy and construction contexts. Employers sometimes misclassify workers as independent contractors to avoid workers' comp obligations. The legal test for worker classification isn't what your contract says. It's how the work relationship actually functions, including who controls how you work, whether you use the employer's equipment, and whether this work is central to the employer's business. If you suspect misclassification, a workers' comp attorney or your state's labor department can help you challenge it.
 
 ---
 

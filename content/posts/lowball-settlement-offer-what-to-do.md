@@ -120,27 +120,6 @@ Sometimes the negotiation breaks down. The insurer won't budge, or their improve
 
 If your case involves a back injury, a neck injury, or a fracture, these tend to have more at stake and are worth understanding in terms of [how back injury settlements are valued in car accidents](/back-injury-settlement-amounts-car-accident/) and comparable outcomes for [broken bone injury settlements](/broken-bone-injury-settlement-average/).
 
-## FAQ
-
-### Is a first offer from an insurance company ever fair?
-
-It can be, but it's rare. In my experience, a fair first offer usually only happens when liability is crystal clear, the damages are modest and fully documented, and the adjuster has seen all the records. Even then, "fair" is often still a little low. You should always verify the offer against your actual documented damages before accepting anything.
-
-### Should I sign the release that comes with the settlement check?
-
-No, not without reading it extremely carefully. A general release typically means you're giving up all future claims related to this incident, forever. If you later discover you need additional surgery or your condition worsens, you can't go back. Never sign a release before your medical treatment is complete, and ideally not before an attorney has reviewed it.
-
-### Can I negotiate without a lawyer?
-
-Yes. Many people handle minor injury claims on their own successfully. But if your injuries are serious, if the insurer is disputing fault, or if there are multiple parties involved, working without legal representation puts you at a significant disadvantage. The consultation is free. Use it.
-
-### How long does this process usually take?
-
-It varies enormously depending on injury severity, how quickly you reach maximum medical improvement, and how cooperative the insurer is. Simple claims can resolve in a few months. Complex ones can stretch to two years or more. For a realistic timeline based on injury type, understanding [how long personal injury cases typically take](/how-long-do-personal-injury-cases-take/) helps set expectations.
-
-### What if I already accepted a lowball offer?
-
-In most cases, once you've signed a release and cashed the check, it's over. That's exactly why insurers move quickly. There are rare exceptions, such as fraud or duress, but they're legally difficult to prove. If you signed recently and haven't cashed the check, contact an attorney immediately. If the settlement check is already cashed and the release is signed, your options are extremely limited.
 
 ---
 

@@ -113,27 +113,6 @@ I've watched people do everything right at the accident scene and then quietly u
 
 ---
 
-## Frequently Asked Questions
-
-### How soon after an accident do I need to see a doctor?
-
-The same day is ideal. The next day is still strong. Beyond 72 hours and you'll start facing questions about the gap. Beyond a week and it becomes a meaningful obstacle for your claim. I know that sounds harsh when you're hoping the pain goes away on its own, but the medical record created on day one is the anchor for everything that follows. Even if you feel okay, a documented baseline exam is worth having.
-
-### What if I didn't take photos at the scene?
-
-Get them as soon as possible. If the vehicles are still in a repair yard or impound lot, you may be able to photograph them there. Photograph your injuries starting now, even if some time has passed. Order a copy of the police report, which will have a diagram and the officer's observations. Ask if any witnesses took photos or video. Some intersections have traffic cameras and some businesses have security cameras that capture the street. Evidence can sometimes be retrieved if you act quickly.
-
-### Do I need a personal injury attorney to document my case?
-
-You don't need an attorney to document your injuries well. The steps above are things anyone can do. That said, an attorney can help you understand what documentation matters most for your specific situation, communicate with insurance companies on your behalf, and make sure you don't accidentally waive rights or miss deadlines. For any injury that required medical treatment, a free consultation with a personal injury attorney costs you nothing and can tell you a lot about where you stand.
-
-### Can I still file a claim if I have a pre-existing condition?
-
-Yes. Having a pre-existing condition doesn't disqualify you from recovering compensation, but it does complicate things. The legal standard in most states is that a defendant takes you as they find you, sometimes called the "eggshell plaintiff" rule. This means if an accident aggravates a prior injury, you can still recover for that aggravation. The key is being upfront with your doctors about your medical history and making clear in the records which symptoms are new or worsened since the accident. Trying to hide a pre-existing condition almost always backfires.
-
-### What should I do if the insurance company says my injuries aren't documented?
-
-Get more documentation. Request a complete copy of your medical records and review them yourself. Look for any missing visits, any vague language, or any inconsistencies. Ask your treating physician to write a narrative letter connecting your injuries to the accident and explaining your prognosis and functional limitations. This is sometimes called a causation letter, and it carries real weight. If the insurer is still refusing to engage seriously, that's a strong signal to consult with a personal injury attorney before the situation gets worse.
 
 ---
 

@@ -142,27 +142,6 @@ In my experience, these are the errors I see most often, and they're all avoidab
 
 ---
 
-## Frequently Asked Questions
-
-### Can I claim lost wages if I'm self-employed?
-
-Yes. Being self-employed doesn't disqualify you from recovering lost income. The standard is higher because you need to prove your income independently, but tax returns, bank records, invoices, contracts, and client statements can all support your claim. An accountant or financial expert can help prepare a clear picture of your average income and what the injury cost you.
-
-### What if I used sick or vacation days instead of taking unpaid leave?
-
-You can still claim that loss. Paid time off is a benefit you earned. The accident forced you to use it involuntarily, and that use has real monetary value. Document the specific days you used and the cash value of those days based on your pay rate.
-
-### How do I prove I would have worked overtime?
-
-You'll need to show a consistent history of overtime. Pay stubs showing regular overtime pay over the prior several months is the strongest evidence. A letter from your employer confirming that overtime was expected or scheduled can help too. Courts won't speculate, but they will compensate based on demonstrated patterns.
-
-### Does lost wages affect my total settlement amount significantly?
-
-It depends heavily on your income, the severity of your injury, and how long you were unable to work. For some people it's a few hundred dollars. For others, especially those with serious long-term injuries, it can represent the largest part of their claim. If you're trying to get a sense of the overall picture, reading about [how much your personal injury case might be worth](/how-much-is-my-personal-injury-case-worth/) can help frame your expectations.
-
-### Should I hire an attorney to recover lost wages?
-
-For minor injuries with a few days of missed work, you may be able to handle it yourself with proper documentation. For anything involving extended recovery, self-employment income, or potential lost earning capacity, an attorney with personal injury experience can make a substantial difference. Most personal injury attorneys work on contingency, meaning you pay nothing unless you recover money. The consultation is almost always free.
 
 ---
 

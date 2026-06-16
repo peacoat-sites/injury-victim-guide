@@ -117,27 +117,6 @@ The research here is a bit mixed on some edge cases, but the core rule is consis
 
 ---
 
-## FAQ: Slip and Fall Cases
-
-### Does the property owner automatically owe me compensation if I fell on their property?
-
-No. A fall alone doesn't create liability. You have to show that the property owner's negligence, their failure to maintain a safe environment or warn you of a known hazard, caused your fall. If you tripped over your own feet on a perfectly maintained floor, that's not someone else's legal responsibility.
-
-### What if there was a "wet floor" sign but I still slipped?
-
-This is more nuanced than people think. A sign is evidence that the owner knew about the hazard. But whether it adequately warned you depends on where it was placed, whether it was visible, and whether the hazard extended beyond the area the sign covered. A sign hidden behind a display rack or a single cone covering a 20-foot puddle may not satisfy the duty to warn.
-
-### Can I still recover compensation if I was partially at fault?
-
-In most states, yes, though your award will be reduced proportionally to your share of fault. If you were found 30% at fault and your damages were $100,000, you'd receive $70,000. In states with contributory negligence rules, even a small percentage of fault on your part can bar recovery entirely. This is one of many reasons the specific state where your fall happened matters enormously.
-
-### How much is my slip and fall case worth?
-
-I won't give you a number, because the honest answer is: it depends on too many factors to generalize. The severity and permanence of your injuries, your lost income, the strength of your evidence, your share of fault, and the policy limits of the property owner's insurance all play a role. Anyone who quotes you a specific dollar figure before reviewing your actual medical records and case details is guessing.
-
-### Do I really need a lawyer for a slip and fall case?
-
-For minor injuries where you've fully recovered, you might handle a small claim yourself. But for anything involving significant medical treatment, time off work, or lasting effects, an attorney almost always improves your outcome. Studies consistently show that represented claimants receive higher settlements on average, even after attorney fees. Most personal injury attorneys work on contingency, so there's no upfront cost.
 
 ---
 

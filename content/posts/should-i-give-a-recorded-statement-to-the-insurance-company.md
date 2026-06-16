@@ -109,27 +109,6 @@ The only scenario where declining genuinely backfires is with your own carrier w
 
 ---
 
-## FAQ
-
-### Can I just give a written statement instead of a recorded one?
-
-Yes, and honestly this is often a smarter option. A written statement gives you time to think through your words carefully, and you can review it before submitting. If an adjuster insists the recording is required, ask them to point to the specific policy language that says so. If they can't, you have room to negotiate the format.
-
-### What if I already gave a recorded statement before I knew any of this?
-
-It's not automatically fatal to your claim. A lot of people give early recorded statements and still reach fair settlements. What matters now is that you document everything going forward carefully, get a thorough medical evaluation if you haven't already, and consult an attorney who can review what you said and help contextualize it if necessary.
-
-### How long can I wait before responding to the insurance company?
-
-There's no universal timeline, but you don't want to go weeks without any response at all -- that can create its own complications. A few days to a couple of weeks while you get organized and consult with an attorney is generally fine. Just don't ignore the calls entirely without a plan.
-
-### Does having an attorney present during a recorded statement actually help?
-
-Significantly. An attorney can object to questions outside the proper scope, prevent the paraphrase trap, advise you on what not to answer, and ensure the statement is taken fairly. If your own insurer requires a recorded statement, asking to have counsel present is a reasonable request they generally have to accommodate.
-
-### What should I never say in a recorded statement, even if I think it's harmless?
-
-Avoid any speculation about fault ("I might have been going too fast"), any minimizing of your symptoms ("it's not that bad"), any reference to prior injuries without legal guidance, and any agreement with the adjuster's summary of what you said. Stick to direct observations: what you saw, what you felt, what happened step by step. If you don't know or don't remember, say exactly that.
 
 ---
 

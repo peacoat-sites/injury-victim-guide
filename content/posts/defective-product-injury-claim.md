@@ -108,27 +108,6 @@ The important thing is not to assume you have more time than you do. I've seen p
 
 ---
 
-## FAQ
-
-### How do I know if I have a valid defective product claim?
-
-The basic elements are: a product was defective (in its design, manufacturing, or warnings), you were using it in a reasonably foreseeable way, and that defect caused you a measurable injury. If those three things are true, you likely have a claim worth evaluating with a personal injury attorney, many of whom offer free initial consultations in product liability cases.
-
-### Can I still file a claim if I threw away the product?
-
-It's harder, but not necessarily fatal to your case. Other evidence can sometimes substitute: photos taken at the time, medical records that describe the product and how the injury occurred, witness statements, and records of similar incidents involving the same product. Preserve whatever you still have immediately and consult an attorney about your options.
-
-### What if I was partly at fault for the injury?
-
-Most states use some version of comparative fault, which means your compensation can be reduced by your percentage of responsibility, but you can still recover something even if you bore some of the fault. A handful of states use contributory negligence rules that can bar recovery entirely if you were at all at fault. An attorney in your state can tell you which rules apply.
-
-### Do I need to file a complaint with any government agency?
-
-You're not required to, but it can help. The Consumer Product Safety Commission (CPSC) maintains a database of product injury reports at SaferProducts.gov, and filing there creates a public record that can surface similar incidents involving the same product. For food, drugs, and medical devices, the FDA has its own reporting systems. These filings support your claim indirectly by building evidence of a pattern.
-
-### How long do product liability cases typically take?
-
-Honestly, this varies so much that specific timelines can be misleading. Straightforward cases that settle without litigation can resolve in months. Complex cases involving major manufacturers, multiple defendants, and significant injuries can take two to four years or longer if they go to trial. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) shows just how common product-related injuries are nationally, which also means courts and insurers have well-worn processes for handling them, for better and worse.
 
 ---
 

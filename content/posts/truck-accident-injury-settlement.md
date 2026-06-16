@@ -106,27 +106,6 @@ If negotiations stall, filing a lawsuit doesn't necessarily mean going to trial.
 
 ---
 
-## Frequently Asked Questions
-
-### How long do I have to file a truck accident lawsuit?
-
-The statute of limitations varies by state, but most states give personal injury claimants between two and three years from the date of the accident to file a lawsuit. Some states have shorter windows. Wrongful death claims sometimes have different timelines. Missing this deadline typically means you lose the right to sue entirely, regardless of how strong your case is. Talking to an attorney as early as possible protects you from accidentally running out the clock.
-
-### Can I settle directly with the trucking company without an attorney?
-
-You can, but I'll be honest with you: it's rarely in your best interest. The trucking company's insurer employs professional negotiators whose job is to resolve claims for as little as possible. Without knowledge of trucking regulations, the full scope of potential defendants, or how to value future medical needs, most unrepresented claimants undervalue their claims significantly. A free consultation with a personal injury attorney costs you nothing and gives you a baseline for what your case is actually worth.
-
-### What if the truck driver was an independent contractor, not a company employee?
-
-This is a common defense trucking companies raise, and it's often worth challenging legally. Courts look at the actual relationship between the driver and the company, not just what the contract says. If the company controlled the driver's schedule, required them to use company equipment, or set specific operational standards, the contractor classification may not hold up. This is exactly the kind of legal nuance that affects which insurance policies are potentially available.
-
-### Will my own insurance cover me in the meantime?
-
-Possibly. Your own auto insurance policy may include medical payments coverage (MedPay) or personal injury protection (PIP) depending on your state. These coverages can help pay medical bills while your claim against the trucking company is being resolved. Uninsured/underinsured motorist coverage may also be relevant in some circumstances. Check your policy or call your own insurer (separate from giving any statement to the other party's insurer) to understand what's available to you.
-
-### What if I was partly at fault for the accident?
-
-Most states use some version of comparative negligence, which means your compensation can be reduced by your percentage of fault but you may still be able to recover something. A few states still follow contributory negligence rules, which can bar recovery entirely if you're found even slightly at fault. The trucking company's insurer will almost certainly try to assign some fault to you, which is another reason having legal representation to push back on those arguments matters.
 
 ---
 

@@ -96,27 +96,6 @@ One consultation is not always enough. The first attorney who offers to take you
 
 ---
 
-## Frequently Asked Questions
-
-### How long does a free consultation with a personal injury attorney take?
-
-Most run 30 to 60 minutes, though complex cases sometimes go longer. Phone or video consultations used as an initial screen tend to be shorter, around 15 to 20 minutes, before an in-person meeting is scheduled.
-
-### Will the attorney tell me how much my case is worth at the consultation?
-
-Responsible attorneys won't give you a specific number this early, and you should be skeptical of anyone who does. They can discuss the general factors that influence value, but a real assessment requires medical records, a treatment end point, and often independent investigation.
-
-### What if I was partially at fault for the accident?
-
-Tell the attorney the truth. Most states use some version of comparative negligence, meaning you can still recover damages even if you were partially responsible, though the amount may be reduced. Hiding your partial fault doesn't help and can blow up a case later.
-
-### Do I have to pay anything if the attorney takes my case and loses?
-
-In most personal injury contingency agreements, you owe no attorney fees if you lose. However, some firms charge for hard costs like court filing fees or expert reports regardless of outcome. Ask specifically about this before signing, and get the answer in writing.
-
-### Can I consult more than one attorney before deciding?
-
-Yes, absolutely. There's no obligation created by attending a free consultation, and comparing two or three attorneys before committing is smart. Just be mindful of your state's statute of limitations so the process doesn't eat up time you don't have.
 
 ## Helpful Resources
 

@@ -100,27 +100,6 @@ Keep every piece of correspondence from the insurance company. Date every phone 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I negotiate my permanent disability workers' comp settlement, or is the offer final?
-
-The offer is almost never final. Settlements are negotiated, and the initial figure represents what the insurer wants to pay, not necessarily what your case is worth. You can counter through your attorney, through mediation, or through a formal hearing before a workers' comp judge. The strength of your medical evidence and documentation significantly affects your leverage.
-
-### Do I need an attorney for a permanent disability settlement?
-
-You're not legally required to have one, but the stakes are high enough that going it alone carries real risk. A workers' comp attorney who specializes in permanent disability claims knows the local judges, the common insurer tactics, and the full value of claims like yours. Since most work on contingency, the cost question is more about whether their involvement nets you more money overall, which research and anecdotal experience suggest it typically does in complex cases.
-
-### How long does it take to settle a permanent disability workers' comp claim?
-
-It varies widely. Straightforward cases where liability is clear and both sides agree on the disability rating can resolve in a few months after MMI. Disputed cases, those involving contested ratings, denied claims, or serious injuries with Medicare set-aside requirements, can take one to three years or more. Don't let anyone pressure you to settle before you're ready.
-
-### What happens to my health insurance if I settle?
-
-If your settlement closes the medical portion of your claim, you'll lose the right to future injury-related treatment through workers' comp. That means your regular health insurance (or Medicare/Medicaid) will need to cover ongoing care. Plan for this before you sign. If you need continued treatment, a structured settlement that preserves future medical benefits may be worth more than a larger lump sum.
-
-### Can my workers' comp settlement affect my Social Security Disability benefits?
-
-Yes, it can. The Social Security Administration applies what's called a "workers' comp offset" that can reduce your SSDI payments if your combined workers' comp and SSDI benefits exceed 80% of your pre-injury average earnings. How your settlement is structured, paid all at once versus spread over time, can affect the size of this offset. An attorney or a benefits counselor who understands both systems should review this before you finalize your settlement.
 
 ---
 

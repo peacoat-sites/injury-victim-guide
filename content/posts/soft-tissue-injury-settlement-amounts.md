@@ -114,27 +114,6 @@ The decision to litigate is never easy. It takes time, often 18 months to severa
 
 ---
 
-## Frequently Asked Questions
-
-### How long do soft tissue injury settlements take?
-
-It varies widely. A straightforward claim with clear liability, completed medical treatment, and a cooperative insurer might settle in two to four months. Claims involving disputed liability, ongoing treatment, or litigation can take anywhere from one to three years or longer. One practical tip: don't rush to settle before you've reached what doctors call "maximum medical improvement," which is the point at which your condition has stabilized and your future medical needs can be reasonably estimated.
-
-### Can I settle a soft tissue injury claim without an attorney?
-
-Yes, you can. Many people handle minor claims on their own, particularly for injuries that fully resolved with minimal treatment. But if your injury is significant, your treatment costs are substantial, or the insurance company is pushing back, working without an attorney puts you at a real disadvantage. Insurance carriers have teams of professionals trained to minimize what they pay. An attorney levels that playing field.
-
-### What if the other driver's insurance denies liability?
-
-Disputed liability is one of the most common reasons claims stall. If the insurer claims their driver wasn't at fault, you'll need evidence: police reports, witness statements, traffic camera footage, photos of vehicle damage, and accident reconstruction in complex cases. This is where having an attorney becomes especially valuable, because building a liability case requires knowing what to look for and how to present it.
-
-### Does having a pre-existing condition hurt my claim?
-
-Not necessarily, and don't let an adjuster convince you it does. The legal standard in most states is the "eggshell plaintiff" rule: defendants must take you as they find you. If you had a prior neck injury and the accident aggravated or accelerated that condition, you're entitled to compensation for the aggravation. The challenge is documenting the difference between your baseline before the accident and your condition after, which is another reason medical records from before and after the incident matter so much.
-
-### Will my claim be worth less if I didn't go to the hospital right away?
-
-It makes things harder, but it doesn't necessarily destroy your claim. You'll need a compelling explanation for the gap, and it should be honest. Many people genuinely don't feel hurt immediately after an accident. What matters is what you do once symptoms appear: seek treatment promptly, be consistent, and document everything from that point forward.
 
 ---
 

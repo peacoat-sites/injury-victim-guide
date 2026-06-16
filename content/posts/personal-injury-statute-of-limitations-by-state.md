@@ -120,27 +120,6 @@ Filing a lawsuit doesn't mean you're going to trial. The vast majority of person
 
 ---
 
-## FAQ: Statute of Limitations Questions
-
-### Does the statute of limitations clock pause if I'm in settlement negotiations with the insurance company?
-
-No, it does not. Settlement negotiations do not toll the statute of limitations under any state law. This is one of the most dangerous misconceptions out there. The insurer can keep you talking until your deadline passes, and then the lawsuit option disappears. If you're close to your deadline, file first, negotiate after.
-
-### What happens if I miss the deadline by just a few days?
-
-Courts almost never make exceptions for late filings based on missed deadlines, even by a day or two. There are narrow exceptions, such as fraudulent concealment by the defendant, but they are genuinely rare and hard to prove. Assume the deadline is firm.
-
-### Does the statute of limitations apply to property damage claims too?
-
-Property damage claims typically have their own separate statute of limitations, and it's often different from the personal injury deadline in the same state. In many states, property damage claims have a three or four year limit even when the personal injury limit is two years. Verify both separately.
-
-### Can I still sue if my state's limit has passed but the accident happened in a different state?
-
-Potentially, yes. When an accident crosses state lines, or when you live in a different state than where the injury occurred, choice-of-law questions come into play. Courts use various tests to decide which state's statute of limitations governs. This is genuinely complex territory and requires a lawyer, not a general resource.
-
-### If the at-fault driver's insurance already paid me something, does that affect the deadline?
-
-Receiving a partial payment or signing certain documents with an insurer might affect your claim depending on the language, but it does not automatically stop the statute of limitations clock. Some release forms, if you signed one, might actually have waived your right to sue for additional damages. Get a lawyer to review anything you signed before assuming you're still free to file.
 
 ---
 

@@ -104,27 +104,6 @@ A consultation with a personal injury attorney, many of whom offer free initial 
 
 ---
 
-## Frequently Asked Questions
-
-### How long do I have to file a claim after a parking lot slip and fall?
-
-This is governed by the *statute of limitations* in your state, which is the legal deadline for filing a lawsuit. Most states set this at two to three years for personal injury claims, but some are shorter. The clock typically starts on the date of the injury. Missing this deadline almost always means losing your right to sue entirely, regardless of how strong your case is. Don't assume you have time to figure it out later.
-
-### What if I was partially at fault for the fall?
-
-In most states, being partially at fault doesn't automatically kill your claim. Under comparative negligence rules, your compensation is reduced by your percentage of fault. If a jury finds you 30% responsible and your damages are $50,000, you'd recover $35,000. A handful of states still use contributory negligence, where any fault on your part can bar recovery completely. An attorney in your state can tell you which rules apply to you.
-
-### Does it matter if the parking lot was privately owned versus a government-owned lot?
-
-Yes, significantly. If you fall in a parking lot owned or operated by a government entity (a city garage, a municipal lot, a DMV parking area), different rules apply. Government claims often require you to file a formal notice of claim within a very short window, sometimes as few as 30 to 90 days after the injury, before you can even pursue a lawsuit. Missing that notice deadline can be fatal to the case.
-
-### What if there were no witnesses and no camera footage?
-
-This is genuinely harder, but not necessarily hopeless. Your own detailed account, written close to the time of the incident, carries more weight than people expect. Physical evidence like your clothing, your shoes, photos of the scene, and medical records documenting the injury all help establish the narrative. Weather records, maintenance logs obtained through discovery, and prior complaint records about the same hazard can also support your case.
-
-### Can I still file a claim if I signed an incident report that said I wasn't injured?
-
-Sometimes in the shock and adrenaline of a fall, people say they're fine when they're not. That initial statement can create a complication, but it's not automatically the end of the road. Courts and juries understand that injury symptoms often emerge or worsen hours or days later. What matters is seeking medical care promptly once symptoms develop and being honest and consistent about your account of events going forward.
 
 ---
 

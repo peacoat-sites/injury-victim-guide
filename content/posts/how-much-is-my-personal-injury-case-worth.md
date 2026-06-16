@@ -121,27 +121,6 @@ A few common mistakes genuinely hurt claims. Knowing them in advance gives you a
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it take to find out what my case is worth?
-
-There's no single timeline. Simple cases with clear liability and a full recovery can be evaluated within a few months. Complex cases involving serious injuries, disputed fault, or high damages can take a year or more just to reach MMI, which needs to happen before you can accurately value the claim. Rushing this process almost always costs you money.
-
-### Does hiring a personal injury attorney increase my case value?
-
-In most cases, yes. Studies consistently show that represented claimants receive higher settlements on average, even after attorney fees. An experienced attorney knows how adjusters think, what documentation is most persuasive, and when to push back. That said, for very minor claims involving small damages, you may reasonably handle it yourself. An initial consultation with an attorney is almost always free, so there's little reason not to get that perspective.
-
-### What if the other driver has no insurance or minimal coverage?
-
-This is more common than most people expect. Your options include pursuing the at-fault driver personally (often impractical if they have no assets), filing a claim under your own UM/UIM coverage if you have it, and exploring whether any other parties share liability (an employer if it was a work vehicle, for instance). This situation is a strong argument for carrying robust UM/UIM coverage on your own policy before an accident happens.
-
-### Can I still recover damages if I was partially at fault?
-
-Usually yes, depending on your state. Most states use some form of comparative negligence. In a "pure comparative" state like California, you can recover even if you were 99% at fault, though your award is reduced proportionally. In "modified comparative" states, you're typically barred from recovery if you were 50% or 51% or more at fault (the threshold varies). Understanding your state's rule matters a lot to your case strategy.
-
-### Is a lawsuit always necessary to get a fair settlement?
-
-No, and most cases don't go to trial. The litigation process, meaning actually filing a lawsuit, often motivates insurance companies to take settlement discussions more seriously. But a filed lawsuit doesn't mean a trial. The vast majority of cases resolve through negotiation or mediation before a jury ever hears them. Filing is a tool, not a commitment to fighting it out in a courtroom.
 
 ---
 

@@ -135,27 +135,6 @@ The first offer is almost never the best offer. It's a starting point.
 
 ---
 
-## FAQ
-
-### How long does it take for an insurance company to make a settlement offer?
-
-There's no universal timeline. A straightforward claim with clear liability and complete medical records might produce an offer within 30 to 60 days of you submitting your demand. More complex cases, particularly those involving ongoing treatment, disputed liability, or serious injuries, can take six months to several years. Don't rush to settle before you've reached what doctors call "maximum medical improvement," which is the point at which your condition has stabilized and your future treatment needs are clearer. Settling too early often means leaving money on the table for costs you haven't incurred yet.
-
-### Can I negotiate a settlement offer on my own?
-
-Yes, you can. Many people do, especially in lower-stakes claims. The most effective negotiation strategy involves putting your counteroffer in writing, citing specific evidence (bills, wage records, physician notes), and making a demand that's higher than your target number so you have room to compromise. That said, I've seen claimants accept offers that were 40% to 60% lower than what an attorney eventually recovered for them. The more serious your injury, the more valuable professional representation tends to be.
-
-### What happens if the at-fault driver doesn't have enough insurance?
-
-This is more common than people expect. If the at-fault driver's policy limit is lower than your total damages, you have a few options: you can pursue your own underinsured motorist (UIM) coverage, attempt to collect directly from the at-fault driver (though this is often difficult if they lack significant assets), or in some cases, look at other potentially liable parties like an employer if the driver was working at the time. Always check your own auto policy for UIM coverage before you need it.
-
-### Does a pre-existing condition disqualify me from a settlement?
-
-No. Pre-existing conditions are a complication, not a disqualifier. Under a legal doctrine called the "eggshell plaintiff" rule, defendants are required to take injured people as they find them. If you had a degenerative disc condition that was asymptomatic before the accident, and the accident caused that condition to become painful and debilitating, you're entitled to compensation for the aggravation. The key is thorough documentation showing the difference between your baseline health before the accident and your condition afterward.
-
-### Should I give a recorded statement to the insurance company?
-
-Be very careful here. You're typically required to cooperate with your own insurer under the terms of your policy, but you're generally not legally obligated to give a recorded statement to the other driver's insurance company. Adjusters are trained interviewers, and they ask questions designed to elicit statements that can later reduce your claim. Phrases like "I'm doing okay" or "I didn't see them coming" can be used against you. If you're represented by an attorney, all communications typically go through them. If you're not yet represented and the other insurer is pushing for a recorded statement, it's worth at least consulting with a personal injury attorney before you agree.
 
 ---
 

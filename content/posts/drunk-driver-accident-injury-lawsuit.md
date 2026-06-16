@@ -129,27 +129,6 @@ Knowing these tactics doesn't mean every adjuster is malicious. It means the sys
 
 ---
 
-## FAQ
-
-### How long do I have to file a drunk driving injury lawsuit?
-
-Every state has a statute of limitations, which is the legal deadline for filing a civil lawsuit. In most states it's two to three years from the date of the accident, but it varies. Some states have exceptions that extend the deadline if the victim was a minor or if the injury wasn't immediately discovered. Missing this deadline almost always means losing your right to sue entirely. Don't test it. Consult an attorney well before the deadline, not the week before.
-
-### Can I sue if the drunk driver was uninsured?
-
-Yes, though your recovery options shift. You'd look to your own uninsured motorist (UM) coverage if you have it, and you'd still have a claim directly against the driver personally. The practical challenge: if the driver has no insurance, they often have limited assets. This is why dram shop claims become especially important in uninsured drunk driver cases.
-
-### Does it matter if the drunk driver wasn't convicted?
-
-Less than you might expect. Remember: the civil standard of proof is lower than criminal. A driver can be acquitted in criminal court, or have charges reduced or dismissed, and still be found civilly liable. O.J. Simpson's civil trial is the famous example. Your civil case moves forward regardless of the criminal outcome.
-
-### What if I was partly at fault for the accident?
-
-That depends on your state's fault rules. States use either "contributory negligence" (where any fault on your part bars recovery, which only a handful of states still use), "pure comparative negligence" (you recover minus your percentage of fault), or "modified comparative negligence" (you recover as long as you're less than 50% or 51% at fault, depending on the state). Even if you bear some responsibility, you may still have a viable claim.
-
-### Should I accept the first settlement offer?
-
-Almost never. First offers from insurance companies are almost always lower than what a fully documented claim is worth. Before accepting anything, you should have a clear understanding of your total damages, including future medical costs and non-economic losses. Have an attorney review any offer before you sign a release.
 
 ---
 

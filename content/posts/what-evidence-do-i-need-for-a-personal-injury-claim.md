@@ -104,27 +104,6 @@ Recorded statements to the opposing insurance company are another land mine. You
 
 ---
 
-## FAQ
-
-### Does my claim need to go to court to need evidence?
-
-No. The overwhelming majority of personal injury claims settle before trial. But the quality of your evidence directly affects what settlement the insurance company is willing to offer. Weak documentation means a low offer, regardless of whether you ever step into a courtroom.
-
-### What if I didn't take photos at the scene?
-
-It's not ideal, but it's not fatal to your claim. Prioritize getting photos of your visible injuries as soon as possible. Focus on being thorough with everything else: medical records, witness statements, police reports, and your own written account of the accident while it's still fresh. Write down everything you remember, in detail, today if you haven't already.
-
-### Can my own testimony count as evidence?
-
-Yes. Your account of what happened, how you felt, and how your life has been affected is a form of evidence. It carries more weight when it's corroborated by medical records, witness statements, and other documentation. The pain journal I mentioned above is partly designed to give your testimony more depth and credibility.
-
-### How long do I have to gather evidence before filing a claim?
-
-This depends on your state's statute of limitations, the legal deadline for filing a personal injury lawsuit. In most states it's between one and three years from the date of the accident, but some exceptions (like claims against government entities) have much shorter deadlines. Don't wait. Evidence fades, witnesses move, memories dim. Start documenting now and consult an attorney soon.
-
-### What if the other party is trying to destroy or hide evidence?
-
-This is called spoliation and it's a serious issue. If you have reason to believe relevant evidence is being tampered with or destroyed, an attorney can file for an emergency preservation order. Do not handle this one yourself. This is exactly the situation where having legal representation makes a concrete, practical difference.
 
 ---
 

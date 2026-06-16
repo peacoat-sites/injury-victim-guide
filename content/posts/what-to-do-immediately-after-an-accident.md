@@ -135,27 +135,6 @@ That last one matters more than people expect. Insurance companies and defense a
 
 ---
 
-## Frequently Asked Questions
-
-### Do I have to talk to the other driver's insurance company?
-
-No. You are not required to give the other driver's insurer a recorded statement or even discuss the details of the accident with them. They represent the other driver's interests, not yours. You can politely tell them you're represented by an attorney, or simply that you're not prepared to give a statement at this time. Your own insurer is a different matter since your policy requires cooperation, but even then, stick to the facts.
-
-### What if the other driver doesn't have insurance?
-
-This is where your own policy's uninsured motorist (UM) coverage becomes critical. If you have it, it steps in to cover your injuries and damages when the at-fault driver has no insurance or not enough. According to the Insurance Information Institute, nearly one in eight drivers in the U.S. is uninsured. If you don't have UM coverage, you may need to pursue the at-fault driver personally in civil court, which is often difficult. This is a good reason to review your own policy before you ever need it.
-
-### How long do I have to file a personal injury claim?
-
-This is governed by a law called the "statute of limitations," which sets a deadline for filing a lawsuit. It varies by state, ranging from one year to six years, with most states falling around two to three years for personal injury cases. The clock typically starts on the date of the accident. Missing this deadline almost always means losing your right to sue, no matter how strong your case is. Nolo's personal injury resources at [nolo.com](https://www.nolo.com/legal-encyclopedia/personal-injury) have a useful state-by-state breakdown of these deadlines.
-
-### Should I accept the insurance company's first settlement offer?
-
-Almost never. The first offer is rarely the final or fair one. Insurance adjusters are trained to resolve claims quickly and cheaply. They often extend early offers before you've finished treatment or know the full cost of your recovery. Once you accept a settlement and sign a release, you typically can't go back for more, even if your medical bills exceed what you received. At minimum, wait until your doctor says you've reached "maximum medical improvement" (MMI), meaning your condition has stabilized, before considering any settlement.
-
-### Do I need a personal injury attorney for a minor accident?
-
-For a true fender bender with no injuries and minimal property damage, you might handle it fine on your own. But if there are any injuries, disputed fault, or significant vehicle damage, an attorney can make a real difference. Most personal injury attorneys work on a contingency fee basis, meaning they don't get paid unless you win or settle. An initial consultation is almost always free, and it gives you a clear picture of whether your situation warrants legal representation. I've seen clients leave money on the table simply because they didn't know what they were entitled to.
 
 ---
 

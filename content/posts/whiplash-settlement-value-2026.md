@@ -122,27 +122,6 @@ Most personal injury attorneys work on contingency, meaning no fee unless you wi
 
 ---
 
-## Frequently Asked Questions
-
-### How long does a whiplash settlement take in 2026?
-
-It depends heavily on how long your treatment continues. Attorneys and adjusters both advise against settling before you reach "maximum medical improvement," meaning your doctors believe your condition has stabilized. Settling too early risks closing your claim before you know the full extent of your injury. A straightforward claim with clear liability and short treatment duration might resolve in three to six months. A claim with prolonged treatment, disputed liability, or an insurer that drags its feet can take a year or longer.
-
-### Can a whiplash claim be denied entirely?
-
-Yes. Insurers deny soft-tissue claims when they argue the crash wasn't severe enough to cause injury, when there are gaps in your medical treatment, or when pre-existing conditions cloud the picture. A denial isn't the end of the road. You can appeal, demand arbitration if your policy allows it, or file a lawsuit. An attorney can evaluate whether a denial has a legal basis or is simply a pressure tactic.
-
-### Does it matter if I had prior neck problems?
-
-It complicates things, but it doesn't eliminate your claim. Under a legal doctrine called the "eggshell plaintiff" rule, a defendant takes the victim as they find them. If a pre-existing vulnerability made your whiplash worse than it would have been for a healthy person, that's still the defendant's responsibility. Your doctor will need to distinguish between your baseline condition and the new injury or aggravation caused by the accident.
-
-### Will my claim go to court?
-
-The vast majority, somewhere around 95% of personal injury claims, settle before trial. But having a credible threat of trial is what forces fair settlements. Insurers know which plaintiffs have attorneys willing to file suit and which ones just want a quick check. Being prepared to go to court, even if you never do, is part of the negotiation leverage.
-
-### Should I give a recorded statement to the other driver's insurance company?
-
-Be very careful here. You are not legally required to give a recorded statement to the adverse insurer. They will use anything you say to minimize your claim. Statements like "I'm feeling okay" in the immediate aftermath or minimizing your symptoms even slightly can and do get used against claimants. Speak with an attorney before agreeing to any recorded statement, especially if your injuries are more than minor.
 
 ---
 

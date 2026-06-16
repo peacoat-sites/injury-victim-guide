@@ -136,27 +136,6 @@ If you're not sure whether your situation rises to the level of a real personal 
 
 ---
 
-## Frequently Asked Questions
-
-### How long do I have to file a claim after a car accident injury?
-
-This depends on your state. The statute of limitations for personal injury claims is typically two to three years from the date of the accident, but some states give you as little as one year. There are also separate deadlines for filing claims with government entities if a public vehicle or poorly maintained road was involved. Don't rely on memory here; look up your state's specific rules or ask an attorney early.
-
-### What if I was partly at fault for the accident?
-
-You may still have a claim. Most states follow either comparative negligence or modified comparative negligence rules. Under comparative negligence, your compensation is reduced by your percentage of fault. So if you were 20% at fault and your damages are $100,000, you might recover $80,000. Some states bar recovery if you're more than 50% at fault. The other driver's insurer will almost certainly try to assign you some fault regardless, so documentation matters.
-
-### Should I accept the first settlement offer?
-
-Almost never. First offers are almost always lower than what your case is worth. Insurance companies know many people are dealing with stress, medical bills, and pressure to resolve things quickly. If you've received an offer that feels low, this guide on [what to do when you get a lowball settlement offer](/lowball-settlement-offer-what-to-do/) walks through your options clearly.
-
-### What if my injuries don't show up immediately?
-
-This is extremely common. Whiplash, herniated discs, soft tissue damage, and concussions often don't manifest fully for days or even weeks. This is one of the strongest arguments for seeking medical attention immediately after any accident, even a "minor" one. Your medical records will show when symptoms were first reported, and that timeline matters.
-
-### How much is my car accident injury case worth?
-
-There's no honest one-size-fits-all answer, and anyone who gives you a number without reviewing your specific facts is guessing. Settlement values depend on the severity of your injury, your medical costs, lost income, your state's laws, and the available insurance coverage. For a broader picture of how these figures are determined, this overview of [how personal injury settlements work](/how-personal-injury-settlements-work/) is a solid place to start.
 
 ---
 

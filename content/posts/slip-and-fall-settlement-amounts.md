@@ -107,27 +107,6 @@ A good attorney also knows how to handle the lien issues that most people don't 
 
 ---
 
-## FAQ: Slip and Fall Settlement Amounts
-
-### How long does a slip and fall settlement take?
-
-It depends heavily on injury severity. A minor claim with clear liability might resolve in a few months. A serious injury case with disputed fault can take one to three years, especially if it goes into litigation. The timeline is largely driven by how long it takes to understand the full scope of your medical damages, because settling too early means you might not account for ongoing treatment or permanent impairment.
-
-### What if the property owner has no insurance?
-
-It's uncommon for commercial properties to be uninsured, but it happens. Your options in that scenario include pursuing the property owner's personal assets directly, checking whether your own insurance has coverage that might apply, and consulting with an attorney about the practical reality of collecting a judgment from an uninsured party. An uncollectable judgment isn't useful to anyone.
-
-### Does my pre-existing condition ruin my case?
-
-Not necessarily. The legal concept is called the **eggshell plaintiff rule**: defendants take victims as they find them. If your pre-existing back condition was aggravated by a fall caused by someone else's negligence, you're generally entitled to compensation for that aggravation. What you can't claim is that the fall caused a condition that predated it entirely. Be honest with your attorney about your medical history so they can position your case correctly from the start.
-
-### Should I give a recorded statement to the other party's insurance company?
-
-Generally, no. You're typically required to cooperate with your own insurance company. You are not required to give a recorded statement to the at-fault party's insurer, and I strongly recommend against it before you've spoken with an attorney. Adjusters are trained to ask questions in ways that elicit statements they can use to reduce or deny your claim. A polite "I'll have my attorney be in touch" is a complete and appropriate response.
-
-### What documents should I keep from the very beginning?
-
-Keep everything: the incident report, photos of the scene and your injuries, medical records and bills, prescription receipts, correspondence with the property owner or their insurer, records of missed work, and any written statements from witnesses. A medical records organizer, available at office supply stores or on Amazon (this site may earn a commission), can help you keep everything in one place from day one. Organization isn't glamorous, but I've watched well-documented cases settle for multiples of what poorly documented cases of similar severity received.
 
 ---
 

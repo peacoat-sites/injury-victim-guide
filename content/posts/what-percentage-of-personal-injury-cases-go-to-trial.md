@@ -112,27 +112,6 @@ One practical tool I recommend to anyone in active litigation: keep an organized
 
 ---
 
-## FAQ
-
-### What percentage of personal injury cases actually go to trial?
-
-Approximately 4-5% of personal injury cases go to trial. The rest settle at various stages before trial, from early pre-suit negotiations through mediation. This number has remained consistent for decades across multiple studies of civil litigation outcomes.
-
-### Does going to trial mean you'll get more money?
-
-Not necessarily. Trial results are unpredictable, and verdicts can come in below, at, or above what was offered in settlement. After deducting trial costs and attorney fees, a larger gross verdict doesn't always mean a larger net recovery for you. Some plaintiffs do receive significantly more at trial, but others receive less, or nothing.
-
-### How long does a personal injury trial take?
-
-Most personal injury trials run 3-7 days for straightforward cases. Complex cases involving catastrophic injuries, multiple defendants, or disputed liability can run 2-4 weeks. Keep in mind that getting to trial often takes 2-3 years from the date you file suit, depending on the jurisdiction.
-
-### What is mediation and does it really work?
-
-Mediation is a structured negotiation session with a neutral third party, usually a retired judge or experienced attorney, who helps both sides find common ground. It's not binding -- you don't have to accept anything. It's genuinely effective: success rates in civil personal injury mediation run around 70-80%, meaning most cases that reach mediation resolve there rather than proceeding to trial.
-
-### If I turn down a settlement and lose at trial, do I owe money?
-
-Typically, you won't owe the defendant's legal fees just for losing -- the U.S. system generally doesn't shift attorney fees to the losing party the way some countries do. However, you will be responsible for your own side's litigation costs, which your attorney may have advanced. If your attorney worked on contingency, review your fee agreement carefully to understand who bears litigation expenses in a zero verdict.
 
 ---
 

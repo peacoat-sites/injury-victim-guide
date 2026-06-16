@@ -122,27 +122,6 @@ The claims that seem simple often aren't. And the claims that seem hopeless some
 
 ---
 
-## Frequently Asked Questions
-
-### What if I was hit by an Uber or Lyft driver while I was driving my own car?
-
-You're what's called a third-party claimant. You'd file a claim against the at-fault driver's applicable insurance policy, which depends on the coverage period active at the time. If the driver was in Period 2 or 3, the $1 million commercial liability policy applies. If they were in Period 1, you may be dealing with their contingent coverage or personal policy. Your own uninsured/underinsured motorist coverage may also come into play if the available coverage is insufficient for your injuries.
-
-### Can I sue Uber or Lyft directly?
-
-It's complicated. Because drivers are classified as independent contractors, Uber and Lyft have significant legal insulation from direct lawsuits in most circumstances. However, there are legal theories, including negligent hiring and negligent retention, that attorneys have used to pursue direct claims against the companies. The law here is still evolving. An attorney can evaluate whether direct liability makes sense in your specific situation.
-
-### What if the Uber or Lyft driver was uninsured or underinsured?
-
-Both Uber and Lyft carry uninsured/underinsured motorist (UM/UIM) coverage as part of their commercial policies during active trips. If you were a passenger in Period 3, this coverage typically applies if the at-fault party can't cover your damages. Your own auto insurance UM/UIM policy may also provide additional coverage, even as a passenger in someone else's vehicle. Check your own policy.
-
-### I said "I'm fine" at the scene. Does that hurt my claim?
-
-It doesn't automatically destroy your claim, but it can complicate it. Insurers will point to those words. What helps counter it: seeking medical attention immediately, getting a documented diagnosis, and having medical records that explain the delayed onset of symptoms (which is medically common and well-documented, especially for whiplash and soft tissue injuries). Don't wait to get checked out, even now.
-
-### How long do I have to file a claim?
-
-This depends on your state's statute of limitations for personal injury claims, which typically ranges from one to three years from the date of the accident. Missing that deadline usually means losing your right to sue entirely. Some states have shorter deadlines for certain types of claims. The clock starts ticking the day of the accident, so don't assume you have unlimited time to decide what to do.
 
 ---
 

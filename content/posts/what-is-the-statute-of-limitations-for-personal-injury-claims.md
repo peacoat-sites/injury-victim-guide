@@ -130,27 +130,6 @@ The earlier you talk to someone who knows what they're doing, the better positio
 
 ---
 
-## FAQ
-
-### Does filing an insurance claim pause the statute of limitations?
-
-No. Filing a claim with an insurance company does not stop the legal deadline from running. The only thing that stops the statute of limitations clock is filing a lawsuit in the appropriate court before the deadline expires. People lose their rights every year because they confused these two things.
-
-### What if I was injured in a different state than where I live?
-
-Generally, the statute of limitations that applies is the law of the state where the injury occurred, not where you live. So if you were hurt in a car accident while visiting Florida, Florida's deadline applies regardless of your home state. There are exceptions involving certain interstate issues, but this is the default rule most courts follow.
-
-### Can I still recover anything if the statute of limitations has passed?
-
-In almost all cases, no. A missed statute of limitations is a complete bar to recovery. The narrow exceptions (like fraudulent concealment by the defendant, or specific tolling for mental incapacity) require specific facts and aren't reliable safety nets. If you're close to a deadline, contact an attorney now rather than gambling on an exception applying.
-
-### Does the statute of limitations apply to wrongful death claims?
-
-Yes, and the deadline is often different from the general personal injury deadline. Most states have a separate wrongful death statute, and the clock typically starts from the date of death, not the date of the underlying injury. A few states start it from the date the injury occurred, which can be earlier. If you've lost someone and are still grieving, I know this feels like the last thing you want to think about. But waiting can cost the family everything.
-
-### What if the person who injured me died or went bankrupt?
-
-These situations complicate things but don't necessarily end your claim. If they had insurance, you may be able to pursue the claim through their insurer. If they died, you may be able to file against their estate. Bankruptcy triggers an automatic stay that might pause your ability to sue, but there are procedures for injury creditors within bankruptcy proceedings. This is one situation where you genuinely need a professional to sort out your specific options quickly, because the timelines can get compressed fast.
 
 ---
 

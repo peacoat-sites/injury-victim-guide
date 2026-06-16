@@ -124,27 +124,6 @@ Most work on contingency, meaning they only get paid if you win. A 30-minute con
 
 ---
 
-## Frequently Asked Questions
-
-### Is there a standard multiplier that courts use?
-
-No. There's no law that mandates a specific multiplier. Courts, juries, and insurance companies exercise discretion. The range of 1.5 to 5 is a practical guideline derived from industry practice, not a legal standard. Extreme cases can fall outside that range in either direction.
-
-### Can I calculate pain and suffering if my injury is permanent?
-
-Yes, but it's more complex. Attorneys typically combine a multiplier approach for past pain and suffering with a per diem projection for future suffering, using actuarial life expectancy tables to determine how many years are affected. For permanent injuries, having an experienced attorney run these calculations is especially important.
-
-### Does pain and suffering get taxed?
-
-Generally, compensatory damages in a personal injury settlement, including pain and suffering, are not subject to federal income tax under IRS rules. However, there are exceptions, particularly if you previously deducted medical expenses or if punitive damages are included. Always confirm the tax treatment with a tax professional before spending your settlement.
-
-### How does comparative negligence affect my pain and suffering damages?
-
-If you're found partially at fault, most states reduce your total damages by your percentage of fault. In a pure comparative negligence state, you can recover even if you're 99% at fault (though your recovery is minimal). In a modified comparative negligence state, you're typically barred from recovery if you're 50% or 51% or more at fault, depending on the state. Check your state's specific rules.
-
-### What if the insurance company uses software to calculate my damages?
-
-Many large insurers use programs like Colossus to generate settlement ranges. These systems weigh coded inputs from your medical records and apply internal multipliers. The problem is that the output is only as good as the data entered, and adjusters often enter conservative values. An attorney familiar with these systems can identify when a software-generated offer undervalues your claim.
 
 ---
 

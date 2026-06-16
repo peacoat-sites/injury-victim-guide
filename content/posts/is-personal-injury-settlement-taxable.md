@@ -96,27 +96,6 @@ This doesn't mean you should hold up a settlement negotiation over tax language.
 
 If you're dealing with a more complex case, keeping meticulous records from day one helps enormously. Documenting your injuries, treatments, and how different damages were calculated gives you cleaner support for your tax position later. Something like a [medical records and injury documentation organizer](https://www.amazon.com/s?k=medical+records+organizer) (note: this site may earn a commission) can be surprisingly useful for keeping this all in one place, especially if your case drags out over a year or two.
 
-## FAQ
-
-### Is pain and suffering in a personal injury settlement taxable?
-
-Generally no, as long as the pain and suffering is connected to a physical injury or physical sickness. Under IRC Section 104(a)(2), these damages are excluded from taxable income. The critical factor is that the underlying claim involves physical harm.
-
-### Do I need to report my personal injury settlement on my tax return?
-
-You don't necessarily owe tax, but you may still need to address it on your return, especially if you receive a 1099. The practical answer is: talk to a tax professional about how to properly document the exclusion so your return doesn't trigger questions.
-
-### What if my settlement covers both physical injury and emotional distress?
-
-If the emotional distress directly results from the physical injury, it's generally all excludable. Problems arise when emotional distress is a standalone claim without a physical injury. Courts look at the origin of the claim to make this call.
-
-### Are workers' compensation settlements taxable?
-
-Workers' compensation payments received under a workers' comp statute are specifically excluded from taxable income under IRC Section 104(a)(1). This is a separate exclusion from the personal injury one, but the result is the same: not taxable.
-
-### Can the defendant's insurance company issue a 1099 for the full settlement even if it's not taxable?
-
-Yes, and this happens regularly. A 1099 is a reporting document, not a tax bill. The payer often doesn't know, or doesn't make the determination about, the taxability of what they're paying. You address this on your own return using the appropriate IRS exclusion.
 
 ---
 

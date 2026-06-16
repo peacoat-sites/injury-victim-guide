@@ -84,27 +84,6 @@ A skilled plaintiff's attorney will subpoena staffing records, time clock data, 
 
 Families are often surprised to learn that staffing data can function almost like a weather report for what happened. If a facility was running with 60% of its usual night staff on the night your father fell, that context matters enormously.
 
-## FAQ
-
-### How do I know if what happened qualifies as abuse or negligence?
-
-If your loved one suffered physical harm, emotional harm, or financial exploitation in a care facility, and you believe the staff or facility contributed to that harm through action or inaction, it's worth having an attorney review the facts. The line between an unfortunate medical outcome and actionable negligence often comes down to whether the facility followed its own documented care plan, so getting the records is step one.
-
-### What if my loved one has dementia and can't describe what happened?
-
-Cognitive impairment doesn't prevent a claim. In fact, many of the strongest nursing home cases involve residents who couldn't communicate what was happening to them, which is part of why the harm went undetected. Evidence in these cases comes from medical records, staff testimony, physical findings, and expert witnesses reviewing the standard of care.
-
-### Are nursing home cases usually settled or do they go to trial?
-
-Most settle, often before formal litigation is even filed. But "settlement" doesn't mean "fast." These cases regularly take 12 to 24 months to resolve because they require medical expert review and often involve substantial insurance carriers who litigate aggressively. Be skeptical of any attorney who promises a quick resolution.
-
-### What if the facility's admissions contract had an arbitration clause?
-
-You may still have options. Some arbitration clauses are unenforceable due to how they were presented (particularly if a cognitively impaired resident signed without a legal representative), and regulatory challenges have created ongoing uncertainty about their validity. An attorney who handles nursing home cases specifically will know your state's current case law on this.
-
-### Can I file a criminal complaint in addition to a civil claim?
-
-Yes, and in some cases of egregious abuse, it may be appropriate. Criminal complaints go through local law enforcement or the state attorney general's office and are separate from your civil personal injury claim. A criminal investigation can sometimes generate evidence that strengthens your civil case, though the two processes move on different timelines and with different standards of proof.
 
 ---
 

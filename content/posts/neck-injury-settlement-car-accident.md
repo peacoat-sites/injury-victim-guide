@@ -127,27 +127,6 @@ Most personal injury attorneys offer free initial consultations. The consultatio
 
 ---
 
-## Frequently Asked Questions
-
-### How long does a neck injury settlement take?
-
-There's no single answer. A straightforward soft tissue case where liability is clear might settle in three to six months. A case involving surgery, disputed liability, or significant wage loss can take one to two years or longer, especially if litigation becomes necessary. Reaching maximum medical improvement before settling, even if it takes time, is almost always the right call financially.
-
-### Can I settle my neck injury claim without an attorney?
-
-Yes, and some people do, particularly in minor soft tissue cases. The honest reality is that studies have repeatedly found represented claimants tend to receive higher settlements, even after attorney fees, than unrepresented ones. The complexity of your injury and the insurer's behavior early on are the best signals of whether you need help.
-
-### What if my neck injury shows up days after the accident?
-
-Delayed onset is extremely common with whiplash and cervical injuries. See a doctor as soon as symptoms appear, and make sure the medical record clearly connects your symptoms to the accident. Keep a daily symptom journal starting the day of the crash. That contemporaneous record can be powerful evidence.
-
-### What is a "release" and why does it matter?
-
-A release is a legal document you sign when you accept a settlement. It permanently closes your claim. Once signed, you cannot ask for more money if your injury worsens, requires additional surgery, or causes problems years later. Never sign a release before you fully understand your diagnosis, prognosis, and the total value of your damages.
-
-### Does fault matter if I live in a no-fault state?
-
-Yes, but differently. No-fault states require you to go through your own insurer for medical expenses and lost wages up to your policy's PIP (Personal Injury Protection) limits, regardless of who caused the crash. However, most no-fault states still allow you to step outside the no-fault system and sue the at-fault driver when your injuries meet a certain threshold of severity. If you're in a no-fault state, understanding your PIP coverage and that threshold is essential.
 
 ---
 

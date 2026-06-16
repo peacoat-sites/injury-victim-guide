@@ -96,27 +96,6 @@ Contingency fees in personal injury cases typically run 33% before suit is filed
 
 ---
 
-## Frequently Asked Questions
-
-### How long does an amputation injury settlement typically take?
-
-Serious amputation cases rarely settle in less than 12 to 18 months, and many take two to three years, especially if liability is disputed or if the case goes into litigation. Rushing to settle before reaching maximum medical improvement almost always reduces your final recovery.
-
-### Can I still recover compensation if I was partly at fault for the accident?
-
-In most states, yes, though your recovery may be reduced proportionally to your share of fault. A few states still use contributory negligence rules that could bar your claim entirely if you bear any responsibility. Your attorney can tell you which rule applies in your state.
-
-### What is a life care plan and do I really need one?
-
-A life care plan is a detailed document prepared by a qualified expert (typically a certified life care planner with a nursing or rehabilitation background) that projects your lifetime medical costs, including prosthetic replacements, therapy, medications, and adaptive equipment. For any major amputation claim, it's not optional. It's the foundation of your future damages calculation.
-
-### Should I accept the insurance company's first settlement offer?
-
-Almost never, especially in an amputation case. First offers in catastrophic injury cases are typically far below the full value of the claim, and they're sometimes made before the full extent of future medical needs is clear. Have an attorney review any offer before responding.
-
-### Does the type of accident affect how much I can recover?
-
-Yes, significantly. Workers' compensation claims are generally capped under state statutory schedules and don't include pain and suffering damages, while third-party personal injury claims (against a negligent driver, manufacturer, or property owner) allow for a much broader range of damages. If your workplace amputation involved defective equipment, you may have both a workers' comp claim and a product liability claim running simultaneously, which can substantially increase your total recovery.
 
 ---
 

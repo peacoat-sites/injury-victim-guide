@@ -121,27 +121,6 @@ Most personal injury attorneys work on a **contingency fee** basis. That means t
 
 The **statute of limitations** is the deadline to file a lawsuit. It varies by state, typically between one and three years from the date of injury. Miss it, and you generally lose your right to sue entirely. That's one reason not to wait too long before at least consulting with an attorney.
 
-## Frequently Asked Questions
-
-### What if the fall happened at someone's private home?
-
-Homeowner's insurance covers this situation in most cases. If you slipped on an icy walkway or a broken porch step at a friend or family member's home, the claim would go through their homeowner's policy. Many people feel uncomfortable pursuing this because of the relationship, but understand that you're not suing your friend personally in most cases. You're making a claim against their insurance coverage, which exists precisely for this reason.
-
-### What if there were no witnesses?
-
-Witnesses help, but they're not required to have a valid claim. Your own testimony, the incident report, photos, surveillance footage, and medical records can all support your claim without eyewitnesses. Many successful slip and fall cases rely primarily on physical evidence and documentation.
-
-### Can the property owner use the fact that I wasn't paying attention against me?
-
-Yes, they can try, and often do. This is the comparative negligence argument mentioned earlier. If you were looking at your phone, wearing clearly inappropriate footwear, or ignored obvious signage, that could reduce your recovery. It doesn't automatically eliminate your claim, but it's something an insurer or defense attorney will raise. Being honest about what happened, including any factors that might reflect on your own attention, is important. Inconsistencies hurt credibility more than honest admissions do.
-
-### How long will this process take?
-
-There's no single answer, but most slip and fall claims settle somewhere between a few months and two years from the date of injury. Cases with clear liability, good documentation, and cooperative insurers resolve faster. Cases involving surgery, permanent injury, disputed liability, or litigation take longer. Waiting until you've reached maximum medical improvement before settling is important because once you accept a settlement, you typically can't go back for more money even if your condition worsens.
-
-### What if I signed an incident report and said I wasn't hurt?
-
-This comes up more often than you'd think. People are shaken, they want to minimize the situation, they don't feel the full extent of their injury in the moment. A statement saying you weren't hurt at the scene doesn't permanently bar your claim, but it does create a hurdle. The insurer will use it. The best approach is to be honest going forward, document when symptoms appeared or worsened, and get legal advice sooner rather than later.
 
 ---
 

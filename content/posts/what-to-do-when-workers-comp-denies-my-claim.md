@@ -114,27 +114,6 @@ Outcomes vary widely. There's no honest way to tell you what a case like yours i
 
 ---
 
-## Frequently Asked Questions
-
-### Can my employer fire me for filing a workers' comp claim?
-
-Technically, no. Retaliation for filing a workers' comp claim is illegal in all 50 states. In reality, it happens, and it's often disguised as something else: a performance issue, a layoff, a restructuring. If you believe you're being retaliated against, document everything and contact an employment attorney. This is a separate legal issue from your workers' comp claim and needs to be handled as one.
-
-### If I use my own health insurance while the claim is denied, can I get reimbursed?
-
-Yes, in most cases. If your workers' comp claim is ultimately accepted, the workers' comp insurer typically becomes responsible for those medical costs and your health insurer gets reimbursed. This is called subrogation. Keep every receipt and every explanation of benefits document from your health insurer. Don't assume this happens automatically.
-
-### How long does a workers' comp appeal take?
-
-Honestly, longer than you want it to. An informal appeal or reconsideration at the insurer level can resolve in a few weeks to a couple of months. A formal hearing before a state board often takes six months to over a year, depending on your state's backlog and the complexity of your case. California and New York tend to run longer than states with smaller workers' comp systems.
-
-### What if the injury made a pre-existing condition worse?
-
-This is more common than most people know, and a denial based on pre-existing condition doesn't automatically hold up. Under a doctrine most states recognize called the "aggravation rule," an employer (and their insurer) can be responsible for the portion of your disability caused or worsened by the work injury, even if a pre-existing condition is also involved. You need a doctor who will specifically address how the work event aggravated your condition. This is a medical-legal opinion and your treating physician should be willing to provide one.
-
-### Should I accept a settlement offer after a denial?
-
-Get an attorney before you accept anything. Settlement offers after a contested denial are sometimes fair and sometimes not. A lump-sum settlement typically closes out your claim permanently, meaning if your condition worsens later, you can't go back. That's a significant trade-off that deserves professional evaluation, not a decision you should make because you're exhausted and need the money now.
 
 ---
 

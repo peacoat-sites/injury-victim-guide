@@ -119,27 +119,6 @@ An experienced personal injury attorney can give you a realistic read on what yo
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it take to get a settlement check after you agree to one?
-
-Once both parties sign the settlement agreement and release, most insurers issue payment within 30 to 60 days. After the check arrives at your attorney's office, they'll handle paying any medical liens (money owed to health insurers or providers from your settlement), deducting their fees, and disbursing the rest to you. The full process from signed agreement to money in your hand can take four to six weeks, sometimes a bit longer.
-
-### Does hiring an attorney make the process faster or slower?
-
-Honestly, it depends on the case. For complex claims, having an attorney almost always speeds up the process because they know the system, speak the insurer's language, and don't get bullied into accepting lowball offers. For very minor claims, hiring an attorney might add time to a process that could have resolved quickly on your own. The American Bar Association recommends consulting an attorney for any injury involving significant medical treatment, disputed liability, or long-term effects.
-
-### What happens if the at-fault driver has no insurance?
-
-Your own policy's uninsured motorist (UM) coverage kicks in, assuming you have it. You'd file a claim with your own insurer, who then stands in the shoes of the at-fault driver. The timeline is similar to a standard claim, though some insurers handle UM claims differently. If you don't have UM coverage, your options are more limited and often involve suing the at-fault driver personally, which can be a slow process with uncertain recovery.
-
-### Can I still file a claim if it's been over a year since my accident?
-
-Possibly, but you need to check your state's statute of limitations immediately. Many states allow two or three years, so you may still be within the window. Some states allow only one year for certain claims. Contact a personal injury attorney as soon as possible if you're concerned about timing. Don't assume you're too late until you've confirmed the deadline for your specific state and type of claim.
-
-### Why do insurance companies take so long to respond?
-
-Some of it is genuinely workload. But some of it is strategy. Delay is a documented tactic used to pressure claimants into accepting lower settlements out of financial desperation. If you're not represented by an attorney, adjusters may be less responsive because there's less urgency. Sending written follow-ups (email creates a paper trail), documenting every interaction, and having an attorney send demand correspondence can move things along.
 
 ---
 

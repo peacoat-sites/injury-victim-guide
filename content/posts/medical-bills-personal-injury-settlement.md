@@ -94,27 +94,6 @@ Fourth: don't ignore billing from providers just because your case is pending. A
 
 ---
 
-## FAQ
-
-### Will my entire settlement go to medical bills?
-
-Not necessarily. Your settlement is intended to compensate you for all your damages, including lost wages, pain and suffering, future expenses, and medical costs. Whether medical liens eat a large portion depends on the size of your recovery, whether liens were negotiated, and how extensive your treatment was. A skilled attorney can often reduce what lienholders collect.
-
-### What happens if my medical bills are more than my settlement?
-
-This is a real scenario, especially in cases where liability coverage is limited. Your attorney may be able to negotiate down the lien amounts so that you're not left with nothing after they're paid. In some states, the "made whole" doctrine provides some protection. This situation is one of the strongest arguments for consulting an attorney before settling.
-
-### Can I negotiate my medical bills directly with the hospital?
-
-Yes, often. Hospitals frequently accept less than the billed amount, particularly if you're uninsured or underinsured. You can also request an itemized bill and dispute charges that seem incorrect. Even after a case settles, some providers will negotiate if the alternative is a collections process. It's always worth asking.
-
-### Do I have to pay back Medicare from my settlement?
-
-Yes. Medicare's right to recovery under federal law is not optional, and ignoring it can result in serious legal consequences for both you and your attorney. That said, the amount Medicare claims can sometimes be reduced, particularly if the settlement is less than the full value of your losses. Your attorney should be handling this directly with Medicare.
-
-### Does taking a settlement mean I can't get more money later if my injuries get worse?
-
-In almost every case, yes. When you sign a settlement release, you're releasing all future claims related to that injury, even if your condition worsens unexpectedly. This is why it's so important not to settle before your doctors have a clear picture of your long-term prognosis. Settling too early is one of the most common and most costly mistakes I see.
 
 ---
 

@@ -153,27 +153,6 @@ Knowing what not to do is just as important as knowing what to do.
 
 ---
 
-## FAQ: Personal Injury Claims
-
-### How long does a personal injury claim take?
-
-It varies enormously. A straightforward car accident claim with clear liability and resolved medical treatment might close in two to four months. A complex case with disputed fault, serious injuries, or multiple parties involved can take years, especially if it goes to litigation. Reaching what's called **maximum medical improvement** (the point where your condition has stabilized) before settling is usually worth the wait, even if it's frustrating.
-
-### Do I need an attorney for a minor injury?
-
-Not always. If your injuries are minor, resolved quickly, and the liability is clear, you may be able to handle negotiations yourself. Many people do. The risk is that you don't know what you don't know. At minimum, a single free consultation with a personal injury attorney can tell you whether your case is something you can manage alone or whether professional help would pay off.
-
-### What if I was partly at fault?
-
-Most states follow some version of **comparative negligence**, which means your compensation is reduced by your percentage of fault. If you were 20 percent responsible and your damages are valued at $100,000, you'd recover $80,000. A few states use **contributory negligence**, an older and harsher rule where any fault on your part can bar recovery entirely. Knowing which rule your state uses matters a great deal.
-
-### Will I have to go to court?
-
-Probably not. The overwhelming majority of personal injury claims settle out of court. Trials are expensive, unpredictable, and time-consuming for everyone involved, including the insurance company. That said, being willing to go to court, and having an attorney who is prepared to do so, typically produces better settlement outcomes because the insurer knows you're serious.
-
-### What does it cost to hire a personal injury attorney?
-
-Most personal injury attorneys work on a **contingency fee** arrangement. You pay no upfront costs. If they recover money for you, they take a percentage, commonly 33 percent before a lawsuit is filed and up to 40 percent if the case goes to litigation. If they don't win, you owe nothing. Out-of-pocket costs like filing fees and expert witnesses may be handled separately, so always clarify the full arrangement upfront.
 
 ---
 

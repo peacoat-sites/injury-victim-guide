@@ -136,27 +136,6 @@ I've watched otherwise strong claims get gutted by avoidable mistakes. Here are 
 
 ---
 
-## Frequently Asked Questions
-
-### How many times can I counter-offer during a personal injury negotiation?
-
-There's no legal limit. Negotiations can go back and forth multiple times before a number is reached or talks break down. That said, if you've exchanged three to four offers and the gap isn't closing meaningfully, it may be time to consult an attorney or consider whether a lawsuit is warranted.
-
-### What happens if I reject a settlement offer and get less at trial?
-
-It's a real risk. Trials are unpredictable, and a jury could award you less than the insurer offered, or nothing at all. This is exactly why most cases settle. An experienced attorney can help you assess whether a given offer is reasonable relative to your trial risk.
-
-### Should I ever accept the first offer?
-
-Rarely. The exception might be a case with genuinely disputed liability where you share significant fault, or where your damages are modest and fully covered by the initial offer. But if your medical treatment is still ongoing, accepting early is almost always a mistake.
-
-### How long does personal injury negotiation typically take?
-
-It varies widely. A straightforward claim might settle in a few months. Complex cases involving serious injuries, surgery, or disputed liability can take a year or more. For a realistic sense of timelines, the breakdown of [how long personal injury cases take](/how-long-do-personal-injury-cases-take/) covers the factors that extend or shorten the process.
-
-### What if the insurance company stops responding to my letters?
-
-Document every attempt at contact. If an insurer is genuinely stonewalling, that's called bad faith, a legal term for an insurer unreasonably refusing to process or negotiate a legitimate claim. Bad faith carries its own legal consequences and is another situation where consulting an attorney becomes urgent, not optional.
 
 ---
 

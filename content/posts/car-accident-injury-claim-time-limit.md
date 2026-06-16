@@ -119,27 +119,6 @@ This is not an accusation. I spent 12 years on that side of the desk. It's simpl
 
 ---
 
-## Frequently Asked Questions
-
-### What happens if I miss the statute of limitations deadline?
-
-In almost all cases, missing the deadline means you permanently lose the right to sue for compensation from the accident. The defendant's attorney will raise the expired statute as a defense, and the court will dismiss your case. There are narrow exceptions, such as fraud by the defendant or newly discovered evidence in limited circumstances, but these are genuinely rare. Treat the deadline as hard and immovable.
-
-### Does filing an insurance claim stop the statute of limitations clock?
-
-No. Filing an insurance claim and filing a lawsuit are separate legal acts. An insurance claim is a request for payment from an insurer. A lawsuit is a civil legal action filed in court. Having an active insurance claim, even one under negotiation, does not pause the legal deadline. If settlement talks are dragging on and your deadline approaches, you may need to file a lawsuit to preserve your rights, even if you hope to settle without going to trial.
-
-### If the other driver was at fault, do I still need to worry about deadlines?
-
-Yes. Fault is irrelevant to the statute of limitations. A driver who was 100% responsible for your injuries still benefits from an expired deadline if you wait too long to act. The law treats the deadline as procedural, not as a judgment about who was right or wrong.
-
-### Can I find out my state's deadline without hiring an attorney?
-
-Yes, you can look up your state's personal injury statute of limitations through your state legislature's website or a reputable legal reference site. However, knowing the base deadline is only part of the picture. Whether the discovery rule applies, whether a government notice requirement shortens your window, whether your specific circumstances toll the deadline, those questions genuinely require professional evaluation. Use the number you find as a starting point, not a final answer.
-
-### What if I was a passenger in the car, not the driver?
-
-Passengers typically have the same statute of limitations as any other injury victim. You may have claims against the driver of the vehicle you were in, the other driver, or both, depending on fault. Passengers are often in a cleaner legal position because they're not arguing about their own fault. But the same deadlines apply, and the same urgency exists.
 
 ---
 

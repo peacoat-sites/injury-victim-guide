@@ -104,27 +104,6 @@ Speaking of deadlines: every state has a **statute of limitations** for personal
 
 ---
 
-## Frequently Asked Questions
-
-### What if I didn't see a wet floor sign? Does that mean the business is automatically liable?
-
-Not automatically, but it's significant evidence of negligence. A missing or absent warning sign suggests the business didn't take reasonable steps to warn visitors of a known hazard. However, the business may argue the condition arose so recently that there wasn't time to place signage. That's why documentation of how long the floor was wet matters.
-
-### What if I was wearing flip-flops or slick-soled shoes?
-
-Your footwear can become part of the comparative negligence argument. Adjusters and defense attorneys will often raise it. That said, wearing flip-flops doesn't automatically disqualify you from a claim. It's one factor among many. The floor's condition, the business's maintenance practices, and whether you were in an area where you had a right to be will all be weighed together.
-
-### Can I still file a claim if I didn't go to the doctor right away?
-
-You can, but it becomes more difficult. Insurance companies will argue that if you were truly injured, you would have sought care immediately. If you delayed treatment, be prepared to explain why clearly and consistently. Going now is still far better than not going at all. Medical records, even delayed ones, are better than no records.
-
-### The store gave me an accident report number. Is that enough documentation?
-
-It's a start, but nowhere near enough on its own. Businesses often write their own incident reports in ways that minimize their liability. Get your own copy if possible, and supplement it with everything else: photos, witness information, your written account, and medical records. Don't rely on the business to tell your story accurately.
-
-### What kinds of compensation can I potentially recover?
-
-Slip and fall claims can include compensation for medical expenses (current and future), lost income, reduced earning capacity if your injuries affect your ability to work, and pain and suffering. In some cases involving especially reckless conduct, punitive damages are possible, though rare. The range of outcomes varies enormously based on the severity of injuries, the strength of evidence, the jurisdiction, and whether the case settles or goes to trial. Anyone who promises you a specific dollar figure before reviewing your full case is not being straight with you.
 
 ---
 

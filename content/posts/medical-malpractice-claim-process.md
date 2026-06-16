@@ -94,27 +94,6 @@ I want to be direct here: I can't give you a number for what a case "typically" 
 
 ---
 
-## Frequently Asked Questions
-
-### How long does a medical malpractice case take?
-
-Most cases that proceed through full litigation take two to five years from filing to resolution. Simpler cases that settle early can sometimes resolve in under a year, but that's not common for contested malpractice claims where liability is disputed.
-
-### Does every bad medical outcome qualify as malpractice?
-
-No. A bad outcome only becomes a potential malpractice claim if a provider deviated from the accepted standard of care and that deviation directly caused your harm. Complications, unsuccessful treatments, and unforeseeable outcomes generally don't meet that standard even if they're serious.
-
-### Do I need a lawyer to file a medical malpractice claim?
-
-Technically no, but practically speaking, almost everyone needs one. Malpractice cases require medical experts, detailed legal filings, and deep familiarity with procedural rules that vary by state. Most legitimate claims simply can't be pursued effectively without an attorney.
-
-### What if I can't afford the upfront costs?
-
-Most malpractice attorneys work on contingency, meaning you pay nothing unless you recover. They typically advance the costs for experts, filing fees, and depositions, then recoup those costs from any settlement or verdict. Make sure you understand your fee agreement clearly, including what happens to case costs if you lose.
-
-### Can I sue a hospital instead of just the individual doctor?
-
-Sometimes, yes. If the negligent provider was an employee of the hospital (not an independent contractor), or if the hospital's own policies or procedures contributed to the harm, the hospital can be named as a defendant. Some hospitals try to characterize their providers as independent contractors specifically to limit liability, so this question often requires careful investigation.
 
 ---
 

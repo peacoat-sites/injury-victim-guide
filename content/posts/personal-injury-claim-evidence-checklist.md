@@ -122,27 +122,6 @@ One thing I'd push back on: the common advice that you should always hire an att
 
 ---
 
-## FAQ
-
-### How long do I have to file a personal injury claim?
-
-This varies by state and by the type of claim. Most states have a statute of limitations between one and three years from the date of injury, but there are exceptions for minors, for claims against government entities (which often require notice within 90-180 days), and for injuries discovered later. Don't assume you have time; check your state's specific rules or consult an attorney early.
-
-### Does the police report determine who was at fault?
-
-No, though it carries weight. An officer's narrative and their notation of citations issued can influence how an adjuster assesses liability, but the police report isn't binding. Adjusters conduct their own investigations, and liability can be disputed even when one party was cited.
-
-### What if it's partly my fault?
-
-Most states use some version of comparative negligence, meaning your compensation can be reduced by your percentage of fault rather than eliminated entirely. A few states still follow contributory negligence rules where any fault on your part can bar recovery entirely. Where you live matters a lot here.
-
-### Do I have to give a recorded statement to the other driver's insurance company?
-
-Generally, no. You're typically required to cooperate with your own insurer per your policy terms, but the opposing insurer has no contractual hold over you. Recorded statements can be used to lock you into details that may later be used against you. Many attorneys advise against giving one without counsel.
-
-### How do I get my medical records if a provider is slow to respond?
-
-Submit a written HIPAA-compliant request (most providers have a form). Follow up in writing, noting the date of your original request. If a provider is unresponsive, your state's health department or the Office for Civil Rights within HHS handles HIPAA complaints. An attorney handling your claim can also send a request on your behalf, which tends to move faster.
 
 ---
 
