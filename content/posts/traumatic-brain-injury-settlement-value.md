@@ -1,6 +1,6 @@
 ---
 title: "Traumatic Brain Injury Settlement Value"
-image: "https://images.pexels.com/photos/5723883/pexels-photo-5723883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5207239/pexels-photo-5207239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-05-22T12:54:35.833292+00:00
 draft: false
 description: "Learn what factors determine traumatic brain injury settlement values, including medical costs, lost wages, and pain and suffering, to understand what your case"

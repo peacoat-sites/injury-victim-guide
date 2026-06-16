@@ -3,7 +3,7 @@ title: "How To Document Injury For Insurance Claim"
 date: 2026-06-01T15:37:29.095570+00:00
 draft: false
 description: "Learn how to document injuries for an insurance claim with our step-by-step guide. Maximize your compensation with proper photos, records, and evidence."
-image: "https://images.pexels.com/photos/7821686/pexels-photo-7821686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10341357/pexels-photo-10341357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Evidence and Documentation"]
 tags: ["document", "injury", "insurance", "claim"]
 slug: "how-to-document-injury-for-insurance-claim"

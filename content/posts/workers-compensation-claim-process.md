@@ -3,7 +3,7 @@ title: "Workers Compensation Claim Process"
 date: 2026-06-04T12:25:47.429551+00:00
 draft: false
 description: "Learn how to file a workers compensation claim step by step. Understand your rights, deadlines, and what to expect throughout the entire claims process."
-image: "https://images.pexels.com/photos/7876154/pexels-photo-7876154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7088834/pexels-photo-7088834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["workers", "compensation", "claim", "process"]
 slug: "workers-compensation-claim-process"
@@ -100,7 +100,7 @@ If you're early in this process, slow down before you sign anything or give any 
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

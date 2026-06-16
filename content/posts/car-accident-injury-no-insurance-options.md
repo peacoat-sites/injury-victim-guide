@@ -3,7 +3,7 @@ title: "Car Accident Injury No Insurance Options"
 date: 2026-05-25T03:47:38.733467+00:00
 draft: false
 description: "Car accident injury without insurance? Learn your legal options, compensation methods, and steps to take. Protect your rights and get help today."
-image: "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/28443036/pexels-photo-28443036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "insurance", "options"]
 slug: "car-accident-injury-no-insurance-options"

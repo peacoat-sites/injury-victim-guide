@@ -3,7 +3,7 @@ title: "How To File Car Accident Injury Claim"
 date: 2026-05-28T02:09:12.263897+00:00
 draft: false
 description: "File a car accident injury claim by documenting the scene, collecting evidence, notifying your insurer promptly, and seeking legal advice if needed for maximum "
-image: "https://images.pexels.com/photos/8942694/pexels-photo-8942694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5351114/pexels-photo-5351114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["file", "accident", "injury", "claim"]
 slug: "how-to-file-car-accident-injury-claim"
@@ -133,7 +133,7 @@ The car accident injury claim process can feel overwhelming when you're also try
 - **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Mike Bird](https://www.pexels.com/@mikebirdy) via Pexels*
 
 ---
 

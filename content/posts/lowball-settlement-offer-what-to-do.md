@@ -3,7 +3,7 @@ title: "Lowball Settlement Offer What To Do"
 date: 2026-05-27T01:13:59.002420+00:00
 draft: false
 description: "If you receive a lowball settlement offer, learn your rights and strategic options to negotiate effectively and maximize your compensation recovery."
-image: "https://images.pexels.com/photos/7841822/pexels-photo-7841822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7876049/pexels-photo-7876049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["lowball", "settlement", "offer", "what"]
 slug: "lowball-settlement-offer-what-to-do"
@@ -134,7 +134,7 @@ A lowball offer is not the end of the conversation. It's the beginning of one, a
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

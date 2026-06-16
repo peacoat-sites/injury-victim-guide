@@ -3,7 +3,7 @@ title: "Questions To Ask Personal Injury Attorney"
 date: 2026-06-10T14:30:25.790469+00:00
 draft: false
 description: "Discover the essential questions to ask a personal injury attorney before hiring one, so you can find the best legal representation and maximize your compensati"
-image: "https://images.pexels.com/photos/7876295/pexels-photo-7876295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7876308/pexels-photo-7876308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding an Attorney"]
 tags: ["questions", "personal", "injury", "attorney"]
 slug: "questions-to-ask-personal-injury-attorney"

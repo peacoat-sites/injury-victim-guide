@@ -3,7 +3,7 @@ title: "Workers Comp Denied What To Do"
 date: 2026-06-04T12:23:16.263351+00:00
 draft: false
 description: "Find out what to do when your workers comp claim is denied. Learn your rights, how to appeal the decision, and when to hire a workers compensation attorney."
-image: "https://images.pexels.com/photos/14846150/pexels-photo-14846150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6694481/pexels-photo-6694481.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["workers", "comp", "denied", "what"]
 slug: "workers-comp-denied-what-to-do"
@@ -130,7 +130,7 @@ A denial letter is an opening position, not a final verdict. The system is desig
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
 

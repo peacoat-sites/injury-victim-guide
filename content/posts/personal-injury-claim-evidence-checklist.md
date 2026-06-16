@@ -3,7 +3,7 @@ title: "Personal Injury Claim Evidence Checklist"
 date: 2026-06-14T13:05:14.764942+00:00
 draft: false
 description: "Discover exactly what evidence you need to win your personal injury claim. Use our expert checklist to gather proof, strengthen your case and maximise compensat"
-image: "https://images.pexels.com/photos/7876088/pexels-photo-7876088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34568328/pexels-photo-34568328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Evidence and Documentation"]
 tags: ["personal", "injury", "claim", "evidence", "checklist"]
 slug: "personal-injury-claim-evidence-checklist"
@@ -136,7 +136,7 @@ The honest truth about evidence is that it's most valuable when it's collected r
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Božo Gunjajević](https://www.pexels.com/@diverzant) via Pexels*
 
 ---
 

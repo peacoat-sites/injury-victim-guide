@@ -3,7 +3,7 @@ title: "Car Accident Pain And Suffering Claim"
 date: 2026-05-19T20:28:15.274465+00:00
 draft: false
 description: "Get fair compensation for your car accident pain and suffering claim. Learn how settlements are calculated, what factors affect payouts, and how to maximize you"
-image: "https://images.pexels.com/photos/7876137/pexels-photo-7876137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32437427/pexels-photo-32437427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "pain", "suffering", "claim"]
 slug: "car-accident-pain-and-suffering-claim"
@@ -106,7 +106,7 @@ There are specific things that can significantly reduce what you're owed. Knowin
 - **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Ann H](https://www.pexels.com/@ann-h-45017) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Neck Injury Settlement Car Accident"
 date: 2026-05-25T14:20:14.426491+00:00
 draft: false
 description: "Injured your neck in a car accident? Learn what affects settlement amounts, average payouts, and how to maximize your compensation with the right legal steps."
-image: "https://images.pexels.com/photos/7298634/pexels-photo-7298634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/47863/firefighter-extinguish-fire-extinction-47863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["neck", "injury", "settlement", "accident"]
 slug: "neck-injury-settlement-car-accident"
@@ -141,7 +141,7 @@ Nobody plans for a car accident, and nobody expects to spend months dealing with
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
 ---
 

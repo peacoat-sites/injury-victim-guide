@@ -3,7 +3,7 @@ title: "Medical Malpractice Claim Process"
 date: 2026-06-15T16:25:37.790633+00:00
 draft: false
 description: "Learn how to file a medical malpractice claim step by step, from gathering evidence to working with attorneys and navigating the legal process."
-image: "https://images.pexels.com/photos/7841461/pexels-photo-7841461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34816945/pexels-photo-34816945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Other Injury Types"]
 tags: ["medical", "malpractice", "claim", "process"]
 author: "Jennifer Harris"
@@ -108,7 +108,7 @@ The process is hard. I won't pretend otherwise. But knowing what you're walking 
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [khezez  | خزاز](https://www.pexels.com/@khezez) via Pexels*
 
 ---
 

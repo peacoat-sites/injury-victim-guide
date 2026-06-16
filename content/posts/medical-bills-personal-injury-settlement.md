@@ -3,7 +3,7 @@ title: "Medical Bills Personal Injury Settlement"
 date: 2026-06-14T13:07:11.521951+00:00
 draft: false
 description: "Learn how medical bills are handled in personal injury settlements, who pays them, and how to maximize your compensation to cover all healthcare costs effective"
-image: "https://images.pexels.com/photos/7841456/pexels-photo-7841456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5900070/pexels-photo-5900070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Evidence and Documentation"]
 tags: ["medical", "bills", "personal", "injury", "settlement"]
 slug: "medical-bills-personal-injury-settlement"
@@ -108,7 +108,7 @@ If you take one thing away from all of this: the money you see in a settlement o
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

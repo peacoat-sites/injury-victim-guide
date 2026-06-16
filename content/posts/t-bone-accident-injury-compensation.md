@@ -3,7 +3,7 @@ title: "T-Bone Accident Injury Compensation"
 date: 2026-05-23T01:05:55.331599+00:00
 draft: false
 description: "Get expert guidance on T-bone accident injury compensation. Learn what affects your claim, how much you could receive, and how to maximise your payout today."
-image: "https://images.pexels.com/photos/8942736/pexels-photo-8942736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35431407/pexels-photo-35431407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["T-bone", "accident", "injury", "compensation"]
 slug: "t-bone-accident-injury-compensation"
@@ -153,7 +153,7 @@ You didn't choose to be in this situation. But you do get to choose how you resp
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [P G](https://www.pexels.com/@p-g-354416850) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Amputation Injury Settlement Amount"
 date: 2026-06-11T14:55:38.465817+00:00
 draft: false
 description: "Discover what factors affect amputation injury settlement amounts, including medical costs, lost wages, and pain and suffering, to understand your potential com"
-image: "https://images.pexels.com/photos/7876040/pexels-photo-7876040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8436864/pexels-photo-8436864.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["amputation", "injury", "settlement", "amount"]
 slug: "amputation-injury-settlement-amount"
@@ -110,7 +110,7 @@ If there's one thing I want you to take from all of this, it's that amputation c
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

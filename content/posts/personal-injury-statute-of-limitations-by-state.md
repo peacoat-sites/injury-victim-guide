@@ -3,7 +3,7 @@ title: "Personal Injury Statute Of Limitations By State"
 date: 2026-05-18T21:44:14.339773+00:00
 draft: false
 description: "Find out the personal injury statute of limitations in your state. Learn how long you have to file a claim and why missing the deadline can cost you your case."
-image: "https://images.pexels.com/photos/5060979/pexels-photo-5060979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8730785/pexels-photo-8730785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "statute", "limitations", "state"]
 slug: "personal-injury-statute-of-limitations-by-state"
@@ -134,7 +134,7 @@ You don't need to file a lawsuit today. What you need to know is exactly how muc
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
 
 
-*Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

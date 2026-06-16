@@ -3,7 +3,7 @@ title: "Drunk Driver Accident Injury Lawsuit"
 date: 2026-05-19T10:22:27.747756+00:00
 draft: false
 description: "Injured in a drunk driver accident? Learn how to file a lawsuit, prove liability, and recover maximum compensation for your injuries, medical bills, and damages"
-image: "https://images.pexels.com/photos/6519906/pexels-photo-6519906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10480827/pexels-photo-10480827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["drunk", "driver", "accident", "injury", "lawsuit"]
 slug: "drunk-driver-accident-injury-lawsuit"
@@ -143,7 +143,7 @@ Getting hit by a drunk driver is a specific kind of injustice. The other person 
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

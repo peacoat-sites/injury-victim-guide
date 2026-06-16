@@ -3,7 +3,7 @@ title: "Bad Faith Insurance Claim Explained"
 date: 2026-06-06T12:19:19.226071+00:00
 draft: false
 description: "Learn what bad faith insurance claims are, how to identify unfair insurer tactics, your legal rights, and the steps you can take to fight back and get fair comp"
-image: "https://images.pexels.com/photos/7876300/pexels-photo-7876300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/261679/pexels-photo-261679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["faith", "insurance", "claim", "explained"]
 slug: "bad-faith-insurance-claim-explained"
@@ -132,7 +132,7 @@ You're not required to accept whatever a claims department decides. You have rig
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
 ---
 

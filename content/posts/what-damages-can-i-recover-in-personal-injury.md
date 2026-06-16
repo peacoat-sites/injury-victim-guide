@@ -1,6 +1,6 @@
 ---
 title: "What Damages Can I Recover In Personal Injury"
-image: "https://images.pexels.com/photos/7876195/pexels-photo-7876195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5668789/pexels-photo-5668789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-05-19T00:53:40.851971+00:00
 draft: false
 description: "Injured due to someone else's negligence? Learn what damages you may recover in a personal injury claim, including medical bills, lost wages, and pain and suffe"
@@ -137,7 +137,7 @@ Getting hurt because of someone else's negligence is genuinely disorienting. The
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
 
 ---
 

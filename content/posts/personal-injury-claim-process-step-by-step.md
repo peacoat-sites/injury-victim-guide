@@ -3,7 +3,7 @@ title: "Personal Injury Claim Process Step By Step"
 date: 2026-05-19T12:08:30.985168+00:00
 draft: false
 description: "Learn how the personal injury claim process works step by step, from gathering evidence and filing your claim to negotiating a settlement or taking your case to"
-image: "https://images.pexels.com/photos/7731332/pexels-photo-7731332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37726678/pexels-photo-37726678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "claim", "process", "step"]
 slug: "personal-injury-claim-process-step-by-step"
@@ -118,7 +118,7 @@ The personal injury claim process rewards the people who are organized, patient,
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [SHOX ART](https://www.pexels.com/@shox) via Pexels*
 
 ---
 

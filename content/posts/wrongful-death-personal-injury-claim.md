@@ -3,7 +3,7 @@ title: "Wrongful Death Personal Injury Claim"
 date: 2026-06-06T12:21:38.282995+00:00
 draft: false
 description: "Learn how to file a wrongful death personal injury claim, understand your legal rights, and find out what compensation you may be entitled to after losing a lov"
-image: "https://images.pexels.com/photos/7876315/pexels-photo-7876315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6907779/pexels-photo-6907779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["wrongful", "death", "personal", "injury", "claim"]
 slug: "wrongful-death-personal-injury-claim"
@@ -110,7 +110,7 @@ Grief and legal claims make a brutal combination. You shouldn't have to learn ci
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Arina Krasnikova](https://www.pexels.com/@arina-krasnikova) via Pexels*
 
 ---
 

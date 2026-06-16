@@ -3,7 +3,7 @@ title: "How Long Does A Personal Injury Claim Take To Settle"
 date: 2026-06-09T13:49:23.417285+00:00
 draft: false
 description: "Wondering how long a personal injury claim takes to settle? Discover the key factors affecting timelines, from liability disputes to medical recovery, and what "
-image: "https://images.pexels.com/photos/8112134/pexels-photo-8112134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6519905/pexels-photo-6519905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["long", "does", "personal", "injury", "claim"]
 slug: "how-long-does-a-personal-injury-claim-take-to-settle"
@@ -124,7 +124,7 @@ The timeline matters. So does not making major financial decisions, like accepti
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
 
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

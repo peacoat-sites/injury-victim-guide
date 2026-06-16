@@ -3,7 +3,7 @@ title: "Recorded Statement Insurance Adjuster Tips"
 date: 2026-06-05T12:23:32.984271+00:00
 draft: false
 description: "Learn how to handle a recorded statement with an insurance adjuster. Discover key tips to protect your rights and avoid costly mistakes after filing a claim."
-image: "https://images.pexels.com/photos/5668798/pexels-photo-5668798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/38125372/pexels-photo-38125372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance Tactics"]
 tags: ["recorded", "statement", "insurance", "adjuster", "tips"]
 slug: "recorded-statement-insurance-adjuster-tips"
@@ -120,7 +120,7 @@ The call takes less than ten minutes. But your preparation for it -- a few days 
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
 
-*Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
 

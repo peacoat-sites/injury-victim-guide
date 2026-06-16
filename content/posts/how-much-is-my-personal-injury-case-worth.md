@@ -3,7 +3,7 @@ title: "How Much Is My Personal Injury Case Worth"
 date: 2026-05-25T00:09:49.234083+00:00
 draft: false
 description: "Find out what factors determine the value of your personal injury case, including medical bills, lost wages, pain and suffering, and how insurers calculate sett"
-image: "https://images.pexels.com/photos/7876093/pexels-photo-7876093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37732186/pexels-photo-37732186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["much", "personal", "injury", "case", "worth"]
 slug: "how-much-is-my-personal-injury-case-worth"
@@ -135,7 +135,7 @@ You deserve to make decisions about your case with clear eyes, not under pressur
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [SHOX ART](https://www.pexels.com/@shox) via Pexels*
 
 ---
 

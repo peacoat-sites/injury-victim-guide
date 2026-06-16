@@ -3,7 +3,7 @@ title: "How Personal Injury Settlements Work"
 date: 2026-05-28T06:48:21.711488+00:00
 draft: false
 description: "Learn how personal injury settlements work, from filing a claim to negotiating compensation. Discover what factors affect your payout and how long the process t"
-image: "https://images.pexels.com/photos/7841469/pexels-photo-7841469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14646107/pexels-photo-14646107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "settlements", "work"]
 slug: "how-personal-injury-settlements-work"
@@ -147,7 +147,7 @@ Getting hurt because of someone else's carelessness is already hard enough. The 
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Graziele Rosa](https://www.pexels.com/@grazielerosa) via Pexels*
 
 ---
 

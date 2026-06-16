@@ -3,7 +3,7 @@ title: "Taxes On Personal Injury Settlement"
 date: 2026-05-31T11:11:06.125902+00:00
 draft: false
 description: "Learn how taxes on personal injury settlements work, what compensation is taxable, and what is exempt so you can keep more of your hard-earned settlement money."
-image: "https://images.pexels.com/photos/7821688/pexels-photo-7821688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6929029/pexels-photo-6929029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Case Outcomes"]
 tags: ["taxes", "personal", "injury", "settlement"]
 slug: "taxes-on-personal-injury-settlement"

@@ -3,7 +3,7 @@ title: "Pain And Suffering Calculation Formula"
 date: 2026-05-26T01:39:34.253128+00:00
 draft: false
 description: "Calculate pain and suffering damages using proven formulas. Learn multiplier methods, per diem calculations, and factors courts consider in personal injury case"
-image: "https://images.pexels.com/photos/7298881/pexels-photo-7298881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7298879/pexels-photo-7298879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["pain", "suffering", "calculation", "formula"]
 slug: "pain-and-suffering-calculation-formula"
@@ -138,7 +138,7 @@ Pain and suffering damages exist because the law recognizes that an injury isn't
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
 

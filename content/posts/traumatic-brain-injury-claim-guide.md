@@ -3,7 +3,7 @@ title: "Traumatic Brain Injury Claim Guide"
 date: 2026-06-12T14:19:11.114572+00:00
 draft: false
 description: "Learn how to make a traumatic brain injury claim, understand your legal rights, and maximise your compensation with our expert step-by-step guide."
-image: "https://images.pexels.com/photos/7876146/pexels-photo-7876146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7089622/pexels-photo-7089622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["traumatic", "brain", "injury", "claim", "guide"]
 slug: "traumatic-brain-injury-claim-guide"
@@ -104,7 +104,7 @@ Generally, no. Not without legal guidance first. You're not legally required to 
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

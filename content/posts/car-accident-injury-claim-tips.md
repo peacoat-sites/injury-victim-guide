@@ -3,7 +3,7 @@ title: "Car Accident Injury Claim Tips"
 date: 2026-05-29T18:18:27.592077+00:00
 draft: false
 description: "Car accident injury claims can be complex. Learn essential tips for documenting evidence, dealing with insurance, and maximizing your compensation settlement."
-image: "https://images.pexels.com/photos/12002262/pexels-photo-12002262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/2265634/pexels-photo-2265634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim", "tips"]
 slug: "car-accident-injury-claim-tips"
@@ -139,7 +139,7 @@ The car accident itself lasted a few seconds. The claim process that follows can
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 
 
-*Photo: [Mykhailo Volkov](https://www.pexels.com/@movievolkov) via Pexels*
+*Photo: [Artyom Kulakov](https://www.pexels.com/@artyom-kulakov-1190754) via Pexels*
 
 ---
 

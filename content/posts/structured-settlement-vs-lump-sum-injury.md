@@ -3,7 +3,7 @@ title: "Structured Settlement Vs Lump Sum Injury"
 date: 2026-06-05T12:21:41.493884+00:00
 draft: false
 description: "Unsure whether to choose a structured settlement or lump sum after an injury? Compare both options to find which payment method best suits your financial needs."
-image: "https://images.pexels.com/photos/7876086/pexels-photo-7876086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6289028/pexels-photo-6289028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Case Outcomes"]
 tags: ["structured", "settlement", "lump", "injury"]
 slug: "structured-settlement-vs-lump-sum-injury"
@@ -130,7 +130,7 @@ There's no universal right answer here, and anyone who tells you otherwise is pr
 - **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
 
 ---
 

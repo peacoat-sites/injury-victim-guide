@@ -3,7 +3,7 @@ title: "Wet Floor Slip And Fall Injury"
 date: 2026-05-26T01:42:15.046367+00:00
 draft: false
 description: "Slipped on a wet floor? Learn about your legal rights, how to prove negligence, and how to pursue compensation for your slip and fall injury today."
-image: "https://images.pexels.com/photos/32594477/pexels-photo-32594477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36129782/pexels-photo-36129782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Slip and Fall"]
 tags: ["floor", "slip", "fall", "injury"]
 slug: "wet-floor-slip-and-fall-injury"

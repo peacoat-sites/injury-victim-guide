@@ -3,7 +3,7 @@ title: "Catastrophic Injury Lawsuit Process"
 date: 2026-06-02T12:53:59.048680+00:00
 draft: false
 description: "Learn how catastrophic injury lawsuits work, from filing a claim to settlement or trial. Understand your legal rights and steps to pursue maximum compensation."
-image: "https://images.pexels.com/photos/7876289/pexels-photo-7876289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6129152/pexels-photo-6129152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Serious Injuries"]
 tags: ["catastrophic", "injury", "lawsuit", "process"]
 slug: "catastrophic-injury-lawsuit-process"
@@ -146,7 +146,7 @@ The system isn't designed to be easy for injured people. It's designed to be nav
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

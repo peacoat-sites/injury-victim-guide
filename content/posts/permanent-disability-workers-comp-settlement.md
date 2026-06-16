@@ -3,7 +3,7 @@ title: "Permanent Disability Workers Comp Settlement"
 date: 2026-06-02T12:56:25.200077+00:00
 draft: false
 description: "Get the facts on permanent disability workers comp settlements, including how payouts are calculated, what affects your amount, and how to maximize your compens"
-image: "https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821684/pexels-photo-7821684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Workers Compensation"]
 tags: ["permanent", "disability", "workers", "comp", "settlement"]
 slug: "permanent-disability-workers-comp-settlement"
@@ -114,7 +114,7 @@ You've been through something serious, and the settlement process can feel desig
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
 
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

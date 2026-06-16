@@ -3,7 +3,7 @@ title: "Defective Product Injury Claim"
 date: 2026-06-07T12:53:36.273135+00:00
 draft: false
 description: "Injured by a defective product? Learn how to file a product liability claim, who is liable, and how to get the compensation you deserve for your injuries."
-image: "https://images.pexels.com/photos/5668790/pexels-photo-5668790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18275926/pexels-photo-18275926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Other Injury Types"]
 tags: ["defective", "product", "injury", "claim"]
 slug: "defective-product-injury-claim"
@@ -122,7 +122,7 @@ The situation you're in after a defective product hurts you is genuinely unfair.
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 
 
-*Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Nursing Home Abuse Personal Injury Claim"
 date: 2026-06-13T13:01:07.443534+00:00
 draft: false
 description: "Discover how to file a nursing home abuse personal injury claim, protect your loved ones, and secure the compensation they deserve with expert legal guidance."
-image: "https://images.pexels.com/photos/7876205/pexels-photo-7876205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/339620/pexels-photo-339620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Other Injury Types"]
 tags: ["nursing", "home", "abuse", "personal", "injury"]
 slug: "nursing-home-abuse-personal-injury-claim"
@@ -98,7 +98,7 @@ If there's one thing I'd want families to take away from all of this, it's that 
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Matthias Zomer](https://www.pexels.com/@matthiaszomer) via Pexels*
 
 ---
 

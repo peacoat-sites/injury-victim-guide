@@ -3,7 +3,7 @@ title: "What To Do Immediately After An Accident"
 date: 2026-05-24T10:17:36.127300+00:00
 draft: false
 description: "Stay safe and protect your legal rights. Learn the essential steps to take immediately after an accident, from calling 911 to documenting the scene and notifyin"
-image: "https://images.pexels.com/photos/6129050/pexels-photo-6129050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7324073/pexels-photo-7324073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["what", "immediately", "after", "accident"]
 slug: "what-to-do-immediately-after-an-accident"
@@ -149,7 +149,7 @@ The hour after an accident is chaotic and disorienting, and the insurance system
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [O H](https://www.pexels.com/@ooha) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Car Accident Injury Claim Denied What To Do"
 date: 2026-05-25T01:03:30.522962+00:00
 draft: false
 description: "Find out what steps to take if your car accident injury claim has been denied. Learn how to appeal, gather evidence, and fight for the compensation you deserve."
-image: "https://images.pexels.com/photos/7876150/pexels-photo-7876150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7785039/pexels-photo-7785039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim", "denied", "what"]
 slug: "car-accident-injury-claim-denied-what-to-do"
@@ -129,7 +129,7 @@ A denied claim feels like a closed door, and I understand why people accept it a
 - **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
 

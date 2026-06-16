@@ -3,7 +3,7 @@ title: "Hit And Run Accident Injury Claim"
 date: 2026-05-20T21:01:11.822548+00:00
 draft: false
 description: "Hit and run accident injuries can be devastating. Learn how to file a claim, gather evidence, and protect your legal rights with our expert guide."
-image: "https://images.pexels.com/photos/5207232/pexels-photo-5207232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9195143/pexels-photo-9195143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim"]
 slug: "hit-and-run-accident-injury-claim"
@@ -144,7 +144,7 @@ Hit-and-run crashes feel deeply unfair, and they are. Someone caused serious har
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Erik Mclean](https://www.pexels.com/@introspectivedsgn) via Pexels*
 
 ---
 

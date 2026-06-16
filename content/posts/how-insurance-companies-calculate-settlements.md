@@ -3,7 +3,7 @@ title: "How Insurance Companies Calculate Settlements"
 date: 2026-05-26T08:26:20.576759+00:00
 draft: false
 description: "Find out how insurance companies calculate settlements, including the key factors that affect your payout, from medical costs to liability and negotiation tacti"
-image: "https://images.pexels.com/photos/6919757/pexels-photo-6919757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17065743/pexels-photo-17065743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["insurance", "companies", "calculate", "settlements"]
 slug: "how-insurance-companies-calculate-settlements"
@@ -149,7 +149,7 @@ The gap between what an insurance company offers and what you're actually owed d
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
 

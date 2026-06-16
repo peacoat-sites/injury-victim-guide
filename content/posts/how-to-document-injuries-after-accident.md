@@ -3,7 +3,7 @@ title: "How To Document Injuries After Accident"
 date: 2026-05-22T01:21:39.599804+00:00
 draft: false
 description: "Learn how to properly document injuries after an accident with our step-by-step guide. Protect your legal rights and strengthen your claim with the right eviden"
-image: "https://images.pexels.com/photos/10480829/pexels-photo-10480829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6520110/pexels-photo-6520110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["document", "injuries", "after", "accident"]
 slug: "how-to-document-injuries-after-accident"
@@ -127,7 +127,7 @@ The window for good documentation closes faster than most people expect. Records
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

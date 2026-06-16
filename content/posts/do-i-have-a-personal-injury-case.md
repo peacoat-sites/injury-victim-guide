@@ -3,7 +3,7 @@ title: "Do I Have A Personal Injury Case"
 date: 2026-05-26T02:21:23.968329+00:00
 draft: false
 description: "Find out if you have a personal injury case. Learn the key factors that determine eligibility, from proving negligence to documenting damages, and protect your "
-image: "https://images.pexels.com/photos/8112112/pexels-photo-8112112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8371706/pexels-photo-8371706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Injury Basics"]
 tags: ["have", "personal", "injury", "case"]
 slug: "do-i-have-a-personal-injury-case"
@@ -116,7 +116,7 @@ If you're in the early days after an injury, here's a concrete sequence that can
 
 The question of whether you have a personal injury case doesn't have a universal answer, but it does have a logical process you can follow. You look at the four elements, you honestly assess what happened and what evidence exists, you understand your state's rules, and you talk to a professional before any deadline passes. What you don't do is assume the answer is no before you've done any of that. In my experience, the people who walk away with nothing are often not the ones with weak cases. They're the ones who never asked.
 
-*Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

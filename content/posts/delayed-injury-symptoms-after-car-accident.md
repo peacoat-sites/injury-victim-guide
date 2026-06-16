@@ -3,7 +3,7 @@ title: "Delayed Injury Symptoms After Car Accident"
 date: 2026-05-27T05:23:59.217483+00:00
 draft: false
 description: "Learn why car accident injuries like whiplash and concussions often appear days later, and why seeking immediate medical attention protects your health and lega"
-image: "https://images.pexels.com/photos/7875998/pexels-photo-7875998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29271763/pexels-photo-29271763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["delayed", "injury", "symptoms", "after", "accident"]
 slug: "delayed-injury-symptoms-after-car-accident"
@@ -138,7 +138,7 @@ Your body delayed the signal. The insurance system is designed to move fast. Tho
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [jordan besson](https://www.pexels.com/@jordan-besson-2051439001) via Pexels*
 
 ---
 

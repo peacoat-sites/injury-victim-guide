@@ -3,7 +3,7 @@ title: "Average Personal Injury Settlement Amounts"
 date: 2026-05-18T21:03:39.620978+00:00
 draft: false
 description: "Find out what average personal injury settlement amounts look like, what factors affect your payout, and how to maximize compensation for your claim."
-image: "https://images.pexels.com/photos/6191128/pexels-photo-6191128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8413147/pexels-photo-8413147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Settlement Values"]
 tags: ["average", "personal", "injury", "settlement", "amounts"]
 slug: "average-personal-injury-settlement-amounts"
@@ -113,7 +113,7 @@ You came here looking for a number, and I get that. The honest answer is that yo
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

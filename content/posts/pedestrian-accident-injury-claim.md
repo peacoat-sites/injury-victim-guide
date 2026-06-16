@@ -3,7 +3,7 @@ title: "Pedestrian Accident Injury Claim"
 date: 2026-06-01T15:35:19.721602+00:00
 draft: false
 description: "Learn how to make a pedestrian accident injury claim, what compensation you may be entitled to, and the key steps to take after being injured on the road."
-image: "https://images.pexels.com/photos/17286517/pexels-photo-17286517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35841793/pexels-photo-35841793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Other Injury Types"]
 tags: ["pedestrian", "accident", "injury", "claim"]
 slug: "pedestrian-accident-injury-claim"

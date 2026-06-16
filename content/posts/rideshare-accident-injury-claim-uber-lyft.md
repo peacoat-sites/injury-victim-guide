@@ -3,7 +3,7 @@ title: "Rideshare Accident Injury Claim Uber Lyft"
 date: 2026-05-22T12:30:27.612223+00:00
 draft: false
 description: "Get help with your rideshare accident injury claim against Uber or Lyft. Learn your rights, how liability works, and how to maximize your compensation today."
-image: "https://images.pexels.com/photos/8943282/pexels-photo-8943282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/1230677/pexels-photo-1230677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Car Accidents"]
 tags: ["rideshare", "accident", "injury", "claim", "Uber"]
 slug: "rideshare-accident-injury-claim-uber-lyft"
@@ -136,7 +136,7 @@ The rideshare industry moved faster than insurance law was ready for, and injure
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Aleksandr Neplokhov](https://www.pexels.com/@aleksandr-neplokhov-486399) via Pexels*
 
 ---
 
