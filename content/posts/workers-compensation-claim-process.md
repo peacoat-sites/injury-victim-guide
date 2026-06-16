@@ -86,27 +86,6 @@ And one more thing. If a third party, not your employer, caused or contributed t
 
 ---
 
-## Questions People Actually Ask
-
-### How long does a workers' comp claim take to resolve?
-
-Simple soft-tissue claims with no dispute and a clear return to work date might close in a few months. Claims involving surgery, permanent disability, or disputes over causation can take one to three years or more, particularly if they go through formal hearings or appeals. There's no universal timeline.
-
-### Can my employer fire me for filing a workers' comp claim?
-
-Retaliation for filing a workers' comp claim is illegal in every state, but proving it can be complicated. If you're terminated or demoted shortly after filing, document everything and speak with an employment attorney, not just a workers' comp attorney, because those claims may fall under different areas of law.
-
-### Do I need a lawyer to file a workers' comp claim?
-
-Not for a straightforward claim where liability is clear and you return to work fully recovered. But if your claim is denied, you have a permanent injury, your employer is uninsured, or you suspect your employer is retaliating, yes, get legal help. Most workers' comp attorneys work on contingency, meaning they take a percentage of your settlement rather than charging upfront.
-
-### What is an "independent medical examination" and do I have to go?
-
-An IME is a medical exam requested by the insurance carrier, performed by a doctor they select, to evaluate your injury and your reported limitations. In most states, you are required to attend or risk losing your benefits. You can and should inform your own treating physician beforehand and bring someone with you to take notes.
-
-### What happens if my employer doesn't have workers' comp insurance?
-
-Most states have a fund specifically for this situation, often called an "uninsured employer fund" or similar. You may also be able to sue the employer directly in civil court, which bypasses the usual restrictions on suing employers. An attorney who knows your state's laws is really your best resource here.
 
 ---
 
