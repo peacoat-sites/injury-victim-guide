@@ -34,6 +34,16 @@ What I can do is walk you through what actually moves these numbers, what the in
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Soft Tissue Claim Value Factors Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">This matrix shows how specific case characteristics typically shift settlement ranges, based on factors insurers weigh during claims evaluation.</p>
+    <table><thead><tr><th>Factor</th><th>Lower Settlement Indicator</th><th>Higher Settlement Indicator</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Diagnostic Evidence</td><td>X-ray only, normal findings</td><td>MRI showing disc bulge, tear, or herniation</td><td>Objective imaging creates documentation insurers cannot easily dispute</td></tr><tr><td>Treatment Duration</td><td>2-4 weeks of care, then discharged</td><td>3+ months of consistent treatment with documented plateau</td><td>Longer treatment with medical justification signals genuine impairment</td></tr><tr><td>Treatment Type</td><td>Chiropractor visits only</td><td>Orthopedist referral, physical therapy, pain management</td><td>MD involvement and varied providers increase perceived injury severity</td></tr><tr><td>Gap in Treatment</td><td>30+ day gaps between appointments</td><td>Consistent care with no unexplained gaps</td><td>Gaps suggest recovery or that injury wasn't severe enough to prioritize</td></tr><tr><td>Pre-existing Conditions</td><td>Prior claims for same body region</td><td>No documented prior injury to affected area</td><td>Insurers aggressively reduce value when they can attribute symptoms to prior conditions</td></tr><tr><td>Impact Severity</td><td>Low-speed collision under 10 mph</td><td>Visible vehicle damage, deployed airbags, photos documented</td><td>Property damage photos serve as proxy evidence for force of impact</td></tr><tr><td>Lost Wages Documentation</td><td>Self-employed with no records, or no time missed</td><td>W-2 employee with employer verification letter</td><td>Verifiable income loss adds concrete economic damages to claim</td></tr><tr><td>Permanency Language</td><td>Discharged with "full recovery expected"</td><td>Doctor notes "permanent impairment" or "chronic condition"</td><td>Future damages require medical opinion supporting ongoing effects</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "Soft Tissue Injury" Actually Covers (And Why It Matters for Your Claim)
 
 Insurance adjusters love the phrase "soft tissue." It's a polite way of saying: no broken bones visible on your X-ray, so prepare to fight for every dollar.

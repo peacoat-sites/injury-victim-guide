@@ -28,6 +28,16 @@ author_bio: "Maya Rivera spent a decade working in insurance claims before concl
 
 You went to the doctor, you missed work, and your car is finally fixed. On paper, those losses are measurable. But here you are, three weeks later, still waking up at 3 a.m. because your neck aches, still anxious every time someone cuts you off on the highway, still explaining to your family why you're just not yourself. That part, the part that doesn't show up on a medical bill, is what a pain and suffering claim is designed to address. And if you've never heard of it before this moment, you're not alone. Most people don't know this category of compensation even exists until they're already in the middle of a situation where they desperately need it.
 
+
+<div class="value-module">
+  <div class="vm-head">Pain & Suffering Multiplier Ranges by Injury</div>
+  <div class="vm-body">
+    <p class="vm-intro">Insurance adjusters typically apply a multiplier to your total medical bills; this table shows common ranges based on injury severity and documentation strength.</p>
+    <table><caption>Typical Pain &amp; Suffering Multipliers by Injury Category</caption><thead><tr><th>Injury Severity</th><th>Examples</th><th>Typical Multiplier Range</th><th>Key Documentation That Supports Higher End</th></tr></thead><tbody><tr><td>Minor / Soft Tissue</td><td>Whiplash resolving in 4–8 weeks, minor sprains, bruising</td><td>1× – 2× medical bills</td><td>Consistent treatment records, symptom diary showing daily limitations</td></tr><tr><td>Moderate</td><td>Herniated disc (non-surgical), fractures requiring casting, concussion with lingering symptoms</td><td>2× – 4× medical bills</td><td>Specialist referrals, documented work restrictions, mental health treatment records</td></tr><tr><td>Severe / Long-Term</td><td>Surgery required, permanent mobility loss, chronic pain diagnosis, documented PTSD</td><td>4× – 5× medical bills</td><td>Surgical records, vocational expert report, ongoing therapy notes, impact statements from family</td></tr><tr><td>Catastrophic / Life-Altering</td><td>Spinal cord injury, traumatic brain injury with lasting cognitive deficits, amputation</td><td>5× – 10×+ medical bills</td><td>Life-care plan, neuropsychological evaluation, economist report on future losses</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "Pain and Suffering" Actually Means in a Car Accident Claim
 
 Let's clear something up immediately. Pain and suffering isn't a vague legal bonus that lawyers tack onto a claim to inflate a number. It's a recognized legal category of damages, and it covers two distinct things that often get lumped together.

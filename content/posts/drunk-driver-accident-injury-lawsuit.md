@@ -30,6 +30,16 @@ You survived the crash. The other driver failed a field sobriety test at the sce
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Drunk Driver Lawsuit: Damages Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to identify recoverable damages and documentation thresholds attorneys typically look for when evaluating case strength.</p>
+    <table><thead><tr><th>Damage Category</th><th>What It Covers</th><th>Documentation Needed</th><th>Typical Threshold/Note</th></tr></thead><tbody><tr><td>Medical Expenses (Past)</td><td>ER visits, surgery, imaging, ambulance, hospital stays, prescriptions</td><td>Itemized bills, medical records, pharmacy receipts</td><td>Keep every bill; even $500 claims add up</td></tr><tr><td>Medical Expenses (Future)</td><td>Projected surgeries, physical therapy, ongoing care, medical devices</td><td>Treating physician's written prognosis, life care plan for serious injuries</td><td>Requires expert testimony if over $25,000</td></tr><tr><td>Lost Wages (Past)</td><td>Income missed during recovery</td><td>Employer letter, pay stubs, tax returns</td><td>Self-employed: 2-3 years of tax records typical</td></tr><tr><td>Lost Earning Capacity (Future)</td><td>Reduced ability to work or career change forced by injury</td><td>Vocational expert report, medical restrictions documentation</td><td>Strongest when permanent impairment rating ≥10%</td></tr><tr><td>Pain and Suffering</td><td>Physical pain, emotional distress, loss of enjoyment of life</td><td>Pain journal, therapist records, testimony from family</td><td>Often calculated at 1.5x–5x medical specials depending on severity</td></tr><tr><td>Property Damage</td><td>Vehicle repair or replacement, personal items destroyed</td><td>Repair estimates, photos, replacement receipts</td><td>Totaled vehicle: use pre-crash fair market value</td></tr><tr><td>Punitive Damages</td><td>Additional award to punish egregious conduct</td><td>BAC results, prior DUI history, reckless behavior evidence</td><td>BAC ≥0.15 or prior DUI significantly increases eligibility in most states</td></tr><tr><td>Loss of Consortium</td><td>Spouse's claim for loss of companionship, intimacy, support</td><td>Spouse's testimony, marriage documentation</td><td>Usually requires permanent or severe injury</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why a Criminal Case and a Civil Lawsuit Are Two Different Fights
 
 Most people assume that once the drunk driver gets convicted, the money follows. That's not how it works.

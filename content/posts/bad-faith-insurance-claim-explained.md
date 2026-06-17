@@ -34,6 +34,16 @@ I spent 12 years on the inside of that system before I switched sides. I've seen
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Bad Faith vs. Coverage Dispute: Key Distinctions</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this comparison to identify whether your situation involves a legitimate coverage dispute or potential bad faith conduct.</p>
+    <table><thead><tr><th>Situation</th><th>Likely Coverage Dispute</th><th>Potential Bad Faith Indicator</th></tr></thead><tbody><tr><td>Claim response time</td><td>30-45 day investigation with status updates</td><td>90+ days with no communication or explanation</td></tr><tr><td>Settlement offer</td><td>Lower than expected but supported by documented reasoning</td><td>Offer contradicts insurer's own internal damage assessment</td></tr><tr><td>Information requests</td><td>Asking for medical records, repair estimates, or police reports</td><td>Repeated requests for same documents or demands for irrelevant information</td></tr><tr><td>Claim denial</td><td>Cites specific policy exclusion with written explanation</td><td>Misrepresents policy language or ignores evidence supporting coverage</td></tr><tr><td>Investigation conduct</td><td>Independent adjuster reviews damage and interviews claimant</td><td>Adjuster instructed to find reasons to deny rather than evaluate fairly</td></tr><tr><td>Your legal options</td><td>Appeal, negotiate, file with state insurance department, or sue for policy benefits</td><td>Sue for policy benefits plus extra-contractual damages and potentially punitive damages</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Bad Faith Actually Means (and What It Doesn't)
 
 Insurance companies have a legal obligation called the "duty of good faith and fair dealing." Every state recognizes it. It means your insurer can't put its own financial interests above yours when handling your claim. They can dispute coverage. They can investigate before paying. They can make an offer you think is too low. None of that, by itself, is bad faith.

@@ -30,6 +30,16 @@ You're sitting in the ER two days after a rear-end collision, waiting for the do
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Back Injury Settlement Ranges by Diagnosis</div>
+  <div class="vm-body">
+    <p class="vm-intro">Settlement values vary dramatically based on injury severity, treatment required, and whether surgery is involved—here are illustrative ranges based on typical claim patterns.</p>
+    <table><thead><tr><th>Injury Type</th><th>Typical Treatment</th><th>Illustrative Settlement Range</th><th>Key Value Drivers</th></tr></thead><tbody><tr><td>Cervical/Lumbar Strain (soft tissue)</td><td>PT, chiropractic, 4–8 weeks</td><td>$5,000–$25,000</td><td>Documented therapy compliance; clear impact on daily activities</td></tr><tr><td>Disc Bulge (no surgery)</td><td>PT, injections, 3–6 months</td><td>$25,000–$75,000</td><td>MRI confirmation; epidural steroid injections documented</td></tr><tr><td>Herniated Disc (no surgery)</td><td>Conservative care, pain management, 6–12 months</td><td>$50,000–$150,000</td><td>Radiculopathy symptoms; nerve conduction studies; work restrictions</td></tr><tr><td>Herniated Disc (with surgery)</td><td>Microdiscectomy or laminectomy</td><td>$100,000–$350,000</td><td>Surgical success/complications; post-op limitations; age at injury</td></tr><tr><td>Spinal Fusion (single level)</td><td>Fusion surgery, 12+ month recovery</td><td>$250,000–$500,000+</td><td>Permanent hardware; adjacent segment disease risk; vocational impact</td></tr><tr><td>Multi-Level Fusion or Failed Back Surgery</td><td>Multiple surgeries, ongoing pain management</td><td>$500,000–$1,000,000+</td><td>Chronic pain documentation; life care plan; lost earning capacity</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Back Injuries Are So Complicated to Value
 
 Back injuries don't behave like a broken arm. A fracture shows up clean on an X-ray. A herniated disc at L4-L5, a torn facet joint, or a compression fracture can be genuinely debilitating but look surprisingly subtle on imaging, especially in the first 48 to 72 hours post-accident. Adjusters know this. I spent over a decade on the insurance side, and I watched skilled adjusters routinely challenge back injury claims by pointing to "pre-existing degeneration" or questioning whether the accident could physically have caused the reported symptoms.

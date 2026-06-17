@@ -36,6 +36,16 @@ That's the article I want to write here. Not a sanitized overview of product lia
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Evidence Preservation Checklist with Deadlines</div>
+  <div class="vm-body">
+    <p class="vm-intro">Adjusters know that evidence gaps kill claims faster than liability disputes—here's the timeline-based checklist that protects your case.</p>
+    <ul><li><strong>Within 24 hours of injury:</strong> Photograph the product from multiple angles (include serial numbers, labels, damage points); photograph your injuries; do NOT clean, repair, or discard the product</li><li><strong>Within 48 hours:</strong> Place product in a sealed bag or container; store in a location you control (not returned to retailer/manufacturer); write a dated narrative of exactly what happened while memory is fresh</li><li><strong>Within 72 hours:</strong> Request complete medical records from ER/urgent care visit; save all packaging, receipts, instruction manuals, and warranty cards; screenshot any online product listings or reviews mentioning similar failures</li><li><strong>Within 1 week:</strong> Send yourself a dated email with photos and written account (creates timestamp); identify any witnesses and get written/recorded statements; check if product has existing recalls at CPSC.gov</li><li><strong>Within 2 weeks:</strong> Consult an attorney BEFORE speaking with manufacturer's insurance or claims representatives; preserve any clothing or items damaged in the incident; gather proof of purchase (credit card statements work if receipt is lost)</li><li><strong>Ongoing until case resolved:</strong> Never post about the incident on social media; document all medical visits, lost work days, and expenses with dates; store product untouched—even a well-meaning repair destroys comparative evidence</li></ul>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Three Types of Product Defects (and Why It Matters Which One You Have)
 
 Product liability law in the United States generally recognizes three distinct theories under which a manufacturer, retailer, or distributor can be held responsible. I'll use plain language here because the categories are genuinely useful, not just academic.

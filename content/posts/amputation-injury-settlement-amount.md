@@ -34,6 +34,16 @@ I spent 12 years as an adjuster before I switched sides. I've sat in rooms where
 
 So let me tell you what actually shapes an amputation settlement, what the insurance company already knows that you probably don't, and where the real money gets left on the table.
 
+
+<div class="value-module">
+  <div class="vm-head">Amputation Settlement Value Factors Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">This matrix shows how key variables interact to shift settlement ranges, helping you identify which factors carry the most weight in your specific situation.</p>
+    <table><caption>How Case Variables Typically Affect Amputation Settlement Values</caption><thead><tr><th>Factor</th><th>Lower Settlement Impact</th><th>Higher Settlement Impact</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Amputation Level</td><td>Partial digit or toe</td><td>Above-elbow or above-knee</td><td>Higher amputation level = more function lost, more expensive prosthetics, greater life impact</td></tr><tr><td>Dominant vs. Non-Dominant (Upper)</td><td>Non-dominant hand/arm</td><td>Dominant hand/arm</td><td>Dominant-side loss creates larger vocational and daily-living deficits</td></tr><tr><td>Claimant Age</td><td>Over 60 (shorter loss period)</td><td>Under 40 (decades of impact)</td><td>Future damages calculated over remaining work/life expectancy</td></tr><tr><td>Pre-Injury Occupation</td><td>Sedentary office work</td><td>Manual trade or physically demanding career</td><td>Higher wage loss when amputation prevents return to skilled physical work</td></tr><tr><td>Prosthetic Needs</td><td>Basic cosmetic or no prosthetic</td><td>Myoelectric or microprocessor device with lifetime replacements</td><td>Advanced prosthetics cost $20,000–$100,000+ each; replaced every 3–5 years</td></tr><tr><td>Liability Clarity</td><td>Shared fault or disputed cause</td><td>Clear defendant negligence, documented safety violations</td><td>Comparative fault reduces recovery; clear liability pressures early settlement</td></tr><tr><td>Defendant Resources</td><td>Individual driver with minimum policy</td><td>Commercial entity with high policy limits or substantial assets</td><td>Available insurance/assets cap practical recovery regardless of damages</td></tr><tr><td>Complications</td><td>Clean healing, no secondary issues</td><td>Phantom pain, revision surgeries, infection, PTSD</td><td>Ongoing complications increase medical costs and pain/suffering valuation</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why There's No "Average" Settlement Number (And Why Anyone Who Quotes You One Is Guessing)
 
 You'll find articles that say amputation settlements average anywhere from $500,000 to over $2 million. Those ranges aren't wrong, exactly. They're just almost useless for understanding your specific situation.

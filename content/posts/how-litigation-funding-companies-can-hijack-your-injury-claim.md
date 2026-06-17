@@ -18,6 +18,16 @@ Most coverage of litigation funding focuses on billionaire hedge funds bankrolli
 
 On June 12, 2026, New York Marine & General Insurance Co. filed a complaint in the U.S. District Court for the Southern District of New York accusing Case Cash Funding LLC and related entities of running a coordinated scheme to inflate personal injury claims. The alleged methods: false advertising, loans disguised as non-recourse advances, and direct control over which doctors claimants saw and which lawyers represented them. Bloomberg Law broke the story three days later. If the allegations hold up, this isn't just a fraud case against one company. It's a window into how the litigation funding industry can operate at the expense of the very people it claims to help.
 
+
+<div class="value-module">
+  <div class="vm-head">Red Flags: Funder Control Warning Signs</div>
+  <div class="vm-body">
+    <p class="vm-intro">Before signing with any litigation funder, check for these specific warning signs that may indicate the funder is prioritizing their returns over your interests.</p>
+    <table><caption>Litigation Funding Red Flag Checklist</caption><thead><tr><th>Warning Sign</th><th>What It Looks Like</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Mandatory provider referrals</td><td>Funder requires you to use specific doctors, chiropractors, or treatment centers</td><td>Provider may be financially tied to funder; treatment decisions may prioritize claim value over your health</td></tr><tr><td>Attorney steering</td><td>Funder insists you use their recommended lawyer or won't fund your case</td><td>Attorney may owe loyalty to funder relationship rather than to you as client</td></tr><tr><td>Undisclosed fee structures</td><td>Contract lacks clear APR equivalent; uses only flat fee or factor rate language</td><td>Effective annual rates on litigation advances commonly range from 30% to over 100%; vague terms obscure true cost</td></tr><tr><td>Communication restrictions</td><td>Funder contacts your attorney directly or receives case updates before you do</td><td>Suggests funder may be influencing case strategy without your knowledge</td></tr><tr><td>Settlement veto language</td><td>Contract requires funder approval before you can accept a settlement offer</td><td>Funder's break-even threshold may exceed offers that would benefit you</td></tr><tr><td>Bundled services pressure</td><td>Funder offers package deals combining funding with medical liens or case management</td><td>Creates layered financial interests that compound conflicts</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "Non-Recourse" Actually Means, and What It Can Hide
 
 Litigation funders sell their product with one big hook: if you lose your case, you owe nothing. That's the "non-recourse" pitch, and it's technically true in many contracts. You're not personally liable if the claim fails. Sounds clean.

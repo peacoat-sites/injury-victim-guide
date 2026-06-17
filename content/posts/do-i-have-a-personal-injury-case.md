@@ -32,6 +32,16 @@ Here's the thing. In my 12 years adjusting claims before I switched sides, I wat
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Personal Injury Case Self-Assessment Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to evaluate whether your situation meets the four essential legal elements—each threshold helps you identify strengths and potential challenges before consulting an attorney.</p>
+    <table><caption>Four-Element Case Assessment</caption><thead><tr><th>Element</th><th>Key Question</th><th>Strength Indicators</th><th>Red Flags</th></tr></thead><tbody><tr><td>Duty of Care</td><td>Did they owe you a legal obligation?</td><td>Commercial property (customer status); licensed professional relationship; other driver on public road</td><td>Trespassing on private property; no formal relationship; hazard was in area you weren't permitted to be</td></tr><tr><td>Breach of Duty</td><td>What specific rule or standard did they violate?</td><td>Written policy violated (e.g., inspection logs skipped); traffic citation issued; documented code violation</td><td>No clear standard exists; conduct was arguably reasonable; you can't identify what they should have done differently</td></tr><tr><td>Causation</td><td>Can you connect their action directly to your injury?</td><td>No prior injury to same body part; symptoms began immediately; medical records explicitly link cause</td><td>Pre-existing condition in same area; delayed symptom onset over 72 hours without documentation; multiple possible causes</td></tr><tr><td>Damages</td><td>What measurable losses do you have?</td><td>Medical bills exceeding $2,500; documented missed work (pay stubs); ongoing treatment plan prescribed</td><td>No medical treatment sought; fully recovered within days; no out-of-pocket costs or wage loss</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Four Things Every Personal Injury Case Actually Needs
 
 Personal injury law, at its core, is about one concept: negligence. To have a viable case, your situation generally needs to satisfy four elements. Think of them as four legs on a table. Missing one, and the whole thing collapses.

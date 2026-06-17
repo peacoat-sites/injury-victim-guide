@@ -32,6 +32,16 @@ Let me start with the number everyone wants: studies and jury verdict databases 
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">TBI Settlement Factors: Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">This matrix shows how key case variables typically influence settlement ranges, helping you identify which factors apply to your situation.</p>
+    <table><thead><tr><th>Factor</th><th>Lower Settlement Influence</th><th>Higher Settlement Influence</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Injury Documentation</td><td>Normal CT/MRI, symptom-based diagnosis only</td><td>Abnormal imaging (hemorrhage, diffuse axonal injury visible)</td><td>Objective proof reduces dispute over injury existence</td></tr><tr><td>Symptom Duration</td><td>Resolved within 3–6 months</td><td>Persistent cognitive deficits beyond 18 months</td><td>Long-term impairment drives future damages calculations</td></tr><tr><td>Pre-Injury Earnings</td><td>Under $40K/year or inconsistent work history</td><td>Over $100K/year with documented career trajectory</td><td>Lost earning capacity often largest damages component</td></tr><tr><td>Age at Injury</td><td>Over 60 (fewer working years remaining)</td><td>Under 40 (decades of projected losses)</td><td>Future damages multiply across expected lifespan</td></tr><tr><td>Defendant Type</td><td>Individual with minimum liability coverage ($25–50K)</td><td>Commercial entity with $1M+ policy or assets</td><td>Available coverage caps practical recovery regardless of damages</td></tr><tr><td>Liability Clarity</td><td>Comparative fault likely (10–40% plaintiff responsibility)</td><td>Clear defendant negligence, no contributory factors</td><td>Many states reduce awards proportionally to plaintiff fault</td></tr><tr><td>Treatment Compliance</td><td>Gaps in care, missed appointments, delayed treatment start</td><td>Consistent specialist care, documented rehabilitation efforts</td><td>Defense uses non-compliance to argue injuries less serious</td></tr><tr><td>Jurisdiction</td><td>Conservative venue, damage caps (e.g., Texas, Indiana)</td><td>Plaintiff-friendly venue, no caps (e.g., California, New York)</td><td>Median verdicts vary 3–5x between jurisdictions for similar injuries</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why "Average" Is the Wrong Question
 
 Here's the thing about averages in TBI cases: they're pulled from a pool of wildly different injuries, different states, different defendants, and different insurance coverage limits. A mild concussion that resolved in six weeks sits in the same dataset as a closed-head injury that left a 34-year-old unable to work, drive, or recognize his kids. Averaging those two cases is like averaging the price of a studio apartment in rural Ohio with a penthouse in Manhattan and calling it "what apartments cost."

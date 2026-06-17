@@ -30,6 +30,16 @@ You get rear-ended at a red light. The other driver gets out, looks at the damag
 
 Here's the thing nobody tells you upfront: you're not necessarily out of options just because the other driver has no coverage. You may have more paths to compensation than you think.
 
+
+<div class="value-module">
+  <div class="vm-head">UM/UIM Coverage Decision Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these thresholds to evaluate whether your uninsured motorist coverage adequately protects you in a no-insurance collision.</p>
+    <table><caption>Evaluating Your UM/UIM Protection</caption><thead><tr><th>Checkpoint</th><th>What to Verify</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Coverage existence</td><td>Does your policy include UM/UIM? (Not automatic in all states)</td><td>If missing and your state allows, add immediately</td></tr><tr><td>Bodily injury limits</td><td>Compare UM limits to your liability limits</td><td>If UM is lower than liability, request matching limits</td></tr><tr><td>Property damage inclusion</td><td>Does UM cover vehicle damage or only injuries?</td><td>If excluded, confirm you carry collision coverage</td></tr><tr><td>Stacking eligibility</td><td>Can you stack limits across multiple vehicles on your policy?</td><td>If allowed in your state and you have 2+ vehicles, opt in</td></tr><tr><td>Deductible amount</td><td>What out-of-pocket applies before UM pays?</td><td>If deductible exceeds $500, consider lowering it</td></tr><tr><td>Medical payments (MedPay)</td><td>Separate no-fault coverage for immediate medical bills</td><td>If absent, add $5,000–$10,000 MedPay as gap coverage</td></tr><tr><td>Underinsured vs. uninsured</td><td>Does your policy treat these identically or separately?</td><td>Confirm UIM triggers when at-fault coverage is insufficient, not just absent</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Understanding Your Immediate Position
 
 Before you panic, take a breath and assess what you're working with. The at-fault driver being uninsured doesn't erase their legal liability. They still caused the accident. They still owe you for your injuries and property damage. The hard part is that collecting from someone with no insurance is a very different process than making a standard third-party claim.

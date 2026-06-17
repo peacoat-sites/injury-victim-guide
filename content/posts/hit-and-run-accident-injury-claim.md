@@ -30,6 +30,16 @@ You're standing on the side of the road. Your car is crumpled. Your hands are sh
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Hit-and-Run Claim Documentation Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Insurance adjusters evaluate hit-and-run claims based on documented evidence — missing even one item can significantly reduce or delay your payout.</p>
+    <table><thead><tr><th>Documentation Item</th><th>Why It Matters</th><th>Time Window</th><th>Threshold for Strong Claim</th></tr></thead><tbody><tr><td>Police report with case number</td><td>Required by most UM policies to trigger coverage</td><td>Within 24 hours</td><td>Must include officer narrative confirming hit-and-run</td></tr><tr><td>Photos of vehicle damage</td><td>Proves impact occurred and damage severity</td><td>Same day, before repairs</td><td>Minimum 20+ photos: all angles, close-ups of paint transfer, debris</td></tr><tr><td>Photos of scene (skid marks, debris, road conditions)</td><td>Corroborates your account of how crash occurred</td><td>Within 1 hour if possible</td><td>Include wide shots with landmarks and GPS-tagged images</td></tr><tr><td>Witness contact information</td><td>Independent verification significantly strengthens claim</td><td>Immediately at scene</td><td>At least one witness willing to provide written statement</td></tr><tr><td>Medical records linking injuries to crash</td><td>Establishes causation for bodily injury portion</td><td>Seek care within 72 hours</td><td>ER or urgent care visit same day; follow-up within 2 weeks</td></tr><tr><td>Written statement describing the incident</td><td>Locks in details before memory fades</td><td>Within 24 hours</td><td>1–2 pages with time, location, weather, fleeing vehicle description</td></tr><tr><td>Dashcam or surveillance footage</td><td>Best evidence of fault and fleeing driver identity</td><td>Request within 48 hours (businesses often overwrite)</td><td>Any footage showing impact or fleeing vehicle partial plate</td></tr><tr><td>UM policy declarations page</td><td>Confirms coverage limits available to you</td><td>Before filing claim</td><td>Know your UM bodily injury and property damage limits</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Hit-and-Run Claims Are Different (And Harder)
 
 In a normal car accident claim, there's a clear path. You identify the at-fault driver, file a claim with their liability insurance, and the process begins. A hit-and-run strips away that first step. There's no policy number to call, no insurer to negotiate with on the other side.

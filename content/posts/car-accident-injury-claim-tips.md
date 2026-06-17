@@ -32,6 +32,16 @@ Spending 12 years on the insurance side taught me exactly how claims get minimiz
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Injury Documentation Checklist With Red-Flag Thresholds</div>
+  <div class="vm-body">
+    <p class="vm-intro">This checklist identifies specific documentation tasks and timing thresholds that insurers commonly use to challenge claims—missing any item below can become grounds for reducing or denying compensation.</p>
+    <table><caption>Critical Documentation Tasks and Insurer Red-Flag Thresholds</caption><thead><tr><th>Documentation Task</th><th>Optimal Timing</th><th>Red-Flag Threshold (Claim Risk Increases)</th><th>Why Insurers Use This Gap</th></tr></thead><tbody><tr><td>First medical visit after accident</td><td>Same day or next day</td><td>Beyond 72 hours</td><td>Argued that injuries were pre-existing or caused by intervening event</td></tr><tr><td>Photograph visible injuries (bruising, swelling, cuts)</td><td>Daily for first 7 days</td><td>No photos taken, or only day-of photos</td><td>Bruising often peaks at days 2–4; missing this undermines severity claims</td></tr><tr><td>Obtain copy of police report</td><td>Within 5–10 days</td><td>Never obtained</td><td>Loses independent documentation of fault and scene details</td></tr><tr><td>Written pain journal entries</td><td>Daily for first 30 days</td><td>No contemporaneous records</td><td>Memory-based testimony months later is easily challenged as exaggerated</td></tr><tr><td>Document missed work (dates, duties affected)</td><td>Each day missed</td><td>Retroactive estimate only</td><td>Without real-time records, lost wage claims are reduced or denied</td></tr><tr><td>Follow-up medical appointments</td><td>Per physician instructions</td><td>Gaps of 2+ weeks without documented reason</td><td>Treatment gaps imply recovery or non-serious injury</td></tr><tr><td>Preserve communications with insurer</td><td>Save all letters, emails, voicemails</td><td>Verbal agreements only</td><td>Insurer can deny making offers or statements without written proof</td></tr><tr><td>Decline recorded statement without counsel</td><td>Immediately upon request</td><td>Giving statement in first 1–2 weeks</td><td>Early statements often contain inadvertent admissions used against claimant</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What You Do in the First 72 Hours Matters More Than You Think
 
 The first three days after a crash are the most critical window for building a strong injury claim. Most people spend that time resting, dealing with car repairs, and calling their family. Insurance companies spend it building a file that protects their client, not you.

@@ -30,6 +30,16 @@ You walked away from the fender-bender feeling shaken but okay. The other driver
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Delayed Symptom Red-Flag Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to decide which post-accident symptoms warrant same-day medical evaluation versus routine follow-up within the first two weeks.</p>
+    <table><caption>When to Seek Care for Delayed Symptoms After a Car Accident</caption><thead><tr><th>Symptom</th><th>Typical Onset Window</th><th>Possible Underlying Issue</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Neck stiffness or pain on rotation</td><td>12–72 hours</td><td>Whiplash (cervical strain/sprain)</td><td>See provider within 48 hours; same-day if numbness or weakness in arms</td></tr><tr><td>Headache starting at skull base</td><td>24–48 hours</td><td>Whiplash-associated headache or concussion</td><td>Same-day evaluation if worsening, or accompanied by confusion, nausea, or vision changes</td></tr><tr><td>Mid/low back pain or stiffness</td><td>1–5 days</td><td>Lumbar strain, disc herniation</td><td>See provider within 72 hours; ER if leg weakness or loss of bladder/bowel control</td></tr><tr><td>Shoulder or arm pain/tingling</td><td>1–7 days</td><td>Cervical radiculopathy, rotator cuff injury</td><td>See provider within one week; sooner if grip strength noticeably reduced</td></tr><tr><td>Abdominal pain or deep bruising</td><td>Hours to 3 days</td><td>Internal bleeding (spleen, liver)</td><td>ER immediately if pain is worsening, especially with dizziness or fainting</td></tr><tr><td>Memory gaps, fogginess, irritability</td><td>Hours to 2 weeks</td><td>Concussion / mild traumatic brain injury</td><td>Same-day evaluation; ER if severe headache, repeated vomiting, seizure, or unequal pupils</td></tr><tr><td>Chest wall tenderness</td><td>12–48 hours</td><td>Rib contusion or fracture, seatbelt injury</td><td>Same-day imaging if pain with deep breathing; ER if shortness of breath</td></tr><tr><td>Knee or hip pain when weight-bearing</td><td>1–4 days</td><td>Contusion, meniscus or labral injury</td><td>See provider within one week; sooner if joint locks or gives way</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Your Body Doesn't Tell You the Truth Right Away
 
 The reason delayed symptoms catch people off guard isn't a mystery. It's adrenaline, and it's remarkably good at its job.
