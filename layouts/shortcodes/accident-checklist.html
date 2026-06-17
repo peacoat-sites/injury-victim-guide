@@ -1,0 +1,142 @@
+<div class="accident-checklist-wrap" id="accident-checklist-wrap">
+<style>
+.accident-checklist-wrap{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.acw-header{padding:15px 20px;background:var(--surface2,#f5f2ec);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}
+.acw-title{font-weight:800;font-size:1.1rem;color:var(--text,#1a1a18)}
+.acw-actions{display:flex;gap:8px}
+.acw-btn{padding:7px 14px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:8px;background:var(--surface,#fff);cursor:pointer;font-size:.8rem;font-family:inherit;color:var(--text,#1a1a18);font-weight:600;transition:background .15s}
+.acw-btn:hover{background:var(--surface2,#f5f2ec)}
+.acw-body{padding:20px}
+.acw-disclaimer{margin-bottom:16px;padding:12px 16px;border-radius:10px;background:color-mix(in srgb,#f59e0b 10%,#fff);border:1px solid color-mix(in srgb,#f59e0b 35%,transparent);font-size:.85rem;color:#92400e;line-height:1.5}
+.acw-progress-bar{height:6px;background:var(--border,rgba(0,0,0,.1));border-radius:3px;margin-bottom:18px;overflow:hidden}
+.acw-progress-fill{height:100%;background:var(--accent,#c2410c);border-radius:3px;transition:width .3s}
+.acw-progress-text{font-size:12px;color:var(--stone,#a09c94);margin-bottom:10px}
+.acw-section{margin-bottom:24px}
+.acw-section-title{font-size:.8rem;text-transform:uppercase;letter-spacing:.07em;font-weight:800;color:var(--accent,#c2410c);margin-bottom:12px;padding-bottom:6px;border-bottom:2px solid color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.acw-item{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid var(--border,rgba(0,0,0,.07))}
+.acw-item:last-child{border-bottom:none}
+.acw-cb{width:20px;height:20px;min-width:20px;border:2px solid var(--border-strong,rgba(0,0,0,.14));border-radius:5px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background .15s,border-color .15s;margin-top:1px}
+.acw-cb.checked{background:var(--accent,#c2410c);border-color:var(--accent,#c2410c)}
+.acw-cb.checked::after{content:'✓';color:#fff;font-size:13px;font-weight:800;line-height:1}
+.acw-label{font-size:.92rem;color:var(--text,#1a1a18);line-height:1.5;cursor:pointer}
+.acw-label.checked{color:var(--stone,#a09c94);text-decoration:line-through}
+.acw-urgent{display:inline-block;margin-left:6px;padding:1px 7px;border-radius:10px;background:color-mix(in srgb,#ef4444 15%,#fff);border:1px solid color-mix(in srgb,#ef4444 35%,transparent);font-size:.7rem;font-weight:700;color:#b91c1c;vertical-align:middle;text-decoration:none!important}
+@media print{.acw-actions{display:none}.accident-checklist-wrap{border:1px solid #ccc}}
+</style>
+<div class="acw-header">
+  <div class="acw-title">Post-Accident Evidence Checklist</div>
+  <div class="acw-actions">
+    <button class="acw-btn" onclick="acwReset()">Reset</button>
+    <button class="acw-btn" onclick="window.print()">Print</button>
+  </div>
+</div>
+<div class="acw-body">
+  <div class="acw-disclaimer">&#9888; This checklist is for general informational purposes only. It is <strong>not legal advice</strong>. Contact a personal injury attorney for guidance on your specific situation. Many offer free consultations.</div>
+  <div class="acw-progress-text" id="acw-pt">0 of 28 items completed</div>
+  <div class="acw-progress-bar"><div class="acw-progress-fill" id="acw-pf" style="width:0%"></div></div>
+  <div id="acw-list"></div>
+</div>
+</div>
+<script>
+(function(){
+var STORAGE_KEY='accident-checklist-v1';
+var SECTIONS=[
+  {title:'At the Scene (do immediately if safe)',items:[
+    {t:'Call 911 — get police to the scene',urgent:true},
+    {t:'Check for injuries — call ambulance if needed',urgent:true},
+    {t:'Move to safety if possible (only if vehicle is blocking traffic)'},
+    {t:'Do NOT admit fault or apologize — say as little as possible',urgent:true},
+    {t:'Exchange info: name, insurance, license plate, driver\'s license'},
+    {t:'Get names and contact info of all witnesses'},
+    {t:'Take photos: all vehicles (all angles), license plates, damage, scene, road conditions, skid marks, traffic signs, injuries',urgent:true},
+    {t:'Note weather, lighting, and time of day'},
+    {t:'Note any nearby cameras (traffic cams, business security cameras)'}
+  ]},
+  {title:'After Leaving the Scene',items:[
+    {t:'Seek medical attention SAME DAY even if you feel fine (adrenaline masks pain; delayed treatment hurts your claim)',urgent:true},
+    {t:'Keep ALL medical records, bills, and receipts'},
+    {t:'File a police report if not done at the scene'},
+    {t:'Notify your own insurance company'},
+    {t:'Do NOT post about the accident on social media',urgent:true},
+    {t:'Document your injuries with photos (daily if injuries are visible)'},
+    {t:'Start a pain and symptom journal — write daily entries'},
+    {t:'Save all communications with insurance companies (emails, letters, notes from calls)'},
+    {t:'Do NOT give a recorded statement to the other driver\'s insurer without speaking to an attorney first',urgent:true}
+  ]},
+  {title:'Documents to Gather',items:[
+    {t:'Police report number and a copy of the full report'},
+    {t:'All medical records and bills from every provider'},
+    {t:'Proof of lost wages (pay stubs, employer letter if you missed work)'},
+    {t:'Receipts for any accident-related expenses (transportation, medications, etc.)'},
+    {t:'Vehicle repair estimates or total loss paperwork'},
+    {t:'Your own insurance policy (declarations page and full policy)'},
+    {t:'Photos and videos backed up to cloud storage (Google Photos, iCloud, etc.)'}
+  ]},
+  {title:'Attorney Consultation (Strongly Recommended)',items:[
+    {t:'Contact a personal injury attorney for a free consultation — most offer them'},
+    {t:'Note: most personal injury attorneys work on contingency (no fee unless you win)'},
+    {t:'Ask about the statute of limitations in your state — typically 2–3 years but varies. Do not delay.'},
+    {t:'Bring all gathered documents to your consultation'}
+  ]}
+];
+
+var totalItems=0;
+SECTIONS.forEach(function(s){totalItems+=s.items.length;});
+
+var checked=JSON.parse(localStorage.getItem(STORAGE_KEY)||'{}');
+
+function save(){localStorage.setItem(STORAGE_KEY,JSON.stringify(checked));}
+function updateProgress(){
+  var done=Object.values(checked).filter(Boolean).length;
+  document.getElementById('acw-pt').textContent=done+' of '+totalItems+' items completed';
+  document.getElementById('acw-pf').style.width=Math.round(done/totalItems*100)+'%';
+}
+function render(){
+  var list=document.getElementById('acw-list');
+  list.innerHTML='';
+  var idx=0;
+  SECTIONS.forEach(function(sec){
+    var sd=document.createElement('div');
+    sd.className='acw-section';
+    var st=document.createElement('div');
+    st.className='acw-section-title';
+    st.textContent=sec.title;
+    sd.appendChild(st);
+    sec.items.forEach(function(item){
+      var id='acw-'+idx;
+      var row=document.createElement('div');
+      row.className='acw-item';
+      var cb=document.createElement('div');
+      cb.className='acw-cb'+(checked[id]?' checked':'');
+      cb.id=id+'-cb';
+      var lbl=document.createElement('div');
+      lbl.className='acw-label'+(checked[id]?' checked':'');
+      lbl.id=id+'-lbl';
+      lbl.innerHTML=item.t+(item.urgent?'<span class="acw-urgent">URGENT</span>':'');
+      function toggle(iid,icb,ilbl){
+        return function(){
+          checked[iid]=!checked[iid];
+          icb.className='acw-cb'+(checked[iid]?' checked':'');
+          ilbl.className='acw-label'+(checked[iid]?' checked':'');
+          save();updateProgress();
+        };
+      }
+      var fn=toggle(id,cb,lbl);
+      cb.onclick=fn;lbl.onclick=fn;
+      row.appendChild(cb);row.appendChild(lbl);
+      sd.appendChild(row);
+      idx++;
+    });
+    list.appendChild(sd);
+  });
+  updateProgress();
+}
+function acwReset(){
+  if(confirm('Reset all items? This will clear your progress.')){
+    checked={};save();render();
+  }
+}
+window.acwReset=acwReset;
+render();
+})();
+</script>
