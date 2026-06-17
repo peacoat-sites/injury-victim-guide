@@ -1,0 +1,394 @@
+{
+  "title": "State Non-Economic Damage Caps in Personal Injury Cases",
+  "note": "Laws change frequently. This table reflects 2024 information. Always verify current law with a licensed attorney in your state. Some caps apply only to medical malpractice; others are general. 'None' means no statutory cap — juries may still award any amount.",
+  "search": true,
+  "filters": [
+    {
+      "key": "cap_type",
+      "label": "Cap Type"
+    }
+  ],
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "primary": true
+    },
+    {
+      "key": "general_cap",
+      "label": "Non-Economic Cap (General)"
+    },
+    {
+      "key": "med_mal_cap",
+      "label": "Med Mal Cap"
+    },
+    {
+      "key": "cap_type",
+      "label": "Cap Type"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "wide": true
+    }
+  ],
+  "rows": [
+    {
+      "state": "Alabama",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages; punitive damages capped at $1.5M or 3x compensatory."
+    },
+    {
+      "state": "Alaska",
+      "general_cap": "$400,000 or 4x economic",
+      "med_mal_cap": "$400,000 or 4x economic",
+      "cap_type": "Both",
+      "notes": "Non-economic cap is $400k or 4x compensatory, whichever is greater. Adjusted periodically."
+    },
+    {
+      "state": "Arizona",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "Arizona courts struck down damage caps; no current statutory cap on non-economic damages."
+    },
+    {
+      "state": "Arkansas",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages in personal injury or medical malpractice cases."
+    },
+    {
+      "state": "California",
+      "general_cap": "None",
+      "med_mal_cap": "$350,000 (rising to $750k by 2033)",
+      "cap_type": "Med Mal Only",
+      "notes": "MICRA cap increased from $250k in 2023; rises $40k/year until $750k (2033), then indexed to CPI."
+    },
+    {
+      "state": "Colorado",
+      "general_cap": "$613,760 (2024, indexed)",
+      "med_mal_cap": "$613,760 (2024, indexed)",
+      "cap_type": "Both",
+      "notes": "Unified cap applies to all personal injury and med mal; adjusted annually for inflation (CPI-W)."
+    },
+    {
+      "state": "Connecticut",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap. Courts may set aside excessive verdicts under remittitur."
+    },
+    {
+      "state": "Delaware",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    },
+    {
+      "state": "District of Columbia",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "DC has no non-economic damage cap."
+    },
+    {
+      "state": "Florida",
+      "general_cap": "None",
+      "med_mal_cap": "$500,000 (practitioners) / $1,000,000 (non-practitioners)",
+      "cap_type": "Med Mal Only",
+      "notes": "Florida Supreme Court struck down med mal cap in 2017 (Kalitan). Caps technically on the books but constitutionally unenforceable in most cases."
+    },
+    {
+      "state": "Georgia",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "Georgia Supreme Court struck down $350k med mal cap in 2010 (Atlanta Oculoplastic Surgery)."
+    },
+    {
+      "state": "Hawaii",
+      "general_cap": "None",
+      "med_mal_cap": "$375,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Medical malpractice non-economic damages capped at $375,000."
+    },
+    {
+      "state": "Idaho",
+      "general_cap": "None",
+      "med_mal_cap": "$250,000 (indexed)",
+      "cap_type": "Med Mal Only",
+      "notes": "Med mal non-economic cap indexed to inflation; approximately $415k as of 2024."
+    },
+    {
+      "state": "Illinois",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "Illinois Supreme Court struck down $500k/$1M caps in 2010 (Lebron v. Gottlieb). No current cap."
+    },
+    {
+      "state": "Indiana",
+      "general_cap": "None",
+      "med_mal_cap": "$1,800,000 (total)",
+      "cap_type": "Med Mal Only",
+      "notes": "Total med mal recovery (economic + non-economic) capped at $1.8M; providers pay first $500k."
+    },
+    {
+      "state": "Iowa",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    },
+    {
+      "state": "Kansas",
+      "general_cap": "None",
+      "med_mal_cap": "$325,000 (indexed)",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap started at $250k (1988), adjusted for inflation; ~$325k as of 2024."
+    },
+    {
+      "state": "Kentucky",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap; Kentucky courts have rejected damage caps as unconstitutional."
+    },
+    {
+      "state": "Louisiana",
+      "general_cap": "None",
+      "med_mal_cap": "$500,000 (total)",
+      "cap_type": "Med Mal Only",
+      "notes": "Total med mal recovery (incl. future medical) capped at $500k above a $100k patient compensation fund."
+    },
+    {
+      "state": "Maine",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    },
+    {
+      "state": "Maryland",
+      "general_cap": "None",
+      "med_mal_cap": "$920,000 (2024, indexed)",
+      "cap_type": "Med Mal Only",
+      "notes": "Cap increases $15k/year; applies to all wrongful death and personal injury med mal claims."
+    },
+    {
+      "state": "Massachusetts",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap; punitive damages limited to egregious conduct."
+    },
+    {
+      "state": "Michigan",
+      "general_cap": "None",
+      "med_mal_cap": "$462,100 (2024, indexed)",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap indexed to CPI; higher threshold ($824,200) for death/permanent serious injury."
+    },
+    {
+      "state": "Minnesota",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    },
+    {
+      "state": "Mississippi",
+      "general_cap": "None",
+      "med_mal_cap": "$500,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap of $500k. General personal injury cases have no cap."
+    },
+    {
+      "state": "Missouri",
+      "general_cap": "None",
+      "med_mal_cap": "$400,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Med mal non-economic cap reinstated at $400k (catastrophic injury $700k) after 2015 amendment."
+    },
+    {
+      "state": "Montana",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "Montana Supreme Court struck down $250k cap as unconstitutional. No current cap."
+    },
+    {
+      "state": "Nebraska",
+      "general_cap": "None",
+      "med_mal_cap": "$2,250,000 (total)",
+      "cap_type": "Med Mal Only",
+      "notes": "Total recovery cap (economic + non-economic combined) for med mal cases."
+    },
+    {
+      "state": "Nevada",
+      "general_cap": "None",
+      "med_mal_cap": "$350,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap of $350k. No general personal injury cap."
+    },
+    {
+      "state": "New Hampshire",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    },
+    {
+      "state": "New Jersey",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap; courts use remittitur to address excessive verdicts."
+    },
+    {
+      "state": "New Mexico",
+      "general_cap": "None",
+      "med_mal_cap": "$750,000 (total)",
+      "cap_type": "Med Mal Only",
+      "notes": "Total med mal recovery cap (excluding future medical); adjusted periodically by legislature."
+    },
+    {
+      "state": "New York",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap. NY courts frequently reduce excessive verdicts via remittitur."
+    },
+    {
+      "state": "North Carolina",
+      "general_cap": "None",
+      "med_mal_cap": "$500,000 (indexed)",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap indexed to CPI from 2011 base of $500k; ~$600k+ as of 2024."
+    },
+    {
+      "state": "North Dakota",
+      "general_cap": "None",
+      "med_mal_cap": "$500,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal damages capped at $500,000."
+    },
+    {
+      "state": "Ohio",
+      "general_cap": "$350,000 per person",
+      "med_mal_cap": "$350,000 per person",
+      "cap_type": "Both",
+      "notes": "Non-economic cap $350k per person / $500k per occurrence; $500k for catastrophic injury. Applies broadly."
+    },
+    {
+      "state": "Oklahoma",
+      "general_cap": "None",
+      "med_mal_cap": "$350,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap of $350k reinstated by statute after earlier court challenges."
+    },
+    {
+      "state": "Oregon",
+      "general_cap": "None",
+      "med_mal_cap": "$500,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal damages capped at $500,000."
+    },
+    {
+      "state": "Pennsylvania",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap; Pennsylvania courts rely on remittitur for excessive verdicts."
+    },
+    {
+      "state": "Rhode Island",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    },
+    {
+      "state": "South Carolina",
+      "general_cap": "None",
+      "med_mal_cap": "$350,000 per defendant / $1.05M total",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap per defendant is $350k; aggregate $1.05M for all defendants. Adjusted periodically."
+    },
+    {
+      "state": "South Dakota",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    },
+    {
+      "state": "Tennessee",
+      "general_cap": "$750,000",
+      "med_mal_cap": "$750,000",
+      "cap_type": "Both",
+      "notes": "Non-economic cap of $750k applies broadly; $1M for catastrophic injury. Applies to personal injury and med mal."
+    },
+    {
+      "state": "Texas",
+      "general_cap": "None",
+      "med_mal_cap": "$250,000 (physicians) + $250,000 per hospital (max $500k total)",
+      "cap_type": "Med Mal Only",
+      "notes": "Multi-tiered med mal cap: $250k per physician, $250k per health care institution, max $500k from institutions."
+    },
+    {
+      "state": "Utah",
+      "general_cap": "None",
+      "med_mal_cap": "$450,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap of $450,000."
+    },
+    {
+      "state": "Vermont",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    },
+    {
+      "state": "Virginia",
+      "general_cap": "None",
+      "med_mal_cap": "$2,550,000 (2024, indexed)",
+      "cap_type": "Med Mal Only",
+      "notes": "Total med mal recovery cap (economic + non-economic) indexed annually; increasing to $3M by 2031."
+    },
+    {
+      "state": "Washington",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "Washington Supreme Court struck down med mal cap. No current statutory cap."
+    },
+    {
+      "state": "West Virginia",
+      "general_cap": "None",
+      "med_mal_cap": "$300,000 per occurrence",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap of $300k per occurrence. Legislature has repeatedly revisited this limit."
+    },
+    {
+      "state": "Wisconsin",
+      "general_cap": "None",
+      "med_mal_cap": "$750,000",
+      "cap_type": "Med Mal Only",
+      "notes": "Non-economic med mal cap of $750k. Wisconsin Supreme Court upheld constitutionality in 2018."
+    },
+    {
+      "state": "Wyoming",
+      "general_cap": "None",
+      "med_mal_cap": "None",
+      "cap_type": "None",
+      "notes": "No statutory cap on non-economic damages."
+    }
+  ]
+}

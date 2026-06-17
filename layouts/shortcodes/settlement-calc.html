@@ -1,0 +1,176 @@
+<style>
+.sc{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.sc-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.sc-body{padding:20px}
+.sc-disclaimer{padding:14px 18px;border-radius:12px;background:color-mix(in srgb,#9b1c1c 10%,#fff);border:1px solid color-mix(in srgb,#9b1c1c 35%,transparent);font-size:.9rem;line-height:1.5;margin-bottom:18px}
+.sc-disclaimer b{color:#9b1c1c}
+.sc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.sc-label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.sc-input,.sc-select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.sc-input:focus,.sc-select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.sc-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.sc-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.sc-callout b{color:var(--accent,#c2410c)}
+.sc-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+.sc-big-disclaimer{margin-top:18px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,#9b1c1c 8%,#fff);border:1px solid color-mix(in srgb,#9b1c1c 30%,transparent);font-size:.88rem;font-weight:700;text-align:center;color:#9b1c1c}
+@media(max-width:560px){.rv{font-size:1.4rem}}
+</style>
+
+<div class="sc">
+  <div class="sc-head">Personal Injury Settlement Range Estimator</div>
+  <div class="sc-body">
+    <div class="sc-disclaimer">
+      <b>Important disclaimer:</b> This tool provides rough educational estimates only. It is NOT legal advice. Actual settlement values depend on jurisdiction, evidence, jury demographics, insurance policy limits, attorney skill, and many other factors. The ONLY reliable way to estimate your case value is to consult a licensed personal injury attorney — most offer free consultations.
+    </div>
+
+    <div class="sc-grid">
+      <label class="sc-label">
+        Medical Bills (Special Damages)
+        <input class="sc-input" type="number" id="sc-med" min="0" value="0" placeholder="0">
+        <span style="font-size:11px;color:var(--stone,#a09c94)">Total past medical expenses ($)</span>
+      </label>
+      <label class="sc-label">
+        Lost Wages
+        <input class="sc-input" type="number" id="sc-wages" min="0" value="0" placeholder="0">
+        <span style="font-size:11px;color:var(--stone,#a09c94)">Income lost due to injury ($)</span>
+      </label>
+      <label class="sc-label">
+        Future Medical Costs
+        <input class="sc-input" type="number" id="sc-future" min="0" value="0" placeholder="0">
+        <span style="font-size:11px;color:var(--stone,#a09c94)">Estimated ongoing treatment ($, 0 if none)</span>
+      </label>
+      <label class="sc-label">
+        Injury Severity
+        <select class="sc-select" id="sc-severity">
+          <option value="minor">Minor — soft tissue / whiplash</option>
+          <option value="moderate">Moderate — fracture or surgery</option>
+          <option value="severe">Severe — permanent impairment</option>
+          <option value="catastrophic">Catastrophic — disability / TBI</option>
+        </select>
+        <span style="font-size:11px;color:var(--stone,#a09c94)">Affects pain &amp; suffering multiplier</span>
+      </label>
+      <label class="sc-label">
+        Your Fault Percentage (%)
+        <input class="sc-input" type="number" id="sc-fault" min="0" max="100" value="0" placeholder="0">
+        <span style="font-size:11px;color:var(--stone,#a09c94)">Comparative negligence (0 = not your fault)</span>
+      </label>
+    </div>
+
+    <div class="sc-results" id="sc-results" style="display:none">
+      <div class="rc">
+        <span class="rl">Economic Damages</span>
+        <span class="rv" id="sc-econ">$0</span>
+        <span class="rs">Bills + wages + future medical</span>
+      </div>
+      <div class="rc">
+        <span class="rl">Gross Settlement Range</span>
+        <span class="rv" id="sc-gross">$0 – $0</span>
+        <span class="rs">Incl. pain &amp; suffering estimate</span>
+      </div>
+      <div class="rc">
+        <span class="rl">After Fault Reduction</span>
+        <span class="rv" id="sc-net">$0 – $0</span>
+        <span class="rs" id="sc-fault-note">No reduction applied</span>
+      </div>
+      <div class="rc">
+        <span class="rl">Attorney Fee Est. (33%)</span>
+        <span class="rv" id="sc-atty">$0 – $0</span>
+        <span class="rs">Typical contingency fee</span>
+      </div>
+      <div class="rc">
+        <span class="rl">Estimated Net to You</span>
+        <span class="rv" id="sc-toyou">$0 – $0</span>
+        <span class="rs">After fees &amp; fault reduction</span>
+      </div>
+    </div>
+
+    <div class="sc-callout" id="sc-multiplier-note" style="display:none">
+      <b>Pain &amp; suffering multiplier applied:</b> <span id="sc-mult-range"></span> — based on <span id="sc-sev-label"></span> classification. Actual multipliers vary significantly by case specifics.
+    </div>
+
+    <div class="sc-big-disclaimer" id="sc-big-disc" style="display:none">
+      These are rough estimates for educational purposes only. Consult a licensed personal injury attorney to evaluate your actual case value.
+    </div>
+
+    <p class="sc-note">
+      Multiplier ranges used: Minor 1.0–2.5×, Moderate 2.5–5.0×, Severe 5.0–10.0×, Catastrophic 10.0–20.0×. These are general industry reference ranges; real cases vary widely. Attorney fees are estimated at 33% (standard contingency); your agreement may differ. This calculator does not account for punitive damages, property damage, or non-economic caps that some states impose.
+    </p>
+  </div>
+</div>
+
+<script>
+(function(){
+  var MULT = {
+    minor:       {low:1.0,  high:2.5,  label:'Minor (soft tissue)'},
+    moderate:    {low:2.5,  high:5.0,  label:'Moderate (fracture/surgery)'},
+    severe:      {low:5.0,  high:10.0, label:'Severe (permanent impairment)'},
+    catastrophic:{low:10.0, high:20.0, label:'Catastrophic (disability/TBI)'}
+  };
+
+  function fmt(n){
+    if(n>=1000000) return '$'+Math.round(n/1000)/1000+'M';
+    return '$'+Math.round(n).toLocaleString();
+  }
+  function fmtRange(lo,hi){return fmt(lo)+' – '+fmt(hi);}
+
+  function calc(){
+    var med    = Math.max(0, parseFloat(document.getElementById('sc-med').value)||0);
+    var wages  = Math.max(0, parseFloat(document.getElementById('sc-wages').value)||0);
+    var future = Math.max(0, parseFloat(document.getElementById('sc-future').value)||0);
+    var sev    = document.getElementById('sc-severity').value;
+    var fault  = Math.min(100, Math.max(0, parseFloat(document.getElementById('sc-fault').value)||0));
+
+    var econ = med + wages + future;
+    var m = MULT[sev] || MULT.minor;
+
+    var psLow  = econ * m.low;
+    var psHigh = econ * m.high;
+    var grossLow  = econ + psLow;
+    var grossHigh = econ + psHigh;
+
+    var reduction = 1 - fault/100;
+    var netLow  = grossLow  * reduction;
+    var netHigh = grossHigh * reduction;
+
+    var attyLow  = netLow  * 0.33;
+    var attyHigh = netHigh * 0.33;
+
+    var toYouLow  = netLow  * 0.67;
+    var toYouHigh = netHigh * 0.67;
+
+    var hasData = (econ > 0);
+
+    document.getElementById('sc-results').style.display = hasData ? '' : 'none';
+    document.getElementById('sc-multiplier-note').style.display = hasData ? '' : 'none';
+    document.getElementById('sc-big-disc').style.display = hasData ? '' : 'none';
+
+    if(!hasData) return;
+
+    document.getElementById('sc-econ').textContent    = fmt(econ);
+    document.getElementById('sc-gross').textContent   = fmtRange(grossLow, grossHigh);
+    document.getElementById('sc-net').textContent     = fmtRange(netLow, netHigh);
+    document.getElementById('sc-atty').textContent    = fmtRange(attyLow, attyHigh);
+    document.getElementById('sc-toyou').textContent   = fmtRange(toYouLow, toYouHigh);
+
+    var faultNote = fault > 0
+      ? fault+'% fault reduction applied'
+      : 'No fault reduction applied';
+    document.getElementById('sc-fault-note').textContent = faultNote;
+
+    document.getElementById('sc-mult-range').textContent = m.low+'x – '+m.high+'x';
+    document.getElementById('sc-sev-label').textContent  = m.label;
+  }
+
+  var ids = ['sc-med','sc-wages','sc-future','sc-severity','sc-fault'];
+  ids.forEach(function(id){
+    var el = document.getElementById(id);
+    if(el){ el.addEventListener('input', calc); el.addEventListener('change', calc); }
+  });
+
+  calc();
+})();
+</script>
