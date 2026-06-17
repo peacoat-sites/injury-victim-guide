@@ -1,0 +1,212 @@
+{{- /* Comparative Negligence Calculator */ -}}
+<div class="neg-calc" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">
+    Comparative Negligence Calculator
+  </div>
+  <div style="padding:20px">
+    <div style="margin-bottom:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.93rem;line-height:1.55">
+      <strong>Important:</strong> This calculator is for educational purposes only. It is <strong>NOT legal advice</strong>. Fault percentages in actual cases are determined by courts, juries, or negotiated settlements. Consult a licensed personal injury attorney in your state for advice on your specific case.
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Total Damages ($)
+        <input id="nc-damages" type="number" min="0" step="100" placeholder="e.g. 150000"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Your Fault (%)
+        <input id="nc-fault" type="number" min="0" max="100" step="1" placeholder="e.g. 20"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
+    </div>
+
+    <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted);margin-bottom:14px">
+      Your State
+      <select id="nc-state"
+        style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+        <option value="">— Select your state —</option>
+        <optgroup label="Pure Comparative (recover at any fault %)">
+          <option value="AK">Alaska</option>
+          <option value="AZ">Arizona</option>
+          <option value="CA">California</option>
+          <option value="FL">Florida</option>
+          <option value="KY">Kentucky</option>
+          <option value="LA">Louisiana</option>
+          <option value="MS">Mississippi</option>
+          <option value="MO">Missouri</option>
+          <option value="NM">New Mexico</option>
+          <option value="NY">New York</option>
+          <option value="RI">Rhode Island</option>
+          <option value="SD">South Dakota</option>
+          <option value="WA">Washington</option>
+        </optgroup>
+        <optgroup label="Modified Comparative — 50% bar (barred if ≥ 50% at fault)">
+          <option value="AR">Arkansas</option>
+          <option value="CO">Colorado</option>
+          <option value="GA">Georgia</option>
+          <option value="ID">Idaho</option>
+          <option value="KS">Kansas</option>
+          <option value="ME">Maine</option>
+          <option value="MT">Montana</option>
+          <option value="NE">Nebraska</option>
+          <option value="ND">North Dakota</option>
+          <option value="OH">Ohio</option>
+          <option value="OK">Oklahoma</option>
+          <option value="OR">Oregon</option>
+          <option value="PA">Pennsylvania</option>
+          <option value="SC">South Carolina</option>
+          <option value="TN">Tennessee</option>
+          <option value="TX">Texas</option>
+          <option value="UT">Utah</option>
+          <option value="VT">Vermont</option>
+          <option value="WV">West Virginia</option>
+          <option value="WY">Wyoming</option>
+        </optgroup>
+        <optgroup label="Modified Comparative — 51% bar (barred if > 51% at fault)">
+          <option value="CT">Connecticut</option>
+          <option value="DE">Delaware</option>
+          <option value="HI">Hawaii</option>
+          <option value="IL">Illinois</option>
+          <option value="IN">Indiana</option>
+          <option value="IA">Iowa</option>
+          <option value="MA">Massachusetts</option>
+          <option value="MI">Michigan</option>
+          <option value="MN">Minnesota</option>
+          <option value="NV">Nevada</option>
+          <option value="NH">New Hampshire</option>
+          <option value="NJ">New Jersey</option>
+          <option value="WI">Wisconsin</option>
+        </optgroup>
+        <optgroup label="Pure Contributory — any fault bars recovery (harsh rule)">
+          <option value="AL">Alabama</option>
+          <option value="DC">District of Columbia</option>
+          <option value="MD">Maryland</option>
+          <option value="NC">North Carolina</option>
+          <option value="VA">Virginia</option>
+        </optgroup>
+      </select>
+    </label>
+
+    <button onclick="calcNegligence()"
+      style="width:100%;padding:13px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:1rem;font-weight:700;cursor:pointer;letter-spacing:.01em">
+      Calculate My Recovery
+    </button>
+
+    <div id="nc-result" style="display:none;margin-top:20px"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var STATE_RULES = {
+    AK:'pure',AZ:'pure',CA:'pure',FL:'pure',KY:'pure',LA:'pure',MS:'pure',
+    MO:'pure',NM:'pure',NY:'pure',RI:'pure',SD:'pure',WA:'pure',
+    AR:'mod50',CO:'mod50',GA:'mod50',ID:'mod50',KS:'mod50',ME:'mod50',
+    MT:'mod50',NE:'mod50',ND:'mod50',OH:'mod50',OK:'mod50',OR:'mod50',
+    PA:'mod50',SC:'mod50',TN:'mod50',TX:'mod50',UT:'mod50',VT:'mod50',
+    WV:'mod50',WY:'mod50',
+    CT:'mod51',DE:'mod51',HI:'mod51',IL:'mod51',IN:'mod51',IA:'mod51',
+    MA:'mod51',MI:'mod51',MN:'mod51',NV:'mod51',NH:'mod51',NJ:'mod51',WI:'mod51',
+    AL:'contrib',DC:'contrib',MD:'contrib',NC:'contrib',VA:'contrib'
+  };
+  var RULE_NAMES = {
+    pure:'Pure Comparative Negligence',
+    mod50:'Modified Comparative Negligence (50% Bar)',
+    mod51:'Modified Comparative Negligence (51% Bar)',
+    contrib:'Pure Contributory Negligence'
+  };
+  var RULE_DESC = {
+    pure:'You can recover damages even if you are partly at fault. Your award is reduced by your percentage of fault.',
+    mod50:'You can recover damages only if you are less than 50% at fault. If you are 50% or more at fault, you are barred from any recovery.',
+    mod51:'You can recover damages only if you are 51% or less at fault. If you are more than 51% at fault, you are barred from any recovery.',
+    contrib:'Any degree of fault on your part — even 1% — can completely bar your recovery under this traditional rule.'
+  };
+
+  function fmt(n){ return '$'+n.toLocaleString('en-US',{minimumFractionDigits:0,maximumFractionDigits:0}); }
+
+  window.calcNegligence = function(){
+    var damages = parseFloat(document.getElementById('nc-damages').value);
+    var fault   = parseFloat(document.getElementById('nc-fault').value);
+    var state   = document.getElementById('nc-state').value;
+    var res     = document.getElementById('nc-result');
+
+    if(isNaN(damages)||damages<0){ alert('Please enter valid total damages.'); return; }
+    if(isNaN(fault)||fault<0||fault>100){ alert('Please enter a fault percentage between 0 and 100.'); return; }
+    if(!state){ alert('Please select your state.'); return; }
+
+    var rule     = STATE_RULES[state];
+    var ruleName = RULE_NAMES[rule];
+    var ruleDesc = RULE_DESC[rule];
+    var barred   = false;
+    var barNote  = '';
+    var recovery = 0;
+
+    if(rule==='pure'){
+      recovery = damages * (1 - fault/100);
+    } else if(rule==='mod50'){
+      if(fault>=50){ barred=true; barNote='At '+fault+'% fault, you meet or exceed the 50% threshold and are barred from recovery under the '+ruleName+' rule.'; }
+      else { recovery = damages * (1 - fault/100); }
+    } else if(rule==='mod51'){
+      if(fault>51){ barred=true; barNote='At '+fault+'% fault, you exceed the 51% threshold and are barred from recovery under the '+ruleName+' rule.'; }
+      else { recovery = damages * (1 - fault/100); }
+    } else if(rule==='contrib'){
+      if(fault>0){ barred=true; barNote='Your state uses the harsh contributory negligence rule — even 1% fault can bar your entire recovery. An experienced attorney may argue exceptions (last clear chance doctrine, etc.). This makes attorney consultation especially critical.'; }
+      else { recovery = damages; }
+    }
+
+    var attyFee = barred ? 0 : recovery * 0.33;
+    var net     = barred ? 0 : recovery - attyFee;
+
+    var statusColor = barred ? '#dc2626' : (fault===0 ? '#16a34a' : 'var(--accent)');
+    var statusText  = barred ? 'Barred' : (fault===0 ? 'Full Recovery' : 'Reduced Recovery');
+
+    var html = '<div style="padding:13px 16px;background:var(--surface2);border-radius:10px;margin-bottom:14px">'
+      +'<div style="font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700">'+state+' Rule</div>'
+      +'<div style="font-weight:800;font-size:1rem;color:var(--text);margin:3px 0">'+ruleName+'</div>'
+      +'<div style="font-size:.88rem;color:var(--muted)">'+ruleDesc+'</div>'
+      +'</div>';
+
+    html += '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-bottom:14px">';
+
+    html += '<div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">'
+      +'<span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Recovery Status</span>'
+      +'<span style="display:block;font-size:1.3rem;font-weight:800;color:'+statusColor+';line-height:1.2;margin:4px 0">'+statusText+'</span>'
+      +'</div>';
+
+    html += '<div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">'
+      +'<span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Potential Recovery</span>'
+      +'<span style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">'+(barred?'$0':fmt(recovery))+'</span>'
+      +'</div>';
+
+    html += '<div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">'
+      +'<span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Attorney Fee Est. (33%)</span>'
+      +'<span style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">'+(barred?'$0':fmt(attyFee))+'</span>'
+      +'</div>';
+
+    html += '<div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">'
+      +'<span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Net to You</span>'
+      +'<span style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">'+(barred?'$0':fmt(net))+'</span>'
+      +'</div>';
+
+    html += '</div>';
+
+    if(barred){
+      var bgColor = (rule==='contrib') ? 'color-mix(in srgb,#dc2626 10%,#fff)' : 'color-mix(in srgb,var(--accent) 10%,#fff)';
+      var bdrColor= (rule==='contrib') ? 'color-mix(in srgb,#dc2626 35%,transparent)' : 'color-mix(in srgb,var(--accent) 35%,transparent)';
+      html += '<div style="padding:14px 18px;border-radius:12px;background:'+bgColor+';border:1px solid '+bdrColor+';font-size:.93rem;margin-bottom:12px">'
+        +'<strong>Recovery Barred:</strong> '+barNote
+        +'</div>';
+    }
+
+    html += '<div style="padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.93rem">'
+      +'<strong>Speak with an attorney.</strong> These figures are estimates. An attorney may dispute the fault percentage, identify additional liable parties, or apply legal doctrines that change your recovery. Most personal injury attorneys offer free consultations and work on contingency — no fee unless you win.'
+      +'</div>';
+
+    html += '<p style="margin:12px 0 0;font-size:12px;color:var(--stone)">Attorney fee estimate uses a typical 33% contingency rate; actual rates vary. Results are illustrative only and do not account for caps, liens, comparative fault disputes, or other legal factors.</p>';
+
+    res.innerHTML = html;
+    res.style.display = 'block';
+  };
+})();
+</script>

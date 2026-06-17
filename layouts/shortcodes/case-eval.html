@@ -1,0 +1,263 @@
+{{- /* Do I Have a Case? Wizard */ -}}
+<div class="case-eval" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">
+    Do I Have a Personal Injury Case? Self-Evaluation
+  </div>
+  <div style="padding:20px">
+    <div style="margin-bottom:18px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.93rem;line-height:1.55">
+      <strong>Disclaimer:</strong> This tool provides general educational information. It is <strong>NOT legal advice</strong> and cannot predict legal outcomes. Consult a licensed personal injury attorney for a free case evaluation — most handle cases on contingency (no fee unless you win).
+    </div>
+
+    <div id="ce-wizard"></div>
+    <div id="ce-result" style="display:none"></div>
+
+    <div id="ce-nav" style="display:flex;gap:10px;margin-top:18px">
+      <button id="ce-prev" onclick="ceNav(-1)"
+        style="flex:1;padding:12px;background:var(--surface2);color:var(--text);border:1.5px solid var(--border-strong);border-radius:10px;font-size:.95rem;font-weight:700;cursor:pointer;display:none">
+        Back
+      </button>
+      <button id="ce-next" onclick="ceNav(1)"
+        style="flex:2;padding:12px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:.95rem;font-weight:700;cursor:pointer;display:none">
+        Next
+      </button>
+      <button id="ce-submit" onclick="ceSubmit()"
+        style="flex:2;padding:12px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:.95rem;font-weight:700;cursor:pointer;display:none">
+        Evaluate My Case
+      </button>
+      <button id="ce-restart" onclick="ceRestart()"
+        style="flex:1;padding:12px;background:var(--surface2);color:var(--text);border:1.5px solid var(--border-strong);border-radius:10px;font-size:.95rem;font-weight:700;cursor:pointer;display:none">
+        Start Over
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var QUESTIONS = [
+    {
+      q: 'Were you injured?',
+      opts: [
+        {text:'Yes, I have documented medical injuries', score:3, key:'injury_documented'},
+        {text:'Yes, but I have not seen a doctor yet', score:2, key:'injury_undocumented'},
+        {text:'No physical injury — only property damage or emotional distress', score:0, key:'no_injury'}
+      ]
+    },
+    {
+      q: 'Who caused the accident?',
+      opts: [
+        {text:'Another driver (car accident)', score:3, key:'driver'},
+        {text:'A business or property owner (slip-and-fall, negligent security)', score:3, key:'premises'},
+        {text:'A product manufacturer (defective product)', score:3, key:'product'},
+        {text:'A doctor or healthcare provider (medical malpractice)', score:2, key:'malpractice'},
+        {text:'My employer (workplace injury)', score:2, key:'employer'},
+        {text:'A government entity', score:2, key:'government'},
+        {text:'I am not sure / multiple parties', score:2, key:'unsure'}
+      ]
+    },
+    {
+      q: 'Was the other party at fault or negligent?',
+      opts: [
+        {text:'Clearly — they violated a law or obvious duty (ran red light, wet floor with no sign, etc.)', score:3, key:'clear_fault'},
+        {text:'Probably — evidence suggests negligence', score:2, key:'probable_fault'},
+        {text:'Uncertain — it is complicated', score:1, key:'unclear_fault'},
+        {text:'Maybe partially — I was partly at fault too', score:1, key:'partial_fault'}
+      ]
+    },
+    {
+      q: 'How long ago did the injury occur?',
+      opts: [
+        {text:'Less than 6 months ago', score:3, key:'lt6mo'},
+        {text:'6 months to 1 year ago', score:3, key:'6mo_1yr'},
+        {text:'1 to 2 years ago', score:2, key:'1_2yr'},
+        {text:'2 to 3 years ago', score:1, key:'2_3yr'},
+        {text:'More than 3 years ago — note: statute of limitations may have passed (varies 1–6 years by state and claim type)', score:0, key:'gt3yr'}
+      ]
+    },
+    {
+      q: 'Do you have documentation?',
+      opts: [
+        {text:'Yes — medical records, police report, photos, witnesses', score:3, key:'strong_docs'},
+        {text:'Some documentation but gaps', score:2, key:'some_docs'},
+        {text:'Little to no documentation', score:1, key:'weak_docs'}
+      ]
+    }
+  ];
+
+  var answers   = [];
+  var current   = 0;
+  var totalQ    = QUESTIONS.length;
+
+  function render(){
+    var wiz = document.getElementById('ce-wizard');
+    var res = document.getElementById('ce-result');
+    res.style.display = 'none';
+    res.innerHTML = '';
+    wiz.style.display = 'block';
+
+    var q   = QUESTIONS[current];
+    var pct = Math.round(((current)/(totalQ))*100);
+
+    var html = '<div style="margin-bottom:14px">'
+      +'<div style="display:flex;justify-content:space-between;font-size:12px;color:var(--muted);margin-bottom:6px">'
+      +'<span>Question '+(current+1)+' of '+totalQ+'</span><span>'+pct+'% complete</span></div>'
+      +'<div style="height:6px;background:var(--border);border-radius:4px;overflow:hidden">'
+      +'<div style="height:100%;width:'+pct+'%;background:var(--accent);border-radius:4px;transition:width .3s"></div>'
+      +'</div></div>';
+
+    html += '<div style="font-weight:700;font-size:1.05rem;color:var(--text);margin-bottom:14px">'+q.q+'</div>';
+
+    q.opts.forEach(function(opt, i){
+      var selected = (answers[current] !== undefined && answers[current].idx === i);
+      var bg  = selected ? 'color-mix(in srgb,var(--accent) 15%,#fff)' : 'var(--surface2)';
+      var bdr = selected ? 'var(--accent)' : 'var(--border-strong)';
+      html += '<div onclick="ceSelect('+i+')" style="cursor:pointer;padding:12px 16px;border-radius:10px;border:2px solid '+bdr+';background:'+bg+';margin-bottom:9px;font-size:.95rem;color:var(--text);transition:border-color .15s">'+opt.text+'</div>';
+    });
+
+    wiz.innerHTML = html;
+    updateNav();
+  }
+
+  function updateNav(){
+    var prev   = document.getElementById('ce-prev');
+    var next   = document.getElementById('ce-next');
+    var submit = document.getElementById('ce-submit');
+    var restart= document.getElementById('ce-restart');
+
+    prev.style.display    = (current > 0) ? 'block' : 'none';
+    restart.style.display = 'none';
+
+    var answered = (answers[current] !== undefined);
+    if(current < totalQ - 1){
+      next.style.display   = answered ? 'block' : 'none';
+      submit.style.display = 'none';
+    } else {
+      next.style.display   = 'none';
+      submit.style.display = answered ? 'block' : 'none';
+    }
+  }
+
+  window.ceSelect = function(idx){
+    var q = QUESTIONS[current];
+    answers[current] = {idx: idx, score: q.opts[idx].score, key: q.opts[idx].key, text: q.opts[idx].text};
+    render();
+  };
+
+  window.ceNav = function(dir){
+    current += dir;
+    if(current < 0) current = 0;
+    if(current >= totalQ) current = totalQ-1;
+    render();
+  };
+
+  window.ceRestart = function(){
+    answers = [];
+    current = 0;
+    document.getElementById('ce-result').style.display = 'none';
+    document.getElementById('ce-wizard').style.display = 'block';
+    render();
+  };
+
+  window.ceSubmit = function(){
+    var total = 0;
+    answers.forEach(function(a){ total += a.score; });
+
+    // max possible: 3+3+3+3+3 = 15
+    var strengths = [];
+    var risks     = [];
+    var level, color, levelDesc;
+
+    // Q1 injury
+    if(answers[0].key==='injury_documented'){ strengths.push('Documented medical injuries — a key element of any PI claim.'); }
+    else if(answers[0].key==='injury_undocumented'){ risks.push('You have not yet seen a doctor. Gaps in medical treatment can weaken your claim. See a doctor as soon as possible.'); }
+    else { risks.push('No physical injury reported. Personal injury claims typically require a physical injury.'); }
+
+    // Q2 who caused it
+    if(answers[1].key==='malpractice'){ risks.push('Medical malpractice claims are complex, require expert witnesses, and face stricter timelines. Specialized counsel is critical.'); }
+    else if(answers[1].key==='employer'){ risks.push('Workplace injuries may be limited to workers compensation depending on your state. An attorney can advise whether a third-party claim is also available.'); }
+    else if(answers[1].key==='government'){ risks.push('Claims against government entities have short notice-of-claim deadlines (sometimes 30–90 days). Act quickly.'); }
+    else { strengths.push('A private party (driver, property owner, or manufacturer) is a typical defendant in personal injury cases.'); }
+
+    // Q3 fault
+    if(answers[2].key==='clear_fault'){ strengths.push('Clear negligence (law violation or obvious duty breach) is strong evidence of liability.'); }
+    else if(answers[2].key==='probable_fault'){ strengths.push('Evidence suggesting negligence is a good starting point; an attorney can build on this.'); }
+    else if(answers[2].key==='unclear_fault'){ risks.push('Unclear or complicated fault situations may require expert investigation and analysis.'); }
+    else if(answers[2].key==='partial_fault'){ risks.push('Shared fault reduces your recovery and, in some states, can bar it entirely if your share is too high.'); }
+
+    // Q4 timing
+    if(answers[3].key==='lt6mo'||answers[3].key==='6mo_1yr'){ strengths.push('Recent injury — well within most statutes of limitations.'); }
+    else if(answers[3].key==='1_2yr'){ risks.push('1–2 years have passed. Statutes of limitations vary (commonly 2 years for PI); consult an attorney immediately.'); }
+    else if(answers[3].key==='2_3yr'){ risks.push('2–3 years have passed. You may be approaching or past the statute of limitations in many states. Consult an attorney immediately.'); }
+    else if(answers[3].key==='gt3yr'){ risks.push('More than 3 years have passed. The statute of limitations may have expired in your state. An attorney can evaluate tolling exceptions, but time is critical.'); }
+
+    // Q5 docs
+    if(answers[4].key==='strong_docs'){ strengths.push('Strong documentation (medical records, police report, photos, witnesses) substantially supports your claim.'); }
+    else if(answers[4].key==='some_docs'){ risks.push('Incomplete documentation. Work with an attorney to gather additional evidence while it is still available.'); }
+    else { risks.push('Little documentation makes proving damages and liability significantly harder. An attorney can guide evidence-gathering.'); }
+
+    if(total >= 12){
+      level = 'Strong'; color = '#16a34a';
+      levelDesc = 'Your situation shows strong indicators for a personal injury claim. You have documented injuries, clear fault evidence, and timely action.';
+    } else if(total >= 8){
+      level = 'Moderate'; color = 'var(--accent)';
+      levelDesc = 'Your situation shows moderate indicators. There are real elements of a potential claim, but some factors may complicate or limit recovery.';
+    } else if(total >= 4){
+      level = 'Uncertain'; color = '#d97706';
+      levelDesc = 'Your situation has uncertain indicators. Significant questions about liability, documentation, or timing may affect your ability to recover.';
+    } else {
+      level = 'Difficult'; color = '#dc2626';
+      levelDesc = 'Based on your answers, there are significant barriers to a personal injury claim. An attorney can assess whether any exceptions or alternative routes apply.';
+    }
+
+    var wiz = document.getElementById('ce-wizard');
+    var res = document.getElementById('ce-result');
+    wiz.style.display = 'none';
+
+    var html = '<div style="padding:16px 18px;border-radius:12px;background:color-mix(in srgb,'+color+' 12%,#fff);border:2px solid color-mix(in srgb,'+color+' 40%,transparent);margin-bottom:16px">'
+      +'<div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:'+color+';font-weight:700;margin-bottom:4px">Your Case Assessment</div>'
+      +'<div style="font-size:1.5rem;font-weight:800;color:'+color+'">'+level+' Indicators</div>'
+      +'<div style="margin-top:6px;font-size:.93rem;color:var(--text)">'+levelDesc+'</div>'
+      +'</div>';
+
+    if(strengths.length){
+      html += '<div style="margin-bottom:14px">'
+        +'<div style="font-weight:700;font-size:.9rem;color:#16a34a;margin-bottom:8px;text-transform:uppercase;letter-spacing:.04em">Strengths</div>';
+      strengths.forEach(function(s){
+        html += '<div style="display:flex;gap:8px;align-items:flex-start;margin-bottom:7px;font-size:.92rem">'
+          +'<span style="color:#16a34a;font-size:1.1rem;line-height:1.4">&#10003;</span>'
+          +'<span>'+s+'</span></div>';
+      });
+      html += '</div>';
+    }
+
+    if(risks.length){
+      html += '<div style="margin-bottom:16px">'
+        +'<div style="font-weight:700;font-size:.9rem;color:#dc2626;margin-bottom:8px;text-transform:uppercase;letter-spacing:.04em">Risks &amp; Gaps</div>';
+      risks.forEach(function(r){
+        html += '<div style="display:flex;gap:8px;align-items:flex-start;margin-bottom:7px;font-size:.92rem">'
+          +'<span style="color:#dc2626;font-size:1.1rem;line-height:1.4">&#9888;</span>'
+          +'<span>'+r+'</span></div>';
+      });
+      html += '</div>';
+    }
+
+    html += '<div style="padding:16px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.55">'
+      +'<strong>Get a free case evaluation.</strong> Most personal injury attorneys work on contingency — you pay nothing unless they win. A free consultation costs you nothing and can clarify your rights, the actual statute of limitations in your state, and the realistic value of your claim.'
+      +'</div>';
+
+    html += '<p style="margin:12px 0 0;font-size:12px;color:var(--stone)">This tool provides general educational information only. It is NOT legal advice and cannot predict legal outcomes. Consult a licensed personal injury attorney for advice on your specific situation.</p>';
+
+    res.innerHTML = html;
+    res.style.display = 'block';
+
+    // Show restart, hide next/submit/prev
+    document.getElementById('ce-prev').style.display    = 'none';
+    document.getElementById('ce-next').style.display    = 'none';
+    document.getElementById('ce-submit').style.display  = 'none';
+    document.getElementById('ce-restart').style.display = 'block';
+  };
+
+  // init
+  render();
+})();
+</script>
