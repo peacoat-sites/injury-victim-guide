@@ -129,6 +129,10 @@ A denial letter is an opening position, not a final verdict. The system is desig
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NOLO — Workers' Compensation Claims Overview](https://www.nolo.com/legal-encyclopedia/workers-compensation) — Explains denial reasons and appeals process by state
+- [III — Workers Compensation Insurance Basics](https://www.iii.org/article/what-workers-compensation-insurance) — Covers how WC claims and denials work
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

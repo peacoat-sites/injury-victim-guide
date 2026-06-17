@@ -97,6 +97,10 @@ If there's one thing I'd want families to take away from all of this, it's that 
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
+## Sources & References
+
+- [National Institute on Aging — Elder Abuse](https://www.nia.nih.gov/health/elder-abuse) — Defines types of elder abuse including neglect
+- [Administration for Community Living — Long-Term Care Ombudsman](https://acl.gov/programs/protecting-rights-and-preventing-abuse/long-term-care-ombudsman-program) — Federal data on nursing home complaints
 
 *Photo: [Matthias Zomer](https://www.pexels.com/@matthiaszomer) via Pexels*
 

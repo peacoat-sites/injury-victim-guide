@@ -129,6 +129,10 @@ There's no universal right answer here, and anyone who tells you otherwise is pr
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 - **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is a structured settlement?](https://www.consumerfinance.gov/) — Consumer protections and financial decision-making guidance
+- [NAIC — Structured Settlements](https://content.naic.org/) — State insurance regulation of settlement annuities
 
 *Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
 

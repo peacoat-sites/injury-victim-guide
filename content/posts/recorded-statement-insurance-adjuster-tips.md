@@ -119,6 +119,10 @@ The call takes less than ten minutes. But your preparation for it -- a few days 
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Understanding the Claims Process](https://content.naic.org/consumer.htm) — Consumer guidance on insurance claims and adjuster interactions
+- [Insurance Information Institute — How to File a Claim](https://www.iii.org/article/how-file-claim) — Industry nonprofit explains claims process and documentation
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

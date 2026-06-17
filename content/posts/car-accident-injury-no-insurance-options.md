@@ -144,6 +144,11 @@ Being hurt in an accident caused by an uninsured driver is stressful and unfair.
 
 ---
 
+## Sources & References
+
+- [III — Uninsured Motorist Coverage](https://www.iii.org/article/understanding-your-auto-insurance) — Explains UM/UIM coverage types and how they work
+- [IRC — Uninsured Motorists Study](https://www.insurance-research.org/research-publications/uninsured-motorists) — Supports statistic that 1 in 8 drivers is uninsured
+
 ---
 
 ## Recommended Resources

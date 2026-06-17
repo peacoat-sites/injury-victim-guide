@@ -135,6 +135,10 @@ Every whiplash claim is different. The variables are real, and the stakes are hi
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Understanding Auto Insurance](https://www.iii.org/article/understanding-auto-insurance) — Supports insurance industry claims management practices
+- [American Academy of Orthopaedic Surgeons — Cervical Spine Conditions](https://orthoinfo.aaos.org/en/diseases--conditions/cervical-spondylosis-arthritis-of-the-neck) — Medical authority on neck/cervical spine injuries
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

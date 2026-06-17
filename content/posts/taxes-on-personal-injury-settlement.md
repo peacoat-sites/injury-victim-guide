@@ -151,6 +151,11 @@ The tax treatment of a personal injury settlement is one of those areas where "i
 
 ---
 
+## Sources & References
+
+- [IRS — Settlements Taxability](https://www.irs.gov/government-entities/tax-implications-of-settlements-and-judgments) — Explains IRC 104(a)(2) and taxability of settlement components
+- [IRS — Publication 4345 Settlements](https://www.irs.gov/pub/irs-pdf/p4345.pdf) — Official guidance on taxability of personal injury settlements
+
 ---
 
 ## Recommended Resources

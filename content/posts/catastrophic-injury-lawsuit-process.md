@@ -145,6 +145,10 @@ The system isn't designed to be easy for injured people. It's designed to be nav
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CDC — Injury Prevention & Control](https://www.cdc.gov/injury/) — Supports TBI/SCI hospitalization statistics and injury data
+- [NSCISC — Spinal Cord Injury Facts and Figures](https://www.nscisc.uab.edu/) — Supports lifetime care cost estimates for spinal injuries
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

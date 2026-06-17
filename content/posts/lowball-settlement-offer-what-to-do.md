@@ -133,6 +133,11 @@ A lowball offer is not the end of the conversation. It's the beginning of one, a
 - **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — How Auto Insurance Claims Work](https://www.iii.org/article/how-auto-insurance-claims-work) — Explains insurer claims process and settlement practices
+- [NAIC — Consumer Guide to Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — State regulator guidance on auto claims and consumer rights
+- [Consumer Financial Protection Bureau — Dealing with Debt Collectors](https://www.consumerfinance.gov/consumer-tools/debt-collection/) — Supports context of medical bill pressure on claimants
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

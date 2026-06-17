@@ -23,6 +23,11 @@ However your answers landed, remember this is just a thinking tool, not a verdic
 
 ---
 
+## Sources & References
+
+- [USA.gov — Legal Aid and Attorney Referrals](https://www.usa.gov/legal-aid) — Supports finding free legal consultations
+- [Cornell Law School LII — Tort Law Overview](https://www.law.cornell.edu/wex/tort) — Explains negligence and fault concepts in injury claims
+
 ---
 
 ## Recommended Resources

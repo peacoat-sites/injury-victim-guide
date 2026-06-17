@@ -115,6 +115,10 @@ There are specific things that can significantly reduce what you're owed. Knowin
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
 - **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — explains auto insurance claims and coverage basics
+- [Cornell Law — Damages](https://www.law.cornell.edu/wex/damages) — legal definition of compensatory and non-economic damages
 
 *Photo: [Ann H](https://www.pexels.com/@ann-h-45017) via Pexels*
 

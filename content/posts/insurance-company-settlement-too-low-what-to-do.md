@@ -176,6 +176,12 @@ Getting a lowball offer doesn't mean you're stuck with it. It means you're at th
 
 ---
 
+## Sources & References
+
+- [NAIC — Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — explains auto claim process and consumer rights
+- [III — Auto Insurance Basics](https://www.iii.org/article/what-covered-standard-auto-insurance-policy) — overview of coverage types and claims
+- [CFPB — Insurance and Financial Products](https://www.consumerfinance.gov/) — federal consumer protection guidance for financial disputes
+
 ---
 
 ## Recommended Resources

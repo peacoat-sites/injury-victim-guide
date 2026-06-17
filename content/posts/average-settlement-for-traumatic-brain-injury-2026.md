@@ -109,6 +109,11 @@ The honest thing I can tell you after everything I've learned on both sides of t
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CDC — Traumatic Brain Injury Overview](https://www.cdc.gov/traumatic-brain-injury/) — supports TBI severity classifications and long-term outcomes
+- [NINDS — Traumatic Brain Injury Information](https://www.ninds.nih.gov/health-information/disorders/traumatic-brain-injury-tbi) — supports medical documentation and symptom duration factors
+- [BrainLine — TBI Information Resource](https://www.brainline.org/) — supports cognitive deficit and recovery timeline claims
 
 *Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 

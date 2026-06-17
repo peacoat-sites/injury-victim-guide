@@ -103,6 +103,10 @@ Generally, no. Not without legal guidance first. You're not legally required to 
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CDC — Traumatic Brain Injury Overview](https://www.cdc.gov/traumatic-brain-injury/) — supports TBI basics and why symptoms may not show on imaging
+- [BrainLine (WETA) — TBI Information Resource](https://www.brainline.org/) — supports functional impacts and recovery challenges after TBI
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

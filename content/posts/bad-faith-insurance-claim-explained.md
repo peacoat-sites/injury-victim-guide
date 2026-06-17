@@ -141,6 +141,10 @@ You're not required to accept whatever a claims department decides. You have rig
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — How to File a Claim](https://www.iii.org/article/how-file-insurance-claim) — covers standard claims process and timelines
+- [CFPB — Insurance Complaints](https://www.consumerfinance.gov/complaint/) — supports recourse options when insurers act improperly
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 

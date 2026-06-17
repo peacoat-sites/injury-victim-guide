@@ -147,6 +147,11 @@ Every injury claim is different, and the factors above don't all carry equal wei
 
 ---
 
+## Sources & References
+
+- [NAIC — Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — Official state regulator guidance on auto insurance claims process
+- [III — How Auto Insurance Claims Work](https://www.iii.org/article/how-auto-insurance-claims-work) — Industry nonprofit explains claims evaluation factors
+
 ---
 
 ## Recommended Resources

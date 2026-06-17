@@ -158,6 +158,11 @@ Knowing what not to do is just as important as knowing what to do.
 
 You walked into that urgent care not knowing any of this. Now you know the difference between a claim and a lawsuit, what damages you can recover, why documentation matters from day one, and where the real pitfalls are. That knowledge isn't a substitute for professional legal advice, but it puts you in a far better position to protect yourself and ask the right questions. Whatever you decide to do next, do it informed.
 
+## Sources & References
+
+- [Cornell Law School — Negligence overview](https://www.law.cornell.edu/wex/negligence) — Explains the four elements of negligence in tort law
+- [Nolo — Personal Injury Claims](https://www.nolo.com/legal-encyclopedia/personal-injury) — Overview of damages, compensation types, and claim basics
+
 *Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
 
 ---

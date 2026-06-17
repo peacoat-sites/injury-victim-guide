@@ -153,6 +153,10 @@ Hit-and-run crashes feel deeply unfair, and they are. Someone caused serious har
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Uninsured Motorists Coverage](https://content.naic.org/cipr-topics/uninsured-motorists) — explains UM coverage for hit-and-run claims
+- [III — What to do after an accident](https://www.iii.org/article/what-to-do-after-an-auto-accident) — supports documentation steps after a crash
 
 *Photo: [Erik Mclean](https://www.pexels.com/@introspectivedsgn) via Pexels*
 

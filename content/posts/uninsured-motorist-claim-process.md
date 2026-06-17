@@ -137,6 +137,11 @@ Being hit by an uninsured driver feels like a double injustice. You did everythi
 
 ---
 
+## Sources & References
+
+- [Insurance Information Institute — Uninsured Motorists](https://www.iii.org/fact-statistic/facts-statistics-uninsured-motorists) — Supports 1-in-8 uninsured driver statistics
+- [NAIC — Uninsured Motorists Coverage](https://content.naic.org/cipr-topics/uninsured-motorists) — Explains UM/UIM coverage and state requirements
+
 ---
 
 ## Recommended Resources

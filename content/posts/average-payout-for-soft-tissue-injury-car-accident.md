@@ -127,6 +127,11 @@ Soft tissue injuries are real injuries. The skepticism baked into the claims pro
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Car Insurance Claims Overview](https://www.iii.org/article/what-are-the-typical-car-insurance-policy-coverages) — Explains insurance coverage types relevant to injury claims
+- [NAIC — Auto Insurance Consumer Guide](https://content.naic.org/consumer.htm) — Consumer guidance on understanding auto insurance claims process
+- [CFPB — Managing Insurance Claims](https://www.consumerfinance.gov/) — Consumer financial protection guidance for insurance disputes
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

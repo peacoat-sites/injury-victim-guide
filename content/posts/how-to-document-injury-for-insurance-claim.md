@@ -139,6 +139,11 @@ The reality is that insurance claims are decided on paper. Your actual experienc
 
 ---
 
+## Sources & References
+
+- [Insurance Information Institute — Filing and Settling Insurance Claims](https://www.iii.org/article/settling-insurance-claims-after-a-disaster) — Explains documentation importance in insurance claims process
+- [NAIC — Consumer Guide to Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — State regulator guidance on documenting accident claims
+
 ---
 
 ## Recommended Resources

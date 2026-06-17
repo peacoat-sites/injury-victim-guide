@@ -131,6 +131,10 @@ The situation you're in after a defective product hurts you is genuinely unfair.
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 
+## Sources & References
+
+- [FTC — Consumer Rights and Protections](https://consumer.ftc.gov/) — Federal guidance on consumer rights and dealing with companies
+- [USA.gov — Product Safety Complaints](https://www.usa.gov/consumer-complaints) — Government portal for filing product safety complaints
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

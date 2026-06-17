@@ -132,6 +132,11 @@ Living with a TBI while fighting an insurance claim is genuinely one of the hard
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CDC — Traumatic Brain Injury and Concussion](https://www.cdc.gov/traumaticbraininjury/) — Authoritative health info on TBI symptoms, recovery, and long-term effects
+- [NINDS — Traumatic Brain Injury Information Page](https://www.ninds.nih.gov/health-information/disorders/traumatic-brain-injury) — NIH resource on TBI prognosis, treatment, and research
+- [BrainLine — MSKTC TBI Model Systems](https://www.brainline.org/) — Federally-funded resource on TBI rehabilitation and lifetime costs
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

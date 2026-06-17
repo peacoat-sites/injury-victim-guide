@@ -111,6 +111,11 @@ Get a tax professional involved before you finalize any settlement of real size.
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Settlements Taxability](https://www.irs.gov/government-entities/tax-implications-of-settlements-and-judgments) — Confirms Section 104(a)(2) exclusion rules for physical injury damages
+- [IRS Publication 4345 — Settlements](https://www.irs.gov/pub/irs-pdf/p4345.pdf) — Official IRS guide on taxability of lawsuit settlements
+- [Cornell Law — 26 U.S. Code § 104](https://www.law.cornell.edu/uscode/text/26/104) — Primary statutory text for personal injury tax exclusion
 
 *Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 

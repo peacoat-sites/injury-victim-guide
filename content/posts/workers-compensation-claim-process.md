@@ -99,6 +99,10 @@ If you're early in this process, slow down before you sign anything or give any 
 - **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 
+## Sources & References
+
+- [OSHA — Injury and Illness Recordkeeping](https://www.osha.gov/recordkeeping) — Employer reporting obligations and worker rights after injury
+- [NOLO — Workers' Compensation Overview](https://www.nolo.com/legal-encyclopedia/workers-compensation) — State-by-state claim deadlines and process guidance
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

@@ -126,6 +126,11 @@ The fact that you're reading this means you're paying attention, and that alread
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Understanding the Claims Process](https://content.naic.org/consumer.htm) — Consumer guidance on insurance claims and adjuster interactions
+- [FTC — Dealing With Insurance Companies After an Accident](https://consumer.ftc.gov/) — Federal consumer protection guidance on insurance practices
+- [III — How to File an Insurance Claim](https://www.iii.org/) — Industry-backed consumer info on claims process and rights
 
 *Photo: [Gratisography](https://www.pexels.com/@gratisography) via Pexels*
 

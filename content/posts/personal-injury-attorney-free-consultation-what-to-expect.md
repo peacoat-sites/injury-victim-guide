@@ -105,6 +105,10 @@ One consultation is not always enough. The first attorney who offers to take you
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Choosing an Attorney](https://www.consumerfinance.gov/consumer-tools/) — Consumer guidance on legal services and rights
+- [USA.gov — Legal Aid and Lawyer Referrals](https://www.usa.gov/legal-aid) — Official guide to finding legal representation
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 

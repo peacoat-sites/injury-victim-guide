@@ -135,6 +135,10 @@ The rideshare industry moved faster than insurance law was ready for, and injure
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Rideshare Insurance](https://www.iii.org/article/ridesharing) — explains rideshare insurance layers and coverage phases
+- [FTC — Gig Economy and Independent Contractors](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/gig-economy) — independent contractor classification context
 
 *Photo: [Aleksandr Neplokhov](https://www.pexels.com/@aleksandr-neplokhov-486399) via Pexels*
 

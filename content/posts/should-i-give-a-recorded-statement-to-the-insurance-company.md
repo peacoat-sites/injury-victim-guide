@@ -122,6 +122,11 @@ You don't have to be an expert in personal injury law to protect yourself here. 
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Understanding the Claims Process](https://content.naic.org/consumer.htm) — Consumer guidance on insurance claims and adjuster interactions
+- [FTC — Dealing with Insurance Companies After an Accident](https://consumer.ftc.gov/) — Federal consumer protection guidance on insurance matters
+- [Insurance Information Institute — Filing and Settling Claims](https://www.iii.org/insurance-basics) — Industry overview of claims process and policyholder rights
 
 *Photo: [Edmond Dantès](https://www.pexels.com/@edmond-dantes) via Pexels*
 

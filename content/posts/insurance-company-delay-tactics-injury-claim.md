@@ -126,6 +126,11 @@ Dealing with a delayed injury claim is genuinely exhausting, and the frustration
 
 ---
 
+## Sources & References
+
+- [III — How to File an Insurance Claim](https://www.iii.org/article/how-file-insurance-claim) — covers claims process and consumer expectations
+- [FTC — Consumer Information](https://consumer.ftc.gov/) — federal consumer protection guidance on dealing with companies
+
 ---
 
 ## Recommended Resources

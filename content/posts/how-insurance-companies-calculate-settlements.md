@@ -148,6 +148,11 @@ The gap between what an insurance company offers and what you're actually owed d
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — Explains how auto claims and settlements work
+- [III — How Auto Insurance Claims Work](https://www.iii.org/article/how-does-the-auto-insurance-claims-process-work) — Details claims process and settlement factors
+- [CFPB — Insurance basics](https://www.consumerfinance.gov/consumer-tools/) — Consumer financial protection guidance on insurance
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

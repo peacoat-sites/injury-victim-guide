@@ -111,6 +111,11 @@ The bottom line is that your broken bone claim is only as strong as the evidence
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — explains liability coverage and claims process basics
+- [III — How Auto Insurance Claims Work](https://www.iii.org/article/how-auto-insurance-claims-work) — covers settlement process and what insurers evaluate
+- [Nolo — Personal Injury Settlements](https://www.nolo.com/legal-encyclopedia/personal-injury) — explains factors affecting injury settlement values
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

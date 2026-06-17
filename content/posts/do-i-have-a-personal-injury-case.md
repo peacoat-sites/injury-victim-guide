@@ -126,6 +126,11 @@ If you're in the early days after an injury, here's a concrete sequence that can
 
 The question of whether you have a personal injury case doesn't have a universal answer, but it does have a logical process you can follow. You look at the four elements, you honestly assess what happened and what evidence exists, you understand your state's rules, and you talk to a professional before any deadline passes. What you don't do is assume the answer is no before you've done any of that. In my experience, the people who walk away with nothing are often not the ones with weak cases. They're the ones who never asked.
 
+## Sources & References
+
+- [Cornell Law School — Negligence overview](https://www.law.cornell.edu/wex/negligence) — Explains four elements of negligence claims
+- [USA.gov — Legal Aid Resources](https://www.usa.gov/legal-aid) — Finding free/low-cost legal help for injury cases
+
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---

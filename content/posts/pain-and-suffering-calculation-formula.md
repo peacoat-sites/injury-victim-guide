@@ -137,6 +137,10 @@ Pain and suffering damages exist because the law recognizes that an injury isn't
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Cornell Law School — Damages overview](https://www.law.cornell.edu/wex/damages) — defines economic vs non-economic damages in legal context
+- [CDC — Injury Prevention Overview](https://www.cdc.gov/injury/index.html) — supports prevalence of injuries causing lasting disability
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
