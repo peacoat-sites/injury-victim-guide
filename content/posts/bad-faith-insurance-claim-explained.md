@@ -40,7 +40,7 @@ I spent 12 years on the inside of that system before I switched sides. I've seen
   <div class="vm-body">
     <p class="vm-intro">Use this comparison to identify whether your situation involves a legitimate coverage dispute or potential bad faith conduct.</p>
     <table><thead><tr><th>Situation</th><th>Likely Coverage Dispute</th><th>Potential Bad Faith Indicator</th></tr></thead><tbody><tr><td>Claim response time</td><td>30-45 day investigation with status updates</td><td>90+ days with no communication or explanation</td></tr><tr><td>Settlement offer</td><td>Lower than expected but supported by documented reasoning</td><td>Offer contradicts insurer's own internal damage assessment</td></tr><tr><td>Information requests</td><td>Asking for medical records, repair estimates, or police reports</td><td>Repeated requests for same documents or demands for irrelevant information</td></tr><tr><td>Claim denial</td><td>Cites specific policy exclusion with written explanation</td><td>Misrepresents policy language or ignores evidence supporting coverage</td></tr><tr><td>Investigation conduct</td><td>Independent adjuster reviews damage and interviews claimant</td><td>Adjuster instructed to find reasons to deny rather than evaluate fairly</td></tr><tr><td>Your legal options</td><td>Appeal, negotiate, file with state insurance department, or sue for policy benefits</td><td>Sue for policy benefits plus extra-contractual damages and potentially punitive damages</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -143,8 +143,8 @@ You're not required to accept whatever a claims department decides. You have rig
 
 ## Sources & References
 
-- [III — How to File a Claim](https://www.iii.org/article/how-file-insurance-claim) — covers standard claims process and timelines
-- [CFPB — Insurance Complaints](https://www.consumerfinance.gov/complaint/) — supports recourse options when insurers act improperly
+- [III, How to File a Claim](https://www.iii.org/article/how-file-insurance-claim), covers standard claims process and timelines
+- [CFPB, Insurance Complaints](https://www.consumerfinance.gov/complaint/), supports recourse options when insurers act improperly
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
@@ -160,8 +160,8 @@ You're not required to accept whatever a claims department decides. You have rig
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

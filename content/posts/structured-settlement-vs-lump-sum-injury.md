@@ -131,8 +131,8 @@ There's no universal right answer here, and anyone who tells you otherwise is pr
 
 ## Sources & References
 
-- [CFPB — What is a structured settlement?](https://www.consumerfinance.gov/) — Consumer protections and financial decision-making guidance
-- [NAIC — Structured Settlements](https://content.naic.org/) — State insurance regulation of settlement annuities
+- [CFPB, What is a structured settlement?](https://www.consumerfinance.gov/), Consumer protections and financial decision-making guidance
+- [NAIC, Structured Settlements](https://content.naic.org/), State insurance regulation of settlement annuities
 
 *Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
 
@@ -148,6 +148,6 @@ There's no universal right answer here, and anyone who tells you otherwise is pr
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

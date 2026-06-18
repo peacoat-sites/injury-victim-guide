@@ -153,8 +153,8 @@ The tax treatment of a personal injury settlement is one of those areas where "i
 
 ## Sources & References
 
-- [IRS — Settlements Taxability](https://www.irs.gov/government-entities/tax-implications-of-settlements-and-judgments) — Explains IRC 104(a)(2) and taxability of settlement components
-- [IRS — Publication 4345 Settlements](https://www.irs.gov/pub/irs-pdf/p4345.pdf) — Official guidance on taxability of personal injury settlements
+- [IRS, Settlements Taxability](https://www.irs.gov/government-entities/tax-implications-of-settlements-and-judgments), Explains IRC 104(a)(2) and taxability of settlement components
+- [IRS, Publication 4345 Settlements](https://www.irs.gov/pub/irs-pdf/p4345.pdf), Official guidance on taxability of personal injury settlements
 
 ---
 
@@ -162,8 +162,8 @@ The tax treatment of a personal injury settlement is one of those areas where "i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

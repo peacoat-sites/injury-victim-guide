@@ -137,8 +137,8 @@ The rideshare industry moved faster than insurance law was ready for, and injure
 
 ## Sources & References
 
-- [Insurance Information Institute — Rideshare Insurance](https://www.iii.org/article/ridesharing) — explains rideshare insurance layers and coverage phases
-- [FTC — Gig Economy and Independent Contractors](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/gig-economy) — independent contractor classification context
+- [Insurance Information Institute, Rideshare Insurance](https://www.iii.org/article/ridesharing), explains rideshare insurance layers and coverage phases
+- [FTC, Gig Economy and Independent Contractors](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/gig-economy), independent contractor classification context
 
 *Photo: [Aleksandr Neplokhov](https://www.pexels.com/@aleksandr-neplokhov-486399) via Pexels*
 
@@ -154,6 +154,6 @@ The rideshare industry moved faster than insurance law was ready for, and injure
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

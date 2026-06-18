@@ -160,8 +160,8 @@ You walked into that urgent care not knowing any of this. Now you know the diffe
 
 ## Sources & References
 
-- [Cornell Law School — Negligence overview](https://www.law.cornell.edu/wex/negligence) — Explains the four elements of negligence in tort law
-- [Nolo — Personal Injury Claims](https://www.nolo.com/legal-encyclopedia/personal-injury) — Overview of damages, compensation types, and claim basics
+- [Cornell Law School, Negligence overview](https://www.law.cornell.edu/wex/negligence), Explains the four elements of negligence in tort law
+- [Nolo, Personal Injury Claims](https://www.nolo.com/legal-encyclopedia/personal-injury), Overview of damages, compensation types, and claim basics
 
 *Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
 
@@ -177,6 +177,6 @@ You walked into that urgent care not knowing any of this. Now you know the diffe
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

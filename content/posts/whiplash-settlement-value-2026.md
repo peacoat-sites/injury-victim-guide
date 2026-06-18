@@ -137,8 +137,8 @@ Every whiplash claim is different. The variables are real, and the stakes are hi
 
 ## Sources & References
 
-- [Insurance Information Institute — Understanding Auto Insurance](https://www.iii.org/article/understanding-auto-insurance) — Supports insurance industry claims management practices
-- [American Academy of Orthopaedic Surgeons — Cervical Spine Conditions](https://orthoinfo.aaos.org/en/diseases--conditions/cervical-spondylosis-arthritis-of-the-neck) — Medical authority on neck/cervical spine injuries
+- [Insurance Information Institute, Understanding Auto Insurance](https://www.iii.org/article/understanding-auto-insurance), Supports insurance industry claims management practices
+- [American Academy of Orthopaedic Surgeons, Cervical Spine Conditions](https://orthoinfo.aaos.org/en/diseases--conditions/cervical-spondylosis-arthritis-of-the-neck), Medical authority on neck/cervical spine injuries
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
@@ -154,6 +154,6 @@ Every whiplash claim is different. The variables are real, and the stakes are hi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

@@ -40,7 +40,7 @@ What I can do is walk you through what actually moves these numbers, what the in
   <div class="vm-body">
     <p class="vm-intro">This matrix shows how specific case characteristics typically shift settlement ranges, based on factors insurers weigh during claims evaluation.</p>
     <table><thead><tr><th>Factor</th><th>Lower Settlement Indicator</th><th>Higher Settlement Indicator</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Diagnostic Evidence</td><td>X-ray only, normal findings</td><td>MRI showing disc bulge, tear, or herniation</td><td>Objective imaging creates documentation insurers cannot easily dispute</td></tr><tr><td>Treatment Duration</td><td>2-4 weeks of care, then discharged</td><td>3+ months of consistent treatment with documented plateau</td><td>Longer treatment with medical justification signals genuine impairment</td></tr><tr><td>Treatment Type</td><td>Chiropractor visits only</td><td>Orthopedist referral, physical therapy, pain management</td><td>MD involvement and varied providers increase perceived injury severity</td></tr><tr><td>Gap in Treatment</td><td>30+ day gaps between appointments</td><td>Consistent care with no unexplained gaps</td><td>Gaps suggest recovery or that injury wasn't severe enough to prioritize</td></tr><tr><td>Pre-existing Conditions</td><td>Prior claims for same body region</td><td>No documented prior injury to affected area</td><td>Insurers aggressively reduce value when they can attribute symptoms to prior conditions</td></tr><tr><td>Impact Severity</td><td>Low-speed collision under 10 mph</td><td>Visible vehicle damage, deployed airbags, photos documented</td><td>Property damage photos serve as proxy evidence for force of impact</td></tr><tr><td>Lost Wages Documentation</td><td>Self-employed with no records, or no time missed</td><td>W-2 employee with employer verification letter</td><td>Verifiable income loss adds concrete economic damages to claim</td></tr><tr><td>Permanency Language</td><td>Discharged with "full recovery expected"</td><td>Doctor notes "permanent impairment" or "chronic condition"</td><td>Future damages require medical opinion supporting ongoing effects</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -129,9 +129,9 @@ Soft tissue injuries are real injuries. The skepticism baked into the claims pro
 
 ## Sources & References
 
-- [III — Car Insurance Claims Overview](https://www.iii.org/article/what-are-the-typical-car-insurance-policy-coverages) — Explains insurance coverage types relevant to injury claims
-- [NAIC — Auto Insurance Consumer Guide](https://content.naic.org/consumer.htm) — Consumer guidance on understanding auto insurance claims process
-- [CFPB — Managing Insurance Claims](https://www.consumerfinance.gov/) — Consumer financial protection guidance for insurance disputes
+- [III, Car Insurance Claims Overview](https://www.iii.org/article/what-are-the-typical-car-insurance-policy-coverages), Explains insurance coverage types relevant to injury claims
+- [NAIC, Auto Insurance Consumer Guide](https://content.naic.org/consumer.htm), Consumer guidance on understanding auto insurance claims process
+- [CFPB, Managing Insurance Claims](https://www.consumerfinance.gov/), Consumer financial protection guidance for insurance disputes
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
@@ -145,6 +145,6 @@ Soft tissue injuries are real injuries. The skepticism baked into the claims pro
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

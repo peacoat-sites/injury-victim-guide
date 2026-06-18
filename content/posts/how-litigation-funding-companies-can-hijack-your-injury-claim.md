@@ -24,7 +24,7 @@ On June 12, 2026, New York Marine & General Insurance Co. filed a complaint in t
   <div class="vm-body">
     <p class="vm-intro">Before signing with any litigation funder, check for these specific warning signs that may indicate the funder is prioritizing their returns over your interests.</p>
     <table><caption>Litigation Funding Red Flag Checklist</caption><thead><tr><th>Warning Sign</th><th>What It Looks Like</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Mandatory provider referrals</td><td>Funder requires you to use specific doctors, chiropractors, or treatment centers</td><td>Provider may be financially tied to funder; treatment decisions may prioritize claim value over your health</td></tr><tr><td>Attorney steering</td><td>Funder insists you use their recommended lawyer or won't fund your case</td><td>Attorney may owe loyalty to funder relationship rather than to you as client</td></tr><tr><td>Undisclosed fee structures</td><td>Contract lacks clear APR equivalent; uses only flat fee or factor rate language</td><td>Effective annual rates on litigation advances commonly range from 30% to over 100%; vague terms obscure true cost</td></tr><tr><td>Communication restrictions</td><td>Funder contacts your attorney directly or receives case updates before you do</td><td>Suggests funder may be influencing case strategy without your knowledge</td></tr><tr><td>Settlement veto language</td><td>Contract requires funder approval before you can accept a settlement offer</td><td>Funder's break-even threshold may exceed offers that would benefit you</td></tr><tr><td>Bundled services pressure</td><td>Funder offers package deals combining funding with medical liens or case management</td><td>Creates layered financial interests that compound conflicts</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -98,6 +98,6 @@ The industry built its business model on the fact that people in pain, behind on
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

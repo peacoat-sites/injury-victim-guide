@@ -34,9 +34,9 @@ Here's what you actually need to know.
 <div class="value-module">
   <div class="vm-head">State-by-State Filing Deadline Reference</div>
   <div class="vm-body">
-    <p class="vm-intro">These deadlines represent the standard personal injury statute of limitations for car accidents—your actual deadline may differ based on specific circumstances like government defendants, minor claimants, or discovery of delayed injuries.</p>
+    <p class="vm-intro">These deadlines represent the standard personal injury statute of limitations for car accidents-your actual deadline may differ based on specific circumstances like government defendants, minor claimants, or discovery of delayed injuries.</p>
     <table><caption>Personal Injury Lawsuit Deadlines by State (Illustrative Selection)</caption><thead><tr><th>State</th><th>Standard Deadline</th><th>Key Exception to Note</th></tr></thead><tbody><tr><td>California</td><td>2 years</td><td>6 months if claim involves government vehicle/entity</td></tr><tr><td>Texas</td><td>2 years</td><td>Minors: deadline typically tolled until age 18</td></tr><tr><td>New York</td><td>3 years</td><td>90 days to file notice if government defendant</td></tr><tr><td>Florida</td><td>2 years</td><td>Changed from 4 years in March 2023</td></tr><tr><td>Pennsylvania</td><td>2 years</td><td>Discovery rule may extend if injury not immediately apparent</td></tr><tr><td>Illinois</td><td>2 years</td><td>1 year against government entities</td></tr><tr><td>Ohio</td><td>2 years</td><td>Court of Claims deadline may differ for state vehicles</td></tr><tr><td>Georgia</td><td>2 years</td><td>Ante litem notice required within 1 year for government claims</td></tr><tr><td>Kentucky</td><td>2 years (motor vehicle)</td><td>General personal injury is 1 year; vehicle accidents get extended deadline</td></tr><tr><td>Maine</td><td>6 years</td><td>Among the longest windows nationally</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -155,6 +155,6 @@ The window to act after a car accident injury is real, finite, and indifferent t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

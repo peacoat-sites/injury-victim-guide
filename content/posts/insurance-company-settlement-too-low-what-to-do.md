@@ -178,9 +178,9 @@ Getting a lowball offer doesn't mean you're stuck with it. It means you're at th
 
 ## Sources & References
 
-- [NAIC — Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — explains auto claim process and consumer rights
-- [III — Auto Insurance Basics](https://www.iii.org/article/what-covered-standard-auto-insurance-policy) — overview of coverage types and claims
-- [CFPB — Insurance and Financial Products](https://www.consumerfinance.gov/) — federal consumer protection guidance for financial disputes
+- [NAIC, Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm), explains auto claim process and consumer rights
+- [III, Auto Insurance Basics](https://www.iii.org/article/what-covered-standard-auto-insurance-policy), overview of coverage types and claims
+- [CFPB, Insurance and Financial Products](https://www.consumerfinance.gov/), federal consumer protection guidance for financial disputes
 
 ---
 
@@ -188,8 +188,8 @@ Getting a lowball offer doesn't mean you're stuck with it. It means you're at th
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

@@ -128,9 +128,9 @@ The fact that you're reading this means you're paying attention, and that alread
 
 ## Sources & References
 
-- [NAIC — Understanding the Claims Process](https://content.naic.org/consumer.htm) — Consumer guidance on insurance claims and adjuster interactions
-- [FTC — Dealing With Insurance Companies After an Accident](https://consumer.ftc.gov/) — Federal consumer protection guidance on insurance practices
-- [III — How to File an Insurance Claim](https://www.iii.org/) — Industry-backed consumer info on claims process and rights
+- [NAIC, Understanding the Claims Process](https://content.naic.org/consumer.htm), Consumer guidance on insurance claims and adjuster interactions
+- [FTC, Dealing With Insurance Companies After an Accident](https://consumer.ftc.gov/), Federal consumer protection guidance on insurance practices
+- [III, How to File an Insurance Claim](https://www.iii.org/), Industry-backed consumer info on claims process and rights
 
 *Photo: [Gratisography](https://www.pexels.com/@gratisography) via Pexels*
 
@@ -144,8 +144,8 @@ The fact that you're reading this means you're paying attention, and that alread
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

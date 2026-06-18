@@ -99,8 +99,8 @@ If there's one thing I'd want families to take away from all of this, it's that 
 
 ## Sources & References
 
-- [National Institute on Aging — Elder Abuse](https://www.nia.nih.gov/health/elder-abuse) — Defines types of elder abuse including neglect
-- [Administration for Community Living — Long-Term Care Ombudsman](https://acl.gov/programs/protecting-rights-and-preventing-abuse/long-term-care-ombudsman-program) — Federal data on nursing home complaints
+- [National Institute on Aging, Elder Abuse](https://www.nia.nih.gov/health/elder-abuse), Defines types of elder abuse including neglect
+- [Administration for Community Living, Long-Term Care Ombudsman](https://acl.gov/programs/protecting-rights-and-preventing-abuse/long-term-care-ombudsman-program), Federal data on nursing home complaints
 
 *Photo: [Matthias Zomer](https://www.pexels.com/@matthiaszomer) via Pexels*
 
@@ -114,6 +114,6 @@ If there's one thing I'd want families to take away from all of this, it's that 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

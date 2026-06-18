@@ -124,9 +124,9 @@ You don't have to be an expert in personal injury law to protect yourself here. 
 
 ## Sources & References
 
-- [NAIC — Understanding the Claims Process](https://content.naic.org/consumer.htm) — Consumer guidance on insurance claims and adjuster interactions
-- [FTC — Dealing with Insurance Companies After an Accident](https://consumer.ftc.gov/) — Federal consumer protection guidance on insurance matters
-- [Insurance Information Institute — Filing and Settling Claims](https://www.iii.org/insurance-basics) — Industry overview of claims process and policyholder rights
+- [NAIC, Understanding the Claims Process](https://content.naic.org/consumer.htm), Consumer guidance on insurance claims and adjuster interactions
+- [FTC, Dealing with Insurance Companies After an Accident](https://consumer.ftc.gov/), Federal consumer protection guidance on insurance matters
+- [Insurance Information Institute, Filing and Settling Claims](https://www.iii.org/insurance-basics), Industry overview of claims process and policyholder rights
 
 *Photo: [Edmond Dantès](https://www.pexels.com/@edmond-dantes) via Pexels*
 
@@ -140,8 +140,8 @@ You don't have to be an expert in personal injury law to protect yourself here. 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

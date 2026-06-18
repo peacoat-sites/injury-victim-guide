@@ -36,7 +36,7 @@ Here's the thing nobody tells you upfront: you're not necessarily out of options
   <div class="vm-body">
     <p class="vm-intro">Use these thresholds to evaluate whether your uninsured motorist coverage adequately protects you in a no-insurance collision.</p>
     <table><caption>Evaluating Your UM/UIM Protection</caption><thead><tr><th>Checkpoint</th><th>What to Verify</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Coverage existence</td><td>Does your policy include UM/UIM? (Not automatic in all states)</td><td>If missing and your state allows, add immediately</td></tr><tr><td>Bodily injury limits</td><td>Compare UM limits to your liability limits</td><td>If UM is lower than liability, request matching limits</td></tr><tr><td>Property damage inclusion</td><td>Does UM cover vehicle damage or only injuries?</td><td>If excluded, confirm you carry collision coverage</td></tr><tr><td>Stacking eligibility</td><td>Can you stack limits across multiple vehicles on your policy?</td><td>If allowed in your state and you have 2+ vehicles, opt in</td></tr><tr><td>Deductible amount</td><td>What out-of-pocket applies before UM pays?</td><td>If deductible exceeds $500, consider lowering it</td></tr><tr><td>Medical payments (MedPay)</td><td>Separate no-fault coverage for immediate medical bills</td><td>If absent, add $5,000–$10,000 MedPay as gap coverage</td></tr><tr><td>Underinsured vs. uninsured</td><td>Does your policy treat these identically or separately?</td><td>Confirm UIM triggers when at-fault coverage is insufficient, not just absent</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -146,8 +146,8 @@ Being hurt in an accident caused by an uninsured driver is stressful and unfair.
 
 ## Sources & References
 
-- [III — Uninsured Motorist Coverage](https://www.iii.org/article/understanding-your-auto-insurance) — Explains UM/UIM coverage types and how they work
-- [IRC — Uninsured Motorists Study](https://www.insurance-research.org/research-publications/uninsured-motorists) — Supports statistic that 1 in 8 drivers is uninsured
+- [III, Uninsured Motorist Coverage](https://www.iii.org/article/understanding-your-auto-insurance), Explains UM/UIM coverage types and how they work
+- [IRC, Uninsured Motorists Study](https://www.insurance-research.org/research-publications/uninsured-motorists), Supports statistic that 1 in 8 drivers is uninsured
 
 ---
 
@@ -155,8 +155,8 @@ Being hurt in an accident caused by an uninsured driver is stressful and unfair.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

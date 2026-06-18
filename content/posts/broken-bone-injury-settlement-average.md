@@ -113,9 +113,9 @@ The bottom line is that your broken bone claim is only as strong as the evidence
 
 ## Sources & References
 
-- [NAIC — Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — explains liability coverage and claims process basics
-- [III — How Auto Insurance Claims Work](https://www.iii.org/article/how-auto-insurance-claims-work) — covers settlement process and what insurers evaluate
-- [Nolo — Personal Injury Settlements](https://www.nolo.com/legal-encyclopedia/personal-injury) — explains factors affecting injury settlement values
+- [NAIC, Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm), explains liability coverage and claims process basics
+- [III, How Auto Insurance Claims Work](https://www.iii.org/article/how-auto-insurance-claims-work), covers settlement process and what insurers evaluate
+- [Nolo, Personal Injury Settlements](https://www.nolo.com/legal-encyclopedia/personal-injury), explains factors affecting injury settlement values
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
@@ -131,6 +131,6 @@ The bottom line is that your broken bone claim is only as strong as the evidence
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

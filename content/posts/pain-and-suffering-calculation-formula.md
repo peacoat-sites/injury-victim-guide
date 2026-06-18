@@ -139,8 +139,8 @@ Pain and suffering damages exist because the law recognizes that an injury isn't
 
 ## Sources & References
 
-- [Cornell Law School — Damages overview](https://www.law.cornell.edu/wex/damages) — defines economic vs non-economic damages in legal context
-- [CDC — Injury Prevention Overview](https://www.cdc.gov/injury/index.html) — supports prevalence of injuries causing lasting disability
+- [Cornell Law School, Damages overview](https://www.law.cornell.edu/wex/damages), defines economic vs non-economic damages in legal context
+- [CDC, Injury Prevention Overview](https://www.cdc.gov/injury/index.html), supports prevalence of injuries causing lasting disability
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
@@ -156,6 +156,6 @@ Pain and suffering damages exist because the law recognizes that an injury isn't
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

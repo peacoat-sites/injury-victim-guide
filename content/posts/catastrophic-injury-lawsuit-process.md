@@ -147,8 +147,8 @@ The system isn't designed to be easy for injured people. It's designed to be nav
 
 ## Sources & References
 
-- [CDC — Injury Prevention & Control](https://www.cdc.gov/injury/) — Supports TBI/SCI hospitalization statistics and injury data
-- [NSCISC — Spinal Cord Injury Facts and Figures](https://www.nscisc.uab.edu/) — Supports lifetime care cost estimates for spinal injuries
+- [CDC, Injury Prevention & Control](https://www.cdc.gov/injury/), Supports TBI/SCI hospitalization statistics and injury data
+- [NSCISC, Spinal Cord Injury Facts and Figures](https://www.nscisc.uab.edu/), Supports lifetime care cost estimates for spinal injuries
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -164,6 +164,6 @@ The system isn't designed to be easy for injured people. It's designed to be nav
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

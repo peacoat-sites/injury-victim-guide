@@ -34,7 +34,7 @@ You went to the doctor, you missed work, and your car is finally fixed. On paper
   <div class="vm-body">
     <p class="vm-intro">Insurance adjusters typically apply a multiplier to your total medical bills; this table shows common ranges based on injury severity and documentation strength.</p>
     <table><caption>Typical Pain &amp; Suffering Multipliers by Injury Category</caption><thead><tr><th>Injury Severity</th><th>Examples</th><th>Typical Multiplier Range</th><th>Key Documentation That Supports Higher End</th></tr></thead><tbody><tr><td>Minor / Soft Tissue</td><td>Whiplash resolving in 4–8 weeks, minor sprains, bruising</td><td>1× – 2× medical bills</td><td>Consistent treatment records, symptom diary showing daily limitations</td></tr><tr><td>Moderate</td><td>Herniated disc (non-surgical), fractures requiring casting, concussion with lingering symptoms</td><td>2× – 4× medical bills</td><td>Specialist referrals, documented work restrictions, mental health treatment records</td></tr><tr><td>Severe / Long-Term</td><td>Surgery required, permanent mobility loss, chronic pain diagnosis, documented PTSD</td><td>4× – 5× medical bills</td><td>Surgical records, vocational expert report, ongoing therapy notes, impact statements from family</td></tr><tr><td>Catastrophic / Life-Altering</td><td>Spinal cord injury, traumatic brain injury with lasting cognitive deficits, amputation</td><td>5× – 10×+ medical bills</td><td>Life-care plan, neuropsychological evaluation, economist report on future losses</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -117,8 +117,8 @@ There are specific things that can significantly reduce what you're owed. Knowin
 
 ## Sources & References
 
-- [NAIC — Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — explains auto insurance claims and coverage basics
-- [Cornell Law — Damages](https://www.law.cornell.edu/wex/damages) — legal definition of compensatory and non-economic damages
+- [NAIC, Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm), explains auto insurance claims and coverage basics
+- [Cornell Law, Damages](https://www.law.cornell.edu/wex/damages), legal definition of compensatory and non-economic damages
 
 *Photo: [Ann H](https://www.pexels.com/@ann-h-45017) via Pexels*
 
@@ -134,6 +134,6 @@ There are specific things that can significantly reduce what you're owed. Knowin
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

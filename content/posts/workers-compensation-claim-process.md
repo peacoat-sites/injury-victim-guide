@@ -101,8 +101,8 @@ If you're early in this process, slow down before you sign anything or give any 
 
 ## Sources & References
 
-- [OSHA — Injury and Illness Recordkeeping](https://www.osha.gov/recordkeeping) — Employer reporting obligations and worker rights after injury
-- [NOLO — Workers' Compensation Overview](https://www.nolo.com/legal-encyclopedia/workers-compensation) — State-by-state claim deadlines and process guidance
+- [OSHA, Injury and Illness Recordkeeping](https://www.osha.gov/recordkeeping), Employer reporting obligations and worker rights after injury
+- [NOLO, Workers' Compensation Overview](https://www.nolo.com/legal-encyclopedia/workers-compensation), State-by-state claim deadlines and process guidance
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
@@ -118,6 +118,6 @@ If you're early in this process, slow down before you sign anything or give any 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

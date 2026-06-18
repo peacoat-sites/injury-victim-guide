@@ -107,8 +107,8 @@ One consultation is not always enough. The first attorney who offers to take you
 
 ## Sources & References
 
-- [CFPB — Choosing an Attorney](https://www.consumerfinance.gov/consumer-tools/) — Consumer guidance on legal services and rights
-- [USA.gov — Legal Aid and Lawyer Referrals](https://www.usa.gov/legal-aid) — Official guide to finding legal representation
+- [CFPB, Choosing an Attorney](https://www.consumerfinance.gov/consumer-tools/), Consumer guidance on legal services and rights
+- [USA.gov, Legal Aid and Lawyer Referrals](https://www.usa.gov/legal-aid), Official guide to finding legal representation
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 
@@ -122,6 +122,6 @@ One consultation is not always enough. The first attorney who offers to take you
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

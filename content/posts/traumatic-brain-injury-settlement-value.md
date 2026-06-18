@@ -134,9 +134,9 @@ Living with a TBI while fighting an insurance claim is genuinely one of the hard
 
 ## Sources & References
 
-- [CDC — Traumatic Brain Injury and Concussion](https://www.cdc.gov/traumaticbraininjury/) — Authoritative health info on TBI symptoms, recovery, and long-term effects
-- [NINDS — Traumatic Brain Injury Information Page](https://www.ninds.nih.gov/health-information/disorders/traumatic-brain-injury) — NIH resource on TBI prognosis, treatment, and research
-- [BrainLine — MSKTC TBI Model Systems](https://www.brainline.org/) — Federally-funded resource on TBI rehabilitation and lifetime costs
+- [CDC, Traumatic Brain Injury and Concussion](https://www.cdc.gov/traumaticbraininjury/), Authoritative health info on TBI symptoms, recovery, and long-term effects
+- [NINDS, Traumatic Brain Injury Information Page](https://www.ninds.nih.gov/health-information/disorders/traumatic-brain-injury), NIH resource on TBI prognosis, treatment, and research
+- [BrainLine, MSKTC TBI Model Systems](https://www.brainline.org/), Federally-funded resource on TBI rehabilitation and lifetime costs
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
@@ -152,6 +152,6 @@ Living with a TBI while fighting an insurance claim is genuinely one of the hard
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
