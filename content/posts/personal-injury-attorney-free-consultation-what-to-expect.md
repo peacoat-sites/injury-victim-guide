@@ -25,7 +25,6 @@ author_title: "Legal Research Editor"
 author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
 ---
-
 Most articles about free consultations with personal injury attorneys spend 800 words telling you to "gather your documents and be honest." That's not useless advice, but it misses the part that actually matters: the consultation is a two-way interview, and most injured people walk in not realizing they're the ones doing the hiring.
 
 Let me fix that framing right now.
@@ -42,9 +41,7 @@ Those three factors are what every personal injury attorney is quietly running t
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Most people show up to a free consultation with a folder of papers they're not sure about and a lot of anxiety. Understandable. But a little preparation makes you look credible and helps the attorney assess your case faster, which benefits both of you.
+Most people show up with a folder of papers they're not sure about and a lot of anxiety. Understandable. But a little preparation makes you look credible and helps the attorney assess your case faster, which benefits both of you.
 
 Here's what to bring, ranked by usefulness:
 
@@ -86,16 +83,13 @@ And honestly, pay attention to how they answer. A lawyer who gives you a clear, 
 
 ## What Happens After the Consultation
 
-Two outcomes are possible. The attorney accepts your case or they don't.
+Two outcomes are possible: the attorney accepts your case or they don't.
 
-If they decline, ask why. You're entitled to that answer, and a good attorney will give it to you. Sometimes it's purely a numbers issue: your damages don't justify the litigation costs. Sometimes there's a real problem with liability. Sometimes it's not the right fit for their practice, and they'll refer you somewhere else. A declination is not necessarily a verdict on whether you were wronged.
+If they decline, ask why. You're entitled to that answer, and a good attorney will give it to you. Sometimes it's purely a numbers issue: your damages don't justify the litigation costs. Sometimes there's a real problem with liability. Sometimes it's not the right fit for their practice, and they'll refer you somewhere else. A declination isn't necessarily a verdict on whether you were wronged.
 
 If they accept, you'll sign a retainer agreement and a contingency fee agreement. Read both. Seriously. Pay attention to what happens to case costs if you fire the attorney mid-case, and whether the fee percentage changes if the case goes to trial. These aren't gotcha clauses, but you should understand what you're signing.
 
-One consultation is not always enough. The first attorney who offers to take your case isn't automatically the right one. Consult two or three if you have time and your statute of limitations allows it. Statutes of limitations, the legal deadline to file your case, vary by state and by the type of defendant (suing a government entity almost always has a shorter deadline), so don't take your time casually if your accident was recent.
-
----
-
+One consultation isn't always enough. The first attorney who offers to take your case isn't automatically the right one. Consult two or three if you have time and your statute of limitations allows it. Statutes of limitations, the legal deadline to file your case, vary by state and by the type of defendant (suing a government entity almost always has a shorter deadline), so don't take your time casually if your accident was recent.
 
 ## Helpful Resources
 
@@ -124,4 +118,3 @@ One consultation is not always enough. The first attorney who offers to take you
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

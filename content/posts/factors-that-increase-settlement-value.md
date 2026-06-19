@@ -25,7 +25,6 @@ author_title: "Auto Accident Writer"
 author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
 
 ---
-
 Picture this: two people are rear-ended at the same intersection, one week apart, by drivers who ran the same red light. Both suffer whiplash. Both miss two weeks of work. One settles for $18,000. The other walks away with $74,000. Same accident type, same injury label, wildly different outcomes. What's the difference? It almost never comes down to luck. It comes down to the specific factors that made one claim more compelling, more documented, and harder for the insurance company to minimize.
 
 I spent 12 years on the other side of that equation, evaluating claims for insurers and watching adjusters dissect every weakness in a file. Now I help injury victims understand what those adjusters are actually looking for. And the honest truth is that most people leave money on the table not because their injuries weren't serious, but because they didn't know which details carry the most weight.
@@ -34,11 +33,11 @@ I spent 12 years on the other side of that equation, evaluating claims for insur
 
 ## The Severity and Type of Your Injury Matters More Than You Think
 
-Not all injuries are created equal in the eyes of an insurance adjuster. Soft tissue injuries like sprains and strains are routinely discounted because they don't show up on imaging and are easier to dispute. Fractures, disc herniations, torn ligaments, and traumatic brain injuries are harder to argue with because they produce objective, measurable findings on X-rays, MRIs, and CT scans.
+Not all injuries are created equal in the eyes of an insurance adjuster. Soft tissue injuries like sprains and strains get routinely discounted because they don't show up on imaging and are easier to dispute. Fractures, disc herniations, torn ligaments, and traumatic brain injuries are harder to argue with, they produce objective, measurable findings on X-rays, MRIs, and CT scans.
 
 The distinction adjusters use internally is "objective" versus "subjective" findings. An MRI showing a herniated disc at L4-L5 is objective. Pain that you describe but that doesn't appear on any scan is subjective. Both are real and both matter, but objective findings dramatically increase settlement value because they're nearly impossible to deny.
 
-That said, severity alone doesn't seal the deal. A fracture that healed cleanly in eight weeks carries less weight than a herniated disc requiring ongoing injections or surgery. Permanent impairment ratings, assigned by physicians using standardized guides like the AMA Guides to the Evaluation of Permanent Impairment, can add substantial value to a claim. If your doctor has assigned even a 5% or 10% whole-body impairment rating, that number becomes a lever in negotiation.
+That said, severity alone doesn't seal the deal. A fracture that healed cleanly in eight weeks carries less weight than a herniated disc requiring ongoing injections or surgery. Permanent impairment ratings, assigned by physicians using standardized guides like the AMA Guides to the Evaluation of Permanent Impairment, can add substantial value to a claim. Even a 5% or 10% whole-body impairment rating becomes a lever in negotiation.
 
 If you've suffered specific spinal injuries in a crash, you can get a clearer picture of how those typically play out by reading about [back injury settlement amounts in car accidents](/back-injury-settlement-amounts-car-accident/) and [neck injury settlements from car accidents](/neck-injury-settlement-car-accident/).
 
@@ -48,11 +47,9 @@ If you've suffered specific spinal injuries in a crash, you can get a clearer pi
 
 > **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+In my experience, the single most controllable factor separating high-value settlements from low ones is documentation. Not the injury itself. The paper trail.
 
-
-In my experience, the single most controllable factor that separates high-value settlements from low ones is documentation. Not the injury itself. The paper trail.
-
-Here's what I mean. An adjuster doesn't feel your pain. They read a file. If that file contains thorough ER records, follow-up visit notes, physical therapy discharge summaries, imaging reports, prescription records, and a detailed journal of how your injuries affected your daily life, you're presenting a story they can't easily dismiss. If the file contains one ER visit and two physical therapy sessions that were stopped after two weeks, you're giving them everything they need to argue you weren't seriously hurt.
+Here's what I mean. An adjuster doesn't feel your pain. They read a file. If that file contains thorough ER records, follow-up visit notes, physical therapy discharge summaries, imaging reports, prescription records, and a detailed journal of how your injuries affected your daily life, you're presenting a story they can't easily dismiss. If the file contains one ER visit and two physical therapy sessions that stopped after two weeks, you're giving them everything they need to argue you weren't seriously hurt.
 
 The specific items that strengthen a file include:
 
@@ -127,9 +124,6 @@ Run your own situation against this table. Where are you strong? Where are the g
 
 ---
 
-
----
-
 Every injury claim is different, and the factors above don't all carry equal weight in every situation. What matters is understanding which levers exist so you can take deliberate steps to strengthen your position. If you're trying to get a baseline sense of where your case might fall, reviewing [average personal injury settlement amounts](/average-personal-injury-settlement-amounts/) can give you useful context, and speaking with a personal injury attorney for a free consultation will give you the specific picture your situation deserves. Knowledge is the first line of defense against a lowball offer.
 
 ## Helpful Resources
@@ -160,4 +154,3 @@ Every injury claim is different, and the factors above don't all carry equal wei
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

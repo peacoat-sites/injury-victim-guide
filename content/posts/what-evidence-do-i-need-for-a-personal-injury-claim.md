@@ -25,7 +25,6 @@ author_title: "Insurance Analyst"
 author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
 
 ---
-
 If you're reading this, you probably just went through something scary. Maybe a few days ago, maybe a few weeks. You're dealing with pain, medical appointments, missed work, and now someone's telling you that you need to gather "evidence" for your claim, and you have no idea where to start or what that even means in practice.
 
 I've been on both sides of this. Twelve years as an insurance adjuster, watching claims come across my desk. I know exactly what makes an adjuster take a claim seriously and what makes them put it in the "low value" pile before they've even read the whole file. The difference, almost every single time, comes down to evidence. Not the severity of the injury. The documentation.
@@ -51,8 +50,6 @@ Then go to the doctor. Even if you think you're fine. "I felt okay so I didn't s
 ## Medical Records: The Core of Your Case
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You might be wondering why medical documentation matters so much if the accident was clearly the other person's fault. Here's the thing: fault and damages are two separate questions. Even if liability (meaning who caused the accident) is completely clear, the insurance company still has to evaluate how much your injuries are worth. Medical records are how they do that.
 
@@ -102,11 +99,6 @@ Social media posts are evidence too, and not in your favor. I cannot tell you ho
 
 Recorded statements to the opposing insurance company are another land mine. You're generally not legally required to give a recorded statement to the other party's insurer. The [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on working with attorneys is worth reading before you agree to anything with the other side. Politely decline until you've spoken with a personal injury attorney, most of whom offer free consultations.
 
----
-
-
----
-
 You don't have to have everything perfectly organized to have a valid claim. But the people who come out of this process with fair compensation are almost always the ones who took documentation seriously from the beginning, even when they weren't sure it mattered.
 
 Start today. Write down what happened. Organize your medical records. Keep your receipts. Your future self will be grateful you did.
@@ -119,8 +111,7 @@ Start today. Write down what happened. Organize your medical records. Keep your 
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 
-
-*Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
+*Photo: [KATRIN BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
 
 ---
 
@@ -134,4 +125,3 @@ Start today. Write down what happened. Organize your medical records. Keep your 
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

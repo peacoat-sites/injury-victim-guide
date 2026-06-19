@@ -25,7 +25,6 @@ author_title: "Legal Research Editor"
 author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
 ---
-
 Most people who file personal injury claims picture a dramatic courtroom showdown. They imagine cross-examining the other driver, watching a jury deliberate, hearing a verdict read aloud. It almost never happens that way.
 
 The real number: roughly 95% of personal injury cases settle before trial. Some estimates put it closer to 96-97%. The Insurance Research Council has tracked this for decades, and the number barely moves. If you've been injured and you're trying to figure out what your case will actually look like, that statistic is the most important thing you can read today, because almost all the advice floating around about personal injury law is written with the 5% in mind.
@@ -36,9 +35,9 @@ The real number: roughly 95% of personal injury cases settle before trial. Some 
 
 Insurance companies are not in the business of gambling. They have actuaries and defense lawyers and decades of verdict data. They know, within a reasonable range, what a broken arm in a rear-end collision is worth in your county. Going to trial costs them money in legal fees, takes up staff time, and introduces the one variable they hate most: an unpredictable jury. Settling is almost always the economically rational choice for them, even when they believe they could win.
 
-On the plaintiff's side, the math looks similar. Trials are expensive. Your attorney fronts costs for depositions, expert witnesses, court reporters, medical record retrieval, and trial exhibits. A car accident trial with a spine injury can easily run $50,000-$100,000 in litigation costs before a verdict. Those costs get reimbursed from any award you receive, but if you lose, they don't disappear -- they come out of your pocket, or your attorney eats them depending on your fee agreement. Most injured people are not in a financial position to roll the dice like that.
+On the plaintiff's side, the math looks similar. Trials are expensive. Your attorney fronts costs for depositions, expert witnesses, court reporters, medical record retrieval, and trial exhibits. A car accident trial with a spine injury can easily run $50,000-$100,000 in litigation costs before a verdict. Those costs get reimbursed from any award you receive, but if you lose, they don't disappear -- they come out of your pocket, or your attorney eats them depending on your fee agreement. Most injured people can't roll the dice like that.
 
-And trials take time. In many metropolitan jurisdictions, a case filed today might not get a trial date for 2-3 years. Meanwhile, you might have mounting medical bills, lost income, and a life that's on hold. A settlement you can use today often beats a potentially larger verdict you might get in 2027.
+And then there's time. In many metropolitan jurisdictions, a case filed today might not get a trial date for 2-3 years. Meanwhile you've got mounting medical bills, lost income, and a life that's on hold. A settlement you can use today often beats a potentially larger verdict you might get in 2027.
 
 None of this means settlement is always the right answer. It means the system is structurally designed to push cases toward resolution.
 
@@ -48,19 +47,17 @@ None of this means settlement is always the right answer. It means the system is
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where it gets specific, because "your case might go to trial" is not very useful information without understanding why cases end up there.
 
 **Liability is genuinely disputed.** If both drivers claim the other ran the light, and there's no camera footage, no independent witness, and conflicting police reports, you may have a case an insurer won't settle reasonably. They'd rather let a jury sort it out than pay full value on a case they think they can win.
 
-**The damages are catastrophic.** Counterintuitively, very high-value cases sometimes go to trial because the settlement gap is too large to bridge. If you're asking for $3 million and the insurer's final offer is $800,000, neither side may blink. A traumatic brain injury case with disputed future care costs, or a wrongful death case with complicated economic damages, has a wider range of reasonable valuations than a soft-tissue injury case.
+**The damages are catastrophic.** Counterintuitively, very high-value cases sometimes go to trial because the settlement gap is too large to bridge. If you're asking for $3 million and the insurer's final offer is $800,000, neither side may budge. A traumatic brain injury case with disputed future care costs, or a wrongful death case with complicated economic damages, has a wider range of reasonable valuations than a soft-tissue injury case.
 
-**Policy limits are in play.** When your damages clearly exceed the at-fault party's insurance coverage, and there's a question of bad faith or excess exposure, the dynamics shift in ways that can push a case toward trial or at least toward the edge of it. Sometimes a trial threat is the only thing that produces a real number.
+**Policy limits are in play.** When your damages clearly exceed the at-fault party's insurance coverage, and there's a question of bad faith or excess exposure, the dynamics shift. Sometimes a trial threat is the only thing that produces a real number from the defendant.
 
 **The defendant is a corporation with a reputation to protect.** A company facing a premises liability case sometimes prefers to fight rather than pay, because settling signals an admission that their practices were unsafe. This is especially common in product liability cases.
 
-**Your attorney wants to go to trial.** Honestly, this matters more than people admit. Some personal injury lawyers rarely see the inside of a courtroom and aren't comfortable there. Others have built reputations as trial lawyers, and insurance adjusters know it. A defense adjuster will make a different opening offer to John Morgan than to a solo practitioner who's never tried a case. The reputation of your counsel affects settlement dynamics directly.
+**Your attorney wants to go to trial.** Honestly, this matters more than people admit. Some personal injury lawyers rarely see the inside of a courtroom and aren't comfortable there. Others have built reputations as trial lawyers, and insurance adjusters know it. A defense adjuster makes a different opening offer to John Morgan than to a solo practitioner who's never tried a case. The reputation of your counsel affects settlement dynamics directly.
 
 I watched this play out repeatedly from the other side of the table. When a case came in and the plaintiff's attorney had a strong trial record, the conversation in our office was different. Not "can we lowball this?" but "what do we actually owe here?"
 
@@ -72,7 +69,7 @@ Most settlements happen during or right after discovery -- the phase where both 
 
 Discovery does something interesting: it removes the information asymmetry. Before discovery, the insurer might be guessing at your future medical costs. You might not know the defendant's surveillance footage exists. Once both sides see everything, valuations tend to converge. The defense's expert says your future care costs $400,000. Your expert says $900,000. Suddenly there's a negotiating range.
 
-Mediation often happens after discovery closes, and mediation is where a huge percentage of "going to trial" cases actually resolve. A mediator, usually a retired judge or an experienced attorney, sits with both sides and nudges them toward a number. Mediation has about a 70-80% success rate in personal injury cases, according to the American Arbitration Association's data on civil disputes. So even when a case is "on track for trial," it frequently doesn't get there.
+Mediation often happens after discovery closes, and this is where a huge percentage of "going to trial" cases actually resolve. A mediator, usually a retired judge or an experienced attorney, sits with both sides and nudges them toward a number. Mediation has about a 70-80% success rate in personal injury cases, according to the American Arbitration Association's data on civil disputes. So even when a case is "on track for trial," it frequently doesn't get there.
 
 The cases that make it past mediation tend to be the ones where at least one side has fundamentally different beliefs about what a jury will do, or where there's a legal question that needs a court ruling to clarify. Both are rarer than the headlines suggest.
 
@@ -108,10 +105,7 @@ What's the probability of losing outright? An honest attorney will give you a nu
 
 Is the defendant's final offer in the range of reasonable outcomes, or is it an insult designed to see if you'll fold?
 
-One practical tool I recommend to anyone in active litigation: keep an organized file of your medical records, bills, out-of-pocket expenses, and a running journal of how your injury affects your daily life. It sounds tedious, but it directly affects your ability to document damages. Something like [this personal injury documentation journal on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal) (the site may earn a commission on purchases) is a simple way to stay organized, and it makes your attorney's job easier, which is your job easier.
-
----
-
+One practical tool I recommend to anyone in active litigation: keep an organized file of your medical records, bills, out-of-pocket expenses, and a running journal of how your injury affects your daily life. It sounds tedious, but it directly affects your ability to document damages. Something like [this personal injury documentation journal on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal) (the site may earn a commission on purchases) is a simple way to stay organized, and it makes your attorney's job easier, which in turn makes your job easier.
 
 ---
 
@@ -124,7 +118,6 @@ The 5% statistic isn't discouraging. It's clarifying. Your case will most likely
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-
 
 *Photo: [khezez  | خزاز](https://www.pexels.com/@khezez) via Pexels*
 
@@ -140,4 +133,3 @@ The 5% statistic isn't discouraging. It's clarifying. Your case will most likely
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

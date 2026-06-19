@@ -25,7 +25,6 @@ author_title: "Patient Advocate"
 author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
 
 ---
-
 You're sitting in the hospital, arm in a cast, still shaken from the crash. A claims adjuster calls within 48 hours, friendly voice, quick offer. You have no idea if the number they mention is fair, low, or embarrassingly insulting. Most people don't. And that gap in knowledge costs injury victims real money every single year.
 
 ## Why "Average Settlement" Numbers Can Be Misleading
@@ -41,8 +40,6 @@ What I can give you is a realistic breakdown by injury category, the factors tha
 ## Soft Tissue Injuries: The Most Common and Most Underestimated
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Whiplash, muscle strains, and ligament sprains account for a huge share of car accident claims. Insurers also fight them the hardest, because they don't show up cleanly on X-rays.
 
@@ -74,7 +71,7 @@ These are the cases where settlement amounts can climb into six or seven figures
 
 Mild TBI, which used to be called "just a concussion," can cause cognitive fog, light sensitivity, mood changes, and an inability to work at the same capacity. Moderate to severe TBI can permanently alter personality, cognitive function, and independence. Spinal cord injuries may mean lifetime care, home modifications, adaptive equipment, and loss of earning capacity across decades.
 
-What makes these cases complex is the gap between what you feel now and what you'll experience over a lifetime. Settlement means giving up your right to sue later. A $200,000 settlement might sound enormous until you realize that in-home care can cost $50,000 to $100,000 per year. This is not a category of injury to settle without legal representation and thorough expert evaluation.
+What makes these cases complex is the gap between what you feel now and what you'll experience over a lifetime. Settlement means giving up your right to sue later. A $200,000 settlement might sound enormous until you realize that in-home care can cost $50,000 to $100,000 per year. This isn't a category of injury to settle without legal representation and thorough expert evaluation.
 
 ## Burns, Scarring, and Disfigurement
 
@@ -111,7 +108,7 @@ If you're currently dealing with a car accident injury, these actions matter. Ta
 
 **2. Document everything.** Photographs of your injuries on day one, day three, and week two tell a story that words can't. Keep a daily pain journal. Write down how the injury affects your sleep, your ability to work, your relationships, your ability to lift your kids or walk the dog. These details build a pain and suffering narrative.
 
-If you want a structured way to do this, a medical records and injury documentation organizer can help you stay organized. Some clients I've worked with used simple claim workbooks to track every appointment, bill, and symptom. [These types of organizers are available on Amazon](https://www.amazon.com/s?k=personal+injury+claim+organizer) and can be a practical investment when you're trying to manage a complex situation. Disclosure: this site may earn a commission from qualifying purchases.
+If you want a structured way to do this, a medical records and injury documentation organizer can help you stay organized. Some clients I've worked with used simple claim workbooks to track every appointment, bill, and symptom. [These types of organizers are available on Amazon](https://www.amazon.com/s?k=personal+injury+claim+organizer) and can be a practical investment when you're trying to manage a complex situation. *As an Amazon Associate this site earns from qualifying purchases.*
 
 **3. Don't give a recorded statement without guidance.** You're not legally required to give one to the other driver's insurer. Your own insurer's policy may require cooperation, but you still have the right to understand what you're agreeing to.
 
@@ -120,11 +117,6 @@ If you want a structured way to do this, a medical records and injury documentat
 **5. Request all your medical records.** You have a right to them. Organize them chronologically. Know your treatment timeline better than anyone else does.
 
 **6. Understand your own insurance coverages.** Check for underinsured motorist coverage (UM/UIM), medical payments coverage (MedPay), and personal injury protection (PIP). These may pay regardless of fault and can be critical if the at-fault driver is underinsured.
-
----
-
-
----
 
 Every car accident claim is as individual as the person dealing with it. The injury type gives you a starting framework, but the details of your treatment, your documentation, your state's laws, and the available insurance coverage are what actually shape the outcome. Don't let urgency or an adjuster's friendly pressure push you into a decision before you understand what you're signing away. You get one shot at this. Make it count.
 
@@ -136,16 +128,9 @@ Every car accident claim is as individual as the person dealing with it. The inj
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 
-
 *Photo: [Ann H](https://www.pexels.com/@ann-h-45017) via Pexels*
 
----
-
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
----
-
----
 
 ## Recommended Resources
 
@@ -153,4 +138,3 @@ Every car accident claim is as individual as the person dealing with it. The inj
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

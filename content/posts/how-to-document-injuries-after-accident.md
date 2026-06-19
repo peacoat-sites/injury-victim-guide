@@ -25,7 +25,6 @@ author_title: "Insurance Analyst"
 author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
 
 ---
-
 You took the ibuprofen, iced your neck, and figured you'd feel better in a couple of days. Six weeks later you're still in pain, your medical bills are climbing, and the insurance adjuster is on the phone telling you there's "no documentation" of your injuries right after the accident. That scenario plays out thousands of times every year, and it costs injured people real money. Thorough, timely documentation is the single most controllable factor in what happens to your claim. Here's how to do it right.
 
 ## Why Documentation Is Your Most Powerful Tool
@@ -34,13 +33,11 @@ Insurance companies are not your friends. I spent 12 years on their side of the 
 
 The Insurance Information Institute notes that disputed liability and inadequate documentation are among the leading reasons personal injury claims settle for less than their potential value. That's not a scare tactic. It's just how the system works.
 
-Good documentation does two things at once. It creates a contemporaneous record, meaning evidence created close in time to the event, which courts and adjusters treat as more credible than memories formed months later. And it tells a story. A coherent, consistent, well-documented story is much harder to dismiss than a claimant saying "I was hurt and I hurt now."
+Good documentation does two things. It creates a contemporaneous record, meaning evidence made close in time to the event, which courts and adjusters treat as more credible than memories formed months later. And it tells a story. A coherent, consistent, well-documented story is much harder to dismiss than a claimant saying "I was hurt and I hurt now."
 
 ## What to Do in the First 24 Hours
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The first day matters more than almost any other window. Your memory is freshest, physical evidence still exists at the scene, and your initial medical records will anchor everything that follows.
 
@@ -50,11 +47,11 @@ The first day matters more than almost any other window. Your memory is freshest
 2. Photograph everything before anyone moves vehicles or clears debris. Take wide shots for context, then close-ups of damage, skid marks, road conditions, traffic signals, and any visible injuries on your body.
 3. Photograph the other driver's license, insurance card, and license plate. Get contact information for every witness.
 4. Note the time, weather, and lighting conditions. Write it down or voice-memo it on your phone right there.
-5. Refuse to say "I'm fine" to anyone. You may be in shock. Adrenaline genuinely masks pain.
+5. Don't say "I'm fine" to anyone. You may be in shock. Adrenaline genuinely masks pain.
 
 **After you leave the scene:**
 
-Get medical attention the same day, even if you feel okay. "I went to urgent care three hours after the accident" is a completely different sentence than "I went to the doctor four days later because the pain got worse." The second version gives an adjuster an opening to argue your injuries came from something else.
+Get medical attention the same day, even if you feel okay. "I went to urgent care three hours after the accident" is a completely different sentence than "I went to the doctor four days later because the pain got worse." The second version gives an adjuster an opening to argue your injuries came from something else entirely.
 
 Tell every medical provider exactly how the injury happened. The mechanism of injury, being the specific physical event that caused your harm, needs to be in your medical records from day one. "Patient reports neck pain following rear-end motor vehicle collision on [date]" is what you want to see in that chart note.
 
@@ -64,11 +61,11 @@ Think of this as building a case file, because that's exactly what it is. Start 
 
 **Medical records and bills:** Request copies of everything. Every visit, every imaging result, every prescription. You're entitled to your own records under HIPAA. Don't wait until you need them.
 
-**A daily injury journal:** This is the piece most injured people skip, and it's one of the most valuable things you can create. Write a short entry every day describing your pain level on a scale of 1-10, what activities you couldn't do, how you slept, and any emotional effects like anxiety or difficulty concentrating. Two sentences is fine. The point is consistent, dated documentation. If you want a structured format, injury documentation journals and medical records organizers designed for personal injury situations are available on Amazon and can make this much easier to maintain. *(Disclosure: this site may earn a small commission on purchases made through links here.)*
+**A daily injury journal:** Most injured people skip this. It's also one of the most valuable things you can create. Write a short entry every day describing your pain level on a scale of 1-10, what activities you couldn't do, how you slept, and any emotional effects like anxiety or difficulty concentrating. Two sentences is fine. The point is consistent, dated documentation. If you want a structured format, injury documentation journals and medical records organizers designed for personal injury situations are available on Amazon and can make this much easier to maintain. *(Disclosure: this site may earn a small commission on purchases made through links here.)*
 
 **Lost wage documentation:** If you missed work, get a letter from your employer on company letterhead stating your normal schedule, your hourly rate or salary, and the specific days you missed. If you're self-employed, gather tax returns, invoices, and a statement explaining how the injury affected your income.
 
-**Photographs over time:** Keep photographing visible injuries like bruises, cuts, and swelling every day until they heal. Bruises look worse on day three than day one. Day-three photos often matter.
+**Photographs over time:** Keep photographing visible injuries like bruises, cuts, and swelling every day until they heal. Bruises look worse on day three than day one. Day-three photos often matter most.
 
 **Out-of-pocket expense receipts:** Gas to medical appointments, over-the-counter medications, ice packs, a rental car, a rideshare because you couldn't drive. Every receipt goes in the folder.
 
@@ -97,7 +94,7 @@ Here's a practical look at what separates claims that struggle from claims that 
 | Accident report | No police report filed | Official police report on file |
 | Witness information | Not collected | Names, phones, addresses collected at scene |
 
-No single item on this list wins or loses a claim by itself. But the cumulative picture matters enormously. Nolo's personal injury resources describe documentation as the foundation of any claim's credibility, and that framing is exactly right. A well-organized file tells the adjuster, and if necessary a jury, that you took this seriously from the start.
+No single item on this list wins or loses a claim by itself. But the cumulative picture matters enormously. Nolo's personal injury resources describe documentation as the foundation of any claim's credibility, and that's exactly right. A well-organized file tells the adjuster, and if necessary a jury, that you took this seriously from the start.
 
 ## Common Mistakes That Hurt Your Claim Later
 
@@ -113,9 +110,6 @@ I've watched people do everything right at the accident scene and then quietly u
 
 ---
 
-
----
-
 The window for good documentation closes faster than most people expect. Records get lost. Memories fade. Surveillance footage gets overwritten. Physical evidence disappears. You don't have to turn into a legal expert overnight, but you do have to act deliberately and consistently from the moment the accident happens. The steps here aren't complicated. They just require showing up, writing things down, keeping receipts, and taking the whole thing seriously before anyone else decides for you that it isn't. That shift in mindset, from "I'm sure it'll be fine" to "I'm going to document this properly," is genuinely the most protective thing you can do for yourself.
 
 ## Helpful Resources
@@ -126,14 +120,11 @@ The window for good documentation closes faster than most people expect. Records
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
 - **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
----
 
 ---
 
@@ -143,4 +134,3 @@ The window for good documentation closes faster than most people expect. Records
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

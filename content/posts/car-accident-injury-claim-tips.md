@@ -25,7 +25,6 @@ author_title: "Auto Accident Writer"
 author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
 
 ---
-
 You walk away from a car accident feeling shaken but okay. You decline the ambulance. You figure it's just some stiffness. Three days later you can't turn your neck, your back is in spasms, and your doctor is talking about an MRI. Now the other driver's insurance company is calling you twice a day, friendly as can be, asking you to give a recorded statement. Here's the thing: that adjuster isn't your friend. I know, because I used to be that adjuster.
 
 Spending 12 years on the insurance side taught me exactly how claims get minimized, delayed, and denied. The good news is that most of those tactics only work when injured people don't know what they're up against. The tips in this article are designed to close that gap.
@@ -58,13 +57,11 @@ While you're recovering, document everything. Photograph your injuries daily, in
 
 > **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-The adjuster who calls you in the first 48 hours sounds helpful. They're calling to "get your side of the story." Do not give a recorded statement to the other driver's insurance company without first speaking to an attorney. This isn't paranoia. It's just understanding how the game is played.
+The adjuster who calls you in the first 48 hours sounds helpful. They're calling to "get your side of the story." Don't give a recorded statement to the other driver's insurance company without first speaking to an attorney. This isn't paranoia. It's just understanding how the game is played.
 
 Recorded statements are used to lock you into descriptions of your injuries before you fully know the extent of them. If you say "I feel pretty good, mostly just stiff," that quote follows you through the entire claim. Months later, when your MRI shows a herniated disc, the insurer points back to your own words.
 
-You are not legally required to give a recorded statement to the other driver's insurer. You do have obligations to your own insurer under your policy, but even there, an attorney can advise you on how to handle it. The American Bar Association's guidance on dealing with insurance companies after accidents reinforces that consulting with an attorney before making statements is a smart protective step, not an overreaction.
+You aren't legally required to give a recorded statement to the other driver's insurer. You do have obligations to your own insurer under your policy, but even there, an attorney can advise you on how to handle it. The American Bar Association's guidance on dealing with insurance companies after accidents reinforces that consulting with an attorney before making statements is a smart protective step, not an overreaction.
 
 Other early mistakes that hurt claims:
 
@@ -76,9 +73,9 @@ Other early mistakes that hurt claims:
 
 ## Understanding What Your Claim Is Actually Worth
 
-People often either overestimate or dramatically underestimate what their injury claim is worth. Both extremes cause problems.
+People overestimate or dramatically underestimate what their injury claim is worth. Both extremes cause problems.
 
-A car accident injury claim typically has two categories of damages: economic and non-economic.
+A car accident injury claim has two categories of damages: economic and non-economic.
 
 **Economic damages** are things with a dollar amount attached: medical bills, future medical costs, lost wages, out-of-pocket expenses like prescriptions and transportation to appointments. These are documented and calculated.
 
@@ -119,9 +116,9 @@ Understanding [how insurance companies calculate settlements](/how-insurance-com
 
 ## When to Get an Attorney and What That Looks Like
 
-A lot of people hesitate to contact an attorney because they think it's complicated, expensive, or confrontational. The reality is simpler than most people expect.
+A lot of people hesitate to contact an attorney because they think it's complicated, expensive, or confrontational. The reality is simpler.
 
-Personal injury attorneys almost universally work on contingency. That means no upfront cost. They take a percentage of the settlement, typically between 33 and 40 percent, only if they recover money for you. If they don't win, you don't owe attorney fees. Nolo's personal injury resources explain this model clearly and are worth reading if you want to understand the basics before any consultation.
+Personal injury attorneys almost universally work on contingency. No upfront cost. They take a percentage of the settlement, typically between 33 and 40 percent, only if they recover money for you. If they don't win, you don't owe attorney fees. Nolo's personal injury resources explain this model clearly and are worth reading if you want to understand the basics before any consultation.
 
 You should strongly consider consulting an attorney if:
 
@@ -132,9 +129,6 @@ You should strongly consider consulting an attorney if:
 - Your injuries have affected your ability to work
 
 If you've already received an offer that feels like an insult, our guide on [what to do when you receive a lowball settlement offer](/lowball-settlement-offer-what-to-do/) covers your options step by step.
-
----
-
 
 ---
 
@@ -165,4 +159,3 @@ The car accident itself lasted a few seconds. The claim process that follows can
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

@@ -25,7 +25,6 @@ author_title: "Workers Comp Writer"
 author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
 
 ---
-
 You're sitting in a hospital waiting room, your neck stiff, your car totaled, and your phone buzzing with calls from an insurance adjuster who somehow already knows about your accident. That adjuster is friendly, sympathetic, and asking you to give a recorded statement "just to get the claim moving." Here's what you need to know right now: that call is not on your side. It's the first move in a process that, if you're not careful, can leave you settling for far less than your injuries actually cost.
 
 Filing a car accident injury claim isn't complicated, but it has real landmines. I spent 12 years on the insurance side before switching to help injury victims, and I can tell you the mistakes people make in the first 48 hours often haunt them for months. This guide walks you through the entire process, from the scene of the crash to the day you deposit a settlement check.
@@ -34,7 +33,7 @@ Filing a car accident injury claim isn't complicated, but it has real landmines.
 
 ## What to Do at the Scene and in the First 24 Hours
 
-The decisions you make immediately after a crash shape everything that follows. Even if you feel fine, adrenaline masks pain, and injuries like whiplash or a herniated disc can take days to surface fully.
+The decisions you make immediately after a crash shape everything that follows. Even if you feel fine, adrenaline masks pain. Whiplash or a herniated disc can take days to show up.
 
 **At the scene, focus on four things:**
 
@@ -43,15 +42,13 @@ The decisions you make immediately after a crash shape everything that follows. 
 3. Collect information. The other driver's name, license, insurance card, and plate number. Contact info for every witness. Photos of vehicle damage, skid marks, road conditions, traffic signs, and your visible injuries.
 4. Don't say "I'm fine" or "it was probably my fault." You genuinely don't know either of those things yet.
 
-Within 24 hours, go to an emergency room or urgent care if you haven't already. The gap between an accident and your first medical visit is something insurers scrutinize closely. Every additional day of delay weakens the connection between the crash and your injuries in their eyes.
+Within 24 hours, go to an emergency room or urgent care if you haven't already. Insurers scrutinize the gap between an accident and your first medical visit closely. Every additional day of delay weakens the connection between the crash and your injuries in their eyes.
 
 ---
 
 ## Understanding Who You're Filing Against (and Why It Matters)
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This surprises a lot of people: you may need to file with multiple insurance companies depending on your state and the circumstances of the crash.
 
@@ -113,12 +110,9 @@ But if any of the following apply to your situation, get a consultation before d
 - You have a pre-existing condition the insurer is using to minimize your claim
 - The crash involved a commercial vehicle, rideshare car, or government vehicle
 
-Personal injury attorneys typically work on contingency, meaning they take a percentage of your settlement (often 33% before trial, more if the case goes to litigation) and charge nothing upfront. The question isn't just whether you can handle it yourself; it's whether having professional representation will result in a meaningfully higher outcome even after the attorney's fee.
+Personal injury attorneys typically work on contingency, meaning they take a percentage of your settlement (often 33% before trial, more if the case goes to litigation) and charge nothing upfront. The real question isn't whether you can handle it yourself; it's whether having professional representation will result in a meaningfully higher outcome even after the attorney's fee.
 
 For more context on what your claim might realistically be worth given your specific injury type, the overview at [car accident settlement amounts by injury type](/car-accident-settlement-amounts-by-injury-type/) gives useful reference points without creating false expectations.
-
----
-
 
 ---
 
@@ -141,12 +135,9 @@ The car accident injury claim process can feel overwhelming when you're also try
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

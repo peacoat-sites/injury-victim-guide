@@ -25,14 +25,11 @@ author_title: "Workers Comp Writer"
 author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
 
 ---
-
 You open the envelope, see the number, and your stomach drops. The insurance company is offering you $4,200 for an accident that totaled your car, sent you to the ER, and kept you out of work for three weeks. That number doesn't come close to covering your medical bills alone. Here's what most people don't realize: that first offer is almost never the final offer. Insurance companies count on you not knowing that.
 
 I'll be honest. When I spent 12 years on the other side of this, I watched adjusters send out lowball offers as standard procedure. Not because they were evil people, but because it worked. Most claimants accepted and moved on. The ones who pushed back almost always got more. That reality is what eventually pushed me to switch sides.
 
 So if you're sitting here with an offer that feels insulting, you're in the right place.
-
----
 
 ## Why the First Offer Is Almost Always Too Low
 
@@ -54,15 +51,11 @@ Low offers often happen because:
 
 Knowing *why* the offer is low helps you figure out which lever to pull.
 
----
-
 ## Step-by-Step: What to Do When the Offer Is Too Low
 
 > **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-This is the part most articles skip over. Let's be specific.
+Most articles skip the practical part. Let's get specific.
 
 **Step 1: Don't accept and don't say anything that sounds like acceptance.**
 The moment you cash a settlement check, in most states the claim is closed. Even saying "that might work" in a phone call can be used against you. If you need time, say: "I need to review this with my records before I respond."
@@ -75,21 +68,19 @@ Sit down and build a number from the ground up. This means:
 - Out-of-pocket costs like transportation to appointments, prescription co-pays, childcare you needed because of your injury
 - Non-economic damages (pain, suffering, loss of enjoyment of life)
 
-A personal injury claims workbook or medical expense journal can help you organize this systematically. [Amazon sells several claim organization tools](https://www.amazon.com/s?k=personal+injury+claim+organizer) that are worth the few dollars, and yes, this site may earn a small commission on purchases. But the organizing discipline alone is worth it regardless of which tool you use.
+A personal injury claims workbook or medical expense journal helps you organize this systematically. [Amazon sells several claim organization tools](https://www.amazon.com/s?k=personal+injury+claim+organizer) that cost a few dollars, and yes, this site may earn a small commission. But the organizing discipline alone is worth it.
 
 **Step 3: Get your complete medical records.**
 Don't assume the adjuster has everything. Request your records directly. If there's a gap between your accident date and your first doctor visit, or between visits, the insurer will use that gap to argue your injuries aren't serious.
 
 **Step 4: Write a formal demand letter.**
-This is a document that lays out your damages, your evidence, your liability argument, and the amount you're demanding. It signals that you're serious and organized. A well-constructed demand letter changes the adjuster's calculation entirely.
+This lays out your damages, your evidence, your liability argument, and the amount you're demanding. It signals that you're serious and organized. A well-constructed demand letter changes the adjuster's calculation entirely.
 
 **Step 5: Negotiate in writing.**
 Phone calls are slippery. Emails and letters create a record. When the adjuster makes a counteroffer, ask for it in writing. Respond in writing. Document every conversation with date, time, and what was said.
 
 **Step 6: Evaluate whether you need professional help.**
 More on this below, but if the gap between their offer and your actual losses is significant, a personal injury attorney consultation costs you nothing upfront.
-
----
 
 ## The Demand Letter: Your Most Powerful Tool
 
@@ -110,8 +101,6 @@ The demand should be higher than your actual target. Not absurdly high, but high
 
 One practical note: if your injuries are serious or your case is complicated, having an attorney draft or review this letter is worth considering. A letter on law firm letterhead sends a different signal than one you wrote yourself.
 
----
-
 ## When to Get an Attorney Involved (and What That Actually Looks Like)
 
 I've talked to people who refused to call an attorney because they assumed it meant a years-long lawsuit. It usually doesn't.
@@ -122,7 +111,7 @@ Attorneys who handle personal injury cases almost universally work on contingenc
 
 The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) shows that motor vehicle crashes and falls account for the majority of serious injury claims, and the medical costs involved can run into tens of thousands of dollars even for injuries that don't seem catastrophic. The gap between a lowball offer and fair compensation can easily be worth the cost of professional help.
 
-You should seriously consider consulting an attorney if:
+Consider consulting an attorney if:
 
 - Your injuries required surgery, hospitalization, or ongoing treatment
 - You've missed significant time from work
@@ -133,8 +122,6 @@ You should seriously consider consulting an attorney if:
 - Their offer doesn't cover your medical bills, let alone your other losses
 
 An initial consultation is almost always free. You're not committing to anything by making the call.
-
----
 
 ## Understanding Bad Faith Insurance Practices
 
@@ -156,9 +143,6 @@ You can also file a complaint with your state's Department of Insurance. It does
 
 ---
 
-
----
-
 Getting a lowball offer doesn't mean you're stuck with it. It means you're at the beginning of a negotiation, not the end of one. Document everything, know your real numbers, and don't confuse the insurer's first move with their final position. If the gap is large or the case is complicated, a free attorney consultation costs you nothing and might change everything. You have more leverage than that envelope suggested.
 
 ## Helpful Resources
@@ -168,7 +152,6 @@ Getting a lowball offer doesn't mean you're stuck with it. It means you're at th
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
 - **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
 
 ---
 
@@ -192,4 +175,3 @@ Getting a lowball offer doesn't mean you're stuck with it. It means you're at th
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

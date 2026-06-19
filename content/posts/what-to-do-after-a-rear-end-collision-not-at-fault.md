@@ -24,7 +24,6 @@ faqs:
   - q: "Should I post about the accident on social media?"
     a: "No. Not even a vague 'had a rough day, got rear-ended' post. Insurance adjusters and defense attorneys do look at social media, and anything you post, even something completely innocent, can be taken out of context or used to suggest your injuries aren't serious. Keep it offline until everything is fully resolved."
 ---
-
 Someone rear-ends you at a stoplight. You weren't doing anything wrong. And somehow, within 48 hours, you're drowning in phone calls from adjusters, confused about your own insurance, and second-guessing whether your neck pain is serious or just stress. I've watched this exact scenario spiral into real financial harm for people who did absolutely nothing wrong, and it happens because nobody tells you the rules before the game starts.
 
 Here's what I wish someone had told me during my 12 years on the other side of that phone call.
@@ -43,8 +42,6 @@ If anyone says they're hurt, including you, make sure that goes in the police re
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I'm going to be direct here: see a doctor within 24 to 48 hours, regardless of how you feel right now. Not because I want you to run up bills or manufacture injuries, but because the CDC's injury data consistently shows that whiplash and soft tissue injuries from low-speed collisions are among the most underreported and undertreated injuries in motor vehicle accidents. People tough it out, attribute the pain to stress, and then find themselves six weeks later with documented injury and a significant gap in their medical records that an insurer will absolutely use against them.
 
 Go to your primary care doctor, an urgent care clinic, or an ER if the pain is significant. Tell them you were in a rear-end collision. Tell them every symptom: headache, neck stiffness, shoulder pain, low back pain, cognitive fog, jaw pain (yes, TMJ issues can follow rear-end crashes). Get it all documented. That visit creates a medical record that links your symptoms to the crash date.
@@ -53,19 +50,19 @@ Keep a pain journal starting that night. Nothing fancy, a notes app on your phon
 
 ## Dealing With Insurance: Yours, Theirs, and the Difference
 
-This is where people make expensive mistakes, so let's slow down.
+This is where people make expensive mistakes.
 
 You'll need to report the accident to your own insurance company, even though you weren't at fault. I know that feels unfair, and people resist it because they're worried their rates will go up. Your rates should not increase for a not-at-fault accident, though policies vary by state and insurer. Check your policy or call your agent to confirm. But report it. Your own insurer needs to know, and if the at-fault driver's insurance drags its feet or denies the claim, you may end up using your own collision coverage or uninsured/underinsured motorist coverage to get your car fixed.
 
 The at-fault driver's insurance is called the "third-party" insurer. You'll file what's called a third-party liability claim with them. They represent the other driver, not you. Their adjuster's job is to settle your claim for as little money as possible. I say that without any bitterness, it's just the structural reality. I was that adjuster. The Insurance Information Institute's data shows that liability claims for bodily injury average well above $20,000 currently, which is exactly why carriers have financial incentive to minimize payouts.
 
-A few things to know before that first call with the third-party adjuster:
+Here's what to expect when the third-party adjuster calls:
 
 You are not required to give a recorded statement to the other driver's insurance company. They will often ask for one early, before you've fully assessed your injuries. You can decline, or delay, until you've spoken with a personal injury attorney. This is one of the single most important things I can tell you.
 
-Don't accept a quick settlement for your injuries before you know the full extent of them. Property damage (your car) can be handled quickly; that's fine. But injury claims are different. Once you sign a release, you're done. You can't go back and ask for more money because your herniated disc required physical therapy for six months.
+Don't accept a quick settlement for your injuries before you know the full extent of them. Property damage (your car) can be handled quickly, that's fine. But injury claims are different. Once you sign a release, you're done. You can't go back and ask for more money because your herniated disc required physical therapy for six months.
 
-Get your car assessed by a shop you choose, not just the one the insurer recommends. You can use their preferred shop; it may be faster. But you have the right to go elsewhere, and a second estimate costs you nothing.
+Get your car assessed by a shop you choose, not just the one the insurer recommends. You can use their preferred shop if you want to speed things up. But you have the right to go elsewhere, and a second estimate costs you nothing.
 
 ## What About Getting a Lawyer?
 
@@ -87,9 +84,6 @@ If you want a more structured system, there are [insurance claim workbooks and o
 
 ---
 
-
----
-
 The paperwork is annoying, the phone calls are exhausting, and the whole process can make you feel like you're being punished for someone else's mistake. That frustration is completely legitimate. But the people who slow down, document carefully, get medical care, and don't rush into a settlement are the ones who actually come out whole. That's the part worth protecting.
 
 ## Helpful Resources
@@ -99,7 +93,6 @@ The paperwork is annoying, the phone calls are exhausting, and the whole process
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 - **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
 - **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
 
 *Photo: [Mike Bird](https://www.pexels.com/@mikebirdy) via Pexels*
 
@@ -115,4 +108,3 @@ The paperwork is annoying, the phone calls are exhausting, and the whole process
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-
