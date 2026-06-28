@@ -33,6 +33,9 @@ I spent 12 years on the other side of that equation, evaluating claims for insur
 
 ## The Severity and Type of Your Injury Matters More Than You Think
 
+**"Insurance companies pay what you ask for"**: Most people believe settlement negotiations work like haggling at a flea market—throw out a number and insurance will meet you somewhere in the middle. But claims data tells a different story. According to the Insurance Research Council, claimants without legal representation receive settlements 3.5x lower than those with attorneys, and insurers reject or undervalue 40% of initial demands regardless of merit. The real determinant isn't your ask—it's documented evidence. Medical records, wage loss documentation, and expert testimony create the actual ceiling for settlement value. Insurance adjusters use proprietary algorithms tied to comparable cases, not goodwill. Asking for $500,000 without supporting evidence gets you the same response as asking for $50,000: a lowball counteroffer based on what they can defend in court.
+
+
 Not all injuries are created equal in the eyes of an insurance adjuster. Soft tissue injuries like sprains and strains get routinely discounted because they don't show up on imaging and are easier to dispute. Fractures, disc herniations, torn ligaments, and traumatic brain injuries are harder to argue with, they produce objective, measurable findings on X-rays, MRIs, and CT scans.
 
 The distinction adjusters use internally is "objective" versus "subjective" findings. An MRI showing a herniated disc at L4-L5 is objective. Pain that you describe but that doesn't appear on any scan is subjective. Both are real and both matter, but objective findings dramatically increase settlement value because they're nearly impossible to deny.
