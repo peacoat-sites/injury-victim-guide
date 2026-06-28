@@ -43,6 +43,9 @@ Spending 12 years on the insurance side taught me exactly how claims get minimiz
 
 ## What You Do in the First 72 Hours Matters More Than You Think
 
+**"Insurance companies automatically pay fair value for your claim": Most people assume that submitting an injury claim means the insurer will offer a reasonable settlement based on your damages. Reality check: The Insurance Research Council found that insurers deny or underpay roughly 30-40% of legitimate injury claims. Adjusters often lowball initial offers by 50-70% compared to actual medical costs and lost wages. Without documentation, negotiation, or legal representation, claimants accept settlements worth a fraction of their true damages—sometimes leaving tens of thousands on the table.**
+
+
 The first three days after a crash are the most critical window for building a strong injury claim. Most people spend that time resting, dealing with car repairs, and calling their family. Insurance companies spend it building a file that protects their client, not you.
 
 Start with medical care, even if you feel "okay." Adrenaline masks pain. Whiplash, soft tissue injuries, and even small brain bleeds can take 24 to 72 hours to fully announce themselves. If you wait a week to see a doctor, the insurer's defense is simple: the gap proves the accident didn't really hurt you. That argument works, and I've watched it save insurance companies significant money.
