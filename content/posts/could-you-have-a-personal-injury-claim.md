@@ -21,7 +21,7 @@ This 7-question quiz won't evaluate your case or promise any outcome. What it wi
 Whatever your answers were, keep this in mind: this is a thinking tool, nothing more. Real cases depend on facts, evidence, and state-by-state laws that shift constantly. If something here struck a chord, your actual next move is straightforward. Call a personal injury attorney in your area for a free consultation. Then read through our beginner's guides to understand how this stuff works before you do.
 
 ## Sources & References
-
+As of June 2026, 
 - [USA.gov, Legal Aid and Attorney Referrals](https://www.usa.gov/legal-aid), Supports finding free legal consultations
 - [Cornell Law School LII, Tort Law Overview](https://www.law.cornell.edu/wex/tort), Explains negligence and fault concepts in injury claims
 

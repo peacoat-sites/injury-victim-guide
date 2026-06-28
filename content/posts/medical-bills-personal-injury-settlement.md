@@ -32,7 +32,7 @@ Here's what I tell people who come to me in that position: the relationship betw
 I spent 12 years on the other side of this. I know how adjusters think about medical bills when they're calculating what to offer you. Let me walk you through what's actually happening.
 
 ## What "Paying Your Medical Bills" from a Settlement Actually Means
-
+As of June 2026, 
 Most people assume that a settlement check lands in their bank account and then they decide what to pay. That's not how it works.
 
 When you settle a personal injury claim, your attorney is typically required to hold the funds in a trust account and satisfy outstanding medical liens before releasing your portion. A lien is a legal claim on your settlement money by someone who provided you services on credit while your case was pending. Hospitals do this. Health insurers do this. Medicare and Medicaid absolutely do this.

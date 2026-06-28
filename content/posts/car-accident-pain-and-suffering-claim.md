@@ -38,7 +38,7 @@ You went to the doctor, you missed work, and your car is finally fixed. On paper
 </div>
 
 ## What "Pain and Suffering" Actually Means in a Car Accident Claim
-
+As of June 2026, 
 Let's clear something up right now. Pain and suffering isn't some vague legal bonus that lawyers slap onto a claim to pump up the number. It's an actual legal category of damages, and it covers two very different things that people constantly confuse.
 
 The first is physical pain: the actual bodily suffering from your injuries. That's the herniated disc agony, sure, but also the chronic soreness that sticks around for months, the headaches that ibuprofen won't touch, and the physical things you can't do anymore that you used to do without thinking.

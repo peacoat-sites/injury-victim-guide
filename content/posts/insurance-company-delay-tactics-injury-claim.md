@@ -30,7 +30,7 @@ You filed the claim weeks ago. The adjuster seemed friendly on the phone, promis
 I've seen this play out hundreds of times, from both sides of the table. As an adjuster, I was trained in exactly these techniques. Now I help people understand what's actually happening when a claim goes quiet, and more importantly, what you can do about it.
 
 ## Why Insurance Companies Delay: It's Not an Accident
-
+As of June 2026, 
 Let me be direct: delay is a business strategy. Insurance companies hold billions of dollars in reserves, and every day that money sits uninvested is a day it's not earning returns. But the more immediate reason is simpler. They're betting that you'll get desperate.
 
 When your bills are piling up and you're not sure how you'll cover next month's rent, a lowball settlement starts to look attractive. That $18,000 offer feels a lot more tempting at month four than it would have at week two, when you still had some financial cushion. The industry even has an informal term for this: "delay and diminish." Stall long enough, reduce the perceived value of the claim, and settle for less.

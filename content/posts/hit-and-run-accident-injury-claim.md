@@ -39,7 +39,7 @@ You're standing on the side of the road. Your car is crumpled. Your hands are sh
 </div>
 
 ## Why Hit-and-Run Claims Are Different (And Harder)
-
+As of June 2026, 
 In a normal car accident claim, you identify the at-fault driver, file with their liability insurance, and the process begins. A hit-and-run takes away that first step entirely. There's no policy number to call. No insurer on the other side to negotiate with.
 
 Everything changes.

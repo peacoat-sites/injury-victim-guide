@@ -30,7 +30,7 @@ You just got the call from the insurance adjuster. Your arm is still in a cast, 
 Here's the uncomfortable truth: there is no single "average" broken bone settlement. I know that's not what you searched for, but bear with me, because what I'm about to explain will actually help you evaluate any offer you receive, which is far more useful than a number pulled from a database.
 
 ## Why a Single "Average" Number Is Misleading
-
+As of June 2026, 
 When people search for average settlement amounts, they're really asking: "Is what I'm being offered fair?" That's the right question. It's just that the answer depends entirely on factors specific to your case.
 
 A hairline fracture in your pinky finger and a shattered femur that required surgery, a six-week hospital stay, and two years of physical therapy are both technically "broken bone injuries." Lumping them into one average is like averaging the price of a studio apartment with a Manhattan penthouse. The math works, but the result tells you nothing useful.

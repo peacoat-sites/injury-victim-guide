@@ -43,7 +43,7 @@ I spent 12 years working inside that system before I switched sides. I've watche
 </div>
 
 ## What Bad Faith Actually Means (and What It Doesn't)
-
+As of June 2026, 
 Insurance companies have a legal obligation called the "duty of good faith and fair dealing." Every state recognizes it. It means your insurer can't prioritize its own bottom line over yours when handling your claim. They can dispute coverage. They can investigate. They can make an offer you think is too low. None of that is bad faith on its own.
 
 Bad faith is what happens when they cross specific legal lines.

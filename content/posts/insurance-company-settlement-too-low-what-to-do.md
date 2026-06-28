@@ -32,7 +32,7 @@ I'll be honest. When I spent 12 years on the other side of this, I watched adjus
 So if you're sitting here with an offer that feels insulting, you're in the right place.
 
 ## Why the First Offer Is Almost Always Too Low
-
+As of June 2026, 
 Insurance companies are businesses. Their financial model depends on collecting premiums and minimizing payouts. That's not cynicism, it's just how the math works.
 
 What surprised me, even after years inside the system, was how formulaic the lowballing is. Adjusters are often working from software, most commonly a program called Colossus, that spits out a settlement range based on inputs. If your treating physician isn't in their "preferred" database, if your injury type doesn't match a pattern they recognize, or if your documentation has gaps, the software undervalues your claim before a human even reviews it.

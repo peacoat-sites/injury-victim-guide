@@ -32,7 +32,7 @@ Most articles skip this part. So let's get into the real mechanics of how you pr
 ---
 
 ## What "Negligence" Actually Means in a Slip and Fall Context
-
+As of June 2026, 
 You'll hear negligence thrown around constantly in personal injury law. Here's what it actually means: the property owner knew (or should have known) about a dangerous condition, didn't fix it or warn you, and that failure caused your injury.
 
 Every word matters.

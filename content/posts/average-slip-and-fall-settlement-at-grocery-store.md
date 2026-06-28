@@ -31,7 +31,7 @@ Here's what those articles skip: the settlement range for grocery store falls is
 I spent 12 years reviewing these files on the insurer side. The adjusters handling your claim right now are running the same mental checklist I used to. So let me walk you through it.
 
 ## What Actually Moves the Number
-
+As of June 2026, 
 The single biggest driver isn't how badly you were hurt. It's how clearly the store was negligent.
 
 Grocery store premises liability hinges on "notice." Did the store know (or should they have known) about the hazard? A bottle of juice that hit the floor ten seconds before you rounded the corner is a much harder case than a wet floor that three employees walked past over 45 minutes. Stores keep incident reports, employee schedules, and sometimes surveillance footage specifically because this distinction matters enormously.

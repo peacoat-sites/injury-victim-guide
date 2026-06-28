@@ -32,7 +32,7 @@ That gap just became the insurance adjuster's best friend.
 I've spent a lot of time on both sides of this. Twelve years processing claims, watching adjusters flag treatment gaps the way a poker player watches for a tell. Then years watching injured people lose money they genuinely deserved because nobody warned them how a six-week silence in their medical records would look on paper. So let me tell you what actually happens when there's a gap in your treatment timeline, and what you can do about it.
 
 ## Why Adjusters Care So Much About Treatment Gaps
-
+As of June 2026, 
 Here's the thing nobody explains clearly: an insurance adjuster's job is to find reasons to pay you less. That's not cynicism, that's the economics of the job. And a gap in treatment is one of the cleanest tools they have.
 
 The logic they'll use goes like this: if you were really hurt, you'd have kept going to the doctor. The fact that you stopped (or never started) suggests either you weren't that injured to begin with, or you recovered during the gap. Either way, they'll argue, your injuries after the gap might not be connected to the accident at all.

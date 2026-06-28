@@ -34,7 +34,7 @@ So let's talk about what medical records actually do in a personal injury case, 
 ---
 
 ## Why Medical Records Are the Spine of Your Case
-
+As of June 2026, 
 Here's what the insurance company's adjuster is actually doing when your claim comes in. They're looking for three things: proof that an injury happened, proof that the accident caused it (not some pre-existing condition), and proof of what treatment cost. Medical records are how you prove all three. Without them, your claim is just your word against theirs, and insurance companies are very comfortable with that situation because they know juries aren't.
 
 What most people don't realize is that adjusters are trained to look for gaps. A gap of more than two or three weeks between your accident date and your first medical visit gets flagged. A gap mid-treatment gets flagged. An inconsistency between what you told the ER doctor and what you told your orthopedist six weeks later gets flagged. These gaps don't automatically kill your case, but every one of them is something the other side will use to argue your injuries weren't serious, or weren't caused by their client.

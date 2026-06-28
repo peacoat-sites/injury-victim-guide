@@ -30,7 +30,7 @@ You filed a police report. You saw a doctor. You kept every receipt. And then li
 ---
 
 ## What "Statute of Limitations" Actually Means
-
+As of June 2026, 
 The statute of limitations is simply a legal deadline. It's the window of time the law gives you to file a lawsuit after you've been injured. Miss it, and the court will almost certainly dismiss your case. The defendant's attorney will file what's called a motion to dismiss, the judge will grant it, and that's the end of the road.
 
 Why do these deadlines exist? Courts and legislatures cite a few reasons. Evidence degrades. Witnesses forget details, surveillance footage gets deleted, skid marks fade. There's also a fairness argument: defendants shouldn't have to live under the threat of a lawsuit forever. Whether you agree with those reasons or not, the deadlines are real and they're enforced.

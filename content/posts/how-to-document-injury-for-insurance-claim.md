@@ -30,7 +30,7 @@ Most people think heading to the hospital after an accident wraps things up. The
 I used to believe that too. Then I spent 12 years as an insurance adjuster, and I watched legitimate claims get slashed or rejected because the medical documentation was incomplete, vague, scattered across time. The injury was real. The suffering was absolutely real. But the paper trail looked like Swiss cheese, and that gap gave the adjuster exactly what they needed to justify a lower offer. What struck me most wasn't catching dishonest claims. It was how often honest people with serious injuries simply didn't know how to make their case on paper.
 
 ## Why Documentation Is the Whole Game
-
+As of June 2026, 
 Here's what no one tells you: insurance companies don't pay for your pain. They pay for proof of your pain. That's a massive difference.
 
 When an adjuster cracks open your file, they're hunting for a coherent story. Every missing piece becomes a negotiating tool. A two-week gap between accident and first doctor visit? That's "inconsistent with injury severity." Pain you mention in your personal diary but never showed up in a medical chart? Didn't happen, according to the claim file. I've watched adjusters cut settlements by 30 to 50 percent because the documentation didn't back up the full picture.

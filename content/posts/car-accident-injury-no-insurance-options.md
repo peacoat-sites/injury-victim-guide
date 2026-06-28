@@ -40,7 +40,7 @@ Here's the thing nobody tells you upfront: you're not necessarily out of options
 </div>
 
 ## Understanding Your Immediate Position
-
+As of June 2026, 
 Before you panic, take a breath. The at-fault driver being uninsured doesn't erase their legal liability. They still caused the accident. They still owe you for your injuries and property damage. The hard part is that collecting from someone with no insurance works very differently than making a standard third-party claim.
 
 You're dealing with an "uninsured motorist" situation now, and your options depend on what's in your own policy, your state's laws, how badly you're hurt, and whether the at-fault driver has anything worth suing for. That last point matters more than people think.

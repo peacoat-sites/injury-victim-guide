@@ -32,7 +32,7 @@ Here's what actually matters, from someone who spent over a decade deciding whic
 Insurance companies have a playbook. Evidence fades, witnesses forget, and the longer a claimant waits to document things, the easier it is to minimize the payout. I've watched it happen hundreds of times. So let's talk about what you actually need, in the order it actually matters.
 
 ## The First 48 Hours Are Not Recoverable
-
+As of June 2026, 
 This is where most people blow it, and I say that with genuine empathy because nobody is thinking about evidence preservation when they're in pain, scared, or dealing with a wrecked car.
 
 The first 48 hours are irreplaceable. After that, the scene changes. Skid marks wash away. Surveillance footage gets recorded over (most commercial systems overwrite footage within 24-72 hours). Witnesses scatter. Your visible injuries start healing, which is good for your body and terrible for your claim.

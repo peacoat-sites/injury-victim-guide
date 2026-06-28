@@ -30,7 +30,7 @@ Most articles about free consultations with personal injury attorneys spend 800 
 Let me fix that framing right now.
 
 ## What a Free Consultation Actually Is (and Isn't)
-
+As of June 2026, 
 The attorney isn't doing you a favor. They're screening cases. Personal injury lawyers work on contingency, meaning they only get paid if you win, so every hour they spend in a consultation is an investment in a potential case. That's not cynical, it's just the business model, and understanding it changes how you walk into the room.
 
 A free consultation typically runs 30 to 60 minutes. Some firms do them by phone or video first, then bring you in if your case has legs. You won't get a diagnosis of your case in that meeting. You won't get a dollar figure. Anyone who gives you a specific settlement number in the first conversation is either guessing or selling. What you *will* get, from a good attorney, is a realistic read on liability (who's at fault), damages (what you've lost), and collectability (whether there's actually money to recover from the at-fault party).
