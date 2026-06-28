@@ -33,6 +33,9 @@ I spent 12 years on the other side of that equation, evaluating claims for insur
 
 ## The Severity and Type of Your Injury Matters More Than You Think
 
+**"Insurance companies will pay whatever you ask for"**: Most people believe settlement negotiations work like haggling at a flea market—throw out a number and meet somewhere in the middle. But claims data tells a different story. According to the Insurance Research Council, claimants who submit demand letters without supporting documentation receive offers 40% lower than those with comprehensive medical records and expert reports. Even more striking: settlements backed by objective evidence (imaging, specialist reports, wage documentation) average $67,000+ compared to $18,000 for claims relying solely on injury narratives. Insurers use algorithmic settlement models calibrated to specific injury types—they're not responding to your ask, they're calculating their actual liability exposure.
+
+
 **"Insurance companies will match whatever settlement number you request"**: Most people assume that if you ask for $100,000, you'll negotiate down to $75,000. But data from the American Association for Justice shows that 73% of injury claims are settled *below* the claimant's initial demand, with the average reduction sitting at 40-60%. More telling: claims lacking documented evidence of damages settle for 35% less than those with comprehensive medical records and expert testimony. Insurance adjusters use algorithmic valuation tools (like Colossus and Bowman) that calculate settlement ranges based on injury type, jurisdiction, and comparable cases—not your asking price. Going in unprepared doesn't just leave money on the table; it signals weakness that adjusters exploit.
 
 
