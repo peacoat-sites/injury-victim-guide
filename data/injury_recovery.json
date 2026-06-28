@@ -1,0 +1,50 @@
+{
+  "injuries": {
+    "Mild Concussion": {
+      "recovery_weeks": 2,
+      "restrictions": "No contact sports",
+      "medical_supervision": "Baseline"
+    },
+    "Ankle Sprain Grade 1": {
+      "recovery_weeks": 3,
+      "restrictions": "Avoid pivoting",
+      "medical_supervision": "Self-care"
+    },
+    "ACL Tear": {
+      "recovery_weeks": 52,
+      "restrictions": "Immobilization then PT",
+      "medical_supervision": "Orthopedist + PT"
+    },
+    "Fractured Wrist": {
+      "recovery_weeks": 8,
+      "restrictions": "Cast then therapy",
+      "medical_supervision": "Orthopedist"
+    },
+    "Moderate Concussion": {
+      "recovery_weeks": 4,
+      "restrictions": "Cognitive rest",
+      "medical_supervision": "Neurologist"
+    },
+    "Rotator Cuff Tear": {
+      "recovery_weeks": 24,
+      "restrictions": "Immobilization then PT",
+      "medical_supervision": "Orthopedist"
+    },
+    "Broken Collarbone": {
+      "recovery_weeks": 6,
+      "restrictions": "Sling then PT",
+      "medical_supervision": "Orthopedist"
+    },
+    "Torn Meniscus": {
+      "recovery_weeks": 16,
+      "restrictions": "Crutches then PT",
+      "medical_supervision": "Orthopedist"
+    }
+  },
+  "recovery_phases": {
+    "Acute": "Days 0-7: Inflammation, RICE protocol",
+    "Subacute": "Week 2-6: Begin gentle movement",
+    "Recovery": "Week 6+: Rehabilitation and strengthening",
+    "Return to Activity": "Variable by injury; gradual progression"
+  }
+}

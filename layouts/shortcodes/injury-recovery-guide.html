@@ -1,0 +1,12 @@
+<div class="injury-recovery-guide">
+{{- $data := site.Data.injury_recovery -}}
+<h3>Recovery Timeline by Injury Type</h3>
+<table style="width:100%; border-collapse:collapse; font-size:0.9em;">
+<thead><tr style="background:#f5f5f5;"><th style="padding:8px; border:1px solid #ddd;">Injury</th><th style="padding:8px; border:1px solid #ddd;">Recovery Time</th><th style="padding:8px; border:1px solid #ddd;">Restrictions</th><th style="padding:8px; border:1px solid #ddd;">Supervision</th></tr></thead>
+<tbody>
+{{- range $injury, $data := $data.injuries }}
+<tr><td style="padding:8px; border:1px solid #ddd;"><strong>{{ $injury }}</strong></td><td style="padding:8px; border:1px solid #ddd;">{{ $data.recovery_weeks }} weeks</td><td style="padding:8px; border:1px solid #ddd;">{{ $data.restrictions }}</td><td style="padding:8px; border:1px solid #ddd;">{{ $data.medical_supervision }}</td></tr>
+{{- end }}
+</tbody>
+</table>
+</div>
