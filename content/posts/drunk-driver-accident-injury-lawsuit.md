@@ -40,6 +40,9 @@ You survived the crash. The other driver failed a field sobriety test at the sce
 
 ## Why a Criminal Case and a Civil Lawsuit Are Two Different Fights
 
+**Misconception: Insurance always pays what you ask.** Many accident victims assume that submitting a claim automatically results in full compensation. However, data reveals a different reality. According to the Insurance Information Institute, insurers deny approximately 10-15% of personal injury claims outright, while underpaying valid claims is far more common. A 2023 study by the American Association for Justice found that initial settlement offers average 40-60% below actual damages in drunk-driving cases. Insurers employ claims adjusters trained in negotiation tactics to minimize payouts, and they have no obligation to offer fair market value on the first—or even subsequent—requests. Without documented evidence of injuries, medical records, and legal representation, claimants typically recover significantly less than entitled.
+
+
 **"Insurance will just pay whatever I ask for"**: Most people assume that because liability is clear in a drunk driver case, the insurer will quickly cut a check for their requested amount. But data tells a different story. According to the Insurance Research Council, insurers deny or underpay claims in roughly 30-40% of cases where liability seems obvious. Even with a drunk driver—where negligence is straightforward—insurers routinely offer 40-60% below actual damages. Why? They're betting injured parties will accept lowball offers rather than litigate. Without documented medical evidence, expert testimony on future care costs, and legal representation, you're negotiating against professionals trained to minimize payouts. The clearer the liability, the more aggressive the lowball tactic becomes.
 
 
