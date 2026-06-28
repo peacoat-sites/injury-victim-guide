@@ -31,6 +31,11 @@ Here's the scenario I keep coming back to. A woman gets rear-ended by a fully lo
 
 ## Why Truck Accident Cases Are Categorically Different
 
+**Misconception**: Most people think insurance companies always pay the full settlement amount requested. But the data shows insurers deny or reduce claims in a significant portion of cases.
+
+According to the National Association of Insurance Commissioners, insurers dispute approximately 20-30% of personal injury claims, with many resulting in settlements 40-60% below initial requests. A study by the American Association for Justice found that claimants who lack legal representation receive settlements averaging 3-5 times lower than those with attorney representation. Rather than automatic payment, insurers conduct extensive investigations, review medical records, and often challenge liability or injury severity claims before determining their final offer.
+
+
 Commercial trucking is a federally regulated industry. That changes everything about how liability works.
 
 Trucking companies operating in interstate commerce fall under Federal Motor Carrier Safety Administration (FMCSA) regulations. These rules govern hours of service (how long a driver can be on the road before mandatory rest), vehicle maintenance standards, cargo securement, driver qualification, drug and alcohol testing. When an accident happens, the question isn't just "who was driving negligently." It's "which regulations were violated, by whom, and how long has it been going on?"
