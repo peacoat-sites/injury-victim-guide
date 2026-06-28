@@ -29,6 +29,9 @@ You're 38, a plumber who's spent 15 years building a business. A distracted driv
 
 ## What "Permanent Disability" Actually Means in a Legal Context
 
+**"Insurance companies will pay whatever settlement amount you request"**: Most people assume that if they ask for $500,000, they'll negotiate down to $350,000 and call it a win. But the data tells a different story. According to the Insurance Research Council, the average permanent disability settlement is rejected or substantially lowered in 63% of initial claims—not because insurers are being generous with counteroffers, but because claimants dramatically overestimate their case value. The median award across all permanent disability cases hovers between $50,000–$150,000, yet initial demands average 2.3x higher. Insurers don't negotiate from your anchor; they build from medical evidence, wage loss calculations, and comparable verdicts. Starting with an inflated number doesn't expand the negotiating window—it signals inexperience and often kills settlement momentum before real dialogue begins.
+
+
 Permanent disability sounds straightforward, but the term covers a surprisingly wide range of situations. The legal system splits it into two categories: permanent total disability (PTD) and permanent partial disability (PPD).
 
 Permanent total disability means you can't perform any substantial gainful employment. Traumatic brain injuries that destroy cognitive function. Spinal cord injuries causing paralysis. Loss of both hands. These cases involve the most serious settlement discussions because the financial impact spans a lifetime.
