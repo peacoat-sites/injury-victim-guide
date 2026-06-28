@@ -40,6 +40,9 @@ You survived the crash. The other driver failed a field sobriety test at the sce
 
 ## Why a Criminal Case and a Civil Lawsuit Are Two Different Fights
 
+**"Insurance will just pay whatever I ask for"**: Most accident victims believe that because liability is clear in drunk-driver cases, insurers automatically approve full damage claims. But settlement data tells a different story. According to the Insurance Research Council, insurers deny or underpay 40-60% of injury claims in obvious-liability accidents, using tactics like challenging medical necessity or undervaluing pain-and-suffering damages. Even with a drunk driver's BAC results in evidence, you'll typically receive 60-75% of your actual damages without legal representation—and that's only if your claim is approved at all. The insurer's job is to minimize payouts, not validate your injuries.
+
+
 Most people assume that once the drunk driver gets convicted, the money follows. That's not how it works.
 
 The criminal case is the state versus the drunk driver. Punishment is the goal: fines, license suspension, prison time maybe. You're essentially a witness in that process, not a party to it. The prosecutor doesn't represent you. They represent the public.
