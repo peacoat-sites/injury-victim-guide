@@ -44,6 +44,9 @@ What I can do is walk you through what actually moves these numbers, what the in
 
 ## What "Soft Tissue Injury" Actually Covers (And Why It Matters for Your Claim)
 
+**"Insurance companies pay whatever you claim for soft tissue injuries"**: Most people assume that if they file a claim, they'll receive their requested amount. But data from the Insurance Information Institute shows that insurers deny or reduce soft tissue injury claims in approximately 40-60% of cases, particularly for whiplash and minor sprains. The average soft tissue claim is reduced by 30-50% from initial demands, with insurers citing insufficient medical documentation, gaps in treatment, or pre-existing conditions. Without imaging evidence (which soft tissue injuries rarely show) or consistent medical records, your claim becomes vulnerable to substantial reductions before it ever reaches settlement.
+
+
 Insurance adjusters love the phrase "soft tissue." It's a polite way of saying: no broken bones visible on your X-ray, so prepare to fight for every dollar.
 
 Soft tissue includes muscles, tendons, and ligaments. Whiplash is the most common diagnosis after a rear-end collision, but this category also covers sprains, strains, contusions, and rotator cuff tears. What surprised me when I was adjusting claims was how often a case that started as "simple whiplash" turned into something significantly more serious once the full diagnostic picture came in. An MRI catches things an X-ray misses entirely. That distinction alone can shift a claim's value dramatically.
