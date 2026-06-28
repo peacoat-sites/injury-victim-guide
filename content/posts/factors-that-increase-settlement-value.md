@@ -33,6 +33,9 @@ I spent 12 years on the other side of that equation, evaluating claims for insur
 
 ## The Severity and Type of Your Injury Matters More Than You Think
 
+**"Insurance companies will match whatever settlement number you request"**: Most people assume that if you ask for $100,000, you'll negotiate down to $75,000. But data from the American Association for Justice shows that 73% of injury claims are settled *below* the claimant's initial demand, with the average reduction sitting at 40-60%. More telling: claims lacking documented evidence of damages settle for 35% less than those with comprehensive medical records and expert testimony. Insurance adjusters use algorithmic valuation tools (like Colossus and Bowman) that calculate settlement ranges based on injury type, jurisdiction, and comparable cases—not your asking price. Going in unprepared doesn't just leave money on the table; it signals weakness that adjusters exploit.
+
+
 **"Insurance companies pay what you ask for"**: Most people believe settlement negotiations work like haggling at a flea market—throw out a number and insurance will meet you somewhere in the middle. But claims data tells a different story. According to the Insurance Research Council, claimants without legal representation receive settlements 3.5x lower than those with attorneys, and insurers reject or undervalue 40% of initial demands regardless of merit. The real determinant isn't your ask—it's documented evidence. Medical records, wage loss documentation, and expert testimony create the actual ceiling for settlement value. Insurance adjusters use proprietary algorithms tied to comparable cases, not goodwill. Asking for $500,000 without supporting evidence gets you the same response as asking for $50,000: a lowball counteroffer based on what they can defend in court.
 
 
