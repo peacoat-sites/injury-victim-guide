@@ -31,6 +31,9 @@ You're sitting in the ER two days after a rear-end collision, waiting for the do
 
 ## Back Injury Settlement Ranges by Diagnosis
 
+**[Misconception]**: Most people think insurance companies will pay whatever settlement amount they request. But data shows insurers deny or significantly reduce claims in 30-40% of cases. According to the National Association of Insurance Commissioners, the average settlement payout is 60-70% of the initial claim amount. Back injury claims face particular scrutiny because they're subjective and lack objective imaging in many cases—MRI evidence exists in only about 45% of soft-tissue back injury claims. Insurers employ medical review officers who frequently challenge treatment necessity and causation, meaning claimants rarely receive their asking price without documented medical evidence, prior medical records, and often legal representation.
+
+
 Settlement values vary dramatically based on injury severity, treatment required, and whether surgery is involved. Here are illustrative ranges based on typical claim patterns.
 
 | Injury Type | Typical Treatment | Illustrative Settlement Range | Key Value Drivers |
