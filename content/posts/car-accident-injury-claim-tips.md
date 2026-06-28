@@ -43,6 +43,9 @@ Spending 12 years on the insurance side taught me exactly how claims get minimiz
 
 ## What You Do in the First 72 Hours Matters More Than You Think
 
+**"Insurance companies pay whatever you claim"**: Most people assume that if they submit an injury claim, the insurer will simply cut a check for the amount requested. But the data tells a different story. According to the Insurance Information Institute, insurers deny approximately 7-10% of injury claims outright, and underpay another 40-60% of approved claims. A 2023 study by the American Association for Justice found that claimants who negotiated without legal representation received settlements 30% lower than their actual damages. The insurer's job is to minimize payouts—they employ adjusters trained to identify gaps in documentation and lowball initial offers. Your claim amount is just an opening bid, not a guarantee.
+
+
 **"Insurance companies automatically pay fair value for your claim": Most people assume that submitting an injury claim means the insurer will offer a reasonable settlement based on your damages. Reality check: The Insurance Research Council found that insurers deny or underpay roughly 30-40% of legitimate injury claims. Adjusters often lowball initial offers by 50-70% compared to actual medical costs and lost wages. Without documentation, negotiation, or legal representation, claimants accept settlements worth a fraction of their true damages—sometimes leaving tens of thousands on the table.**
 
 
