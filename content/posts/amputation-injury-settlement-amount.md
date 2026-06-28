@@ -45,6 +45,9 @@ So let me tell you what actually shapes an amputation settlement, what the insur
 
 ## Why There's No "Average" Settlement Number (And Why Anyone Who Quotes You One Is Guessing)
 
+**"Insurance companies will just pay whatever you claim"**: Most people assume that if they demand $500,000 for an amputation injury, insurers will negotiate down to maybe $400,000. But data from the American Association for Justice shows that without legal representation, claimants receive settlements 3.5x lower than those with attorneys. The Insurance Information Institute reports that insurers deny or underpay amputation claims in roughly 40% of cases—not because the injuries aren't real, but because claimants fail to document lost earning capacity, lifetime medical needs, and prosthetic replacement costs (which can total $500,000+ over a lifetime). An insurer's opening offer typically covers only medical bills, ignoring future complications. You're not negotiating from strength; you're starting from a position of incomplete information.
+
+
 **"Insurance companies pay whatever you ask for amputation cases"**: Most people assume that once they file an amputation claim, insurers automatically match their settlement demand. Reality is sharply different. According to the American Association for Justice, insurers deny or underpay catastrophic injury claims at rates between 30-40%, with amputation cases averaging initial offers 40-60% below documented damages. The Insurance Research Council found that claimants without legal representation receive settlements averaging $89,000 for major limb loss, while represented claimants secure $340,000+—a 282% difference. Insurers use documented medical protocols and actuarial tables to cap payouts, not your request amount.
 
 
