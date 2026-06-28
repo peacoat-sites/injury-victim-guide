@@ -130,6 +130,15 @@ A denied claim feels like a closed door, and I understand why people accept it a
 
 ## Recommended Resources
 
+## Sources
+
+- [Something like this personal injury documentation organizer on Amazon](https://www.amazon.com/s?k=personal+injury+claim+organizer)
+- [Insurance Information Institute](https://www.iii.org/)
+- [CDC's injury statistics](https://www.cdc.gov/injury/wisqars/)
+- [a medical diary organizer](https://www.amazon.com/s?k=medical+diary+journal+pain+log)
+- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

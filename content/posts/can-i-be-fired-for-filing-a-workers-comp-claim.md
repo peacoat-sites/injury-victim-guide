@@ -108,6 +108,15 @@ The system here genuinely does offer protection. What it doesn't offer is automa
 
 ## Recommended Resources
 
+## Sources
+
+- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
+- [This kind of injury and medical records organizer](https://www.amazon.com/s?k=injury+documentation+journal)
+- [CDC's injury statistics](https://www.cdc.gov/injury/wisqars/)
+- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
+- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.

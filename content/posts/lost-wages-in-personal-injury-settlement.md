@@ -163,6 +163,15 @@ Lost wages aren't just numbers on a spreadsheet. They're your rent, your groceri
 
 ## Recommended Resources
 
+## Sources
+
+- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
+- [injury and claim documentation workbooks are available on Amazon](https://www.amazon.com/s?k=personal+injury+claim+documentation+journal)
+- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
+- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
+- [Tara Winstead](https://www.pexels.com/@tara-winstead)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

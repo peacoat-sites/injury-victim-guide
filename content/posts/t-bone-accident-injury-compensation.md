@@ -131,6 +131,15 @@ You didn't choose to be in this situation. But you do get to choose how you resp
 
 ## Recommended Resources
 
+## Sources
+
+- [CDC's injury data](https://www.cdc.gov/injury/wisqars/)
+- [American Bar Association's public education resources](https://www.americanbar.org/groups/public_education/)
+- [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
+- [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
+- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

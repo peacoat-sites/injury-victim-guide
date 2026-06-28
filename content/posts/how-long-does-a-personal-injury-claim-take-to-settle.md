@@ -113,6 +113,15 @@ The timeline matters. So does not making major financial decisions, like accepti
 
 ## Recommended Resources
 
+## Sources
+
+- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
+- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
+- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

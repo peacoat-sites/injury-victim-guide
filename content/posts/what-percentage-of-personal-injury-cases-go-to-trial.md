@@ -129,6 +129,15 @@ The 5% statistic isn't discouraging. It's clarifying. Your case will most likely
 
 ## Recommended Resources
 
+## Sources
+
+- [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
+- [The CDC's injury and violence cost data](https://www.cdc.gov/injury/wisqars/)
+- [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
+- [this personal injury documentation journal on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal)
+- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

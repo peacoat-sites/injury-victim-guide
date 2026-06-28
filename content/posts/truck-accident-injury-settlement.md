@@ -124,6 +124,15 @@ The woman in that opening scenario isn't hypothetical. I've met versions of her 
 
 ## Recommended Resources
 
+## Sources
+
+- [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
+- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
+- [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
+- [Bijen Amatya](https://www.pexels.com/@bijenamatya)
+- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

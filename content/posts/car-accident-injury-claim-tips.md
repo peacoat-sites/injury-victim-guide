@@ -155,6 +155,15 @@ The car accident itself lasted a few seconds. The claim process that follows can
 
 ## Recommended Resources
 
+## Sources
+
+- [injury documentation journals and medical records organizers on Amazon](https://www.amazon.com/s?k=injury+documentation+journal)
+- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
+- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
+- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
+- [Artyom Kulakov](https://www.pexels.com/@artyom-kulakov-1190754)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

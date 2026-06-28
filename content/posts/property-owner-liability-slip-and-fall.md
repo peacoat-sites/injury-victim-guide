@@ -114,6 +114,15 @@ The gap between "I was injured on someone else's property" and "I have a strong 
 
 ## Recommended Resources
 
+## Sources
+
+- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
+- [this injury documentation workbook](https://www.amazon.com/s?k=injury+documentation+journal)
+- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
+- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
+- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

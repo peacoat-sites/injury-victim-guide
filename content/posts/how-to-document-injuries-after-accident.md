@@ -130,6 +130,15 @@ The window for good documentation closes faster than most people expect. Records
 
 ## Recommended Resources
 
+## Sources
+
+- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
+- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
+- [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

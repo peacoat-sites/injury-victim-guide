@@ -135,6 +135,15 @@ The negotiation process feels unequal because it is, at least at the start. The 
 
 ## Recommended Resources
 
+## Sources
+
+- [acknowledges that settlement negotiations are expected in personal injury claims](https://www.iii.org/)
+- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
+- [injury and symptom tracking workbook](https://www.amazon.com/s?k=injury+symptom+journal)
+- [make clear that claimants have the right to negotiate and are not obligated to accept any settlement offer](https://www.americanbar.org/groups/public_education/)
+- [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

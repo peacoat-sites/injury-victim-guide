@@ -145,6 +145,15 @@ The window to act after a car accident injury is real, finite, and indifferent t
 
 ## Recommended Resources
 
+## Sources
+
+- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
+- [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/)
+- [The CDC's data on injury trends](https://www.cdc.gov/injury/wisqars/)
+- [medical records and claims organizer](https://www.amazon.com/s?k=medical+records+organizer)
+- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

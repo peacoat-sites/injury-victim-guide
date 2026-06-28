@@ -119,6 +119,15 @@ You have more time, more options, and more leverage than the insurance company w
 
 ## Recommended Resources
 
+## Sources
+
+- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
+- [According to CDC injury data](https://www.cdc.gov/injury/wisqars/)
+- [Medical Injury Journal](https://www.amazon.com/s?k=medical+injury+journal)
+- [American Bar Association's guidance on workers' compensation disputes](https://www.americanbar.org/groups/public_education/)
+- [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.

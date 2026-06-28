@@ -127,6 +127,15 @@ The honest truth is that medical malpractice settlement amounts are less about j
 
 ## Recommended Resources
 
+## Sources
+
+- [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
+- [American Bar Association's guidance on medical malpractice](https://www.americanbar.org/groups/public_education/)
+- [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
+- [personal health tracker](https://www.amazon.com/s?k=medical+journal+health+tracker)
+- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.

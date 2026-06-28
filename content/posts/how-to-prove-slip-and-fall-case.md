@@ -133,6 +133,15 @@ Slip and fall cases are genuinely hard to prove well. But they're winnable when 
 
 ## Recommended Resources
 
+## Sources
+
+- [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
+- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
+- [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
+- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
+- [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
