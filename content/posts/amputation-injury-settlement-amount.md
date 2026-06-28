@@ -45,6 +45,9 @@ So let me tell you what actually shapes an amputation settlement, what the insur
 
 ## Why There's No "Average" Settlement Number (And Why Anyone Who Quotes You One Is Guessing)
 
+**"Insurance companies pay whatever you ask for amputation cases"**: Most people assume that once they file an amputation claim, insurers automatically match their settlement demand. Reality is sharply different. According to the American Association for Justice, insurers deny or underpay catastrophic injury claims at rates between 30-40%, with amputation cases averaging initial offers 40-60% below documented damages. The Insurance Research Council found that claimants without legal representation receive settlements averaging $89,000 for major limb loss, while represented claimants secure $340,000+—a 282% difference. Insurers use documented medical protocols and actuarial tables to cap payouts, not your request amount.
+
+
 You'll find articles claiming amputation settlements average anywhere from $500,000 to over $2 million. Those ranges aren't wrong. They're just nearly useless for your situation.
 
 The variation is genuinely enormous. A 28-year-old electrician who loses a dominant hand in a workplace accident has a completely different claim than a 67-year-old retiree who loses a toe to a defective product. Both are amputations. The settlement spread between them could be ten to one.
