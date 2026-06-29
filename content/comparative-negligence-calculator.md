@@ -16,6 +16,7 @@ faqs:
     a: "Most personal injury attorneys charge a contingency fee of 33% (one-third) of the gross recovery, though this can range from 25% to 40% depending on complexity, trial involvement, and the state. You pay nothing unless you win."
   - q: "What is the difference between economic and non-economic damages?"
     a: "Economic damages are objectively calculable: medical bills, lost wages, future medical care, and property damage. Non-economic damages include pain and suffering, emotional distress, loss of enjoyment of life, and loss of consortium. Some states cap non-economic damages in certain case types."
+image: "https://images.pexels.com/photos/7491011/pexels-photo-7491011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 After an injury caused by someone else's negligence, one of the first questions you probably have is: *how much can I actually recover?* The answer depends heavily on which state you live in — because each state has its own rule about what happens when you share some of the blame.

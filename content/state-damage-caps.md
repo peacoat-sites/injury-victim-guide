@@ -15,6 +15,7 @@ faqs:
     a: "Yes. Courts in several states — including Illinois, Florida, Georgia, Montana, and Washington — have struck down damage caps as violations of the state constitution's right to trial by jury or equal protection guarantees."
   - q: "Do damage caps affect my settlement?"
     a: "Caps directly limit jury awards at trial. In settlement negotiations, they also affect leverage — if a defendant knows a cap limits a plaintiff's maximum trial recovery, they negotiate accordingly."
+image: "https://images.pexels.com/photos/5909817/pexels-photo-5909817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 One of the most consequential but least-understood aspects of personal injury law is the patchwork of state laws limiting how much money a jury can award for pain, suffering, and other non-economic harms. These caps directly affect what your case is worth — particularly if your injuries are severe and your non-economic losses exceed the statutory ceiling.

@@ -16,6 +16,7 @@ faqs:
     a: "Gaps in medical treatment can complicate your claim because the defense may argue your injuries were not serious or were caused by something else. See a doctor as soon as possible, even if you feel you can manage the pain. Medical documentation is critical."
   - q: "How long does a personal injury case take?"
     a: "Simple cases with clear liability and limited damages may settle in a few months. Complex cases — especially those involving serious injuries, disputed liability, or litigation — can take one to three years or longer. Your attorney can give you a realistic timeline based on your facts."
+image: "https://images.pexels.com/photos/15068316/pexels-photo-15068316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 If you have been hurt in an accident, it is natural to wonder whether you have a viable personal injury claim. The legal system can feel overwhelming, especially when you are focused on recovering. This self-evaluation tool is designed to help you think through the key factors that attorneys consider when evaluating a case.

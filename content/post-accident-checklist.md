@@ -5,6 +5,7 @@ description: "A comprehensive, printable checklist of evidence to gather and ste
 categories: ["After an Accident"]
 author: "Marcus Webb"
 slug: "post-accident-checklist"
+image: "https://images.pexels.com/photos/11627918/pexels-photo-11627918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 The moments and days immediately after a car accident are chaotic. Adrenaline is high, injuries may not be immediately apparent, and insurance companies begin working on their defense the moment they learn of a crash. What you do in this window can significantly affect your ability to recover compensation for your injuries, vehicle damage, and other losses.
