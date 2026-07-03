@@ -14,15 +14,15 @@ slug: "medical-malpractice-claim-process"
 affiliate_disclosure: true
 faqs:
  - q: "How long does a medical malpractice case take?"
- a: "Most cases that proceed through full litigation take two to five years from filing to resolution. Simpler cases that settle early can sometimes resolve in under a year, but that's not common for contested malpractice claims where liability is disputed."
+   a: "Most cases that proceed through full litigation take two to five years from filing to resolution. Simpler cases that settle early can sometimes resolve in under a year, but that's not common for contested malpractice claims where liability is disputed."
  - q: "Does every bad medical outcome qualify as malpractice?"
- a: "No. A bad outcome only becomes a potential malpractice claim if a provider deviated from the accepted standard of care and that deviation directly caused your harm. Complications, unsuccessful treatments, and unforeseeable outcomes generally don't meet that standard even if they're serious."
+   a: "No. A bad outcome only becomes a potential malpractice claim if a provider deviated from the accepted standard of care and that deviation directly caused your harm. Complications, unsuccessful treatments, and unforeseeable outcomes generally don't meet that standard even if they're serious."
  - q: "Do I need a lawyer to file a medical malpractice claim?"
- a: "Technically no, but practically speaking, almost everyone needs one. Malpractice cases require medical experts, detailed legal filings, and deep familiarity with procedural rules that vary by state. Most legitimate claims simply can't be pursued effectively without an attorney."
+   a: "Technically no, but practically speaking, almost everyone needs one. Malpractice cases require medical experts, detailed legal filings, and deep familiarity with procedural rules that vary by state. Most legitimate claims simply can't be pursued effectively without an attorney."
  - q: "What if I can't afford the upfront costs?"
- a: "Most malpractice attorneys work on contingency, meaning you pay nothing unless you recover. They typically advance the costs for experts, filing fees, and depositions, then recoup those costs from any settlement or verdict. Make sure you understand your fee agreement clearly, including what happens to case costs if you lose."
+   a: "Most malpractice attorneys work on contingency, meaning you pay nothing unless you recover. They typically advance the costs for experts, filing fees, and depositions, then recoup those costs from any settlement or verdict. Make sure you understand your fee agreement clearly, including what happens to case costs if you lose."
  - q: "Can I sue a hospital instead of just the individual doctor?"
- a: "Sometimes, yes. If the negligent provider was an employee of the hospital (not an independent contractor), or if the hospital's own policies or procedures contributed to the harm, the hospital can be named as a defendant. Some hospitals try to characterize their providers as independent contractors specifically to limit liability, so this question often requires careful investigation."
+   a: "Sometimes, yes. If the negligent provider was an employee of the hospital (not an independent contractor), or if the hospital's own policies or procedures contributed to the harm, the hospital can be named as a defendant. Some hospitals try to characterize their providers as independent contractors specifically to limit liability, so this question often requires careful investigation."
 ---
 Most people think medical malpractice works like this: something goes wrong, you call a lawyer, the hospital apologizes and cuts a check. I spent 12 years reviewing claims on the insurance side, and I can tell you that almost never happens. Medical malpractice is one of the most contested, drawn-out, brutally difficult categories of personal injury law in the country. The average case that actually reaches trial takes three to five years. Many never do.
 

@@ -14,15 +14,15 @@ slug: "how-to-negotiate-a-higher-injury-settlement-with-insurance"
 affiliate_disclosure: true
 faqs:
  - q: "How long should I wait before accepting an injury settlement?"
- a: "Don't accept any settlement until you've reached what's called 'maximum medical improvement,' meaning your doctors have a clear picture of whether your injuries are permanent or ongoing. Settling before that point locks you into a number that may not cover future care, and there's no reopening a signed release."
+   a: "Don't accept any settlement until you've reached what's called 'maximum medical improvement,' meaning your doctors have a clear picture of whether your injuries are permanent or ongoing. Settling before that point locks you into a number that may not cover future care, and there's no reopening a signed release."
  - q: "Can I negotiate a settlement without hiring an attorney?"
- a: "Yes, especially on smaller claims with clear liability and limited injuries. The risk is that you don't know what you don't know. For claims involving serious injury, surgery, lost income, or disputed fault, the data consistently shows represented claimants do better financially even after fees."
+   a: "Yes, especially on smaller claims with clear liability and limited injuries. The risk is that you don't know what you don't know. For claims involving serious injury, surgery, lost income, or disputed fault, the data consistently shows represented claimants do better financially even after fees."
  - q: "What if the insurance company stops responding to me?"
- a: "Send a written letter (not just email) to the adjuster and their supervisor, documenting the lack of response and setting a specific deadline of 14 days for a substantive response. If that produces nothing, that's a strong signal that you need an attorney or a formal demand letter on legal letterhead."
+   a: "Send a written letter (not just email) to the adjuster and their supervisor, documenting the lack of response and setting a specific deadline of 14 days for a substantive response. If that produces nothing, that's a strong signal that you need an attorney or a formal demand letter on legal letterhead."
  - q: "Does it hurt my case to ask for a high demand number?"
- a: "No. A high but documented demand is standard negotiating practice. What can hurt your case is an undocumented or wildly unsupported demand that makes you look uninformed. As long as you can show the math behind your number, opening high gives you room to negotiate to a fair outcome."
+   a: "No. A high but documented demand is standard negotiating practice. What can hurt your case is an undocumented or wildly unsupported demand that makes you look uninformed. As long as you can show the math behind your number, opening high gives you room to negotiate to a fair outcome."
  - q: "What is a 'bad faith' insurance claim and does it apply to me?"
- a: "Bad faith is when an insurer unreasonably denies or delays a claim, or offers a settlement they know is far below fair value without justification. It's a legitimate legal theory, but it's fact-specific and typically requires an attorney to pursue. If an insurer is ignoring clear liability, stonewalling documented claims, or refusing to explain their low offer in writing, it's worth raising the question with an attorney."
+   a: "Bad faith is when an insurer unreasonably denies or delays a claim, or offers a settlement they know is far below fair value without justification. It's a legitimate legal theory, but it's fact-specific and typically requires an attorney to pursue. If an insurer is ignoring clear liability, stonewalling documented claims, or refusing to explain their low offer in writing, it's worth raising the question with an attorney."
 ---
 
 Most advice about negotiating injury settlements boils down to "be persistent and document everything." That's not wrong, exactly. It's just about as useful as telling someone to "drive carefully" before a road trip. The real game is understanding how adjusters are trained to think, because once you see their playbook, countering it isn't that hard.

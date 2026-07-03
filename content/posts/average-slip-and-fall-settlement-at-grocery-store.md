@@ -14,15 +14,15 @@ slug: "average-slip-and-fall-settlement-at-grocery-store"
 affiliate_disclosure: true
 faqs:
  - q: "How long does a grocery store slip and fall settlement take?"
- a: "Simple cases with clear liability and resolved injuries can settle in three to six months. Cases involving ongoing treatment, disputed liability, or significant injuries routinely take one to three years, especially if litigation is needed. Don't settle before your treatment is complete or your condition is medically stable, because once you sign a release, you can't go back for more."
+   a: "Simple cases with clear liability and resolved injuries can settle in three to six months. Cases involving ongoing treatment, disputed liability, or significant injuries routinely take one to three years, especially if litigation is needed. Don't settle before your treatment is complete or your condition is medically stable, because once you sign a release, you can't go back for more."
  - q: "Should I accept the grocery store's first settlement offer?"
- a: "Almost never. First offers from grocery chain insurers are typically lowball figures designed to close the file quickly, often before the full extent of your injuries is clear. A personal injury attorney can evaluate whether an offer reflects the actual value of your case."
+   a: "Almost never. First offers from grocery chain insurers are typically lowball figures designed to close the file quickly, often before the full extent of your injuries is clear. A personal injury attorney can evaluate whether an offer reflects the actual value of your case."
  - q: "Does it matter if I didn't go to the emergency room right away?"
- a: "It matters more than most people realize. Gaps in treatment, or no immediate treatment, give insurers a legitimate argument that your injuries weren't serious or weren't caused by the fall. If you're hurt, seek care promptly and follow through consistently. The medical record is your case."
+   a: "It matters more than most people realize. Gaps in treatment, or no immediate treatment, give insurers a legitimate argument that your injuries weren't serious or weren't caused by the fall. If you're hurt, seek care promptly and follow through consistently. The medical record is your case."
  - q: "What if there was a 'Wet Floor' sign, but I still slipped?"
- a: "A wet floor sign doesn't automatically defeat your claim. Placement matters, whether it was visible from your approach angle matters, and whether the hazard was adequately addressed or just marked matters. These are fact-specific questions worth discussing with an attorney rather than assuming the sign kills your case."
+   a: "A wet floor sign doesn't automatically defeat your claim. Placement matters, whether it was visible from your approach angle matters, and whether the hazard was adequately addressed or just marked matters. These are fact-specific questions worth discussing with an attorney rather than assuming the sign kills your case."
  - q: "Will I have to go to court?"
- a: "Most grocery store slip and fall claims settle before trial. Somewhere in the range of 95% of personal injury cases resolve without a jury verdict. That said, having an attorney willing and prepared to litigate is exactly what creates settlement pressure, so 'unlikely to go to court' isn't the same as 'your attorney doesn't need to be ready for it.'"
+   a: "Most grocery store slip and fall claims settle before trial. Somewhere in the range of 95% of personal injury cases resolve without a jury verdict. That said, having an attorney willing and prepared to litigate is exactly what creates settlement pressure, so 'unlikely to go to court' isn't the same as 'your attorney doesn't need to be ready for it.'"
 ---
 Most articles about grocery store slip and fall settlements open with a headline number, "$30,000 to $50,000 is typical", then spend 800 words saying almost nothing useful. That number isn't wrong exactly. It's just stripped of every variable that actually determines what your case is worth.
 

@@ -14,15 +14,15 @@ slug: "social-media-injury-claim-mistakes"
 affiliate_disclosure: true
 faqs:
  - q: "Can insurance companies legally look at my private social media posts?"
- a: "Public posts are fair game without any legal process at all. Private posts can be accessed through the discovery process if litigation begins, meaning defense attorneys can subpoena the platforms or request the content directly. The short answer is: yes, with enough legal process, almost nothing is truly private."
+   a: "Public posts are fair game without any legal process at all. Private posts can be accessed through the discovery process if litigation begins, meaning defense attorneys can subpoena the platforms or request the content directly. The short answer is: yes, with enough legal process, almost nothing is truly private."
  - q: "What if I posted something before I knew I had a claim?"
- a: "Pre-claim posts can still be used as evidence, especially if they show activity levels, physical capabilities, or statements about your health. You generally can't do anything about them at this point except flag them for your attorney so they can prepare for how to address them. Do not delete them without legal guidance."
+   a: "Pre-claim posts can still be used as evidence, especially if they show activity levels, physical capabilities, or statements about your health. You generally can't do anything about them at this point except flag them for your attorney so they can prepare for how to address them. Do not delete them without legal guidance."
  - q: "Should I deactivate my accounts entirely?"
- a: "Deactivating is safer than actively posting, but it's not a complete shield. If litigation begins, courts have ordered claimants to reactivate accounts so content can be collected through discovery. Talk to your attorney before deactivating, because the timing matters."
+   a: "Deactivating is safer than actively posting, but it's not a complete shield. If litigation begins, courts have ordered claimants to reactivate accounts so content can be collected through discovery. Talk to your attorney before deactivating, because the timing matters."
  - q: "My friend posted a photo of me. Is that as damaging as if I posted it myself?"
- a: "Legally and practically, yes. It doesn't matter who posted the photo or where it appeared. If it's accessible and it's of you, it can be used. This is why telling your close circle to hold off on tagging you is genuinely important, not just a precaution."
+   a: "Legally and practically, yes. It doesn't matter who posted the photo or where it appeared. If it's accessible and it's of you, it can be used. This is why telling your close circle to hold off on tagging you is genuinely important, not just a precaution."
  - q: "How long do I need to stay off social media during a claim?"
- a: "Until the case is fully resolved, including any settlement being finalized or a verdict being entered. There's no safe midpoint during active litigation. I know that's not the answer people want, but cutting corners here is how cases fall apart in the final stretch."
+   a: "Until the case is fully resolved, including any settlement being finalized or a verdict being entered. There's no safe midpoint during active litigation. I know that's not the answer people want, but cutting corners here is how cases fall apart in the final stretch."
 ---
 
 Three days after her car accident, a woman I'll call Dana posted a photo on Instagram. She was at her cousin's birthday party, smiling, holding a piece of cake. The caption said "finally feeling more like myself." Her attorney didn't find out about that post until the insurance company's lawyer brought it up during mediation. The settlement offer dropped by more than half that same afternoon.

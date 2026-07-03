@@ -14,15 +14,15 @@ slug: "medical-malpractice-settlement-amounts"
 affiliate_disclosure: true
 faqs:
  - q: "How long does a medical malpractice settlement take?"
- a: "Most cases take between two and four years from filing to resolution, though some straightforward cases settle faster and complex ones can run longer. The discovery process, which includes depositions of experts and the defendant physician, is almost always the longest phase."
+   a: "Most cases take between two and four years from filing to resolution, though some straightforward cases settle faster and complex ones can run longer. The discovery process, which includes depositions of experts and the defendant physician, is almost always the longest phase."
  - q: "Does the settlement amount get reduced by attorney fees?"
- a: "Yes. Contingency fees in malpractice cases typically run 33 to 40 percent of the gross recovery, and litigation costs (expert fees, court costs, deposition expenses) are usually deducted from the settlement before or after the fee is calculated depending on the fee agreement. Always review the fee structure before signing a retainer."
+   a: "Yes. Contingency fees in malpractice cases typically run 33 to 40 percent of the gross recovery, and litigation costs (expert fees, court costs, deposition expenses) are usually deducted from the settlement before or after the fee is calculated depending on the fee agreement. Always review the fee structure before signing a retainer."
  - q: "Can a hospital and a doctor both be defendants in the same case?"
- a: "They can, and often are. Hospitals can be liable for staff credentialing failures, systemic policy failures, and in cases involving employed physicians, under a theory called vicarious liability. Having multiple defendants with separate insurance policies sometimes increases total available coverage."
+   a: "They can, and often are. Hospitals can be liable for staff credentialing failures, systemic policy failures, and in cases involving employed physicians, under a theory called vicarious liability. Having multiple defendants with separate insurance policies sometimes increases total available coverage."
  - q: "What happens if the doctor's malpractice insurance doesn't cover the full verdict?"
- a: "Most physicians carry between $1 million and $5 million in coverage, and large verdicts can exceed policy limits. In those situations, you may be able to pursue the physician's personal assets (difficult in practice) or argue bad faith against the insurer for failing to settle within policy limits when it had the chance. This is where an experienced attorney becomes non-negotiable."
+   a: "Most physicians carry between $1 million and $5 million in coverage, and large verdicts can exceed policy limits. In those situations, you may be able to pursue the physician's personal assets (difficult in practice) or argue bad faith against the insurer for failing to settle within policy limits when it had the chance. This is where an experienced attorney becomes non-negotiable."
  - q: "Is a settlement taxable?"
- a: "Generally, compensation for physical injury is not subject to federal income tax under current IRS rules, but punitive damages (awarded to punish particularly egregious conduct) are taxable, and interest on a settlement can be taxable. Tax situations are individual, and it's worth asking a CPA or tax attorney about your specific case."
+   a: "Generally, compensation for physical injury is not subject to federal income tax under current IRS rules, but punitive damages (awarded to punish particularly egregious conduct) are taxable, and interest on a settlement can be taxable. Tax situations are individual, and it's worth asking a CPA or tax attorney about your specific case."
 ---
 
 Most people assume a "good" medical malpractice settlement is whatever their lawyer tells them is fair. After 12 years on the insurance side, watching adjusters work cases, I can tell you that assumption costs victims real money.

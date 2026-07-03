@@ -14,15 +14,15 @@ slug: "pre-existing-injury-personal-injury-claim"
 affiliate_disclosure: true
 faqs:
  - q: "Do I have to disclose my pre-existing conditions to the insurance company?"
- a: "Yes, you should be truthful about your medical history. Hiding prior conditions can seriously damage your credibility and potentially your case. What you can control, ideally with attorney guidance, is the scope of records you authorize them to access and how you frame the relationship between your prior condition and current injury."
+   a: "Yes, you should be truthful about your medical history. Hiding prior conditions can seriously damage your credibility and potentially your case. What you can control, ideally with attorney guidance, is the scope of records you authorize them to access and how you frame the relationship between your prior condition and current injury."
  - q: "Will my pre-existing condition automatically reduce my settlement?"
- a: "Not automatically, no. It depends on how well the distinction between your prior condition and the accident's impact is documented and argued. Many cases involving pre-existing conditions settle for full value when the 'aggravation' is clearly supported by medical evidence."
+   a: "Not automatically, no. It depends on how well the distinction between your prior condition and the accident's impact is documented and argued. Many cases involving pre-existing conditions settle for full value when the 'aggravation' is clearly supported by medical evidence."
  - q: "What if I wasn't even treating for my prior condition when the accident happened?"
- a: "This actually strengthens your position. A gap in treatment, or a period of documented stability, supports the argument that your condition wasn't actively affecting you before the accident. It's solid 'before and after' evidence."
+   a: "This actually strengthens your position. A gap in treatment, or a period of documented stability, supports the argument that your condition wasn't actively affecting you before the accident. It's solid 'before and after' evidence."
  - q: "Can the insurance company access all my old medical records?"
- a: "They will try to. Broad medical authorization forms can give them access to records going back decades, much of which has no relevance to your injury. An attorney can often negotiate or limit the scope of what you're required to produce to records relevant to the body parts at issue."
+   a: "They will try to. Broad medical authorization forms can give them access to records going back decades, much of which has no relevance to your injury. An attorney can often negotiate or limit the scope of what you're required to produce to records relevant to the body parts at issue."
  - q: "What kind of doctor's opinion matters most in these cases?"
- a: "The treating physician who has actually examined you over time carries the most weight, usually. But for cases involving disputed causation, an independent medical examination by a specialist (orthopedist, neurologist, physiatrist) who can speak directly to whether the accident aggravated your prior condition can be decisive. Make sure any expert retained on your behalf has reviewed your complete pre-accident records, not just the post-accident ones."
+   a: "The treating physician who has actually examined you over time carries the most weight, usually. But for cases involving disputed causation, an independent medical examination by a specialist (orthopedist, neurologist, physiatrist) who can speak directly to whether the accident aggravated your prior condition can be decisive. Make sure any expert retained on your behalf has reviewed your complete pre-accident records, not just the post-accident ones."
 ---
 You're probably reading this because someone told you your pre-existing condition is going to tank your case. Maybe it was the insurance adjuster who called three days after your accident, sounding almost apologetic as he mentioned your old back injury. Maybe it was a well-meaning friend. Either way, you're sitting here wondering if the game's already over.
 

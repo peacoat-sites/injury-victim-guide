@@ -14,15 +14,15 @@ slug: "what-percentage-do-personal-injury-lawyers-take-2026"
 affiliate_disclosure: true
 faqs:
  - q: "Is a 33% contingency fee standard in 2026?"
- a: "Yes, one-third remains the baseline contingency fee for most personal injury cases in the U.S., especially for pre-litigation settlements. It's not a legal requirement, but it's the starting point you'll encounter at the majority of firms."
+   a: "Yes, one-third remains the baseline contingency fee for most personal injury cases in the U.S., especially for pre-litigation settlements. It's not a legal requirement, but it's the starting point you'll encounter at the majority of firms."
  - q: "Can I negotiate the contingency fee with my lawyer?"
- a: "You can, and it's worth asking. Strong cases with clear liability and well-insured defendants give you more leverage. High-volume firms often have less flexibility; smaller boutique practices sometimes more. The worst they'll say is no."
+   a: "You can, and it's worth asking. Strong cases with clear liability and well-insured defendants give you more leverage. High-volume firms often have less flexibility; smaller boutique practices sometimes more. The worst they'll say is no."
  - q: "Do I owe my lawyer anything if I lose the case?"
- a: "Usually no, not for the fee, because contingency means no recovery means no fee. However, your agreement may require you to reimburse case costs (filing fees, expert witness fees, etc.) even if you lose. Many firms waive this, but read the agreement and ask directly."
+   a: "Usually no, not for the fee, because contingency means no recovery means no fee. However, your agreement may require you to reimburse case costs (filing fees, expert witness fees, etc.) even if you lose. Many firms waive this, but read the agreement and ask directly."
  - q: "Why does the percentage go up when a lawsuit is filed?"
- a: "Because the attorney's workload increases dramatically once litigation begins: discovery, depositions, motions, potentially trial prep. The higher rate after filing compensates for that additional risk and labor. It's standard, but it's a strong incentive for both sides to settle before that milestone."
+   a: "Because the attorney's workload increases dramatically once litigation begins: discovery, depositions, motions, potentially trial prep. The higher rate after filing compensates for that additional risk and labor. It's standard, but it's a strong incentive for both sides to settle before that milestone."
  - q: "Are personal injury lawyer fees regulated by the state?"
- a: "In some states, yes. New York, Florida, California, and New Jersey, among others, have statutory rules or caps for certain case types, particularly medical malpractice. Always ask your attorney whether state regulations apply to your specific case type."
+   a: "In some states, yes. New York, Florida, California, and New Jersey, among others, have statutory rules or caps for certain case types, particularly medical malpractice. Always ask your attorney whether state regulations apply to your specific case type."
 ---
 
 Most articles about personal injury lawyer fees bury the only number you actually need: **33%**. They spend 800 words circling it, then hedge so hard you leave knowing nothing useful. Let's skip that.

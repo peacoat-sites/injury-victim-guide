@@ -14,15 +14,15 @@ slug: "when-to-hire-a-personal-injury-lawyer"
 affiliate_disclosure: true
 faqs:
  - q: "How soon after an accident should I contact a personal injury lawyer?"
- a: "As soon as you know you've been injured and needed medical care. The first few days of a claim involve decisions (recorded statements, early settlement offers, evidence preservation) that can shape everything that comes after, and you're better off getting advice before those decisions get made for you."
+   a: "As soon as you know you've been injured and needed medical care. The first few days of a claim involve decisions (recorded statements, early settlement offers, evidence preservation) that can shape everything that comes after, and you're better off getting advice before those decisions get made for you."
  - q: "What if I can't afford a lawyer?"
- a: "Personal injury attorneys almost universally work on contingency, meaning you pay nothing upfront and the attorney collects a percentage of your settlement or verdict only if you win. If you don't recover anything, you typically owe no fee. The financial risk of consulting with one is essentially zero."
+   a: "Personal injury attorneys almost universally work on contingency, meaning you pay nothing upfront and the attorney collects a percentage of your settlement or verdict only if you win. If you don't recover anything, you typically owe no fee. The financial risk of consulting with one is essentially zero."
  - q: "Can I still hire a lawyer if I've already given a recorded statement to the insurance company?"
- a: "Yes. It's not ideal, because that statement is now part of the record, but it doesn't disqualify you from representation or necessarily damage your case. Tell the attorney about it at your consultation and share exactly what you said."
+   a: "Yes. It's not ideal, because that statement is now part of the record, but it doesn't disqualify you from representation or necessarily damage your case. Tell the attorney about it at your consultation and share exactly what you said."
  - q: "What if the accident was partially my fault?"
- a: "Most states use comparative fault rules, which means your compensation is reduced by your percentage of fault rather than eliminated entirely. If you're told you were partly responsible, that's actually a stronger reason to talk to a lawyer, not a weaker one, because how fault gets allocated is something the insurer has a strong financial interest in shaping."
+   a: "Most states use comparative fault rules, which means your compensation is reduced by your percentage of fault rather than eliminated entirely. If you're told you were partly responsible, that's actually a stronger reason to talk to a lawyer, not a weaker one, because how fault gets allocated is something the insurer has a strong financial interest in shaping."
  - q: "Is a free consultation actually useful, or is it just a sales pitch?"
- a: "In my experience, a good one is genuinely useful. You should come away knowing whether your case has merit, what the rough timeline looks like, and what your realistic options are. If an attorney won't give you straight answers in a free consultation, that tells you something worth knowing too."
+   a: "In my experience, a good one is genuinely useful. You should come away knowing whether your case has merit, what the rough timeline looks like, and what your realistic options are. If an attorney won't give you straight answers in a free consultation, that tells you something worth knowing too."
 ---
 
 Maybe you're sitting with a stack of medical bills and a settlement offer that arrived faster than you expected. Or maybe it's been weeks since your accident and you're not sure if you even need a lawyer, or whether hiring one is worth the trouble. Either way, you're probably wondering if this is one of those situations where you can handle things yourself, or whether you're already in over your head.
