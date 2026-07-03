@@ -13,16 +13,16 @@ author_bio: "Maya Rivera spent a decade working in insurance claims before concl
 slug: "gap-in-medical-treatment-injury-claim-effect"
 affiliate_disclosure: true
 faqs:
-  - q: "How long of a gap is too long for a personal injury claim?"
-    a: "There's no universal cutoff, but gaps of 30 days or more tend to get flagged routinely by adjusters, and anything over 60 days without documentation of why will raise serious questions about causation. The specific impact depends on the nature of your injury, your overall treatment history, and whether you can explain the gap."
-  - q: "Will a gap automatically reduce my settlement amount?"
-    a: "Not automatically, but it gives the insurance company leverage to justify a lower offer. The actual impact depends on how the gap is explained, whether your attorney can provide context, and how strong the rest of your medical documentation is."
-  - q: "What if I couldn't afford treatment during the gap?"
-    a: "Financial hardship is a recognized reason for gaps, but you need to document it. Tell your doctor when you return, note any attempts you made to find affordable care, and discuss with your attorney how to present this context. It's not a perfect shield, but it's meaningful."
-  - q: "Should I mention the gap when I talk to the insurance adjuster?"
-    a: "Talk to a personal injury attorney before you say anything to an adjuster about the gap. Adjusters are skilled at using your own explanations against you. Your attorney can help you frame the gap accurately without inadvertently undermining your claim."
-  - q: "Can a doctor's note explaining the gap help my case?"
-    a: "Yes, significantly. If your treating physician can document in your records why the gap occurred (advised rest, financial barriers noted, patient reported gradual improvement followed by recurrence) that contemporaneous documentation carries real weight compared to an explanation you offer later during settlement negotiations."
+ - q: "How long of a gap is too long for a personal injury claim?"
+ a: "There's no universal cutoff, but gaps of 30 days or more tend to get flagged routinely by adjusters, and anything over 60 days without documentation of why will raise serious questions about causation. The specific impact depends on the nature of your injury, your overall treatment history, and whether you can explain the gap."
+ - q: "Will a gap automatically reduce my settlement amount?"
+ a: "Not automatically, but it gives the insurance company leverage to justify a lower offer. The actual impact depends on how the gap is explained, whether your attorney can provide context, and how strong the rest of your medical documentation is."
+ - q: "What if I couldn't afford treatment during the gap?"
+ a: "Financial hardship is a recognized reason for gaps, but you need to document it. Tell your doctor when you return, note any attempts you made to find affordable care, and discuss with your attorney how to present this context. It's not a perfect shield, but it's meaningful."
+ - q: "Should I mention the gap when I talk to the insurance adjuster?"
+ a: "Talk to a personal injury attorney before you say anything to an adjuster about the gap. Adjusters are skilled at using your own explanations against you. Your attorney can help you frame the gap accurately without inadvertently undermining your claim."
+ - q: "Can a doctor's note explaining the gap help my case?"
+ a: "Yes, significantly. If your treating physician can document in your records why the gap occurred (advised rest, financial barriers noted, patient reported gradual improvement followed by recurrence) that contemporaneous documentation carries real weight compared to an explanation you offer later during settlement negotiations."
 ---
 
 You treated yourself at home for two weeks after the accident because you figured it was just whiplash. Then you got busy. Then the bills piled up and the thought of another doctor's co-pay felt like one more thing you couldn't handle. By the time you finally went back to see someone, six weeks had passed since your last appointment.
@@ -126,6 +126,6 @@ If there's one thing I want you to walk away with, it's this: the gap is a probl
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

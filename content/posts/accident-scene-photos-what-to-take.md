@@ -13,16 +13,16 @@ author_bio: "Lisa Anderson brings firsthand experience to her writing on auto ac
 slug: "accident-scene-photos-what-to-take"
 affiliate_disclosure: true
 faqs:
-  - q: "How many photos should I take at an accident scene?"
-    a: "There's no magic number, but 'too many' is essentially impossible. If you're at the scene for 20 minutes and take 80 photos, that's reasonable. More is always better. You can delete duplicates later; you can't go back and re-photograph a scene that's been cleaned up."
-  - q: "What if the other driver demands I stop taking photos?"
-    a: "You're standing on public property or near a public road. You have every right to document what you can see. You don't have to photograph through someone's car window, but you can photograph anything visible from where you're lawfully standing. If the situation becomes confrontational, step back and wait for police."
-  - q: "Should I take photos even if the accident seems minor?"
-    a: "Yes. A 'minor' accident at the scene can produce injuries that don't manifest until the next day, and damage that looks superficial can be expensive. You don't know yet whether this will become a claim. Documenting it costs you nothing."
-  - q: "Can I use video instead of photos?"
-    a: "Video is a great supplement but a poor substitute. A steady photo captures detail that video often misses, especially at close range. Use both: a slow walking-around video for context, then systematic still photos for detail."
-  - q: "What if I was too injured to take photos at the scene?"
-    a: "Get someone else to go back as soon as possible, ideally within hours. Ask a friend, a family member, anyone who can get there quickly. Have them document everything they can. Even photos taken hours later can show skid marks, road conditions, and debris. It's not ideal, but it's far better than nothing."
+ - q: "How many photos should I take at an accident scene?"
+ a: "There's no magic number, but 'too many' is essentially impossible. If you're at the scene for 20 minutes and take 80 photos, that's reasonable. More is always better. You can delete duplicates later; you can't go back and re-photograph a scene that's been cleaned up."
+ - q: "What if the other driver demands I stop taking photos?"
+ a: "You're standing on public property or near a public road. You have every right to document what you can see. You don't have to photograph through someone's car window, but you can photograph anything visible from where you're lawfully standing. If the situation becomes confrontational, step back and wait for police."
+ - q: "Should I take photos even if the accident seems minor?"
+ a: "Yes. A 'minor' accident at the scene can produce injuries that don't manifest until the next day, and damage that looks superficial can be expensive. You don't know yet whether this will become a claim. Documenting it costs you nothing."
+ - q: "Can I use video instead of photos?"
+ a: "Video is a great supplement but a poor substitute. A steady photo captures detail that video often misses, especially at close range. Use both: a slow walking-around video for context, then systematic still photos for detail."
+ - q: "What if I was too injured to take photos at the scene?"
+ a: "Get someone else to go back as soon as possible, ideally within hours. Ask a friend, a family member, anyone who can get there quickly. Have them document everything they can. Even photos taken hours later can show skid marks, road conditions, and debris. It's not ideal, but it's far better than nothing."
 ---
 
 Most people take three photos at an accident scene. A shot of the cars, a shot of the other driver's license plate, maybe one more. Then they put their phone away, convinced they've handled it.
@@ -128,6 +128,6 @@ One thing I'd push back on: the idea that you should send all your photos to the
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

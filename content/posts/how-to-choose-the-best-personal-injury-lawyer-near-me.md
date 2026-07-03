@@ -13,16 +13,16 @@ author_bio: "Jennifer Harris is a legal researcher who spent years working along
 slug: "how-to-choose-the-best-personal-injury-lawyer-near-me"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I find personal injury lawyers who specialize in my specific type of accident?"
-    a: "Search '[your injury type] attorney [your city/state]' rather than a generic 'personal injury' search. You can also filter on Avvo and Martindale-Hubbell by case type. If you had a trucking accident, you want someone who understands federal DOT regulations and trucking company discovery, not just general car accident law."
-  - q: "What if I can't afford to travel to meet an attorney in person?"
-    a: "Most personal injury firms will do initial consultations by phone or video, and many will come to you if you're seriously injured. Don't let geography stop you from talking to a well-qualified attorney in your state. Ask up front about their communication process."
-  - q: "Is it worth hiring a lawyer for a minor injury?"
-    a: "Honestly, sometimes no. If your injury fully resolved in a few weeks, you have no lost wages, and the insurer's offer covers your bills and a little more, you may not need representation. An attorney taking 33% of a $3,000 settlement helps them more than you. Where it gets complicated is when you're told an injury is minor but you're still having symptoms. In those cases, consult an attorney before settling."
-  - q: "How do I verify that an attorney is actually licensed and in good standing?"
-    a: "Every state bar association maintains a public directory. Search '[your state] state bar attorney search' and you can confirm licensure, standing, and any disciplinary history in about two minutes. Do this. It's free and takes less time than checking a restaurant on Yelp."
-  - q: "Can I switch lawyers if I'm unhappy with the one I hired?"
-    a: "Yes, though there are practical complications. If you fire your attorney, they typically have a lien on the case for the work they've already done, and your new attorney will need to negotiate that. It's not a reason to stay with someone who's failing you, but it's worth understanding before you make the switch. New counsel can usually help you navigate it."
+ - q: "How do I find personal injury lawyers who specialize in my specific type of accident?"
+ a: "Search '[your injury type] attorney [your city/state]' rather than a generic 'personal injury' search. You can also filter on Avvo and Martindale-Hubbell by case type. If you had a trucking accident, you want someone who understands federal DOT regulations and trucking company discovery, not just general car accident law."
+ - q: "What if I can't afford to travel to meet an attorney in person?"
+ a: "Most personal injury firms will do initial consultations by phone or video, and many will come to you if you're seriously injured. Don't let geography stop you from talking to a well-qualified attorney in your state. Ask up front about their communication process."
+ - q: "Is it worth hiring a lawyer for a minor injury?"
+ a: "Honestly, sometimes no. If your injury fully resolved in a few weeks, you have no lost wages, and the insurer's offer covers your bills and a little more, you may not need representation. An attorney taking 33% of a $3,000 settlement helps them more than you. Where it gets complicated is when you're told an injury is minor but you're still having symptoms. In those cases, consult an attorney before settling."
+ - q: "How do I verify that an attorney is actually licensed and in good standing?"
+ a: "Every state bar association maintains a public directory. Search '[your state] state bar attorney search' and you can confirm licensure, standing, and any disciplinary history in about two minutes. Do this. It's free and takes less time than checking a restaurant on Yelp."
+ - q: "Can I switch lawyers if I'm unhappy with the one I hired?"
+ a: "Yes, though there are practical complications. If you fire your attorney, they typically have a lien on the case for the work they've already done, and your new attorney will need to negotiate that. It's not a reason to stay with someone who's failing you, but it's worth understanding before you make the switch. New counsel can usually help you navigate it."
 ---
 
 Most people spend more time choosing a contractor for a bathroom remodel than they do picking the lawyer who'll handle the most stressful financial event of their life. I spent 12 years on the other side of this equation, evaluating injury claims for insurance companies, and I can tell you with zero hesitation: the attorney you choose matters more than almost any other single decision you'll make after an accident.
@@ -159,6 +159,6 @@ The right attorney is out there. The search just requires a little more delibera
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

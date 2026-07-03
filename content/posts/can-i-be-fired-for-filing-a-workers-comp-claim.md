@@ -13,16 +13,16 @@ author_bio: "Rachel Thompson works as a patient advocate helping injury victims 
 slug: "can-i-be-fired-for-filing-a-workers-comp-claim"
 affiliate_disclosure: true
 faqs:
-  - q: "Can my employer fire me while I'm out on workers' comp leave?"
-    a: "Yes, technically. The law prohibits firing you because of your workers' comp claim, but it doesn't give you complete job immunity while injured. If your company does widespread layoffs, or if there's a legitimate business reason unrelated to your claim, termination during leave can be lawful. The catch: the timing will invite scrutiny, so employers who do this usually face higher legal risk."
-  - q: "What if my employer says I'm being fired for performance reasons after I file?"
-    a: "That's the most common cover story, and it might be legitimate or it might be pretextual. Look at the paper trail: were there documented performance issues before your injury? Did anything change in how your work was evaluated after you filed? If the performance complaints appeared or escalated after your claim, that pattern matters in court."
-  - q: "Do I have to prove my employer intended to retaliate?"
-    a: "In most states, you don't need a smoking gun. You typically need to show that (1) you filed a workers' comp claim, (2) your employer knew about it, and (3) an adverse employment action followed closely enough in time, or under circumstances, that retaliation is a reasonable inference. Your employer then has the burden of showing a legitimate reason, and you can try to show that reason is pretextual."
-  - q: "Should I tell my employer I know retaliation is illegal?"
-    a: "I'd strongly caution against it. Announcing legal knowledge can escalate a situation before you're ready, and it rarely changes employer behavior at that stage. Gather your documentation quietly, consult an attorney, and let the legal process do the heavy lifting. Playing your hand early usually doesn't help."
-  - q: "Does it matter if I'm a part-time or contract worker?"
-    a: "It matters a lot. Independent contractors typically don't qualify for workers' comp in most states, though misclassification is rampant and worth examining. Part-time employees generally do qualify for retaliation protections if they're genuine employees, but their at-will status and the narrower damages available can complicate cases. If you're uncertain about your classification, that question alone is worth a conversation with an employment attorney."
+ - q: "Can my employer fire me while I'm out on workers' comp leave?"
+ a: "Yes, technically. The law prohibits firing you because of your workers' comp claim, but it doesn't give you complete job immunity while injured. If your company does widespread layoffs, or if there's a legitimate business reason unrelated to your claim, termination during leave can be lawful. The catch: the timing will invite scrutiny, so employers who do this usually face higher legal risk."
+ - q: "What if my employer says I'm being fired for performance reasons after I file?"
+ a: "That's the most common cover story, and it might be legitimate or it might be pretextual. Look at the paper trail: were there documented performance issues before your injury? Did anything change in how your work was evaluated after you filed? If the performance complaints appeared or escalated after your claim, that pattern matters in court."
+ - q: "Do I have to prove my employer intended to retaliate?"
+ a: "In most states, you don't need a smoking gun. You typically need to show that (1) you filed a workers' comp claim, (2) your employer knew about it, and (3) an adverse employment action followed closely enough in time, or under circumstances, that retaliation is a reasonable inference. Your employer then has the burden of showing a legitimate reason, and you can try to show that reason is pretextual."
+ - q: "Should I tell my employer I know retaliation is illegal?"
+ a: "I'd strongly caution against it. Announcing legal knowledge can escalate a situation before you're ready, and it rarely changes employer behavior at that stage. Gather your documentation quietly, consult an attorney, and let the legal process do the heavy lifting. Playing your hand early usually doesn't help."
+ - q: "Does it matter if I'm a part-time or contract worker?"
+ a: "It matters a lot. Independent contractors typically don't qualify for workers' comp in most states, though misclassification is rampant and worth examining. Part-time employees generally do qualify for retaliation protections if they're genuine employees, but their at-will status and the narrower damages available can complicate cases. If you're uncertain about your classification, that question alone is worth a conversation with an employment attorney."
 ---
 
 Most people assume that as long as they do everything right, filing a workers' comp claim is safe. I spent 12 years on the other side of that belief, and I'll be honest: it's one of the most persistently wrong assumptions I encountered.
@@ -119,8 +119,8 @@ The system here genuinely does offer protection. What it doesn't offer is automa
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40) — Hardwired interconnected smoke and CO detector — when one alarm sounds, all alarms in the house sound.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
 

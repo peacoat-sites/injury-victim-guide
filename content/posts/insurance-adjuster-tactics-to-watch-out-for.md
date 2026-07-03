@@ -13,16 +13,16 @@ author_bio: "Rachel Thompson works as a patient advocate helping injury victims 
 slug: "insurance-adjuster-tactics-to-watch-out-for"
 affiliate_disclosure: true
 faqs:
-  - q: "Do I have to give a recorded statement to the other driver's insurance company?"
-    a: "In most cases, no. You typically have no legal obligation to give a recorded statement to the at-fault driver's insurer. Your own policy may require you to cooperate with your insurer's investigation, so read your policy carefully and consider consulting an attorney before agreeing to any recorded conversation."
-  - q: "What does 'signing a release' actually mean for my claim?"
-    a: "When you accept a settlement and sign a release of claims, you are agreeing to accept that payment as full and final compensation. In virtually all cases, you cannot seek additional money afterward, even if your injuries turn out to be worse than expected. Never sign a release until your treating physicians have a clear picture of your long-term prognosis."
-  - q: "What is an Independent Medical Examination (IME) and should I be worried about it?"
-    a: "An IME is a medical examination requested by the insurance company, performed by a doctor they select and pay. Despite the word 'independent,' these physicians are often used regularly by insurers and their findings tend to favor minimizing injury severity. You should bring someone with you if allowed, take notes, and make sure your own treating doctors are documenting your condition thoroughly."
-  - q: "Can my social media posts really hurt my injury claim?"
-    a: "Yes, genuinely. Even posts that seem unrelated to your injuries can be taken out of context. Adjusters and defense attorneys review public social media as a standard part of claim investigation. Set your accounts to private, and be cautious about posting anything depicting physical activity until your claim is fully resolved."
-  - q: "When should I hire a personal injury attorney?"
-    a: "The more serious your injury, the more you need one. If you've been hospitalized, if you're missing significant work, if there's any dispute about fault, or if the first settlement offer seems low relative to what you've been through, a free consultation costs you nothing and could change the outcome significantly. Most personal injury attorneys work on contingency, meaning they only get paid if you do."
+ - q: "Do I have to give a recorded statement to the other driver's insurance company?"
+ a: "In most cases, no. You typically have no legal obligation to give a recorded statement to the at-fault driver's insurer. Your own policy may require you to cooperate with your insurer's investigation, so read your policy carefully and consider consulting an attorney before agreeing to any recorded conversation."
+ - q: "What does 'signing a release' actually mean for my claim?"
+ a: "When you accept a settlement and sign a release of claims, you are agreeing to accept that payment as full and final compensation. In virtually all cases, you cannot seek additional money afterward, even if your injuries turn out to be worse than expected. Never sign a release until your treating physicians have a clear picture of your long-term prognosis."
+ - q: "What is an Independent Medical Examination (IME) and should I be worried about it?"
+ a: "An IME is a medical examination requested by the insurance company, performed by a doctor they select and pay. Despite the word 'independent,' these physicians are often used regularly by insurers and their findings tend to favor minimizing injury severity. You should bring someone with you if allowed, take notes, and make sure your own treating doctors are documenting your condition thoroughly."
+ - q: "Can my social media posts really hurt my injury claim?"
+ a: "Yes, genuinely. Even posts that seem unrelated to your injuries can be taken out of context. Adjusters and defense attorneys review public social media as a standard part of claim investigation. Set your accounts to private, and be cautious about posting anything depicting physical activity until your claim is fully resolved."
+ - q: "When should I hire a personal injury attorney?"
+ a: "The more serious your injury, the more you need one. If you've been hospitalized, if you're missing significant work, if there's any dispute about fault, or if the first settlement offer seems low relative to what you've been through, a free consultation costs you nothing and could change the outcome significantly. Most personal injury attorneys work on contingency, meaning they only get paid if you do."
 ---
 Most people filing an injury claim are already losing before the adjuster says hello.
 

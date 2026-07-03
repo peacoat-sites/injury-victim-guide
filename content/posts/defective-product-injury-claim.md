@@ -9,16 +9,16 @@ tags: ["defective", "product", "injury", "claim"]
 slug: "defective-product-injury-claim"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I know if I have a valid defective product claim?"
-    a: "The basic elements are: a product was defective (in its design, manufacturing, or warnings), you were using it in a reasonably foreseeable way, and that defect caused you a measurable injury. If those three things are true, you likely have a claim worth evaluating with a personal injury attorney, many of whom offer free initial consultations in product liability cases."
-  - q: "Can I still file a claim if I threw away the product?"
-    a: "It's harder, but not necessarily fatal to your case. Other evidence can sometimes substitute: photos taken at the time, medical records that describe the product and how the injury occurred, witness statements, and records of similar incidents involving the same product. Preserve whatever you still have immediately and consult an attorney about your options."
-  - q: "What if I was partly at fault for the injury?"
-    a: "Most states use some version of comparative fault, which means your compensation can be reduced by your percentage of responsibility, but you can still recover something even if you bore some of the fault. A handful of states use contributory negligence rules that can bar recovery entirely if you were at all at fault. An attorney in your state can tell you which rules apply."
-  - q: "Do I need to file a complaint with any government agency?"
-    a: "You're not required to, but it can help. The Consumer Product Safety Commission (CPSC) maintains a database of product injury reports at SaferProducts.gov, and filing there creates a public record that can surface similar incidents involving the same product. For food, drugs, and medical devices, the FDA has its own reporting systems. These filings support your claim indirectly by building evidence of a pattern."
-  - q: "How long do product liability cases typically take?"
-    a: "Honestly, this varies so much that specific timelines can be misleading. Straightforward cases that settle without litigation can resolve in months. Complex cases involving major manufacturers, multiple defendants, and significant injuries can take two to four years or longer if they go to trial. The CDC's injury data shows just how common product-related injuries are nationally, which also means courts and insurers have well-worn processes for handling them, for better and worse."
+ - q: "How do I know if I have a valid defective product claim?"
+ a: "The basic elements are: a product was defective (in its design, manufacturing, or warnings), you were using it in a reasonably foreseeable way, and that defect caused you a measurable injury. If those three things are true, you likely have a claim worth evaluating with a personal injury attorney, many of whom offer free initial consultations in product liability cases."
+ - q: "Can I still file a claim if I threw away the product?"
+ a: "It's harder, but not necessarily fatal to your case. Other evidence can sometimes substitute: photos taken at the time, medical records that describe the product and how the injury occurred, witness statements, and records of similar incidents involving the same product. Preserve whatever you still have immediately and consult an attorney about your options."
+ - q: "What if I was partly at fault for the injury?"
+ a: "Most states use some version of comparative fault, which means your compensation can be reduced by your percentage of responsibility, but you can still recover something even if you bore some of the fault. A handful of states use contributory negligence rules that can bar recovery entirely if you were at all at fault. An attorney in your state can tell you which rules apply."
+ - q: "Do I need to file a complaint with any government agency?"
+ a: "You're not required to, but it can help. The Consumer Product Safety Commission (CPSC) maintains a database of product injury reports at SaferProducts.gov, and filing there creates a public record that can surface similar incidents involving the same product. For food, drugs, and medical devices, the FDA has its own reporting systems. These filings support your claim indirectly by building evidence of a pattern."
+ - q: "How long do product liability cases typically take?"
+ a: "Honestly, this varies so much that specific timelines can be misleading. Straightforward cases that settle without litigation can resolve in months. Complex cases involving major manufacturers, multiple defendants, and significant injuries can take two to four years or longer if they go to trial. The CDC's injury data shows just how common product-related injuries are nationally, which also means courts and insurers have well-worn processes for handling them, for better and worse."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
@@ -36,12 +36,12 @@ That's the article I want to write here. Not a sanitized overview of product lia
 ---
 
 <div class="value-module">
-  <div class="vm-head">Evidence Preservation Checklist with Deadlines</div>
-  <div class="vm-body">
-    <p class="vm-intro">Adjusters know that evidence gaps kill claims faster than liability disputes, here's the timeline-based checklist that protects your case.</p>
-    <ul><li><strong>Within 24 hours of injury:</strong> Photograph the product from multiple angles (include serial numbers, labels, damage points); photograph your injuries; do NOT clean, repair, or discard the product</li><li><strong>Within 48 hours:</strong> Place product in a sealed bag or container; store in a location you control (not returned to retailer/manufacturer); write a dated narrative of exactly what happened while memory is fresh</li><li><strong>Within 72 hours:</strong> Request complete medical records from ER/urgent care visit; save all packaging, receipts, instruction manuals, and warranty cards; screenshot any online product listings or reviews mentioning similar failures</li><li><strong>Within 1 week:</strong> Send yourself a dated email with photos and written account (creates timestamp); identify any witnesses and get written/recorded statements; check if product has existing recalls at CPSC.gov</li><li><strong>Within 2 weeks:</strong> Consult an attorney BEFORE speaking with manufacturer's insurance or claims representatives; preserve any clothing or items damaged in the incident; gather proof of purchase (credit card statements work if receipt is lost)</li><li><strong>Ongoing until case resolved:</strong> Never post about the incident on social media; document all medical visits, lost work days, and expenses with dates; store product untouched, even a well-meaning repair destroys comparative evidence</li></ul>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Evidence Preservation Checklist with Deadlines</div>
+ <div class="vm-body">
+ <p class="vm-intro">Adjusters know that evidence gaps kill claims faster than liability disputes, here's the timeline-based checklist that protects your case.</p>
+ <ul><li><strong>Within 24 hours of injury:</strong> Photograph the product from multiple angles (include serial numbers, labels, damage points); photograph your injuries; do NOT clean, repair, or discard the product</li><li><strong>Within 48 hours:</strong> Place product in a sealed bag or container; store in a location you control (not returned to retailer/manufacturer); write a dated narrative of exactly what happened while memory is fresh</li><li><strong>Within 72 hours:</strong> Request complete medical records from ER/urgent care visit; save all packaging, receipts, instruction manuals, and warranty cards; screenshot any online product listings or reviews mentioning similar failures</li><li><strong>Within 1 week:</strong> Send yourself a dated email with photos and written account (creates timestamp); identify any witnesses and get written/recorded statements; check if product has existing recalls at CPSC.gov</li><li><strong>Within 2 weeks:</strong> Consult an attorney BEFORE speaking with manufacturer's insurance or claims representatives; preserve any clothing or items damaged in the incident; gather proof of purchase (credit card statements work if receipt is lost)</li><li><strong>Ongoing until case resolved:</strong> Never post about the incident on social media; document all medical visits, lost work days, and expenses with dates; store product untouched, even a well-meaning repair destroys comparative evidence</li></ul>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Three Types of Product Defects (and Why It Matters Which One You Have)

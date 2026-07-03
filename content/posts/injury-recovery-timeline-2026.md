@@ -10,14 +10,14 @@ featured_depth: true
 categories: ["Injury Recovery", "Medical", "Health Data"]
 keywords: ["injury recovery timeline", "how long to recover from injury", "injury recovery by type", "medical recovery times"]
 faqs:
-  - question: "Why do recovery times vary so much?"
-    answer: "Severity, age, overall fitness, and compliance with rehabilitation matter. A 25-year-old athlete recovering from an ankle sprain may be 2-3 weeks. A 60-year-old with multiple issues may need 8+ weeks."
-  - question: "Can I speed up recovery?"
-    answer: "Physical therapy accelerates recovery. Rest alone is slower. You cannot skip phases without risking re-injury, but staying compliant with PT gets you back faster than expected."
-  - question: "What is return to activity?"
-    answer: "Medically cleared to resume normal activity. This does not mean full strength. Most people need another 2-4 weeks of gradual progression before feeling normal."
-  - question: "Should I keep moving or rest completely?"
-    answer: "Complete immobilization is outdated. Move gently within pain limits (Phase 2+). Controlled movement reduces stiffness and aids healing. But do not force it."
+ - question: "Why do recovery times vary so much?"
+ answer: "Severity, age, overall fitness, and compliance with rehabilitation matter. A 25-year-old athlete recovering from an ankle sprain may be 2-3 weeks. A 60-year-old with multiple issues may need 8+ weeks."
+ - question: "Can I speed up recovery?"
+ answer: "Physical therapy accelerates recovery. Rest alone is slower. You cannot skip phases without risking re-injury, but staying compliant with PT gets you back faster than expected."
+ - question: "What is return to activity?"
+ answer: "Medically cleared to resume normal activity. This does not mean full strength. Most people need another 2-4 weeks of gradual progression before feeling normal."
+ - question: "Should I keep moving or rest completely?"
+ answer: "Complete immobilization is outdated. Move gently within pain limits (Phase 2+). Controlled movement reduces stiffness and aids healing. But do not force it."
 ---
 
 Nobody wants to hear a recovery timeline. You want to hear "three weeks and you are done."
@@ -57,6 +57,6 @@ This guide shows evidence-based recovery timelines for the 8 most common injurie
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

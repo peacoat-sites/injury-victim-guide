@@ -13,16 +13,16 @@ author_bio: "Denise Wallace spent years helping workers navigate the workers com
 slug: "how-long-to-settle-personal-injury-case"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does a typical car accident settlement take?"
-    a: "Minor car accident claims with clear liability and limited injuries often settle in three to six months. Cases with more serious injuries, disputed fault, or significant damages typically take one to three years, and cases that go into active litigation can extend beyond that."
-  - q: "Does hiring an attorney make the process take longer?"
-    a: "Counterintuitively, no, not usually. Attorneys know how to get records faster, prepare demand packages correctly the first time, and apply the right pressure during negotiations. Cases with attorneys often resolve more efficiently, and they typically settle for higher amounts even after legal fees."
-  - q: "What if I need money now but my case isn't settled yet?"
-    a: "Some companies offer pre-settlement funding (sometimes called lawsuit loans), where you receive cash now in exchange for a portion of your future settlement. The interest rates on these products are often very high, and you should understand the full cost before going that route. Talk to your attorney before agreeing to anything."
-  - q: "Can I speed up my settlement by accepting a lower amount?"
-    a: "You can, but I'd strongly encourage you to at least reach MMI and consult with an attorney before making that decision. Accepting a low offer to resolve things quickly is one of the most common regrets I've heard from injury victims. Once you sign a release, there's no renegotiating."
-  - q: "What happens if the other driver's insurance isn't offering enough and negotiations stall?"
-    a: "Your attorney can file a lawsuit, which shifts the pressure significantly and opens up discovery tools that may uncover evidence useful to your case. Most cases still settle after suit is filed but before trial. Filing is not a sign things have gone wrong; sometimes it's exactly the right move to get a fair result."
+ - q: "How long does a typical car accident settlement take?"
+ a: "Minor car accident claims with clear liability and limited injuries often settle in three to six months. Cases with more serious injuries, disputed fault, or significant damages typically take one to three years, and cases that go into active litigation can extend beyond that."
+ - q: "Does hiring an attorney make the process take longer?"
+ a: "Counterintuitively, no, not usually. Attorneys know how to get records faster, prepare demand packages correctly the first time, and apply the right pressure during negotiations. Cases with attorneys often resolve more efficiently, and they typically settle for higher amounts even after legal fees."
+ - q: "What if I need money now but my case isn't settled yet?"
+ a: "Some companies offer pre-settlement funding (sometimes called lawsuit loans), where you receive cash now in exchange for a portion of your future settlement. The interest rates on these products are often very high, and you should understand the full cost before going that route. Talk to your attorney before agreeing to anything."
+ - q: "Can I speed up my settlement by accepting a lower amount?"
+ a: "You can, but I'd strongly encourage you to at least reach MMI and consult with an attorney before making that decision. Accepting a low offer to resolve things quickly is one of the most common regrets I've heard from injury victims. Once you sign a release, there's no renegotiating."
+ - q: "What happens if the other driver's insurance isn't offering enough and negotiations stall?"
+ a: "Your attorney can file a lawsuit, which shifts the pressure significantly and opens up discovery tools that may uncover evidence useful to your case. Most cases still settle after suit is filed but before trial. Filing is not a sign things have gone wrong; sometimes it's exactly the right move to get a fair result."
 ---
 
 Most people assume their personal injury case will settle in a few months. I'll be honest: that assumption causes more frustration, more bad decisions, and more money left on the table than almost anything else I saw in my 12 years adjusting claims.
@@ -116,6 +116,6 @@ According to the [CDC's injury data](https://www.cdc.gov/injury/wisqars/), motor
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

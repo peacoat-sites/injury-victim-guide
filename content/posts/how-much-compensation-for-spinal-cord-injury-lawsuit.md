@@ -13,16 +13,16 @@ author_bio: "Rachel Thompson works as a patient advocate helping injury victims 
 slug: "how-much-compensation-for-spinal-cord-injury-lawsuit"
 affiliate_disclosure: true
 faqs:
-  - q: "What is the average settlement for a spinal cord injury lawsuit?"
-    a: "There is no reliable 'average' that applies to individual cases. Published verdict data skews dramatically toward high-end outliers because trials are public and settlements are usually confidential. What I can tell you is that complete spinal cord injuries with clear liability routinely produce settlements in the millions, because the lifetime care costs alone often exceed $1 to $5 million depending on injury level and the person's age."
-  - q: "How long does a spinal cord injury lawsuit take to resolve?"
-    a: "Most cases take between one and three years from the date of injury to settlement or verdict, though complex cases involving disputed liability or multiple defendants can run longer. The medical picture also needs to 'stabilize' before a life care plan can be finalized, which often means waiting 12 to 18 months post-injury before you have a complete damages picture."
-  - q: "Does it matter if I was partly at fault for my injury?"
-    a: "Yes, significantly. Most states use comparative fault rules, meaning your compensation is reduced by your percentage of fault. In a small number of states still using contributory negligence rules, being even 1% at fault could bar your recovery entirely. This is one of many reasons the specific state where your injury occurred matters a great deal."
-  - q: "Can I negotiate directly with the insurance company without an attorney?"
-    a: "You can, legally. But in my experience, and I say this having sat on the adjuster's side for over a decade: people without attorneys settle for substantially less, on average, than people with experienced personal injury counsel. The insurance company's job is to close the file at the lowest defensible number. An experienced attorney's job is the opposite."
-  - q: "What if the defendant doesn't have enough insurance to cover my damages?"
-    a: "This is unfortunately common and genuinely painful. Your attorney will look for additional defendants (a manufacturer, an employer, a property owner), umbrella or excess policies, and your own uninsured or underinsured motorist coverage. UM/UIM coverage is something I tell everyone to maximize on their own auto policy, because it protects you when the at-fault driver's coverage isn't enough."
+ - q: "What is the average settlement for a spinal cord injury lawsuit?"
+ a: "There is no reliable 'average' that applies to individual cases. Published verdict data skews dramatically toward high-end outliers because trials are public and settlements are usually confidential. What I can tell you is that complete spinal cord injuries with clear liability routinely produce settlements in the millions, because the lifetime care costs alone often exceed $1 to $5 million depending on injury level and the person's age."
+ - q: "How long does a spinal cord injury lawsuit take to resolve?"
+ a: "Most cases take between one and three years from the date of injury to settlement or verdict, though complex cases involving disputed liability or multiple defendants can run longer. The medical picture also needs to 'stabilize' before a life care plan can be finalized, which often means waiting 12 to 18 months post-injury before you have a complete damages picture."
+ - q: "Does it matter if I was partly at fault for my injury?"
+ a: "Yes, significantly. Most states use comparative fault rules, meaning your compensation is reduced by your percentage of fault. In a small number of states still using contributory negligence rules, being even 1% at fault could bar your recovery entirely. This is one of many reasons the specific state where your injury occurred matters a great deal."
+ - q: "Can I negotiate directly with the insurance company without an attorney?"
+ a: "You can, legally. But in my experience, and I say this having sat on the adjuster's side for over a decade: people without attorneys settle for substantially less, on average, than people with experienced personal injury counsel. The insurance company's job is to close the file at the lowest defensible number. An experienced attorney's job is the opposite."
+ - q: "What if the defendant doesn't have enough insurance to cover my damages?"
+ a: "This is unfortunately common and genuinely painful. Your attorney will look for additional defendants (a manufacturer, an employer, a property owner), umbrella or excess policies, and your own uninsured or underinsured motorist coverage. UM/UIM coverage is something I tell everyone to maximize on their own auto policy, because it protects you when the at-fault driver's coverage isn't enough."
 ---
 
 Spinal cord injuries produce some of the largest personal injury verdicts in American law. I'm not talking about $50,000 or even $500,000. I'm talking about settlements and verdicts that routinely run into the millions, sometimes tens of millions, and occasionally beyond. When I was adjusting claims, these were the files that made everyone in the room go quiet.
@@ -139,6 +139,6 @@ If you're trying to organize your medical records and document your injury progr
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

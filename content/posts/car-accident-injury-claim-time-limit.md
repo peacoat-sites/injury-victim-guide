@@ -9,16 +9,16 @@ tags: ["accident", "injury", "claim", "time", "limit"]
 slug: "car-accident-injury-claim-time-limit"
 affiliate_disclosure: true
 faqs:
-  - q: "What happens if I miss the statute of limitations deadline?"
-    a: "In almost all cases, missing the deadline means you permanently lose the right to sue for compensation from the accident. The defendant's attorney will raise the expired statute as a defense, and the court will dismiss your case. There are narrow exceptions, such as fraud by the defendant or newly discovered evidence in limited circumstances, but these are genuinely rare. Treat the deadline as hard and immovable."
-  - q: "Does filing an insurance claim stop the statute of limitations clock?"
-    a: "No. Filing an insurance claim and filing a lawsuit are separate legal acts. An insurance claim is a request for payment from an insurer. A lawsuit is a civil legal action filed in court. Having an active insurance claim, even one under negotiation, does not pause the legal deadline. If settlement talks are dragging on and your deadline approaches, you may need to file a lawsuit to preserve your rights, even if you hope to settle without going to trial."
-  - q: "If the other driver was at fault, do I still need to worry about deadlines?"
-    a: "Yes. Fault is irrelevant to the statute of limitations. A driver who was 100% responsible for your injuries still benefits from an expired deadline if you wait too long to act. The law treats the deadline as procedural, not as a judgment about who was right or wrong."
-  - q: "Can I find out my state's deadline without hiring an attorney?"
-    a: "Yes, you can look up your state's personal injury statute of limitations through your state legislature's website or a reputable legal reference site. However, knowing the base deadline is only part of the picture. Whether the discovery rule applies, whether a government notice requirement shortens your window, whether your specific circumstances toll the deadline, those questions genuinely require professional evaluation. Use the number you find as a starting point, not a final answer."
-  - q: "What if I was a passenger in the car, not the driver?"
-    a: "Passengers typically have the same statute of limitations as any other injury victim. You may have claims against the driver of the vehicle you were in, the other driver, or both, depending on fault. Passengers are often in a cleaner legal position because they're not arguing about their own fault. But the same deadlines apply, and the same urgency exists."
+ - q: "What happens if I miss the statute of limitations deadline?"
+ a: "In almost all cases, missing the deadline means you permanently lose the right to sue for compensation from the accident. The defendant's attorney will raise the expired statute as a defense, and the court will dismiss your case. There are narrow exceptions, such as fraud by the defendant or newly discovered evidence in limited circumstances, but these are genuinely rare. Treat the deadline as hard and immovable."
+ - q: "Does filing an insurance claim stop the statute of limitations clock?"
+ a: "No. Filing an insurance claim and filing a lawsuit are separate legal acts. An insurance claim is a request for payment from an insurer. A lawsuit is a civil legal action filed in court. Having an active insurance claim, even one under negotiation, does not pause the legal deadline. If settlement talks are dragging on and your deadline approaches, you may need to file a lawsuit to preserve your rights, even if you hope to settle without going to trial."
+ - q: "If the other driver was at fault, do I still need to worry about deadlines?"
+ a: "Yes. Fault is irrelevant to the statute of limitations. A driver who was 100% responsible for your injuries still benefits from an expired deadline if you wait too long to act. The law treats the deadline as procedural, not as a judgment about who was right or wrong."
+ - q: "Can I find out my state's deadline without hiring an attorney?"
+ a: "Yes, you can look up your state's personal injury statute of limitations through your state legislature's website or a reputable legal reference site. However, knowing the base deadline is only part of the picture. Whether the discovery rule applies, whether a government notice requirement shortens your window, whether your specific circumstances toll the deadline, those questions genuinely require professional evaluation. Use the number you find as a starting point, not a final answer."
+ - q: "What if I was a passenger in the car, not the driver?"
+ a: "Passengers typically have the same statute of limitations as any other injury victim. You may have claims against the driver of the vehicle you were in, the other driver, or both, depending on fault. Passengers are often in a cleaner legal position because they're not arguing about their own fault. But the same deadlines apply, and the same urgency exists."
 author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Workers Comp Writer"
@@ -31,12 +31,12 @@ Here's what you actually need to know.
 
 
 <div class="value-module">
-  <div class="vm-head">State-by-State Filing Deadline Reference</div>
-  <div class="vm-body">
-    <p class="vm-intro">These deadlines represent the standard personal injury statute of limitations for car accidents-your actual deadline may differ based on specific circumstances like government defendants, minor claimants, or discovery of delayed injuries.</p>
-    <table><caption>Personal Injury Lawsuit Deadlines by State (Illustrative Selection)</caption><thead><tr><th>State</th><th>Standard Deadline</th><th>Key Exception to Note</th></tr></thead><tbody><tr><td>California</td><td>2 years</td><td>6 months if claim involves government vehicle/entity</td></tr><tr><td>Texas</td><td>2 years</td><td>Minors: deadline typically tolled until age 18</td></tr><tr><td>New York</td><td>3 years</td><td>90 days to file notice if government defendant</td></tr><tr><td>Florida</td><td>2 years</td><td>Changed from 4 years in March 2023</td></tr><tr><td>Pennsylvania</td><td>2 years</td><td>Discovery rule may extend if injury not immediately apparent</td></tr><tr><td>Illinois</td><td>2 years</td><td>1 year against government entities</td></tr><tr><td>Ohio</td><td>2 years</td><td>Court of Claims deadline may differ for state vehicles</td></tr><tr><td>Georgia</td><td>2 years</td><td>Ante litem notice required within 1 year for government claims</td></tr><tr><td>Kentucky</td><td>2 years (motor vehicle)</td><td>General personal injury is 1 year; vehicle accidents get extended deadline</td></tr><tr><td>Maine</td><td>6 years</td><td>Among the longest windows nationally</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">State-by-State Filing Deadline Reference</div>
+ <div class="vm-body">
+ <p class="vm-intro">These deadlines represent the standard personal injury statute of limitations for car accidents-your actual deadline may differ based on specific circumstances like government defendants, minor claimants, or discovery of delayed injuries.</p>
+ <table><caption>Personal Injury Lawsuit Deadlines by State (Illustrative Selection)</caption><thead><tr><th>State</th><th>Standard Deadline</th><th>Key Exception to Note</th></tr></thead><tbody><tr><td>California</td><td>2 years</td><td>6 months if claim involves government vehicle/entity</td></tr><tr><td>Texas</td><td>2 years</td><td>Minors: deadline typically tolled until age 18</td></tr><tr><td>New York</td><td>3 years</td><td>90 days to file notice if government defendant</td></tr><tr><td>Florida</td><td>2 years</td><td>Changed from 4 years in March 2023</td></tr><tr><td>Pennsylvania</td><td>2 years</td><td>Discovery rule may extend if injury not immediately apparent</td></tr><tr><td>Illinois</td><td>2 years</td><td>1 year against government entities</td></tr><tr><td>Ohio</td><td>2 years</td><td>Court of Claims deadline may differ for state vehicles</td></tr><tr><td>Georgia</td><td>2 years</td><td>Ante litem notice required within 1 year for government claims</td></tr><tr><td>Kentucky</td><td>2 years (motor vehicle)</td><td>General personal injury is 1 year; vehicle accidents get extended deadline</td></tr><tr><td>Maine</td><td>6 years</td><td>Among the longest windows nationally</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What a Statute of Limitations Actually Means for You

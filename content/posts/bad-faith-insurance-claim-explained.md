@@ -9,16 +9,16 @@ tags: ["faith", "insurance", "claim", "explained"]
 slug: "bad-faith-insurance-claim-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Is a low settlement offer automatically bad faith?"
-    a: "No. An insurer can make a low offer and it's not bad faith on its own. It becomes bad faith when the insurer knows the offer is inadequate based on its own evidence and offers it anyway as a deliberate strategy, or when the offer has no reasonable basis in the facts of the claim."
-  - q: "Can I file a bad faith complaint myself, without an attorney?"
-    a: "You can file a complaint with your state's Department of Insurance, and you should, it creates a paper record and regulators do act on patterns of complaints. But a bad faith lawsuit requires an attorney. The legal standards are specific and the discovery process is complex."
-  - q: "Does bad faith apply to health insurance too?"
-    a: "Yes. Health insurers can act in bad faith by wrongfully denying coverage, delaying authorizations for medically necessary treatment, or misrepresenting what your policy covers. The legal framework is similar, though health insurance bad faith has some additional layers due to federal ERISA rules if your coverage is employer-sponsored."
-  - q: "How long do I have to file a bad faith claim?"
-    a: "The statute of limitations (the legal deadline to file) varies by state and sometimes by the type of bad faith claim. It's often between two and four years from when the bad faith conduct occurred, but don't rely on that range for your situation. Talk to an attorney sooner rather than later, because waiting rarely helps you."
-  - q: "What if the insurer was just slow and disorganized, not deliberately acting in bad faith?"
-    a: "Intent matters, but it's not always required. Many state bad faith statutes impose liability for unreasonable conduct regardless of whether the insurer intended to harm you. Systemic incompetence that results in your claim being mishandled can still be actionable. The question is whether the conduct was reasonable, not whether someone had evil intent."
+ - q: "Is a low settlement offer automatically bad faith?"
+ a: "No. An insurer can make a low offer and it's not bad faith on its own. It becomes bad faith when the insurer knows the offer is inadequate based on its own evidence and offers it anyway as a deliberate strategy, or when the offer has no reasonable basis in the facts of the claim."
+ - q: "Can I file a bad faith complaint myself, without an attorney?"
+ a: "You can file a complaint with your state's Department of Insurance, and you should, it creates a paper record and regulators do act on patterns of complaints. But a bad faith lawsuit requires an attorney. The legal standards are specific and the discovery process is complex."
+ - q: "Does bad faith apply to health insurance too?"
+ a: "Yes. Health insurers can act in bad faith by wrongfully denying coverage, delaying authorizations for medically necessary treatment, or misrepresenting what your policy covers. The legal framework is similar, though health insurance bad faith has some additional layers due to federal ERISA rules if your coverage is employer-sponsored."
+ - q: "How long do I have to file a bad faith claim?"
+ a: "The statute of limitations (the legal deadline to file) varies by state and sometimes by the type of bad faith claim. It's often between two and four years from when the bad faith conduct occurred, but don't rely on that range for your situation. Talk to an attorney sooner rather than later, because waiting rarely helps you."
+ - q: "What if the insurer was just slow and disorganized, not deliberately acting in bad faith?"
+ a: "Intent matters, but it's not always required. Many state bad faith statutes impose liability for unreasonable conduct regardless of whether the insurer intended to harm you. Systemic incompetence that results in your claim being mishandled can still be actionable. The question is whether the conduct was reasonable, not whether someone had evil intent."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
@@ -34,12 +34,12 @@ I spent 12 years working inside that system before I switched sides. I've watche
 ---
 
 <div class="value-module">
-  <div class="vm-head">Bad Faith vs. Coverage Dispute: Key Distinctions</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this comparison to identify whether your situation involves a legitimate coverage dispute or potential bad faith conduct.</p>
-    <table><thead><tr><th>Situation</th><th>Likely Coverage Dispute</th><th>Potential Bad Faith Indicator</th></tr></thead><tbody><tr><td>Claim response time</td><td>30-45 day investigation with status updates</td><td>90+ days with no communication or explanation</td></tr><tr><td>Settlement offer</td><td>Lower than expected but supported by documented reasoning</td><td>Offer contradicts insurer's own internal damage assessment</td></tr><tr><td>Information requests</td><td>Asking for medical records, repair estimates, or police reports</td><td>Repeated requests for same documents or demands for irrelevant information</td></tr><tr><td>Claim denial</td><td>Cites specific policy exclusion with written explanation</td><td>Misrepresents policy language or ignores evidence supporting coverage</td></tr><tr><td>Investigation conduct</td><td>Independent adjuster reviews damage and interviews claimant</td><td>Adjuster instructed to find reasons to deny rather than evaluate fairly</td></tr><tr><td>Your legal options</td><td>Appeal, negotiate, file with state insurance department, or sue for policy benefits</td><td>Sue for policy benefits plus extra-contractual damages and potentially punitive damages</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Bad Faith vs. Coverage Dispute: Key Distinctions</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this comparison to identify whether your situation involves a legitimate coverage dispute or potential bad faith conduct.</p>
+ <table><thead><tr><th>Situation</th><th>Likely Coverage Dispute</th><th>Potential Bad Faith Indicator</th></tr></thead><tbody><tr><td>Claim response time</td><td>30-45 day investigation with status updates</td><td>90+ days with no communication or explanation</td></tr><tr><td>Settlement offer</td><td>Lower than expected but supported by documented reasoning</td><td>Offer contradicts insurer's own internal damage assessment</td></tr><tr><td>Information requests</td><td>Asking for medical records, repair estimates, or police reports</td><td>Repeated requests for same documents or demands for irrelevant information</td></tr><tr><td>Claim denial</td><td>Cites specific policy exclusion with written explanation</td><td>Misrepresents policy language or ignores evidence supporting coverage</td></tr><tr><td>Investigation conduct</td><td>Independent adjuster reviews damage and interviews claimant</td><td>Adjuster instructed to find reasons to deny rather than evaluate fairly</td></tr><tr><td>Your legal options</td><td>Appeal, negotiate, file with state insurance department, or sue for policy benefits</td><td>Sue for policy benefits plus extra-contractual damages and potentially punitive damages</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Bad Faith Actually Means (and What It Doesn't)

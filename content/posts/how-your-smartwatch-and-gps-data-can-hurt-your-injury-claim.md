@@ -11,10 +11,7 @@ author_slug: "rachel-thompson"
 author_title: "Patient Advocate"
 author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
 slug: "how-your-smartwatch-and-gps-data-can-hurt-your-injury-claim"
-affiliate_disclosure: true
----
-
-Picture this: you're three weeks out from a rear-end collision. Your neck still aches, you've cut back your morning runs, and you've told the insurance adjuster exactly that. What you haven't thought about is the Fitbit on your wrist that logged a 4.2-mile walk last Tuesday, the Uber app that shows you requested six rides in two weeks (suggesting you weren't housebound), and the GPS on your own car that recorded a 90-minute round trip you'd honestly forgotten about. The adjuster has thought about all of it.
+affiliate_disclosure: true, Picture this: you're three weeks out from a rear-end collision. Your neck still aches, you've cut back your morning runs, and you've told the insurance adjuster exactly that. What you haven't thought about is the Fitbit on your wrist that logged a 4.2-mile walk last Tuesday, the Uber app that shows you requested six rides in two weeks (suggesting you weren't housebound), and the GPS on your own car that recorded a 90-minute round trip you'd honestly forgotten about. The adjuster has thought about all of it.
 
 This is the reality of injury claims in mid-2026, and it catches people completely off guard. I've seen claimants genuinely baffled when their settlements came in far below what they expected, never connecting the dots between their digital footprint and the insurer's sudden confidence in a low offer.
 
@@ -74,11 +71,11 @@ The data landscape for injury claims has changed more in the past two years than
 
 ## Sources
 
-- [Personal Injury Law Trends 2026: AI, Digital Evidence & Insurance Tactics ,  Lawyer Monthly](https://www.lawyer-monthly.com/2026/05/key-legal-trends-in-personal-injury-and-accident-law-for-2026/) (May 18, 2026)
-- [How AI and Technology Are Changing California Personal Injury Claims in 2026 ,  California Accident Attorneys Blog](https://www.californiaaccidentattorneysblog.com/how-ai-and-technology-are-changing-california-personal-injury-claims-in-2026/) (May 15, 2026)
-- [AI in Insurance Claims: Impact on the Injured in 2026 ,  Coruzant](https://coruzant.com/ai/ai-insurance-claims-2026/) (February 23, 2026)
-- [2026 Marks Turning Point in War Against Litigation Financing: CSAA Legal Chief ,  Insurance Business](https://www.insurancebusinessmag.com/us/news/breaking-news/2026-marks-turning-point-in-war-against-litigation-financing-csaa-legal-chief-564860.aspx) (February 10, 2026)
-- [How Insurance Companies Use AI to Evaluate Injury Claims ,  Carter Wolden Curtis](https://cwclawfirm.com/how-insurance-companies-use-ai-to-evaluate-injury-claims-and-what-it-means-for-you/) (December 18, 2025)
+- [Personal Injury Law Trends 2026: AI, Digital Evidence & Insurance Tactics , Lawyer Monthly](https://www.lawyer-monthly.com/2026/05/key-legal-trends-in-personal-injury-and-accident-law-for-2026/) (May 18, 2026)
+- [How AI and Technology Are Changing California Personal Injury Claims in 2026 , California Accident Attorneys Blog](https://www.californiaaccidentattorneysblog.com/how-ai-and-technology-are-changing-california-personal-injury-claims-in-2026/) (May 15, 2026)
+- [AI in Insurance Claims: Impact on the Injured in 2026 , Coruzant](https://coruzant.com/ai/ai-insurance-claims-2026/) (February 23, 2026)
+- [2026 Marks Turning Point in War Against Litigation Financing: CSAA Legal Chief , Insurance Business](https://www.insurancebusinessmag.com/us/news/breaking-news/2026-marks-turning-point-in-war-against-litigation-financing-csaa-legal-chief-564860.aspx) (February 10, 2026)
+- [How Insurance Companies Use AI to Evaluate Injury Claims , Carter Wolden Curtis](https://cwclawfirm.com/how-insurance-companies-use-ai-to-evaluate-injury-claims-and-what-it-means-for-you/) (December 18, 2025)
 
 ## Helpful Resources
 
@@ -89,7 +86,7 @@ The data landscape for injury claims has changed more in the past two years than
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 
 
-*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
+*Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

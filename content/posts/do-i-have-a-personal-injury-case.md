@@ -9,16 +9,16 @@ tags: ["have", "personal", "injury", "case"]
 slug: "do-i-have-a-personal-injury-case"
 affiliate_disclosure: false
 faqs:
-  - q: "Does a personal injury case always mean going to court?"
-    a: "No, and in fact most cases don't. The majority of personal injury claims are resolved through settlement negotiations before a lawsuit is ever filed, or before a case goes to trial. Litigation is expensive and time-consuming for everyone involved, including insurance companies. That said, sometimes filing a lawsuit is necessary to get a fair outcome, and having an attorney who is genuinely willing to go to trial matters."
-  - q: "What if I can't afford a lawyer?"
-    a: "Most personal injury attorneys take cases on a contingency fee basis, typically around 33% of the recovery, though this varies. You pay nothing upfront. If the case doesn't result in a recovery, you generally owe no attorney's fee. This structure was specifically designed to give ordinary people access to legal representation they couldn't otherwise afford."
-  - q: "How long will my case take?"
-    a: "It depends heavily on the complexity of your injuries, whether liability is disputed, and whether the case settles or goes to trial. A straightforward car accident claim with clear fault and a cooperative insurer might resolve in a few months. A disputed case involving serious injuries or litigation can take one to three years or longer. Don't let anyone promise you a quick resolution."
-  - q: "What if the other driver didn't have insurance?"
-    a: "You may still have options. If you have uninsured motorist (UM) coverage on your own auto policy, that coverage exists specifically for this scenario. It's worth reviewing your own policy carefully. Some states require UM coverage; others allow drivers to opt out. If you don't have it, your options narrow significantly, which is one reason consumer advocates consistently recommend carrying it."
-  - q: "Should I accept the first settlement offer?"
-    a: "Almost always, no. Insurance companies make early offers precisely because they're usually lower than what a fully documented, well-represented claim would recover. Once you sign a release and accept a settlement, you can't go back and ask for more, even if your injuries turn out to be worse than expected. Before accepting any offer, at least talk to an attorney about whether it's fair."
+ - q: "Does a personal injury case always mean going to court?"
+ a: "No, and in fact most cases don't. The majority of personal injury claims are resolved through settlement negotiations before a lawsuit is ever filed, or before a case goes to trial. Litigation is expensive and time-consuming for everyone involved, including insurance companies. That said, sometimes filing a lawsuit is necessary to get a fair outcome, and having an attorney who is genuinely willing to go to trial matters."
+ - q: "What if I can't afford a lawyer?"
+ a: "Most personal injury attorneys take cases on a contingency fee basis, typically around 33% of the recovery, though this varies. You pay nothing upfront. If the case doesn't result in a recovery, you generally owe no attorney's fee. This structure was specifically designed to give ordinary people access to legal representation they couldn't otherwise afford."
+ - q: "How long will my case take?"
+ a: "It depends heavily on the complexity of your injuries, whether liability is disputed, and whether the case settles or goes to trial. A straightforward car accident claim with clear fault and a cooperative insurer might resolve in a few months. A disputed case involving serious injuries or litigation can take one to three years or longer. Don't let anyone promise you a quick resolution."
+ - q: "What if the other driver didn't have insurance?"
+ a: "You may still have options. If you have uninsured motorist (UM) coverage on your own auto policy, that coverage exists specifically for this scenario. It's worth reviewing your own policy carefully. Some states require UM coverage; others allow drivers to opt out. If you don't have it, your options narrow significantly, which is one reason consumer advocates consistently recommend carrying it."
+ - q: "Should I accept the first settlement offer?"
+ a: "Almost always, no. Insurance companies make early offers precisely because they're usually lower than what a fully documented, well-represented claim would recover. Once you sign a release and accept a settlement, you can't go back and ask for more, even if your injuries turn out to be worse than expected. Before accepting any offer, at least talk to an attorney about whether it's fair."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Patient Advocate"
@@ -31,12 +31,12 @@ Here's the thing. In my 12 years adjusting claims before I switched sides, I wat
 
 
 <div class="value-module">
-  <div class="vm-head">Personal Injury Case Self-Assessment Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist to evaluate whether your situation meets the four essential legal elements-each threshold helps you identify strengths and potential challenges before consulting an attorney.</p>
-    <table><caption>Four-Element Case Assessment</caption><thead><tr><th>Element</th><th>Key Question</th><th>Strength Indicators</th><th>Red Flags</th></tr></thead><tbody><tr><td>Duty of Care</td><td>Did they owe you a legal obligation?</td><td>Commercial property (customer status); licensed professional relationship; other driver on public road</td><td>Trespassing on private property; no formal relationship; hazard was in area you weren't permitted to be</td></tr><tr><td>Breach of Duty</td><td>What specific rule or standard did they violate?</td><td>Written policy violated (e.g., inspection logs skipped); traffic citation issued; documented code violation</td><td>No clear standard exists; conduct was arguably reasonable; you can't identify what they should have done differently</td></tr><tr><td>Causation</td><td>Can you connect their action directly to your injury?</td><td>No prior injury to same body part; symptoms began immediately; medical records explicitly link cause</td><td>Pre-existing condition in same area; delayed symptom onset over 72 hours without documentation; multiple possible causes</td></tr><tr><td>Damages</td><td>What measurable losses do you have?</td><td>Medical bills exceeding $2,500; documented missed work (pay stubs); ongoing treatment plan prescribed</td><td>No medical treatment sought; fully recovered within days; no out-of-pocket costs or wage loss</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Personal Injury Case Self-Assessment Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist to evaluate whether your situation meets the four essential legal elements-each threshold helps you identify strengths and potential challenges before consulting an attorney.</p>
+ <table><caption>Four-Element Case Assessment</caption><thead><tr><th>Element</th><th>Key Question</th><th>Strength Indicators</th><th>Red Flags</th></tr></thead><tbody><tr><td>Duty of Care</td><td>Did they owe you a legal obligation?</td><td>Commercial property (customer status); licensed professional relationship; other driver on public road</td><td>Trespassing on private property; no formal relationship; hazard was in area you weren't permitted to be</td></tr><tr><td>Breach of Duty</td><td>What specific rule or standard did they violate?</td><td>Written policy violated (e.g., inspection logs skipped); traffic citation issued; documented code violation</td><td>No clear standard exists; conduct was arguably reasonable; you can't identify what they should have done differently</td></tr><tr><td>Causation</td><td>Can you connect their action directly to your injury?</td><td>No prior injury to same body part; symptoms began immediately; medical records explicitly link cause</td><td>Pre-existing condition in same area; delayed symptom onset over 72 hours without documentation; multiple possible causes</td></tr><tr><td>Damages</td><td>What measurable losses do you have?</td><td>Medical bills exceeding $2,500; documented missed work (pay stubs); ongoing treatment plan prescribed</td><td>No medical treatment sought; fully recovered within days; no out-of-pocket costs or wage loss</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Four Things Every Personal Injury Case Actually Needs

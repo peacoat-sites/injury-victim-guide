@@ -11,10 +11,7 @@ author_slug: "maya-rivera"
 author_title: "Insurance Analyst"
 author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
 slug: "florida-raises-government-injury-caps-for-the-first-time-since-2010"
-affiliate_disclosure: true
----
-
-Picture a Miami man who loses his leg after a city bus runs him down. He has a clear-cut case, a devastating injury, and a jury that agrees he deserves millions. But because the bus belonged to a public transit agency, a 15-year-old Florida law caps his recovery at $200,000. To collect anything close to what he's actually owed, he has to wait for the Florida Legislature to pass a one-off "claims bill" on his behalf. That's exactly what happened in 2026, with legislators approving a $4.1 million claims bill just for that single case. One person. One bus. One act of Congress required to correct an outdated law.
+affiliate_disclosure: true, Picture a Miami man who loses his leg after a city bus runs him down. He has a clear-cut case, a devastating injury, and a jury that agrees he deserves millions. But because the bus belonged to a public transit agency, a 15-year-old Florida law caps his recovery at $200,000. To collect anything close to what he's actually owed, he has to wait for the Florida Legislature to pass a one-off "claims bill" on his behalf. That's exactly what happened in 2026, with legislators approving a $4.1 million claims bill just for that single case. One person. One bus. One act of Congress required to correct an outdated law.
 
 That's the system Florida has been running on since 2010. As of March 2026, it's finally changing.
 
@@ -93,8 +90,8 @@ Florida's first sovereign immunity increase in 15 years is real progress. It's n
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25) — Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
 

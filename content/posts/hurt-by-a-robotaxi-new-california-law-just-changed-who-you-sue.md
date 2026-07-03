@@ -11,10 +11,7 @@ author_slug: "lisa-anderson"
 author_title: "Auto Accident Writer"
 author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
 slug: "hurt-by-a-robotaxi-new-california-law-just-changed-who-you-sue"
-affiliate_disclosure: true
----
-
-If you've been hurt in a Waymo or another robotaxi recently, or if someone you love was, you're probably sitting with a lot of confusion right now. Who do you even call? Is there a driver to blame? Does your regular car insurance apply? These are completely reasonable questions, and until very recently, the honest answer was: nobody was entirely sure. California just changed that.
+affiliate_disclosure: true, If you've been hurt in a Waymo or another robotaxi recently, or if someone you love was, you're probably sitting with a lot of confusion right now. Who do you even call? Is there a driver to blame? Does your regular car insurance apply? These are completely reasonable questions, and until very recently, the honest answer was: nobody was entirely sure. California just changed that.
 
 On July 1, 2026, Assembly Bill 1777 became operative, and it fundamentally rewired how liability works when an autonomous vehicle causes a crash or commits a traffic violation. This isn't a minor procedural tweak. It's a structural shift in who gets the citation, who bears the legal responsibility, and how you build a case if you've been injured. If your incident happened on or after July 1, the legal landscape you're operating in looks very different from what it was even two weeks ago.
 
@@ -80,7 +77,7 @@ The legal ground underneath the autonomous vehicle industry just moved. If you w
 - **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
 
 
-*Photo: [Abhishek  Navlakha](https://www.pexels.com/@navlakha) via Pexels*
+*Photo: [Abhishek Navlakha](https://www.pexels.com/@navlakha) via Pexels*
 
 ---
 
@@ -92,8 +89,8 @@ The legal ground underneath the autonomous vehicle industry just moved. If you w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

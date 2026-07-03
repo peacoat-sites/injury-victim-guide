@@ -9,16 +9,16 @@ tags: ["accident", "injury", "claim"]
 slug: "hit-and-run-accident-injury-claim"
 affiliate_disclosure: true
 faqs:
-  - q: "What if there was no physical contact and the other driver ran?"
-    a: "This is a real issue. Many states require physical contact between vehicles for a hit-and-run UM claim to apply. If a car cut you off, caused you to swerve, and then fled without touching you, some insurers will deny coverage on those grounds. States like California have specific rules about this. Check your policy language and your state's UM statutes, and consult an attorney if you're in a gray area."
-  - q: "How long do I have to file a hit-and-run claim?"
-    a: "Two timelines matter here. Your insurance policy likely has a reporting requirement measured in days or weeks. The statute of limitations for a civil lawsuit in your state is separate and measured in years, typically two to three years for personal injury claims. Missing either deadline can be catastrophic. Don't wait."
-  - q: "What if I don't have uninsured motorist coverage?"
-    a: "Your options narrow considerably, but they're not zero. MedPay or PIP (if you have them) can cover medical bills. Your health insurance covers treatment. If the driver is eventually identified, you can pursue their insurance or them personally. Some states also have crime victim compensation funds that may apply. Talk to an attorney before assuming you have no recourse."
-  - q: "Will filing a UM claim raise my insurance rates?"
-    a: "It depends on your state and your policy. In many states, UM claims are treated as 'not-at-fault' claims and can't be used to raise your rates. But this isn't universal. Ask your insurer directly, and read your policy. Going in informed is always better than a surprise at renewal time."
-  - q: "Should I accept the first settlement offer from my insurance company?"
-    a: "Almost never. First offers on UM claims are typically lower than what you may be entitled to. Once you accept a settlement and sign a release, that's usually final. You can't go back for more if your injuries worsen or you discover additional costs. Have an attorney review any offer before you sign anything."
+ - q: "What if there was no physical contact and the other driver ran?"
+ a: "This is a real issue. Many states require physical contact between vehicles for a hit-and-run UM claim to apply. If a car cut you off, caused you to swerve, and then fled without touching you, some insurers will deny coverage on those grounds. States like California have specific rules about this. Check your policy language and your state's UM statutes, and consult an attorney if you're in a gray area."
+ - q: "How long do I have to file a hit-and-run claim?"
+ a: "Two timelines matter here. Your insurance policy likely has a reporting requirement measured in days or weeks. The statute of limitations for a civil lawsuit in your state is separate and measured in years, typically two to three years for personal injury claims. Missing either deadline can be catastrophic. Don't wait."
+ - q: "What if I don't have uninsured motorist coverage?"
+ a: "Your options narrow considerably, but they're not zero. MedPay or PIP (if you have them) can cover medical bills. Your health insurance covers treatment. If the driver is eventually identified, you can pursue their insurance or them personally. Some states also have crime victim compensation funds that may apply. Talk to an attorney before assuming you have no recourse."
+ - q: "Will filing a UM claim raise my insurance rates?"
+ a: "It depends on your state and your policy. In many states, UM claims are treated as 'not-at-fault' claims and can't be used to raise your rates. But this isn't universal. Ask your insurer directly, and read your policy. Going in informed is always better than a surprise at renewal time."
+ - q: "Should I accept the first settlement offer from my insurance company?"
+ a: "Almost never. First offers on UM claims are typically lower than what you may be entitled to. Once you accept a settlement and sign a release, that's usually final. You can't go back for more if your injuries worsen or you discover additional costs. Have an attorney review any offer before you sign anything."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
@@ -30,12 +30,12 @@ You're standing on the side of the road. Your car is crumpled. Your hands are sh
 ---
 
 <div class="value-module">
-  <div class="vm-head">Hit-and-Run Claim Documentation Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Insurance adjusters evaluate hit-and-run claims based on documented evidence, missing even one item can significantly reduce or delay your payout.</p>
-    <table><thead><tr><th>Documentation Item</th><th>Why It Matters</th><th>Time Window</th><th>Threshold for Strong Claim</th></tr></thead><tbody><tr><td>Police report with case number</td><td>Required by most UM policies to trigger coverage</td><td>Within 24 hours</td><td>Must include officer narrative confirming hit-and-run</td></tr><tr><td>Photos of vehicle damage</td><td>Proves impact occurred and damage severity</td><td>Same day, before repairs</td><td>Minimum 20+ photos: all angles, close-ups of paint transfer, debris</td></tr><tr><td>Photos of scene (skid marks, debris, road conditions)</td><td>Corroborates your account of how crash occurred</td><td>Within 1 hour if possible</td><td>Include wide shots with landmarks and GPS-tagged images</td></tr><tr><td>Witness contact information</td><td>Independent verification significantly strengthens claim</td><td>Immediately at scene</td><td>At least one witness willing to provide written statement</td></tr><tr><td>Medical records linking injuries to crash</td><td>Establishes causation for bodily injury portion</td><td>Seek care within 72 hours</td><td>ER or urgent care visit same day; follow-up within 2 weeks</td></tr><tr><td>Written statement describing the incident</td><td>Locks in details before memory fades</td><td>Within 24 hours</td><td>1–2 pages with time, location, weather, fleeing vehicle description</td></tr><tr><td>Dashcam or surveillance footage</td><td>Best evidence of fault and fleeing driver identity</td><td>Request within 48 hours (businesses often overwrite)</td><td>Any footage showing impact or fleeing vehicle partial plate</td></tr><tr><td>UM policy declarations page</td><td>Confirms coverage limits available to you</td><td>Before filing claim</td><td>Know your UM bodily injury and property damage limits</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Hit-and-Run Claim Documentation Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Insurance adjusters evaluate hit-and-run claims based on documented evidence, missing even one item can significantly reduce or delay your payout.</p>
+ <table><thead><tr><th>Documentation Item</th><th>Why It Matters</th><th>Time Window</th><th>Threshold for Strong Claim</th></tr></thead><tbody><tr><td>Police report with case number</td><td>Required by most UM policies to trigger coverage</td><td>Within 24 hours</td><td>Must include officer narrative confirming hit-and-run</td></tr><tr><td>Photos of vehicle damage</td><td>Proves impact occurred and damage severity</td><td>Same day, before repairs</td><td>Minimum 20+ photos: all angles, close-ups of paint transfer, debris</td></tr><tr><td>Photos of scene (skid marks, debris, road conditions)</td><td>Corroborates your account of how crash occurred</td><td>Within 1 hour if possible</td><td>Include wide shots with landmarks and GPS-tagged images</td></tr><tr><td>Witness contact information</td><td>Independent verification significantly strengthens claim</td><td>Immediately at scene</td><td>At least one witness willing to provide written statement</td></tr><tr><td>Medical records linking injuries to crash</td><td>Establishes causation for bodily injury portion</td><td>Seek care within 72 hours</td><td>ER or urgent care visit same day; follow-up within 2 weeks</td></tr><tr><td>Written statement describing the incident</td><td>Locks in details before memory fades</td><td>Within 24 hours</td><td>1–2 pages with time, location, weather, fleeing vehicle description</td></tr><tr><td>Dashcam or surveillance footage</td><td>Best evidence of fault and fleeing driver identity</td><td>Request within 48 hours (businesses often overwrite)</td><td>Any footage showing impact or fleeing vehicle partial plate</td></tr><tr><td>UM policy declarations page</td><td>Confirms coverage limits available to you</td><td>Before filing claim</td><td>Know your UM bodily injury and property damage limits</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why Hit-and-Run Claims Are Different (And Harder)

@@ -9,16 +9,16 @@ tags: ["accident", "pain", "suffering", "claim"]
 slug: "car-accident-pain-and-suffering-claim"
 affiliate_disclosure: true
 faqs:
-  - q: "How long do I have to file a pain and suffering claim after a car accident?"
-    a: "This is governed by what's called the statute of limitations, which varies by state, but is most commonly two years from the date of the accident. Some states allow one year; others allow three. If you're filing a claim against a government entity (a city bus, a municipal vehicle), the deadline can be as short as 90 days. Don't assume you have time to wait. Consult an attorney or check your state's specific rules as early as possible."
-  - q: "Can I file a pain and suffering claim if the accident was partly my fault?"
-    a: "Possibly, yes. It depends on your state's comparative fault laws. In many states, as long as you are less than 50% (or in some states, 51%) at fault, you can still recover compensation, though it will be reduced by your percentage of fault. A lawyer familiar with your state's laws can tell you where you stand."
-  - q: "Do I need to see a therapist or psychiatrist to claim emotional distress?"
-    a: "You don't legally need to, but it helps enormously. A documented diagnosis of anxiety, PTSD, or depression from a licensed mental health professional is far more persuasive than a self-reported account. If you're genuinely struggling emotionally after your accident, please seek help both for your wellbeing and for your claim."
-  - q: "What if my injuries seem minor? Is it still worth making a pain and suffering claim?"
-    a: "That depends on how you define 'minor' and what the actual impact has been on your daily life. Soft tissue injuries like whiplash are frequently dismissed as minor, but I've seen people live with legitimate, chronic pain from them for years. If your quality of life has changed in any meaningful way, that's worth talking to an attorney about before you accept any settlement."
-  - q: "Will my pain and suffering claim go to trial?"
-    a: "The vast majority of personal injury claims, somewhere around 95%, settle before trial. Insurance companies generally prefer settlement to the unpredictability of a jury. That said, having an attorney who is prepared and willing to go to trial is a negotiating asset. Insurers know which attorneys actually litigate and which ones always settle. That reputation matters. If you take one thing from all of this, let it be this: what you're experiencing is real, it has legal standing, and you have more tools than you probably realize to document it and present it effectively. You don't have to accep"
+ - q: "How long do I have to file a pain and suffering claim after a car accident?"
+ a: "This is governed by what's called the statute of limitations, which varies by state, but is most commonly two years from the date of the accident. Some states allow one year; others allow three. If you're filing a claim against a government entity (a city bus, a municipal vehicle), the deadline can be as short as 90 days. Don't assume you have time to wait. Consult an attorney or check your state's specific rules as early as possible."
+ - q: "Can I file a pain and suffering claim if the accident was partly my fault?"
+ a: "Possibly, yes. It depends on your state's comparative fault laws. In many states, as long as you are less than 50% (or in some states, 51%) at fault, you can still recover compensation, though it will be reduced by your percentage of fault. A lawyer familiar with your state's laws can tell you where you stand."
+ - q: "Do I need to see a therapist or psychiatrist to claim emotional distress?"
+ a: "You don't legally need to, but it helps enormously. A documented diagnosis of anxiety, PTSD, or depression from a licensed mental health professional is far more persuasive than a self-reported account. If you're genuinely struggling emotionally after your accident, please seek help both for your wellbeing and for your claim."
+ - q: "What if my injuries seem minor? Is it still worth making a pain and suffering claim?"
+ a: "That depends on how you define 'minor' and what the actual impact has been on your daily life. Soft tissue injuries like whiplash are frequently dismissed as minor, but I've seen people live with legitimate, chronic pain from them for years. If your quality of life has changed in any meaningful way, that's worth talking to an attorney about before you accept any settlement."
+ - q: "Will my pain and suffering claim go to trial?"
+ a: "The vast majority of personal injury claims, somewhere around 95%, settle before trial. Insurance companies generally prefer settlement to the unpredictability of a jury. That said, having an attorney who is prepared and willing to go to trial is a negotiating asset. Insurers know which attorneys actually litigate and which ones always settle. That reputation matters. If you take one thing from all of this, let it be this: what you're experiencing is real, it has legal standing, and you have more tools than you probably realize to document it and present it effectively. You don't have to accep"
 author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Insurance Analyst"
@@ -29,12 +29,12 @@ You went to the doctor, you missed work, and your car is finally fixed. On paper
 
 
 <div class="value-module">
-  <div class="vm-head">Pain & Suffering Multiplier Ranges by Injury</div>
-  <div class="vm-body">
-    <p class="vm-intro">Insurance adjusters typically apply a multiplier to your total medical bills; this table shows common ranges based on injury severity and documentation strength.</p>
-    <table><caption>Typical Pain &amp; Suffering Multipliers by Injury Category</caption><thead><tr><th>Injury Severity</th><th>Examples</th><th>Typical Multiplier Range</th><th>Key Documentation That Supports Higher End</th></tr></thead><tbody><tr><td>Minor / Soft Tissue</td><td>Whiplash resolving in 4–8 weeks, minor sprains, bruising</td><td>1× – 2× medical bills</td><td>Consistent treatment records, symptom diary showing daily limitations</td></tr><tr><td>Moderate</td><td>Herniated disc (non-surgical), fractures requiring casting, concussion with lingering symptoms</td><td>2× – 4× medical bills</td><td>Specialist referrals, documented work restrictions, mental health treatment records</td></tr><tr><td>Severe / Long-Term</td><td>Surgery required, permanent mobility loss, chronic pain diagnosis, documented PTSD</td><td>4× – 5× medical bills</td><td>Surgical records, vocational expert report, ongoing therapy notes, impact statements from family</td></tr><tr><td>Catastrophic / Life-Altering</td><td>Spinal cord injury, traumatic brain injury with lasting cognitive deficits, amputation</td><td>5× – 10×+ medical bills</td><td>Life-care plan, neuropsychological evaluation, economist report on future losses</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Pain & Suffering Multiplier Ranges by Injury</div>
+ <div class="vm-body">
+ <p class="vm-intro">Insurance adjusters typically apply a multiplier to your total medical bills; this table shows common ranges based on injury severity and documentation strength.</p>
+ <table><caption>Typical Pain &amp; Suffering Multipliers by Injury Category</caption><thead><tr><th>Injury Severity</th><th>Examples</th><th>Typical Multiplier Range</th><th>Key Documentation That Supports Higher End</th></tr></thead><tbody><tr><td>Minor / Soft Tissue</td><td>Whiplash resolving in 4–8 weeks, minor sprains, bruising</td><td>1×, 2× medical bills</td><td>Consistent treatment records, symptom diary showing daily limitations</td></tr><tr><td>Moderate</td><td>Herniated disc (non-surgical), fractures requiring casting, concussion with lingering symptoms</td><td>2×, 4× medical bills</td><td>Specialist referrals, documented work restrictions, mental health treatment records</td></tr><tr><td>Severe / Long-Term</td><td>Surgery required, permanent mobility loss, chronic pain diagnosis, documented PTSD</td><td>4×, 5× medical bills</td><td>Surgical records, vocational expert report, ongoing therapy notes, impact statements from family</td></tr><tr><td>Catastrophic / Life-Altering</td><td>Spinal cord injury, traumatic brain injury with lasting cognitive deficits, amputation</td><td>5×, 10×+ medical bills</td><td>Life-care plan, neuropsychological evaluation, economist report on future losses</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What "Pain and Suffering" Actually Means in a Car Accident Claim
