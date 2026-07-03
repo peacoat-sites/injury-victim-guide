@@ -9,16 +9,16 @@ tags: ["what", "personal", "injury", "claim"]
 slug: "what-is-a-personal-injury-claim"
 affiliate_disclosure: false
 faqs:
-  - q: "How long does a personal injury claim take?"
-    a: "It varies enormously. A straightforward car accident claim with clear liability and resolved medical treatment might close in two to four months. A complex case with disputed fault, serious injuries, or multiple parties involved can take years, especially if it goes to litigation. Reaching what's called maximum medical improvement (the point where your condition has stabilized) before settling is usually worth the wait, even if it's frustrating."
-  - q: "Do I need an attorney for a minor injury?"
-    a: "Not always. If your injuries are minor, resolved quickly, and the liability is clear, you may be able to handle negotiations yourself. Many people do. The risk is that you don't know what you don't know. At minimum, a single free consultation with a personal injury attorney can tell you whether your case is something you can manage alone or whether professional help would pay off."
-  - q: "What if I was partly at fault?"
-    a: "Most states follow some version of comparative negligence, which means your compensation is reduced by your percentage of fault. If you were 20 percent responsible and your damages are valued at $100,000, you'd recover $80,000. A few states use contributory negligence, an older and harsher rule where any fault on your part can bar recovery entirely. Knowing which rule your state uses matters a great deal."
-  - q: "Will I have to go to court?"
-    a: "Probably not. The overwhelming majority of personal injury claims settle out of court. Trials are expensive, unpredictable, and time-consuming for everyone involved, including the insurance company. That said, being willing to go to court, and having an attorney who is prepared to do so, typically produces better settlement outcomes because the insurer knows you're serious."
-  - q: "What does it cost to hire a personal injury attorney?"
-    a: "Most personal injury attorneys work on a contingency fee arrangement. You pay no upfront costs. If they recover money for you, they take a percentage, commonly 33 percent before a lawsuit is filed and up to 40 percent if the case goes to litigation. If they don't win, you owe nothing. Out-of-pocket costs like filing fees and expert witnesses may be handled separately, so always clarify the full arrangement upfront."
+ - q: "How long does a personal injury claim take?"
+ a: "It varies enormously. A straightforward car accident claim with clear liability and resolved medical treatment might close in two to four months. A complex case with disputed fault, serious injuries, or multiple parties involved can take years, especially if it goes to litigation. Reaching what's called maximum medical improvement (the point where your condition has stabilized) before settling is usually worth the wait, even if it's frustrating."
+ - q: "Do I need an attorney for a minor injury?"
+ a: "Not always. If your injuries are minor, resolved quickly, and the liability is clear, you may be able to handle negotiations yourself. Many people do. The risk is that you don't know what you don't know. At minimum, a single free consultation with a personal injury attorney can tell you whether your case is something you can manage alone or whether professional help would pay off."
+ - q: "What if I was partly at fault?"
+ a: "Most states follow some version of comparative negligence, which means your compensation is reduced by your percentage of fault. If you were 20 percent responsible and your damages are valued at $100,000, you'd recover $80,000. A few states use contributory negligence, an older and harsher rule where any fault on your part can bar recovery entirely. Knowing which rule your state uses matters a great deal."
+ - q: "Will I have to go to court?"
+ a: "Probably not. The overwhelming majority of personal injury claims settle out of court. Trials are expensive, unpredictable, and time-consuming for everyone involved, including the insurance company. That said, being willing to go to court, and having an attorney who is prepared to do so, typically produces better settlement outcomes because the insurer knows you're serious."
+ - q: "What does it cost to hire a personal injury attorney?"
+ a: "Most personal injury attorneys work on a contingency fee arrangement. You pay no upfront costs. If they recover money for you, they take a percentage, commonly 33 percent before a lawsuit is filed and up to 40 percent if the case goes to litigation. If they don't win, you owe nothing. Out-of-pocket costs like filing fees and expert witnesses may be handled separately, so always clarify the full arrangement upfront."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Patient Advocate"
@@ -170,7 +170,7 @@ You walked into that urgent care not knowing any of this. Now you know the diffe
 - [Cornell Law School, Negligence overview](https://www.law.cornell.edu/wex/negligence), Explains the four elements of negligence in tort law
 - [Nolo, Personal Injury Claims](https://www.nolo.com/legal-encyclopedia/personal-injury), Overview of damages, compensation types, and claim basics
 
-*Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
+*Photo: [KATRIN BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
 
 ---
 

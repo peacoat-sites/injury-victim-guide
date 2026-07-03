@@ -9,16 +9,16 @@ tags: ["what", "percentage", "personal", "injury", "cases"]
 slug: "what-percentage-of-personal-injury-cases-go-to-trial"
 affiliate_disclosure: true
 faqs:
-  - q: "What percentage of personal injury cases actually go to trial?"
-    a: "Approximately 4-5% of personal injury cases go to trial. The rest settle at various stages before trial, from early pre-suit negotiations through mediation. This number has remained consistent for decades across multiple studies of civil litigation outcomes."
-  - q: "Does going to trial mean you'll get more money?"
-    a: "Not necessarily. Trial results are unpredictable, and verdicts can come in below, at, or above what was offered in settlement. After deducting trial costs and attorney fees, a larger gross verdict doesn't always mean a larger net recovery for you. Some plaintiffs do receive significantly more at trial, but others receive less, or nothing."
-  - q: "How long does a personal injury trial take?"
-    a: "Most personal injury trials run 3-7 days for straightforward cases. Complex cases involving catastrophic injuries, multiple defendants, or disputed liability can run 2-4 weeks. Keep in mind that getting to trial often takes 2-3 years from the date you file suit, depending on the jurisdiction."
-  - q: "What is mediation and does it really work?"
-    a: "Mediation is a structured negotiation session with a neutral third party, usually a retired judge or experienced attorney, who helps both sides find common ground. It's not binding -- you don't have to accept anything. It's genuinely effective: success rates in civil personal injury mediation run around 70-80%, meaning most cases that reach mediation resolve there rather than proceeding to trial."
-  - q: "If I turn down a settlement and lose at trial, do I owe money?"
-    a: "Typically, you won't owe the defendant's legal fees just for losing -- the U.S. system generally doesn't shift attorney fees to the losing party the way some countries do. However, you will be responsible for your own side's litigation costs, which your attorney may have advanced. If your attorney worked on contingency, review your fee agreement carefully to understand who bears litigation expenses in a zero verdict."
+ - q: "What percentage of personal injury cases actually go to trial?"
+ a: "Approximately 4-5% of personal injury cases go to trial. The rest settle at various stages before trial, from early pre-suit negotiations through mediation. This number has remained consistent for decades across multiple studies of civil litigation outcomes."
+ - q: "Does going to trial mean you'll get more money?"
+ a: "Not necessarily. Trial results are unpredictable, and verdicts can come in below, at, or above what was offered in settlement. After deducting trial costs and attorney fees, a larger gross verdict doesn't always mean a larger net recovery for you. Some plaintiffs do receive significantly more at trial, but others receive less, or nothing."
+ - q: "How long does a personal injury trial take?"
+ a: "Most personal injury trials run 3-7 days for straightforward cases. Complex cases involving catastrophic injuries, multiple defendants, or disputed liability can run 2-4 weeks. Keep in mind that getting to trial often takes 2-3 years from the date you file suit, depending on the jurisdiction."
+ - q: "What is mediation and does it really work?"
+ a: "Mediation is a structured negotiation session with a neutral third party, usually a retired judge or experienced attorney, who helps both sides find common ground. It's not binding, you don't have to accept anything. It's genuinely effective: success rates in civil personal injury mediation run around 70-80%, meaning most cases that reach mediation resolve there rather than proceeding to trial."
+ - q: "If I turn down a settlement and lose at trial, do I owe money?"
+ a: "Typically, you won't owe the defendant's legal fees just for losing, the U.S. system generally doesn't shift attorney fees to the losing party the way some countries do. However, you will be responsible for your own side's litigation costs, which your attorney may have advanced. If your attorney worked on contingency, review your fee agreement carefully to understand who bears litigation expenses in a zero verdict."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
@@ -35,7 +35,7 @@ The real number: roughly 95% of personal injury cases settle before trial. Some 
 
 Insurance companies are not in the business of gambling. They have actuaries and defense lawyers and decades of verdict data. They know, within a reasonable range, what a broken arm in a rear-end collision is worth in your county. Going to trial costs them money in legal fees, takes up staff time, and introduces the one variable they hate most: an unpredictable jury. Settling is almost always the economically rational choice for them, even when they believe they could win.
 
-On the plaintiff's side, the math looks similar. Trials are expensive. Your attorney fronts costs for depositions, expert witnesses, court reporters, medical record retrieval, and trial exhibits. A car accident trial with a spine injury can easily run $50,000-$100,000 in litigation costs before a verdict. Those costs get reimbursed from any award you receive, but if you lose, they don't disappear -- they come out of your pocket, or your attorney eats them depending on your fee agreement. Most injured people can't roll the dice like that.
+On the plaintiff's side, the math looks similar. Trials are expensive. Your attorney fronts costs for depositions, expert witnesses, court reporters, medical record retrieval, and trial exhibits. A car accident trial with a spine injury can easily run $50,000-$100,000 in litigation costs before a verdict. Those costs get reimbursed from any award you receive, but if you lose, they don't disappear, they come out of your pocket, or your attorney eats them depending on your fee agreement. Most injured people can't roll the dice like that.
 
 And then there's time. In many metropolitan jurisdictions, a case filed today might not get a trial date for 2-3 years. Meanwhile you've got mounting medical bills, lost income, and a life that's on hold. A settlement you can use today often beats a potentially larger verdict you might get in 2027.
 
@@ -65,7 +65,7 @@ I watched this play out repeatedly from the other side of the table. When a case
 
 ## The Discovery Process: Where Cases Get Resolved (or Don't)
 
-Most settlements happen during or right after discovery -- the phase where both sides exchange evidence, take depositions, and hire expert witnesses to analyze things like biomechanics, accident reconstruction, or future medical needs. This is the part of litigation most people don't know about, and it's where the real work happens.
+Most settlements happen during or right after discovery, the phase where both sides exchange evidence, take depositions, and hire expert witnesses to analyze things like biomechanics, accident reconstruction, or future medical needs. This is the part of litigation most people don't know about, and it's where the real work happens.
 
 Discovery does something interesting: it removes the information asymmetry. Before discovery, the insurer might be guessing at your future medical costs. You might not know the defendant's surveillance footage exists. Once both sides see everything, valuations tend to converge. The defense's expert says your future care costs $400,000. Your expert says $900,000. Suddenly there's a negotiating range.
 
@@ -79,7 +79,7 @@ The cases that make it past mediation tend to be the ones where at least one sid
 
 If your case is in that 5%, here's a realistic picture of what you're looking at.
 
-Jury selection, opening statements, witness testimony, cross-examination, closing arguments, jury deliberation -- the whole production. For a moderate personal injury case, that might take 3-5 days. A complex catastrophic injury or wrongful death trial can run 2-3 weeks.
+Jury selection, opening statements, witness testimony, cross-examination, closing arguments, jury deliberation, the whole production. For a moderate personal injury case, that might take 3-5 days. A complex catastrophic injury or wrongful death trial can run 2-3 weeks.
 
 Verdicts are genuinely unpredictable. [The CDC's injury and violence cost data](https://www.cdc.gov/injury/wisqars/) gives a sense of the national scope of injury costs, but how a jury values your specific case depends on factors no one can fully control: the demographics of the jury pool, which witnesses were most believable, whether the defense expert came across as a hired gun, whether a juror had a bad experience with a personal injury plaintiff in their own past. I've seen clear-liability cases with catastrophic injuries get surprisingly modest verdicts. I've seen cases the defense felt confident about turn into large verdicts because the defendant's witnesses were insufferably arrogant on the stand.
 
@@ -93,7 +93,7 @@ And losing is a real possibility. [Nolo's personal injury resources](https://www
 
 There's no universal answer, and anyone who gives you one without knowing your case is guessing.
 
-What I can tell you is that the settlement-versus-trial decision should never be driven primarily by impatience, anger, or fear. Anger at the defendant is understandable but a terrible trial strategy metric. Impatience is legitimate -- life doesn't pause while litigation runs -- but a bad settlement is worse than a slower good one.
+What I can tell you is that the settlement-versus-trial decision should never be driven primarily by impatience, anger, or fear. Anger at the defendant is understandable but a terrible trial strategy metric. Impatience is legitimate, life doesn't pause while litigation runs, but a bad settlement is worse than a slower good one.
 
 The questions worth asking your attorney before making any decision:
 
@@ -109,7 +109,7 @@ One practical tool I recommend to anyone in active litigation: keep an organized
 
 ---
 
-The 5% statistic isn't discouraging. It's clarifying. Your case will most likely resolve without a courtroom, but how it resolves -- and for how much -- depends heavily on preparation, documentation, and having an attorney who can credibly threaten to go the distance. Insurance companies aren't afraid of plaintiffs who file suit. They're afraid of plaintiffs who mean it.
+The 5% statistic isn't discouraging. It's clarifying. Your case will most likely resolve without a courtroom, but how it resolves, and for how much, depends heavily on preparation, documentation, and having an attorney who can credibly threaten to go the distance. Insurance companies aren't afraid of plaintiffs who file suit. They're afraid of plaintiffs who mean it.
 
 ## Helpful Resources
 
@@ -119,7 +119,7 @@ The 5% statistic isn't discouraging. It's clarifying. Your case will most likely
 - **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
 - **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
 
-*Photo: [khezez  | خزاز](https://www.pexels.com/@khezez) via Pexels*
+*Photo: [khezez | خزاز](https://www.pexels.com/@khezez) via Pexels*
 
 ---
 

@@ -11,9 +11,7 @@ author_slug: "lisa-anderson"
 author_title: "Auto Accident Writer"
 author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
 slug: "louisianas-new-51-fault-rule-is-changing-injury-claims-now"
-affiliate_disclosure: true
----
-Six months ago, Louisiana quietly flipped one of the most plaintiff-friendly features of its personal injury law, and I'll be honest, the full impact is only starting to show up now that real cases are moving through the system. If you were injured in an accident in Louisiana this year and someone is arguing that you share some blame, what you're about to read could be the most important thing you encounter before talking to a lawyer.
+affiliate_disclosure: true, Six months ago, Louisiana quietly flipped one of the most plaintiff-friendly features of its personal injury law, and I'll be honest, the full impact is only starting to show up now that real cases are moving through the system. If you were injured in an accident in Louisiana this year and someone is arguing that you share some blame, what you're about to read could be the most important thing you encounter before talking to a lawyer.
 
 Before January 1, 2026, Louisiana operated under pure comparative fault. That meant even if a jury decided you were 75% responsible for your own accident, you could still recover 25% of your damages. It felt unfair to some, but it was a genuine safety net for injured people in a state where serious accidents rarely have one clean villain. House Bill 431, signed into law in May 2025 and effective January 1, 2026, ended that. Now, if you're found 51% or more at fault for your own accident, you get nothing. Zero. Not a reduced check, not a partial recovery. The door closes completely.
 
@@ -59,11 +57,11 @@ If you're dealing with an injury claim in Louisiana right now, please talk to a 
 
 ## Sources
 
-- [Morris Bart Personal Injury Lawyers ,  Louisiana's New Modified Comparative Fault Law](https://www.morrisbart.com/louisiana-modified-comparative-fault-law/) (January 16, 2026)
-- [Gertler Law Firm / Tarvis ,  How Louisiana's 2026 Injury Law Changes Are Impacting Accident Claims](https://www.bignewsnetwork.com/news/279099649/tarvis-and-gertler-law-firm-discuss-how-louisiana-2026-injury-law-changes-are-impacting-accident-claims) (June 3, 2026)
-- [Fisher Injury Lawyers ,  Louisiana Greater Than 50% Fault Rule (2026)](https://www.fisherinjurylawyers.com/blog/louisianas-greater-than-50-fault-rule-what-the-2026-change-means-for-personal-injury-claims) (2026)
-- [Liskow & Lewis ,  Louisiana's New Comparative Fault Law: What Changed on January 1, 2026](https://www.liskow.com/insights/louisianas-new-comparative-fault-law-what-changed-on-january-1-2026-and-why-102m1zf/) (May 2026)
-- [Saunders Chabert ,  Louisiana Comparative Fault Law 2026 Tort Reform](https://saunderschabert.com/blog/louisiana-comparative-fault-law-2026/) (February 2, 2026)
+- [Morris Bart Personal Injury Lawyers , Louisiana's New Modified Comparative Fault Law](https://www.morrisbart.com/louisiana-modified-comparative-fault-law/) (January 16, 2026)
+- [Gertler Law Firm / Tarvis , How Louisiana's 2026 Injury Law Changes Are Impacting Accident Claims](https://www.bignewsnetwork.com/news/279099649/tarvis-and-gertler-law-firm-discuss-how-louisiana-2026-injury-law-changes-are-impacting-accident-claims) (June 3, 2026)
+- [Fisher Injury Lawyers , Louisiana Greater Than 50% Fault Rule (2026)](https://www.fisherinjurylawyers.com/blog/louisianas-greater-than-50-fault-rule-what-the-2026-change-means-for-personal-injury-claims) (2026)
+- [Liskow & Lewis , Louisiana's New Comparative Fault Law: What Changed on January 1, 2026](https://www.liskow.com/insights/louisianas-new-comparative-fault-law-what-changed-on-january-1-2026-and-why-102m1zf/) (May 2026)
+- [Saunders Chabert , Louisiana Comparative Fault Law 2026 Tort Reform](https://saunderschabert.com/blog/louisiana-comparative-fault-law-2026/) (February 2, 2026)
 
 ## Helpful Resources
 

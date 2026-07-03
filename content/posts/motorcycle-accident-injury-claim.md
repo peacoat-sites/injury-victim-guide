@@ -13,16 +13,16 @@ author_bio: "Denise Wallace spent years helping workers navigate the workers com
 slug: "motorcycle-accident-injury-claim"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does a motorcycle accident claim typically take to settle?"
-    a: "Straightforward claims with clear liability and resolved injuries (meaning you've finished treatment) often settle in three to six months. Cases involving serious injury, disputed fault, or litigation can run two to four years. Don't settle before your injuries have stabilized, because once you sign a release, that's permanent."
-  - q: "Should I accept the first settlement offer from the insurance company?"
-    a: "Almost never. First offers are generated to close the file cheaply, not to make you whole. They're a starting point. The one exception might be a clear-liability, minor-injury claim where the offer genuinely covers all your bills and lost income with something reasonable left over for pain and suffering, but even then, a quick free consultation with an attorney is worth the hour."
-  - q: "What if the other driver doesn't have insurance?"
-    a: "Your own Uninsured Motorist (UM) coverage becomes your primary recovery. If you don't have UM coverage on your motorcycle policy, check your auto policy, it sometimes extends to motorcycle accidents depending on your state and policy language. UM claims are handled through your own insurer, but don't assume they're on your side just because you're the policyholder. They can be just as adversarial."
-  - q: "Can I still recover damages if I was partially at fault?"
-    a: "In most states, yes. The majority of states use some form of comparative negligence, which reduces your recovery by your percentage of fault rather than eliminating it. A few states still use contributory negligence, where any fault on your part bars recovery entirely. Your state's rule matters enormously here, which is one more reason to get a local attorney involved early."
-  - q: "My injuries didn't show up right away. Is it too late to file a claim?"
-    a: "No, and this is actually common after motorcycle accidents. Adrenaline masks pain. Soft tissue injuries swell over 24 to 48 hours. TBI symptoms can emerge over days or weeks. As long as you're within your state's statute of limitations, delayed symptom onset doesn't disqualify your claim. Document when symptoms appeared and connect them to your treating physician as early as possible."
+ - q: "How long does a motorcycle accident claim typically take to settle?"
+ a: "Straightforward claims with clear liability and resolved injuries (meaning you've finished treatment) often settle in three to six months. Cases involving serious injury, disputed fault, or litigation can run two to four years. Don't settle before your injuries have stabilized, because once you sign a release, that's permanent."
+ - q: "Should I accept the first settlement offer from the insurance company?"
+ a: "Almost never. First offers are generated to close the file cheaply, not to make you whole. They're a starting point. The one exception might be a clear-liability, minor-injury claim where the offer genuinely covers all your bills and lost income with something reasonable left over for pain and suffering, but even then, a quick free consultation with an attorney is worth the hour."
+ - q: "What if the other driver doesn't have insurance?"
+ a: "Your own Uninsured Motorist (UM) coverage becomes your primary recovery. If you don't have UM coverage on your motorcycle policy, check your auto policy, it sometimes extends to motorcycle accidents depending on your state and policy language. UM claims are handled through your own insurer, but don't assume they're on your side just because you're the policyholder. They can be just as adversarial."
+ - q: "Can I still recover damages if I was partially at fault?"
+ a: "In most states, yes. The majority of states use some form of comparative negligence, which reduces your recovery by your percentage of fault rather than eliminating it. A few states still use contributory negligence, where any fault on your part bars recovery entirely. Your state's rule matters enormously here, which is one more reason to get a local attorney involved early."
+ - q: "My injuries didn't show up right away. Is it too late to file a claim?"
+ a: "No, and this is actually common after motorcycle accidents. Adrenaline masks pain. Soft tissue injuries swell over 24 to 48 hours. TBI symptoms can emerge over days or weeks. As long as you're within your state's statute of limitations, delayed symptom onset doesn't disqualify your claim. Document when symptoms appeared and connect them to your treating physician as early as possible."
 ---
 
 Most articles about motorcycle accident claims spend three paragraphs explaining what a personal injury lawsuit is, then bury the one thing you actually need to know: insurers treat motorcyclists differently, and almost none of the general "how to file a claim" advice accounts for that.
@@ -161,6 +161,6 @@ What I'd say plainly: the gear argument is a pressure tactic more than a legal p
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

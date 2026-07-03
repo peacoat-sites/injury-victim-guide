@@ -11,10 +11,7 @@ author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
 author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
 slug: "la-wildfire-personal-injury-claims-what-victims-can-recover"
-affiliate_disclosure: true
----
-
-Most coverage of the LA wildfire litigation focuses on the dollar figures, the celebrity victims, and the dramatic courtroom battles ahead. What it glosses over is the deadline problem, and that's the part that actually affects whether injured victims collect anything at all.
+affiliate_disclosure: true, Most coverage of the LA wildfire litigation focuses on the dollar figures, the celebrity victims, and the dramatic courtroom battles ahead. What it glosses over is the deadline problem, and that's the part that actually affects whether injured victims collect anything at all.
 
 Here's where things stand in June 2026: hundreds of lawsuits are active against Southern California Edison over the Eaton Fire alone, a separate $10 billion class action targets state and city officials for botching the firefighting response, and legal analysts estimate total wildfire claims could exceed $40 billion across personal injury, property damage, and business losses. The machinery of justice is moving. But California's two-year statute of limitations for personal injury claims means that victims injured in January 2025 are staring down a filing deadline as early as January 2027. That's not far away. Right now is when decisions need to get made.
 
@@ -68,11 +65,11 @@ If you were injured in the January 2025 fires and haven't spoken to a wildfire a
 
 ## Sources
 
-- [Wildfire Lawsuit 2026: Payouts, Deadlines and Claims ,  Lawfold](https://lawfold.com/wildfire-lawsuit/) (June 2026)
-- [LA Wildfires Lawsuit Settlement ,  Lawsuit Information Center](https://www.lawsuit-information-center.com/la-wildfires-lawsuit.html) (October 2025, updated 2026)
-- [California Cases To Watch In 2026 ,  Law360](https://www.law360.com/articles/2422266/california-cases-to-watch-in-2026) (January 2026)
-- [California Wildfire Settlements for Survivors \[2026 Guide\] ,  King Law](https://www.robertkinglawfirm.com/california-wildfire-attorneys/california-wildfire-settlements/) (March 2026)
-- [Filing a Wildfire Lawsuit in California ,  Adamson Ahdoot LLP](https://aa.law/blog/filing-a-wildfire-lawsuit-in-california-who-qualifies-for-compensation/) (May 2026)
+- [Wildfire Lawsuit 2026: Payouts, Deadlines and Claims , Lawfold](https://lawfold.com/wildfire-lawsuit/) (June 2026)
+- [LA Wildfires Lawsuit Settlement , Lawsuit Information Center](https://www.lawsuit-information-center.com/la-wildfires-lawsuit.html) (October 2025, updated 2026)
+- [California Cases To Watch In 2026 , Law360](https://www.law360.com/articles/2422266/california-cases-to-watch-in-2026) (January 2026)
+- [California Wildfire Settlements for Survivors \[2026 Guide\] , King Law](https://www.robertkinglawfirm.com/california-wildfire-attorneys/california-wildfire-settlements/) (March 2026)
+- [Filing a Wildfire Lawsuit in California , Adamson Ahdoot LLP](https://aa.law/blog/filing-a-wildfire-lawsuit-in-california-who-qualifies-for-compensation/) (May 2026)
 
 ## Helpful Resources
 
@@ -95,8 +92,8 @@ If you were injured in the January 2025 fires and haven't spoken to a wildfire a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40) — Hardwired interconnected smoke and CO detector — when one alarm sounds, all alarms in the house sound.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
 

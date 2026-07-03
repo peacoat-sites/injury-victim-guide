@@ -11,10 +11,7 @@ author_slug: "denise-wallace"
 author_title: "Workers Comp Writer"
 author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
 slug: "social-media-addiction-personal-injury-claims-explained"
-affiliate_disclosure: true
----
-
-Something shifted on March 25, 2026, and most coverage is treating it like a footnote. A Los Angeles jury didn't just hand down a verdict. It rewrote the legal map for an entire industry. The jury in *K.G.M. v. Meta & YouTube* awarded $6 million against two of the most powerful tech companies on earth, finding them liable for a teenager's addiction and mental health injuries. First-ever verdict of its kind. Then, on June 15, 2026, the first federal bellwether trial in MDL-3047 opened in Oakland. If you have a child who's been harmed by social media platforms, or you're simply trying to understand what's actually happening in this litigation, the next few months matter more than anything that's come before.
+affiliate_disclosure: true, Something shifted on March 25, 2026, and most coverage is treating it like a footnote. A Los Angeles jury didn't just hand down a verdict. It rewrote the legal map for an entire industry. The jury in *K.G.M. v. Meta & YouTube* awarded $6 million against two of the most powerful tech companies on earth, finding them liable for a teenager's addiction and mental health injuries. First-ever verdict of its kind. Then, on June 15, 2026, the first federal bellwether trial in MDL-3047 opened in Oakland. If you have a child who's been harmed by social media platforms, or you're simply trying to understand what's actually happening in this litigation, the next few months matter more than anything that's come before.
 
 ## What the $6 Million Verdict Actually Means
 
@@ -63,7 +60,7 @@ If you believe your child was harmed, the most useful thing you can do right now
 ## Sources
 
 - [Social Media Lawsuit Update June 2026: TikTok & Snap Settle, $6M Meta Verdict | MDL-3047](https://mdlupdate.com/mdl/3047-social-media-adolescent-addiction/) (June 2026)
-- [Social Media Addiction Lawsuit – June 2026 Update | King Law](https://www.robertkinglawfirm.com/personal-injury/social-media-addiction-lawsuit/) (June 2026)
+- [Social Media Addiction Lawsuit, June 2026 Update | King Law](https://www.robertkinglawfirm.com/personal-injury/social-media-addiction-lawsuit/) (June 2026)
 - [Social Media Settlements & Verdicts for Addiction (2026) | Sokolove Law](https://www.sokolovelaw.com/personal-injury/social-media-addiction/settlements-and-verdicts/) (June 2026)
 - [KGM Social Media Addiction Verdict: Meta & YouTube Liable 2026 | Spencer Law](https://www.spencer-law.com/post/social-media-addiction-trial) (April 2026)
 - [Instagram Addiction Lawsuit Settlements (June 2026) | Sokolove Law](https://www.sokolovelaw.com/personal-injury/social-media-addiction/instagram/) (June 2026)
@@ -89,6 +86,6 @@ If you believe your child was harmed, the most useful thing you can do right now
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

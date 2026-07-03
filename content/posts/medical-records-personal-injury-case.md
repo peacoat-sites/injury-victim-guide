@@ -13,16 +13,16 @@ author_bio: "Jennifer Harris is a legal researcher who spent years working along
 slug: "medical-records-personal-injury-case"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does it take to get medical records for a personal injury case?"
-    a: "It depends on the provider, but expect two to six weeks for most requests. Hospital systems tend to be on the longer end. Requesting records in electronic format almost always speeds things up. Don't wait until you need them urgently."
-  - q: "Can the insurance company get my medical records without my permission?"
-    a: "Not directly without a signed authorization from you. However, if you file a lawsuit, the other side can request records through the discovery process. Your attorney should advise you carefully on what authorizations you sign, because a blanket authorization can give insurers access to records well beyond what's relevant to your claim."
-  - q: "What if I don't have records from right after the accident because I didn't see a doctor immediately?"
-    a: "This is more common than people admit, and it does create challenges. The best thing you can do is document why you delayed (financial barriers, trying to manage with over-the-counter pain relief, not realizing the injury was serious) either in writing or through your attorney. Seeing a doctor as soon as possible from that point forward is more important than explaining the gap perfectly."
-  - q: "Do I need to give my attorney all my medical records, including ones from before the accident?"
-    a: "Yes, and be honest about your history. Nothing damages attorney-client trust faster than a surprise pre-existing condition that surfaces during discovery. Your attorney can only protect you from information they know about in advance."
-  - q: "How do medical billing records differ from clinical records, and do I need both?"
-    a: "Clinical records contain your diagnoses, treatment notes, imaging reports, and physician observations. Billing records show what was charged and what the codes were. You need both. Billing records support your damages calculation, and inconsistencies between clinical and billing records are sometimes used by defense attorneys to challenge treatment necessity."
+ - q: "How long does it take to get medical records for a personal injury case?"
+ a: "It depends on the provider, but expect two to six weeks for most requests. Hospital systems tend to be on the longer end. Requesting records in electronic format almost always speeds things up. Don't wait until you need them urgently."
+ - q: "Can the insurance company get my medical records without my permission?"
+ a: "Not directly without a signed authorization from you. However, if you file a lawsuit, the other side can request records through the discovery process. Your attorney should advise you carefully on what authorizations you sign, because a blanket authorization can give insurers access to records well beyond what's relevant to your claim."
+ - q: "What if I don't have records from right after the accident because I didn't see a doctor immediately?"
+ a: "This is more common than people admit, and it does create challenges. The best thing you can do is document why you delayed (financial barriers, trying to manage with over-the-counter pain relief, not realizing the injury was serious) either in writing or through your attorney. Seeing a doctor as soon as possible from that point forward is more important than explaining the gap perfectly."
+ - q: "Do I need to give my attorney all my medical records, including ones from before the accident?"
+ a: "Yes, and be honest about your history. Nothing damages attorney-client trust faster than a surprise pre-existing condition that surfaces during discovery. Your attorney can only protect you from information they know about in advance."
+ - q: "How do medical billing records differ from clinical records, and do I need both?"
+ a: "Clinical records contain your diagnoses, treatment notes, imaging reports, and physician observations. Billing records show what was charged and what the codes were. You need both. Billing records support your damages calculation, and inconsistencies between clinical and billing records are sometimes used by defense attorneys to challenge treatment necessity."
 ---
 
 Your doctor's office just called to say your records request will take "four to six weeks." You've already been waiting three weeks. Your attorney keeps asking for them. The insurance adjuster has already made a lowball offer, and your settlement timeline is stacking up against a statute of limitations you don't fully understand. This is the moment most injury victims realize they should have started collecting their medical records on day one.
@@ -137,6 +137,6 @@ Start requesting records before you think you need them. That's the single most 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

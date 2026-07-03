@@ -9,23 +9,23 @@ tags: ["should", "give", "recorded", "statement", "insurance"]
 slug: "should-i-give-a-recorded-statement-to-the-insurance-company"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I just give a written statement instead of a recorded one?"
-    a: "Yes, and honestly this is often a smarter option. A written statement gives you time to think through your words carefully, and you can review it before submitting. If an adjuster insists the recording is required, ask them to point to the specific policy language that says so. If they can't, you have room to negotiate the format."
-  - q: "What if I already gave a recorded statement before I knew any of this?"
-    a: "It's not automatically fatal to your claim. A lot of people give early recorded statements and still reach fair settlements. What matters now is that you document everything going forward carefully, get a thorough medical evaluation if you haven't already, and consult an attorney who can review what you said and help contextualize it if necessary."
-  - q: "How long can I wait before responding to the insurance company?"
-    a: "There's no universal timeline, but you don't want to go weeks without any response at all -- that can create its own complications. A few days to a couple of weeks while you get organized and consult with an attorney is generally fine. Just don't ignore the calls entirely without a plan."
-  - q: "Does having an attorney present during a recorded statement actually help?"
-    a: "Significantly. An attorney can object to questions outside the proper scope, prevent the paraphrase trap, advise you on what not to answer, and ensure the statement is taken fairly. If your own insurer requires a recorded statement, asking to have counsel present is a reasonable request they generally have to accommodate."
-  - q: "What should I never say in a recorded statement, even if I think it's harmless?"
-    a: "Avoid any speculation about fault ('I might have been going too fast'), any minimizing of your symptoms ('it's not that bad'), any reference to prior injuries without legal guidance, and any agreement with the adjuster's summary of what you said. Stick to direct observations: what you saw, what you felt, what happened step by step. If you don't know or don't remember, say exactly that."
+ - q: "Can I just give a written statement instead of a recorded one?"
+ a: "Yes, and honestly this is often a smarter option. A written statement gives you time to think through your words carefully, and you can review it before submitting. If an adjuster insists the recording is required, ask them to point to the specific policy language that says so. If they can't, you have room to negotiate the format."
+ - q: "What if I already gave a recorded statement before I knew any of this?"
+ a: "It's not automatically fatal to your claim. A lot of people give early recorded statements and still reach fair settlements. What matters now is that you document everything going forward carefully, get a thorough medical evaluation if you haven't already, and consult an attorney who can review what you said and help contextualize it if necessary."
+ - q: "How long can I wait before responding to the insurance company?"
+ a: "There's no universal timeline, but you don't want to go weeks without any response at all, that can create its own complications. A few days to a couple of weeks while you get organized and consult with an attorney is generally fine. Just don't ignore the calls entirely without a plan."
+ - q: "Does having an attorney present during a recorded statement actually help?"
+ a: "Significantly. An attorney can object to questions outside the proper scope, prevent the paraphrase trap, advise you on what not to answer, and ensure the statement is taken fairly. If your own insurer requires a recorded statement, asking to have counsel present is a reasonable request they generally have to accommodate."
+ - q: "What should I never say in a recorded statement, even if I think it's harmless?"
+ a: "Avoid any speculation about fault ('I might have been going too fast'), any minimizing of your symptoms ('it's not that bad'), any reference to prior injuries without legal guidance, and any agreement with the adjuster's summary of what you said. Stick to direct observations: what you saw, what you felt, what happened step by step. If you don't know or don't remember, say exactly that."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
 author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
 ---
-You got a call from an insurance adjuster asking for a recorded statement. Maybe it came the same day as the accident, maybe a week later. Either way, you're probably sitting with that uneasy feeling of not knowing whether saying yes is the right move -- and whether saying no will make you look guilty of something.
+You got a call from an insurance adjuster asking for a recorded statement. Maybe it came the same day as the accident, maybe a week later. Either way, you're probably sitting with that uneasy feeling of not knowing whether saying yes is the right move, and whether saying no will make you look guilty of something.
 
 Here's what I tell people in that moment: slow down. That call is not an emergency. And that adjuster, however friendly they sound, is not your advocate.
 
@@ -35,7 +35,7 @@ I spent 12 years on the other side of that phone call. I know exactly why adjust
 
 A recorded statement isn't a casual conversation to "get your side of things." It's a tool for building a file, and that file will be used to evaluate how much the company has to pay you, or whether it can avoid paying you at all.
 
-Adjusters are trained interviewers. They're not hostile or mean about it -- most are genuinely pleasant, which is exactly the point. A relaxed claimant talks more. Talks faster. Uses words like "I think" or "I'm not sure" or "it wasn't that bad at first." Every one of those phrases gets logged.
+Adjusters are trained interviewers. They're not hostile or mean about it, most are genuinely pleasant, which is exactly the point. A relaxed claimant talks more. Talks faster. Uses words like "I think" or "I'm not sure" or "it wasn't that bad at first." Every one of those phrases gets logged.
 
 What they're specifically hunting for:
 
@@ -78,19 +78,19 @@ Get the adjuster's name, their direct phone number, their claim number, and the 
 
 Then consult with a personal injury attorney before agreeing to anything. Most personal injury attorneys offer free consultations, and that conversation will tell you exactly where you stand. [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) have solid plain-language explanations of this process if you want to understand the framework before you call.
 
-If you do ultimately give a statement -- whether because you choose to, your own insurer requires it, or you've gotten legal advice that it's the right move -- do this first. Write out your own account of the accident in as much detail as you can remember, before you speak to anyone. Get a full medical evaluation so you know what injuries you're actually dealing with. And have someone with you when the statement happens, whether that's an attorney or simply someone who can help you stay calm and on track.
+If you do ultimately give a statement, whether because you choose to, your own insurer requires it, or you've gotten legal advice that it's the right move, do this first. Write out your own account of the accident in as much detail as you can remember, before you speak to anyone. Get a full medical evaluation so you know what injuries you're actually dealing with. And have someone with you when the statement happens, whether that's an attorney or simply someone who can help you stay calm and on track.
 
 For keeping your own records organized in the meantime, a dedicated claims journal (Amazon has options around $12-15) can help you keep dates, symptoms, conversations, and expenses in one place. It sounds minor, but a clear timeline of your own pain and recovery is one of the most underrated assets in a personal injury claim.
 
 ## "But Won't Refusing Make Me Look Guilty?"
 
-I hear this every time. And I understand the instinct -- in most situations, refusing to talk does look suspicious. But a personal injury claim is not a criminal investigation. There's no Fifth Amendment territory here, and no one is treating you as a suspect. The adjuster will not think less of you as a person for declining. They will, however, have less material to work with.
+I hear this every time. And I understand the instinct, in most situations, refusing to talk does look suspicious. But a personal injury claim is not a criminal investigation. There's no Fifth Amendment territory here, and no one is treating you as a suspect. The adjuster will not think less of you as a person for declining. They will, however, have less material to work with.
 
 Adjusters field these requests all day. They know that represented claimants never give recorded statements. They know that many unrepresented claimants politely decline too. It's not unusual. It's not suspicious. It's a claim, not a courtroom.
 
-The only scenario where declining genuinely backfires is with your own carrier when your policy requires cooperation -- and even then, the solution is not to hand over an unprepped statement. It's to get legal guidance first and then comply in a way that protects your interests.
+The only scenario where declining genuinely backfires is with your own carrier when your policy requires cooperation, and even then, the solution is not to hand over an unprepped statement. It's to get legal guidance first and then comply in a way that protects your interests.
 
-You don't have to be an expert in personal injury law to protect yourself here. You just have to slow down long enough to understand what's being asked of you -- and why. That call from the adjuster will wait. Your medical recovery and your legal rights are worth taking a breath for.
+You don't have to be an expert in personal injury law to protect yourself here. You just have to slow down long enough to understand what's being asked of you, and why. That call from the adjuster will wait. Your medical recovery and your legal rights are worth taking a breath for.
 
 ## Helpful Resources
 

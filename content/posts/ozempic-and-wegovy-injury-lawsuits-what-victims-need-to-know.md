@@ -11,10 +11,7 @@ author_slug: "lisa-anderson"
 author_title: "Auto Accident Writer"
 author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
 slug: "ozempic-and-wegovy-injury-lawsuits-what-victims-need-to-know"
-affiliate_disclosure: true
----
-
-Picture this: you started taking Ozempic or Wegovy for type 2 diabetes or weight loss, maybe sometime in 2022 or 2023 when these drugs were everywhere. Then something went wrong. Your stomach stopped working the way it should, leaving you hospitalized with severe nausea and vomiting that doctors eventually diagnosed as gastroparesis. Or you woke up one morning with blurred vision in one eye, and after a terrifying round of tests, learned you'd developed a condition called NAION, a form of optic nerve damage that can cause permanent vision loss. You reported it to your doctor. You maybe even reported it to Novo Nordisk. And then you waited, wondering if anyone else was experiencing this, wondering if you had any recourse at all.
+affiliate_disclosure: true, Picture this: you started taking Ozempic or Wegovy for type 2 diabetes or weight loss, maybe sometime in 2022 or 2023 when these drugs were everywhere. Then something went wrong. Your stomach stopped working the way it should, leaving you hospitalized with severe nausea and vomiting that doctors eventually diagnosed as gastroparesis. Or you woke up one morning with blurred vision in one eye, and after a terrifying round of tests, learned you'd developed a condition called NAION, a form of optic nerve damage that can cause permanent vision loss. You reported it to your doctor. You maybe even reported it to Novo Nordisk. And then you waited, wondering if anyone else was experiencing this, wondering if you had any recourse at all.
 
 A lot has happened since then. And if that scenario sounds familiar, right now, June 2026, is a moment you genuinely cannot afford to ignore.
 
@@ -91,6 +88,6 @@ If you or someone you love took semaglutide-based drugs and experienced gastropa
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
