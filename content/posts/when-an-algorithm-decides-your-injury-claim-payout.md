@@ -11,7 +11,9 @@ author_slug: "rachel-thompson"
 author_title: "Patient Advocate"
 author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
 slug: "when-an-algorithm-decides-your-injury-claim-payout"
-affiliate_disclosure: true, If you've recently filed an injury claim and gotten a settlement offer that felt insultingly low, you might be wondering whether a human being ever actually looked at your case. Increasingly, the answer is no. An algorithm did. And as of March 2026, state regulators are finally starting to ask hard questions about what that means for you.
+affiliate_disclosure: true
+---
+If you've recently filed an injury claim and gotten a settlement offer that felt insultingly low, you might be wondering whether a human being ever actually looked at your case. Increasingly, the answer is no. An algorithm did. And as of March 2026, state regulators are finally starting to ask hard questions about what that means for you.
 
 The National Association of Insurance Commissioners launched a 12-state regulatory pilot last March, the first examination of its kind, specifically targeting how insurers use artificial intelligence to make injury claims decisions. A vote on nationwide rollout is scheduled for the NAIC's November 2026 fall meeting. That timeline matters because the system being scrutinized is already making decisions that affect real people right now, today, while the oversight framework is still being built around it.
 

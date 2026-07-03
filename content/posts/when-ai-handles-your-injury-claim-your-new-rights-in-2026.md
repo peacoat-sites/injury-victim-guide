@@ -11,7 +11,9 @@ author_slug: "denise-wallace"
 author_title: "Workers Comp Writer"
 author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
 slug: "when-ai-handles-your-injury-claim-your-new-rights-in-2026"
-affiliate_disclosure: true, Most people filing an injury claim in 2026 have no idea they're being evaluated by an algorithm before a human ever reads their file. And insurance companies aren't exactly rushing to tell them. What surprised me when I started digging into this is how fast the shift happened, and how the regulatory response, which used to lag by decades, is finally moving at something close to real speed.
+affiliate_disclosure: true
+---
+Most people filing an injury claim in 2026 have no idea they're being evaluated by an algorithm before a human ever reads their file. And insurance companies aren't exactly rushing to tell them. What surprised me when I started digging into this is how fast the shift happened, and how the regulatory response, which used to lag by decades, is finally moving at something close to real speed.
 
 Here's the thing that challenges the common assumption: AI in claims isn't just making things faster. It's making decisions, or at least recommendations that adjusters rarely override. When 91% of insurers have adopted AI in some form for claims processing, and nearly 88% of auto insurers have either adopted or are planning to adopt AI specifically for injury claims, you're not looking at a tool that supplements human judgment. You're looking at a system that increasingly drives it.
 

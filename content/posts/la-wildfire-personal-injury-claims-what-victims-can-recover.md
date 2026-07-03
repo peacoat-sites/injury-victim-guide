@@ -11,7 +11,9 @@ author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
 author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
 slug: "la-wildfire-personal-injury-claims-what-victims-can-recover"
-affiliate_disclosure: true, Most coverage of the LA wildfire litigation focuses on the dollar figures, the celebrity victims, and the dramatic courtroom battles ahead. What it glosses over is the deadline problem, and that's the part that actually affects whether injured victims collect anything at all.
+affiliate_disclosure: true
+---
+Most coverage of the LA wildfire litigation focuses on the dollar figures, the celebrity victims, and the dramatic courtroom battles ahead. What it glosses over is the deadline problem, and that's the part that actually affects whether injured victims collect anything at all.
 
 Here's where things stand in June 2026: hundreds of lawsuits are active against Southern California Edison over the Eaton Fire alone, a separate $10 billion class action targets state and city officials for botching the firefighting response, and legal analysts estimate total wildfire claims could exceed $40 billion across personal injury, property damage, and business losses. The machinery of justice is moving. But California's two-year statute of limitations for personal injury claims means that victims injured in January 2025 are staring down a filing deadline as early as January 2027. That's not far away. Right now is when decisions need to get made.
 

@@ -11,7 +11,9 @@ author_slug: "denise-wallace"
 author_title: "Workers Comp Writer"
 author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
 slug: "social-media-addiction-personal-injury-claims-explained"
-affiliate_disclosure: true, Something shifted on March 25, 2026, and most coverage is treating it like a footnote. A Los Angeles jury didn't just hand down a verdict. It rewrote the legal map for an entire industry. The jury in *K.G.M. v. Meta & YouTube* awarded $6 million against two of the most powerful tech companies on earth, finding them liable for a teenager's addiction and mental health injuries. First-ever verdict of its kind. Then, on June 15, 2026, the first federal bellwether trial in MDL-3047 opened in Oakland. If you have a child who's been harmed by social media platforms, or you're simply trying to understand what's actually happening in this litigation, the next few months matter more than anything that's come before.
+affiliate_disclosure: true
+---
+Something shifted on March 25, 2026, and most coverage is treating it like a footnote. A Los Angeles jury didn't just hand down a verdict. It rewrote the legal map for an entire industry. The jury in *K.G.M. v. Meta & YouTube* awarded $6 million against two of the most powerful tech companies on earth, finding them liable for a teenager's addiction and mental health injuries. First-ever verdict of its kind. Then, on June 15, 2026, the first federal bellwether trial in MDL-3047 opened in Oakland. If you have a child who's been harmed by social media platforms, or you're simply trying to understand what's actually happening in this litigation, the next few months matter more than anything that's come before.
 
 ## What the $6 Million Verdict Actually Means
 

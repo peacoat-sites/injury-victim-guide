@@ -11,7 +11,9 @@ author_slug: "maya-rivera"
 author_title: "Insurance Analyst"
 author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
 slug: "florida-raises-government-injury-caps-for-the-first-time-since-2010"
-affiliate_disclosure: true, Picture a Miami man who loses his leg after a city bus runs him down. He has a clear-cut case, a devastating injury, and a jury that agrees he deserves millions. But because the bus belonged to a public transit agency, a 15-year-old Florida law caps his recovery at $200,000. To collect anything close to what he's actually owed, he has to wait for the Florida Legislature to pass a one-off "claims bill" on his behalf. That's exactly what happened in 2026, with legislators approving a $4.1 million claims bill just for that single case. One person. One bus. One act of Congress required to correct an outdated law.
+affiliate_disclosure: true
+---
+Picture a Miami man who loses his leg after a city bus runs him down. He has a clear-cut case, a devastating injury, and a jury that agrees he deserves millions. But because the bus belonged to a public transit agency, a 15-year-old Florida law caps his recovery at $200,000. To collect anything close to what he's actually owed, he has to wait for the Florida Legislature to pass a one-off "claims bill" on his behalf. That's exactly what happened in 2026, with legislators approving a $4.1 million claims bill just for that single case. One person. One bus. One act of Congress required to correct an outdated law.
 
 That's the system Florida has been running on since 2010. As of March 2026, it's finally changing.
 

@@ -11,7 +11,9 @@ author_slug: "lisa-anderson"
 author_title: "Auto Accident Writer"
 author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
 slug: "how-much-is-a-herniated-disc-settlement-worth"
-affiliate_disclosure: true, Most people find me after they've already blown it. They settled too fast, they didn't keep the right records, or they took whatever the insurance adjuster dangled at them because it seemed like real money until the third batch of physical therapy invoices arrived.
+affiliate_disclosure: true
+---
+Most people find me after they've already blown it. They settled too fast, they didn't keep the right records, or they took whatever the insurance adjuster dangled at them because it seemed like real money until the third batch of physical therapy invoices arrived.
 
 Herniated disc cases are genuinely some of the messiest personal injury claims I've handled, and I spent twelve years sitting on the other side of the table. The range is enormous. I've watched people accept $15,000 for a cervical herniation that probably deserved ten times that. I've also seen nearly identical injuries settle for $300,000 or more. The difference had almost nothing to do with the injury itself.
 

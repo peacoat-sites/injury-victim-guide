@@ -11,7 +11,9 @@ author_slug: "maya-rivera"
 author_title: "Insurance Analyst"
 author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
 slug: "how-litigation-funding-companies-can-hijack-your-injury-claim"
-affiliate_disclosure: true, Most coverage of litigation funding focuses on billionaire hedge funds bankrolling mass tort cases. That's real, but it misses what actually matters: the storefront cash-advance company that hands you a check the week after your car accident and, according to a new federal lawsuit, may quietly take control of your entire claim.
+affiliate_disclosure: true
+---
+Most coverage of litigation funding focuses on billionaire hedge funds bankrolling mass tort cases. That's real, but it misses what actually matters: the storefront cash-advance company that hands you a check the week after your car accident and, according to a new federal lawsuit, may quietly take control of your entire claim.
 
 On June 12, 2026, New York Marine & General Insurance Co. filed a complaint in the U.S. District Court for the Southern District of New York accusing Case Cash Funding LLC and related entities of running a coordinated scheme to inflate personal injury claims. The alleged methods were straightforward: false advertising, loans disguised as non-recourse advances, and direct control over which doctors claimants saw and which lawyers represented them. Bloomberg Law broke the story three days later. If the allegations hold up, this isn't just fraud. It's a window into how the litigation funding industry can operate at the expense of the people it's supposed to help.
 

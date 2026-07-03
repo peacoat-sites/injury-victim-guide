@@ -11,7 +11,9 @@ author_slug: "rachel-thompson"
 author_title: "Patient Advocate"
 author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
 slug: "how-your-smartwatch-and-gps-data-can-hurt-your-injury-claim"
-affiliate_disclosure: true, Picture this: you're three weeks out from a rear-end collision. Your neck still aches, you've cut back your morning runs, and you've told the insurance adjuster exactly that. What you haven't thought about is the Fitbit on your wrist that logged a 4.2-mile walk last Tuesday, the Uber app that shows you requested six rides in two weeks (suggesting you weren't housebound), and the GPS on your own car that recorded a 90-minute round trip you'd honestly forgotten about. The adjuster has thought about all of it.
+affiliate_disclosure: true
+---
+Picture this: you're three weeks out from a rear-end collision. Your neck still aches, you've cut back your morning runs, and you've told the insurance adjuster exactly that. What you haven't thought about is the Fitbit on your wrist that logged a 4.2-mile walk last Tuesday, the Uber app that shows you requested six rides in two weeks (suggesting you weren't housebound), and the GPS on your own car that recorded a 90-minute round trip you'd honestly forgotten about. The adjuster has thought about all of it.
 
 This is the reality of injury claims in mid-2026, and it catches people completely off guard. I've seen claimants genuinely baffled when their settlements came in far below what they expected, never connecting the dots between their digital footprint and the insurer's sudden confidence in a low offer.
 
