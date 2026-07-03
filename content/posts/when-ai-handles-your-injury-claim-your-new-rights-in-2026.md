@@ -11,10 +11,7 @@ author_slug: "denise-wallace"
 author_title: "Workers Comp Writer"
 author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
 slug: "when-ai-handles-your-injury-claim-your-new-rights-in-2026"
-affiliate_disclosure: true
----
-
-Most people filing an injury claim in 2026 have no idea they're being evaluated by an algorithm before a human ever reads their file. And insurance companies aren't exactly rushing to tell them. What surprised me when I started digging into this is how fast the shift happened, and how the regulatory response, which used to lag by decades, is finally moving at something close to real speed.
+affiliate_disclosure: true, Most people filing an injury claim in 2026 have no idea they're being evaluated by an algorithm before a human ever reads their file. And insurance companies aren't exactly rushing to tell them. What surprised me when I started digging into this is how fast the shift happened, and how the regulatory response, which used to lag by decades, is finally moving at something close to real speed.
 
 Here's the thing that challenges the common assumption: AI in claims isn't just making things faster. It's making decisions, or at least recommendations that adjusters rarely override. When 91% of insurers have adopted AI in some form for claims processing, and nearly 88% of auto insurers have either adopted or are planning to adopt AI specifically for injury claims, you're not looking at a tool that supplements human judgment. You're looking at a system that increasingly drives it.
 
@@ -75,7 +72,7 @@ The regulatory tide is genuinely turning in 2026. That's not spin, it's what the
 - [How Technology Is Changing Personal Injury Auto Claims 2026](https://insurancenewsnet.com/innarticle/how-technology-is-changing-personal-injury-auto-claims-2026) (March 4, 2026)
 - [How AI Is Changing Insurance in 2026](https://www.moneygeek.com/insurance/how-ai-is-changing-insurance/) (March 27, 2026)
 - [How AI is Used by Insurance Companies to Deny Your Claim](https://www.mcquaidinjurylaw.com/how-ai-is-being-used-by-insurance-companies-deny-your-claim-2026/) (May 2, 2026)
-- [Q4 2025 Crash Course: Auto Claims & Repair Trends ,  CCC Intelligent Solutions](https://www.cccis.com/reports/crash-course-2025/q4) (Q4 2025)
+- [Q4 2025 Crash Course: Auto Claims & Repair Trends , CCC Intelligent Solutions](https://www.cccis.com/reports/crash-course-2025/q4) (Q4 2025)
 
 ## Helpful Resources
 
@@ -98,6 +95,6 @@ The regulatory tide is genuinely turning in 2026. That's not spin, it's what the
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

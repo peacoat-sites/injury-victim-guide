@@ -13,16 +13,16 @@ author_bio: "Maya Rivera spent a decade working in insurance claims before concl
 slug: "who-is-at-fault-in-a-left-turn-accident"
 affiliate_disclosure: true
 faqs:
-  - q: "Who's at fault if we both had a green light at the intersection?"
-    a: "If you were turning left and the other driver was going straight, you were usually expected to yield. The law typically puts the burden on the turning driver to ensure the intersection is clear, even if both drivers had the light. However, if the other driver was speeding, distracted, or running a red light (not just turning yellow), fault can shift. This is why evidence of their speed or inattention matters enormously."
-  - q: "What if the other driver ran a red light and hit me during my left turn?"
-    a: "If you had a green left-turn arrow (a protected turn), you're almost certainly not at fault. You had the right-of-way. If you had a green light but no arrow (an unprotected turn), and the other driver ran a red light, the fact that they ran the light usually makes them primarily at fault, even though you were turning. Running a red light is a serious traffic violation."
-  - q: "Can I recover money even if I'm found partially at fault for the accident?"
-    a: "In most U.S. states, yes. This is called comparative negligence. If you're found 30% at fault, you can usually recover 70% of your damages from the other driver's insurance. A few states (North Carolina, Virginia, DC, and Maryland) use different rules that may bar recovery if you have any fault, so know your state's law. This is worth discussing with an attorney before you settle."
-  - q: "How much should I admit or say to the other driver's insurance company right after the accident?"
-    a: "As little as possible about fault. Stick to facts: 'I was turning left,' 'We collided,' 'Here's my contact info.' Don't say 'I didn't see them coming' or 'I probably should have waited.' Those statements will be used against you. If the other driver's insurance calls, you can politely say, 'I'm gathering information and will have a statement ready soon,' then take time to think and get advice before responding."
-  - q: "What's the difference between a protected left turn and an unprotected one, and why does it matter?"
-    a: "A protected left turn has a green left-turn arrow. You have the right-of-way; oncoming traffic has a red light and must stop. An unprotected left turn has a green light, but no arrow—you can turn, but you must yield to oncoming traffic with the green light. Protected turns almost always favor the left-turning driver in a collision. Unprotected turns usually put fault on the left-turning driver unless the other driver was speeding, running the light, or distracted."
+ - q: "Who's at fault if we both had a green light at the intersection?"
+ a: "If you were turning left and the other driver was going straight, you were usually expected to yield. The law typically puts the burden on the turning driver to ensure the intersection is clear, even if both drivers had the light. However, if the other driver was speeding, distracted, or running a red light (not just turning yellow), fault can shift. This is why evidence of their speed or inattention matters enormously."
+ - q: "What if the other driver ran a red light and hit me during my left turn?"
+ a: "If you had a green left-turn arrow (a protected turn), you're almost certainly not at fault. You had the right-of-way. If you had a green light but no arrow (an unprotected turn), and the other driver ran a red light, the fact that they ran the light usually makes them primarily at fault, even though you were turning. Running a red light is a serious traffic violation."
+ - q: "Can I recover money even if I'm found partially at fault for the accident?"
+ a: "In most U.S. states, yes. This is called comparative negligence. If you're found 30% at fault, you can usually recover 70% of your damages from the other driver's insurance. A few states (North Carolina, Virginia, DC, and Maryland) use different rules that may bar recovery if you have any fault, so know your state's law. This is worth discussing with an attorney before you settle."
+ - q: "How much should I admit or say to the other driver's insurance company right after the accident?"
+ a: "As little as possible about fault. Stick to facts: 'I was turning left,' 'We collided,' 'Here's my contact info.' Don't say 'I didn't see them coming' or 'I probably should have waited.' Those statements will be used against you. If the other driver's insurance calls, you can politely say, 'I'm gathering information and will have a statement ready soon,' then take time to think and get advice before responding."
+ - q: "What's the difference between a protected left turn and an unprotected one, and why does it matter?"
+ a: "A protected left turn has a green left-turn arrow. You have the right-of-way; oncoming traffic has a red light and must stop. An unprotected left turn has a green light, but no arrow, you can turn, but you must yield to oncoming traffic with the green light. Protected turns almost always favor the left-turning driver in a collision. Unprotected turns usually put fault on the left-turning driver unless the other driver was speeding, running the light, or distracted."
 ---
 
 # Left Turn Accidents: Who Actually Gets Blamed (and Why It's Almost Never Straightforward)
@@ -39,9 +39,9 @@ You turn left. Someone hits you head-on. The default legal position is that you'
 
 Here's the actual rule in most states: the driver making a left turn has a duty to make sure the intersection is clear before turning. That includes waiting for oncoming traffic to pass. If an oncoming vehicle has the green light or the right-of-way, you can't just turn in front of them. That's negligence, and you're liable.
 
-Sounds simple. It's not. Because the moment you add in real-world conditions—timing, visibility, weather, signal confusion—things get murky fast.
+Sounds simple. It's not. Because the moment you add in real-world conditions, timing, visibility, weather, signal confusion, things get murky fast.
 
-When I was adjusting, I saw left-turn cases that hinged entirely on whether a stoplight was on its way to red when the turning driver entered the intersection. Not whether it *was* red. Whether it was *turning* red. And here's the thing: a driver approaching a yellow light in most states doesn't have to slam on the brakes. They can proceed through. So a left-turning driver who begins their turn on green, then gets t-boned by someone running a red light two seconds later, might actually have been in the intersection legally—which completely changes who's liable.
+When I was adjusting, I saw left-turn cases that hinged entirely on whether a stoplight was on its way to red when the turning driver entered the intersection. Not whether it *was* red. Whether it was *turning* red. And here's the thing: a driver approaching a yellow light in most states doesn't have to slam on the brakes. They can proceed through. So a left-turning driver who begins their turn on green, then gets t-boned by someone running a red light two seconds later, might actually have been in the intersection legally, which completely changes who's liable.
 
 The traffic laws in most states require the turning driver to yield to oncoming traffic that has the light or the right-of-way. But they don't require the oncoming driver to be paying attention. They don't require perfect reaction time. And they definitely don't assume fault just because you were turning.
 
@@ -53,7 +53,7 @@ The traffic laws in most states require the turning driver to yield to oncoming 
 
 This is the part I wish more people knew about before they got in an accident.
 
-**You're in a better position than you think if the other driver was speeding.** A lot of adjusters won't volunteer this, but if the oncoming car was doing 45 mph in a 35 zone, that fundamentally changes the math. You might have had a reasonable gap to turn that *would* have been safe at the posted speed limit. The fact that they were going faster changes the analysis. I had a case in Colorado where a woman turned left in front of an SUV that appeared to have adequate distance—until a traffic reconstruction expert clocked the SUV at 47 mph in a 30 mph zone. She wasn't found at fault. The case settled 70/30 in her favor.
+**You're in a better position than you think if the other driver was speeding.** A lot of adjusters won't volunteer this, but if the oncoming car was doing 45 mph in a 35 zone, that fundamentally changes the math. You might have had a reasonable gap to turn that *would* have been safe at the posted speed limit. The fact that they were going faster changes the analysis. I had a case in Colorado where a woman turned left in front of an SUV that appeared to have adequate distance, until a traffic reconstruction expert clocked the SUV at 47 mph in a 30 mph zone. She wasn't found at fault. The case settled 70/30 in her favor.
 
 **You're also in a better position if the oncoming driver wasn't paying attention.** This is huge. If you have any evidence that the other driver was on their phone, wasn't watching the road, or had obstructed visibility from their own car or from weather/road conditions, that matters. A lot. The oncoming driver has a duty to keep a proper lookout. If they failed that duty, the left-turn doctrine doesn't protect them just because they were going straight.
 
@@ -99,11 +99,11 @@ If you're ever in a left-turn collision, the *first* question you should ask (af
 
 I always tell people the same thing: assume you'll need proof. Don't assume the police report is accurate. Don't assume the other driver's insurance will be honest. Gather evidence at the scene if you can do so safely.
 
-Get photos of the traffic signals, the intersection geometry, and the road conditions. If it was raining, take a photo that shows that. If there was glare, note what time of day it was. Dashcam footage is gold—it settles questions about speed, timing, and visibility instantly. If you don't have a dashcam and you drive frequently, this might be the single best investment you can make. I've seen cases where video evidence cost $300 to buy and install, then saved the driver $15,000 in additional liability. Do the math.
+Get photos of the traffic signals, the intersection geometry, and the road conditions. If it was raining, take a photo that shows that. If there was glare, note what time of day it was. Dashcam footage is gold, it settles questions about speed, timing, and visibility instantly. If you don't have a dashcam and you drive frequently, this might be the single best investment you can make. I've seen cases where video evidence cost $300 to buy and install, then saved the driver $15,000 in additional liability. Do the math.
 
 Get witness information at the scene, if there are any. I prefer witnesses who were stationary, not in other cars. A person in a nearby building, a pedestrian on the corner, or a business owner on the street has a clearer view than another driver who might be focused on their own driving.
 
-Written or recorded statements from the other driver at the scene can matter too. If they admit they didn't see you, or that they were on their phone, get that on record. I'm not suggesting you interrogate them, but a simple "I'm just trying to understand what happened—did you see me before you hit me?" can yield surprising admissions.
+Written or recorded statements from the other driver at the scene can matter too. If they admit they didn't see you, or that they were on their phone, get that on record. I'm not suggesting you interrogate them, but a simple "I'm just trying to understand what happened, did you see me before you hit me?" can yield surprising admissions.
 
 Get the police report as soon as you can, and read it carefully. Police reports can be surprisingly sloppy. I've seen cases where the officer's diagram of the accident didn't match the physical evidence, or where the officer clearly didn't understand the traffic signal timing. If there are errors, corrections can be requested.
 
@@ -123,7 +123,7 @@ If you were in a left-turn accident that was probably your fault but maybe not e
 
 I want to give you a concrete example of how evidence can flip a case, because this happened to someone I knew personally.
 
-Sarah, a driver in Denver, turned left at a busy intersection around 4 p.m. An oncoming sedan hit her passenger side. The police report immediately blamed her for turning unsafely. The other driver's insurance was already claiming 100% fault on Sarah's part. Sarah thought it was open and shut—she'd made the turn, she was at fault, case closed.
+Sarah, a driver in Denver, turned left at a busy intersection around 4 p.m. An oncoming sedan hit her passenger side. The police report immediately blamed her for turning unsafely. The other driver's insurance was already claiming 100% fault on Sarah's part. Sarah thought it was open and shut, she'd made the turn, she was at fault, case closed.
 
 Then she checked her dashcam footage. The video showed her waiting for oncoming traffic, checking twice, and beginning her turn when the intersection appeared clear. The oncoming sedan appeared in the footage traveling much faster than the posted speed limit, and the driver's head was clearly down, consistent with phone use. By the time the sedan's driver would have seen Sarah's car, there was no distance left to brake. The video reconstruction expert later calculated the sedan was doing 48 mph in a 35 mph zone.
 
@@ -161,6 +161,6 @@ Sarah had that dashcam because an accident years earlier left her feeling vulner
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

@@ -13,16 +13,16 @@ author_bio: "Maya Rivera spent a decade working in insurance claims before concl
 slug: "why-insurance-company-denied-my-injury-claim"
 affiliate_disclosure: true
 faqs:
-  - q: "Can an insurance company deny my claim without investigating it?"
-    a: "Technically they can issue a denial, but doing so without a real investigation is one of the clearest signs of potential bad faith. Most state insurance regulations require insurers to conduct a reasonable investigation before denying a claim, and skipping that step can expose them to regulatory and legal consequences."
-  - q: "How long do I have to appeal a denied insurance claim?"
-    a: "This varies by state and by the type of claim. Many policies have internal appeal deadlines of 30 to 60 days from the denial letter. Your state's statute of limitations for a personal injury lawsuit is a separate clock that's also running. Talk to an attorney sooner rather than later because missing either deadline can seriously limit your options."
-  - q: "Should I accept a low settlement offer instead of fighting a denial?"
-    a: "Not without understanding what your claim is actually worth. A low offer after a denial is often a second attempt to close out a claim cheaply. Getting a free consultation with a personal injury attorney before you sign anything is almost always worth the hour it takes."
-  - q: "Does hiring an attorney really make a difference with a denied claim?"
-    a: "In my experience watching this from both sides: yes, meaningfully so. Insurers respond differently to represented claimants. Attorneys who handle personal injury cases generally know which arguments an insurer is likely to abandon and which ones they'll fight, and they can spot procedural and coverage issues that most people would miss entirely."
-  - q: "What if the denial was based on my own insurance policy, not the other driver's?"
-    a: "This is common in situations involving uninsured motorist coverage, underinsured motorist coverage, or med-pay claims on your own policy. The appeals process is similar, but the legal relationship is different since you're dealing with your own insurer. In some ways that creates stronger obligations on the insurer's part, and it also means bad faith claims can be easier to establish."
+ - q: "Can an insurance company deny my claim without investigating it?"
+ a: "Technically they can issue a denial, but doing so without a real investigation is one of the clearest signs of potential bad faith. Most state insurance regulations require insurers to conduct a reasonable investigation before denying a claim, and skipping that step can expose them to regulatory and legal consequences."
+ - q: "How long do I have to appeal a denied insurance claim?"
+ a: "This varies by state and by the type of claim. Many policies have internal appeal deadlines of 30 to 60 days from the denial letter. Your state's statute of limitations for a personal injury lawsuit is a separate clock that's also running. Talk to an attorney sooner rather than later because missing either deadline can seriously limit your options."
+ - q: "Should I accept a low settlement offer instead of fighting a denial?"
+ a: "Not without understanding what your claim is actually worth. A low offer after a denial is often a second attempt to close out a claim cheaply. Getting a free consultation with a personal injury attorney before you sign anything is almost always worth the hour it takes."
+ - q: "Does hiring an attorney really make a difference with a denied claim?"
+ a: "In my experience watching this from both sides: yes, meaningfully so. Insurers respond differently to represented claimants. Attorneys who handle personal injury cases generally know which arguments an insurer is likely to abandon and which ones they'll fight, and they can spot procedural and coverage issues that most people would miss entirely."
+ - q: "What if the denial was based on my own insurance policy, not the other driver's?"
+ a: "This is common in situations involving uninsured motorist coverage, underinsured motorist coverage, or med-pay claims on your own policy. The appeals process is similar, but the legal relationship is different since you're dealing with your own insurer. In some ways that creates stronger obligations on the insurer's part, and it also means bad faith claims can be easier to establish."
 ---
 
 Your claim just got denied. You're holding a letter full of policy language that somehow manages to say a lot without telling you anything useful, and you're probably feeling some combination of confused, angry, and a little defeated. That's a completely normal reaction. I've seen it on the faces of hundreds of people who sat across from me when I was adjusting claims, and I see it now every time someone reaches out after getting that letter.
@@ -35,7 +35,7 @@ Let me walk you through what's actually happening, why it happens more than it s
 
 ## The Real Reasons Claims Get Denied (And Why They're Not Always Legitimate)
 
-**Misconception**: Most people think insurance companies routinely deny valid claims to boost profits. But the data shows most claims are actually approved. According to the National Association of Insurance Commissioners (NAIC), the average claim denial rate across the insurance industry ranges from 8-12%, meaning roughly 88-92% of claims are paid. However, the misconception persists because denied claims are far more memorable and discussed than approvals. The real issue isn't systematic denial, but rather insufficient claim documentation and policyholder misunderstandings about coverage limits—problems that careful preparation can largely prevent.
+**Misconception**: Most people think insurance companies routinely deny valid claims to boost profits. But the data shows most claims are actually approved. According to the National Association of Insurance Commissioners (NAIC), the average claim denial rate across the insurance industry ranges from 8-12%, meaning roughly 88-92% of claims are paid. However, the misconception persists because denied claims are far more memorable and discussed than approvals. The real issue isn't systematic denial, but rather insufficient claim documentation and policyholder misunderstandings about coverage limits, problems that careful preparation can largely prevent.
 
 
 Insurance companies are required to give you a reason for a denial. What they're not required to do is make that reason easy to understand or even accurate. In my years as an adjuster, I watched legitimate claims get denied for reasons that ranged from genuinely valid to, frankly, opportunistic. Knowing the difference changes everything.
@@ -163,8 +163,8 @@ You've read this far, which tells me you're not ready to let this go. Good. The 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

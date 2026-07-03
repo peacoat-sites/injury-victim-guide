@@ -11,10 +11,7 @@ author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
 author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
 slug: "when-an-algorithm-decides-your-injury-claim-value"
-affiliate_disclosure: true
----
-
-If you're sitting with a settlement offer in your hand right now, trying to figure out whether it's fair, you're not alone. And if it feels like the number appeared out of nowhere, almost mechanical, you're probably more right than you know.
+affiliate_disclosure: true, If you're sitting with a settlement offer in your hand right now, trying to figure out whether it's fair, you're not alone. And if it feels like the number appeared out of nowhere, almost mechanical, you're probably more right than you know.
 
 Something significant is happening in the insurance industry, and it directly affects anyone who has been hurt in an accident. In March 2026, regulators from 12 states launched a coordinated audit, through the National Association of Insurance Commissioners, specifically targeting the AI systems insurers use to value claims and determine payouts. It's the first time government regulators have collectively turned their attention to software that, at this point, shapes the vast majority of bodily injury settlements in this country. A vote on a nationwide rollout is already scheduled for the NAIC's November 2026 fall meeting. That timeline matters. If you have a claim open right now, this is happening in real time.
 
@@ -96,6 +93,6 @@ The people writing the software that valued your claim have never met you. They 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
