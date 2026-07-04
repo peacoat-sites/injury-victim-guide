@@ -99,7 +99,5 @@
 {{- end }}
 
 {{/* title-font */}}
-{{- if eq .Section "posts" }}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@700;800&display=swap">
-<style>.post-title{font-family:'Spectral', Georgia, serif;letter-spacing:-.02em}</style>
-{{- end }}
+<style>:root{--serif:'Spectral', Georgia, serif}.post-title{letter-spacing:-.02em}</style>
