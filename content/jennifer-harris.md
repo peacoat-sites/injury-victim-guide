@@ -2,6 +2,7 @@
 title: "Jennifer Harris"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Legal Research Editor"
