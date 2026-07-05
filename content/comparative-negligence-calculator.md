@@ -1,5 +1,6 @@
 ---
 title: "Comparative Negligence Calculator: Estimate Your Injury Recovery"
+hide_title: true
 date: 2026-06-10
 slug: "comparative-negligence-calculator"
 description: "Use our free comparative negligence calculator to estimate how much you could recover after a personal injury — based on your state's fault rules."
