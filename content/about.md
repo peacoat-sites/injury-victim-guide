@@ -1,5 +1,6 @@
 ---
 title: "About Injury Victim Guide"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Injury Victim Guide,  meet Marcus Webb and learn about our mission to help injury victims understand their rights."
