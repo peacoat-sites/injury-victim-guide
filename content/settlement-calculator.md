@@ -1,5 +1,6 @@
 ---
 title: "Personal Injury Settlement Calculator — Estimate Your Case Value"
+hide_title: true
 slug: "personal-injury-settlement-calculator"
 date: 2026-06-10
 author: "Marcus Webb"
