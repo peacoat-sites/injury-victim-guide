@@ -88,3 +88,13 @@ The system isn't designed to explain itself to you. But once you understand what
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+
