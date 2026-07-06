@@ -5,7 +5,6 @@ date: 2026-06-10
 author: "Marcus Webb"
 description: "A searchable, state-by-state reference table of non-economic damage caps in personal injury and medical malpractice cases. Understand your state's limits before settling."
 categories: ["Legal Rights"]
-image: ""
 faqs:
   - q: "What are non-economic damages?"
     a: "Non-economic damages compensate for harms that can't be precisely measured in dollars — pain and suffering, emotional distress, loss of consortium, disfigurement, and reduced quality of life."
