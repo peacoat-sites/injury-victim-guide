@@ -7,6 +7,7 @@ description: "About Injury Victim Guide,  meet Marcus Webb and learn about our m
 layout: "about-page"
 author_slug: "denise-wallace"
 author_name: "Injury Victim Guide"
+person_name: "Marcus Webb"
 ---
 
 ## About Injury Victim Guide
