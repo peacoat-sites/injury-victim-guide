@@ -2,9 +2,9 @@
 title: "Injury Recovery Timelines & Expectations (Medical Data 2026)"
 image: "https://images.pexels.com/photos/9519544/pexels-photo-9519544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "Medical recovery timelines by injury type. ACL tear 12 months, fractured wrist 8 weeks, ankle sprain 3 weeks. Data from orthopedic research + clinical trials."
-author: "Dr. Jennifer Marshall"
-author_slug: "jennifer-marshall"
-author_title: "Sports Medicine Doctor, 11 years clinical practice"
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Legal Research Editor"
 date: 2026-06-28
 featured_depth: true
 categories: ["Injury Recovery", "Medical", "Health Data"]
