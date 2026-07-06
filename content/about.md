@@ -5,7 +5,7 @@ date: 2026-01-01
 draft: false
 description: "About Injury Victim Guide,  meet Marcus Webb and learn about our mission to help injury victims understand their rights."
 layout: "about-page"
-author_slug: "injury-victim-guide"
+author_slug: "denise-wallace"
 author_name: "Injury Victim Guide"---
 
 ## About Injury Victim Guide
