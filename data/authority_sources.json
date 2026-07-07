@@ -1,0 +1,22 @@
+[
+ {
+  "name": "National Highway Traffic Safety Administration (NHTSA)",
+  "url": "https://www.nhtsa.gov/",
+  "note": "Federal crash and vehicle-safety data"
+ },
+ {
+  "name": "CDC Injury Center",
+  "url": "https://www.cdc.gov/injury/",
+  "note": "Injury prevention and statistics"
+ },
+ {
+  "name": "American Bar Association",
+  "url": "https://www.americanbar.org/",
+  "note": "Consumer legal information"
+ },
+ {
+  "name": "Insurance Information Institute",
+  "url": "https://www.iii.org/",
+  "note": "Claims and insurance data"
+ }
+]
