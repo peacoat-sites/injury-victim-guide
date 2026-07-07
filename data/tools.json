@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Comparative Negligence",
+    "url": "/comparative-negligence-calculator/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Do Have Case",
+    "url": "/do-i-have-a-personal-injury-case/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Statute Limitations",
+    "url": "/personal-injury-statute-of-limitations-by-state/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Post Accident",
+    "url": "/post-accident-checklist/",
+    "icon": "\u2705"
+  },
+  {
+    "label": "Settlement Calc",
+    "url": "/personal-injury-settlement-calculator/",
+    "icon": "\ud83e\uddee"
+  }
+]
