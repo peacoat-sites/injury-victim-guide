@@ -14,8 +14,6 @@ slug: "how-insurers-use-hidden-ai-to-lowball-your-claim-in-2026"
 affiliate_disclosure: true
 ---
 
-# How Insurers Use Hidden AI to Lowball Your Claim in 2026
-
 Your insurance claim arrives at the adjuster's desk, but the adjuster isn't the first reviewer. A machine is. Before a human ever sees your file, an AI system has already assigned a settlement score, flagged you as high or low priority, and fed a low opening offer into the system for your adjuster to anchor around. This isn't theoretical anymore. It's happening now at three-quarters of major insurers, and most injured people have no idea it's occurring.
 
 Seventy-six percent of insurance companies are now using generative AI in daily operations, with automated systems handling 20 to 30 percent of standard claims without human eyes ever touching them. The companies deploying Perspective AI, Shift Technology, and Tractable report hitting 75 percent faster claim resolution with 30 to 40 percent cost cuts. That efficiency translates to one thing for you: lower settlements, faster rejections, and less negotiating room before the file closes.

@@ -25,8 +25,6 @@ faqs:
    a: "A protected left turn has a green left-turn arrow. You have the right-of-way; oncoming traffic has a red light and must stop. An unprotected left turn has a green light, but no arrow, you can turn, but you must yield to oncoming traffic with the green light. Protected turns almost always favor the left-turning driver in a collision. Unprotected turns usually put fault on the left-turning driver unless the other driver was speeding, running the light, or distracted."
 ---
 
-# Left Turn Accidents: Who Actually Gets Blamed (and Why It's Almost Never Straightforward)
-
 I spent twelve years sitting in adjusters' offices, reading police reports, and watching the same scenario play out in a hundred different ways. A left-turning driver and a driver going straight collide. Both drivers swear they had the light. Both their families insist the other person is lying. And I'd be there, pulling apart dashcam footage frame by frame, because honestly, the law on this isn't as clean as people think it is.
 
 Here's what surprised me: the most common assumption is completely backwards. Most people think that if you're turning left, you're automatically at fault. That's what insurance companies *want* you to believe. But that's not how the law actually works, and if you don't understand the real rules, you might accept a settlement that's way too low or give a statement that tanks your case before it even starts.
