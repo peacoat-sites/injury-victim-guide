@@ -3,11 +3,11 @@ title: "About Injury Victim Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Injury Victim Guide,  meet Marcus Webb and learn about our mission to help injury victims understand their rights."
+description: "About Injury Victim Guide,  meet Denise Wallace and learn about our mission to help injury victims understand their rights."
 layout: "about-page"
 author_slug: "denise-wallace"
 author_name: "Injury Victim Guide"
-person_name: "Marcus Webb"
+person_name: "Denise Wallace"
 ---
 
 ## About Injury Victim Guide
@@ -16,11 +16,9 @@ Injury Victim Guide is an independent information resource created to help peopl
 
 ## Meet the Editor
 
-**Marcus Webb** is the editor behind Injury Victim Guide.
+**Denise Wallace** is the editor behind Injury Victim Guide.
 
-Marcus spent more than a decade as a claims adjuster for a major property and casualty insurer, reviewing hundreds of personal injury claims across auto accidents, slip-and-falls, and workplace injuries. He watched what happened when claimants didn't understand the process: they accepted the first offer without knowing how settlements are calculated, gave recorded statements that weakened their own position, or missed deadlines that cost them their right to file.
-
-After leaving the industry, Marcus started writing about personal injury claims from the other side,  not for insurers, but for the people filing claims. Everything on this site is written from that perspective: what a real claimant needs to know, explained in plain language.
+Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim.
 
 ## What We Cover
 
@@ -37,7 +35,7 @@ Every guide on this site is:
 
 ## Important Disclaimer
 
-Injury Victim Guide is an informational resource. Marcus Webb is a former insurance professional and researcher,  not an attorney. **Nothing on this site constitutes legal advice.** Personal injury law varies significantly by state, and every case is different. We strongly encourage you to consult a licensed personal injury attorney before making any decisions about your claim.
+Injury Victim Guide is an informational resource. Denise Wallace is a former insurance professional and researcher,  not an attorney. **Nothing on this site constitutes legal advice.** Personal injury law varies significantly by state, and every case is different. We strongly encourage you to consult a licensed personal injury attorney before making any decisions about your claim.
 
 ## Affiliate Disclosure
 
