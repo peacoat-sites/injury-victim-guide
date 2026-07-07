@@ -21,8 +21,8 @@ faqs:
    a: "Not necessarily, and this is where I'd actually caution against the lump sum assumption. If your injuries are permanent and your medical costs are predictable and long-term, a structured settlement can be designed to mirror those costs precisely. The risk with a lump sum in that scenario is that the money gets spent, mismanaged, or eroded by market downturns right when you need it most for medical care. The structure removes that risk."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Insurance Analyst"
-author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+author_title: "Former Bodily-Injury Claims Adjuster"
+author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 
 ---
 *I've watched people cry in my office over a decision they made three years earlier.* Not because they were cheated, exactly. Because nobody sat down with them and explained what they were actually choosing between before they signed.

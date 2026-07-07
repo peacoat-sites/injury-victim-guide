@@ -21,8 +21,8 @@ faqs:
    a: "This is a real and growing issue, particularly in gig economy and construction contexts. Employers sometimes misclassify workers as independent contractors to avoid workers' comp obligations. The legal test for worker classification isn't what your contract says. It's how the work relationship actually functions, including who controls how you work, whether you use the employer's equipment, and whether this work is central to the employer's business. If you suspect misclassification, a workers' comp attorney or your state's labor department can help you challenge it."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You slipped on a wet floor at work, hit the ground hard, and now you're lying there wondering whether this counts as a workers' comp claim or a personal injury lawsuit. The answer is: it depends on who owns that wet floor. Most articles skip right past that distinction and cost people real money.

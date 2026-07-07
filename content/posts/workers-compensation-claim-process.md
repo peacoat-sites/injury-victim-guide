@@ -21,8 +21,8 @@ faqs:
     a: "Most states have a fund specifically for this situation, often called an 'uninsured employer fund' or similar. You may also be able to sue the employer directly in civil court, which bypasses the usual restrictions on suing employers. An attorney who knows your state's laws is really your best resource here."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Insurance Analyst"
-author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+author_title: "Former Bodily-Injury Claims Adjuster"
+author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 
 ---
 You filed the report, you iced the injury, and now you're sitting with a stack of paperwork you don't fully understand and a nagging worry that you're about to do something wrong. Maybe you've already heard a coworker say something like "they'll try to deny you" or "you need a lawyer immediately." Maybe you're afraid to say the wrong thing to your employer. Maybe you just want to know what actually happens next.

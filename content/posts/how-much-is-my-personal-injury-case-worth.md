@@ -21,8 +21,8 @@ faqs:
    a: "No, and most cases don't go to trial. The litigation process, meaning actually filing a lawsuit, often motivates insurance companies to take settlement discussions more seriously. But a filed lawsuit doesn't mean a trial. The vast majority of cases resolve through negotiation or mediation before a jury ever hears them. Filing is a tool, not a commitment to fighting it out in a courtroom."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Auto Accident Writer"
-author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+author_title: "Former Auto Claims Adjuster"
+author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 
 ---
 You're sitting in a hospital bed three days after a rear-end collision. The at-fault driver's insurance company calls and offers $4,500 to settle. Is that fair, or are they lowballing you? Most people have no idea, and the adjuster on the phone knows it. I spent 12 years as an adjuster before switching sides to help injury victims, and I can tell you that opening offer almost never reflects what a case is actually worth. Understanding how value gets calculated won't make you a lawyer. But it will stop you from making a decision you'll regret for years.

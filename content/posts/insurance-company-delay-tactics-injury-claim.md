@@ -21,8 +21,8 @@ faqs:
    a: "A demand letter is a written communication to the insurance company stating the facts of your claim, summarizing your damages, and naming a specific dollar amount you'll accept to settle. It's often the first formal step before litigation. You can write one yourself, but an attorney-drafted demand letter carries more weight and is less likely to inadvertently weaken your position. If your claim is relatively minor and straightforward, Nolo's personal injury resources have guidance on how to write one effectively on your own."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You filed the claim weeks ago. The adjuster seemed friendly on the phone, promised to "get back to you soon," and then... nothing. You call again. They're "still reviewing your file." Your medical bills are stacking up, you're missing work, and the insurance company keeps dangling the possibility of a settlement just far enough out of reach to keep you waiting. Sound familiar?

@@ -21,8 +21,8 @@ faqs:
    a: "It depends heavily on the severity of injuries, how quickly you reach maximum medical improvement, and how cooperative the insurer is. Minor claims with clear liability can resolve in a few months. Cases involving serious injuries, disputed fault, or litigation can take one to three years or longer. The pressure you'll feel to settle quickly is real, and it's almost always in the insurer's interest, not yours, to close the claim fast."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You're walking home from the grocery store, bags cutting into your fingers, crossing at a marked crosswalk with the walk signal. A driver runs the light, clips you, and suddenly the pavement is coming up fast. They get out, apologizes, says their insurance will "take care of everything." Three weeks later: fractured ankle, medical bills piling up, an insurance adjuster on the phone offering $1,800 to sign away all your rights. This happens thousands of times every year, and I've seen it from both sides.

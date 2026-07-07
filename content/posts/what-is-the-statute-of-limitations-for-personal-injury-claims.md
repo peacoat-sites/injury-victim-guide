@@ -21,8 +21,8 @@ faqs:
    a: "These situations complicate things but don't necessarily end your claim. If they had insurance, you may be able to pursue the claim through their insurer. If they died, you may be able to file against their estate. Bankruptcy triggers an automatic stay that might pause your ability to sue, but there are procedures for injury creditors within bankruptcy proceedings. This is one situation where you genuinely need a professional to sort out your specific options quickly, because the timelines can get compressed fast."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Auto Accident Writer"
-author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+author_title: "Former Auto Claims Adjuster"
+author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 
 ---
 Three years. That's the number I hear most often when people ask about deadlines for injury claims. And honestly? Three years lulls people into a dangerous sense of comfort, because in a lot of states the real deadline is two years, and in some situations it can be as short as six months.

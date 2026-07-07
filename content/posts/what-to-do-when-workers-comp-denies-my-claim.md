@@ -21,8 +21,8 @@ faqs:
    a: "Get an attorney before you accept anything. Settlement offers after a contested denial are sometimes fair and sometimes not. A lump-sum settlement typically closes out your claim permanently, meaning if your condition worsens later, you can't go back. That's a significant trade-off that deserves professional evaluation, not a decision you should make because you're exhausted and need the money now."
 author: "Denise Wallace"
 author_slug: "denise-wallace"
-author_title: "Workers Comp Writer"
-author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+author_title: "Former Workers' Comp Claims Adjuster"
+author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 
 ---
 Your denial letter arrived on a Tuesday. You probably read it three times trying to find the part where they explain the mistake, because surely this is a mistake. You hurt yourself at work. You reported it. You went to the doctor they sent you to. And now they're telling you no.

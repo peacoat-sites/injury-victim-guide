@@ -21,8 +21,8 @@ faqs:
    a: "Yes, it can. The Social Security Administration applies what's called a 'workers' comp offset' that can reduce your SSDI payments if your combined workers' comp and SSDI benefits exceed 80% of your pre-injury average earnings. How your settlement is structured, paid all at once versus spread over time, can affect the size of this offset. An attorney or a benefits counselor who understands both systems should review this before you finalize your settlement."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Auto Accident Writer"
-author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+author_title: "Former Auto Claims Adjuster"
+author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 
 ---
 If you've just been told your work injury is now "permanent disability," you're probably overwhelmed. A stack of paperwork you don't fully understand. A settlement number that sounds big but somehow feels wrong. Maybe the insurance company has gone silent and you have no idea what that means. Here's what matters before anything else: a permanent disability workers' comp settlement is one of the biggest financial decisions you'll ever make. The difference between fair and terrible often comes down to whether you understood the process before you signed.

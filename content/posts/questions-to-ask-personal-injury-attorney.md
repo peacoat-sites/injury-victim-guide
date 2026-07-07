@@ -21,8 +21,8 @@ faqs:
    a: "Bring everything you have: police or accident reports, medical records and bills, photos of injuries and the accident scene, insurance correspondence, your own written account of what happened, and any documentation of lost wages. The more a lawyer can see upfront, the more useful their assessment will be."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Insurance Analyst"
-author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+author_title: "Former Bodily-Injury Claims Adjuster"
+author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 
 ---
 Most people walk into a first consultation with a personal injury attorney and ask exactly one useful question: "Do I have a case?" That's not enough. Not even close.

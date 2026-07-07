@@ -21,8 +21,8 @@ faqs:
    a: "In most cases, once you've signed a release and cashed the check, it's over. That's exactly why insurers move quickly. There are rare exceptions, such as fraud or duress, but they're legally difficult to prove. If you signed recently and haven't cashed the check, contact an attorney immediately. If the settlement check is already cashed and the release is signed, your options are extremely limited."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Insurance Analyst"
-author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+author_title: "Former Bodily-Injury Claims Adjuster"
+author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 
 ---
 You open the envelope, and the number staring back at you is insultingly small. Maybe you've been out of work for six weeks, you've got $14,000 in medical bills, and the insurance company is offering you $3,500 to go away. That's not a negotiation. That's a test. They're checking whether you know what your claim is actually worth, or whether you'll just take the money and sign the release.

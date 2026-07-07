@@ -21,8 +21,8 @@ faqs:
    a: "Be very careful here. You are not legally required to give a recorded statement to the adverse insurer. They will use anything you say to minimize your claim. Statements like 'I'm feeling okay' in the immediate aftermath or minimizing your symptoms even slightly can and do get used against claimants. Speak with an attorney before agreeing to any recorded statement, especially if your injuries are more than minor."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Auto Accident Writer"
-author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+author_title: "Former Auto Claims Adjuster"
+author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 
 ---
 You rear-ended at a stoplight. The other driver apologizes, you feel fine, and you wave it off. Three days later you can't turn your head without a stabbing pain shooting down your neck and into your shoulder. Sound familiar? Here's the uncomfortable truth: whiplash is the most commonly disputed soft-tissue injury in personal injury claims, and insurance adjusters are trained, from day one, to minimize it. I know because I was one of them for 12 years. What your claim is actually worth in 2026 depends on a surprising number of factors that have nothing to do with how much pain you're in.

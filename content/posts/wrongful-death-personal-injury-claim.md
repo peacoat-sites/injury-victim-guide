@@ -21,8 +21,8 @@ faqs:
    a: "It can, significantly. Depending on your state's fault rules, shared liability can reduce your recovery or in rare cases eliminate it. But 'partial fault' arguments are also frequently used by insurance companies to lowball settlements, sometimes unfairly. Don't accept a fault determination from an insurer as the final word before getting an independent assessment."
 author: "Denise Wallace"
 author_slug: "denise-wallace"
-author_title: "Workers Comp Writer"
-author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+author_title: "Former Workers' Comp Claims Adjuster"
+author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 
 ---
 Someone you loved died because of another person's negligence. You're probably exhausted, you might be deep in grief, and somewhere in the middle of all that, someone told you that you might have a "wrongful death claim." And now you're sitting here trying to figure out what that even means while also trying to hold everything else together.

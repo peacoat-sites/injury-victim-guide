@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and for minor claims it may make sense. If your injuries were minor, treatment is complete, and the insurance company is offering what seems fair, you may not need representation. But be realistic about what you don't know. Insurance adjusters handle hundreds of claims a year. Most injured people handle one in a lifetime. For any claim involving significant injury, surgery, disability, lost wages, or disputed liability, having professional representation typically results in a better outcome, even after deducting attorney fees."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You wake up in a hospital bed after a car accident that wasn't your fault. A nurse hands you paperwork. Your phone has fourteen missed calls. Somewhere across town, an insurance adjuster is already opening a new claim file with your name on it. That adjuster's job, and I say this having done it for twelve years, is to close your file for as little money as possible. Your job is to understand what comes next before you make a single move that could hurt you.

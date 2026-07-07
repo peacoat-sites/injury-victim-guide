@@ -21,8 +21,8 @@ faqs:
    a: "Intent matters, but it's not always required. Many state bad faith statutes impose liability for unreasonable conduct regardless of whether the insurer intended to harm you. Systemic incompetence that results in your claim being mishandled can still be actionable. The question is whether the conduct was reasonable, not whether someone had evil intent."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Legal Research Editor"
-author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+author_title: "Former Claims Adjuster & Legal Researcher"
+author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
 ---
 Most people filing an insurance claim think the worst that'll happen is a settlement offer they have to negotiate. That's what costs injured people serious money.

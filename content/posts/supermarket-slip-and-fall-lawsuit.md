@@ -21,8 +21,8 @@ faqs:
    a: "An expression of sympathy or concern does not constitute a legal admission of liability. The manager saying 'I'm so sorry, are you okay?' is not the same as the store admitting negligence. That said, any statements made by store employees should be documented carefully in your written account, including who said what and when."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You're walking through the produce section, basket in hand, thinking about what to make for dinner. Then your foot hits a wet patch near the misted vegetable display, and everything happens in less than a second. You're on the floor, your hip is screaming, and a teenage stock clerk is standing over you asking if you're okay. By the time you get home from the urgent care, the soreness has deepened into something that makes you wonder if this is going to be a bigger deal than you first thought.

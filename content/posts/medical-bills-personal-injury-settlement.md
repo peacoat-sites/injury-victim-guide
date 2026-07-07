@@ -21,8 +21,8 @@ faqs:
     a: "In almost every case, yes. When you sign a settlement release, you're releasing all future claims related to that injury, even if your condition worsens unexpectedly. This is why it's so important not to settle before your doctors have a clear picture of your long-term prognosis. Settling too early is one of the most common and most costly mistakes I see."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You're probably staring at a stack of medical bills right now, wondering whether the settlement check you're waiting on is actually going to cover any of it. Maybe you've already gotten the check and you're not sure why there's less money than you expected. Both situations are incredibly common, and both come with a confusion that nobody warned you about when this whole thing started.

@@ -21,8 +21,8 @@ faqs:
    a: "Maximum medical improvement, often abbreviated MMI, is the point at which your doctor determines your condition has stabilized. You may still have ongoing issues, but your treatment has reached a plateau. This matters enormously because once you settle, you typically can't go back for more money even if your condition worsens. Settling before MMI means you might not know yet whether you'll need future surgery, physical therapy, or long-term medication. Waiting until you or your doctor have a clear picture of your future medical needs is almost always the right move, even when the wait is frust"
 author: "Denise Wallace"
 author_slug: "denise-wallace"
-author_title: "Workers Comp Writer"
-author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+author_title: "Former Workers' Comp Claims Adjuster"
+author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 
 ---
 You open the envelope, see the number, and your stomach drops. The insurance company is offering you $4,200 for an accident that totaled your car, sent you to the ER, and kept you out of work for three weeks. That number doesn't come close to covering your medical bills alone. Here's what most people don't realize: that first offer is almost never the final offer. Insurance companies count on you not knowing that.

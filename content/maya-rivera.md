@@ -5,8 +5,8 @@ layout: "author-page"
 hide_title: true
 author_name: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Insurance Analyst"
-author_specialty: "Insurance Claims & Settlement Research"
+author_title: "Former Bodily-Injury Claims Adjuster"
+author_specialty: "Settlement Valuation & Insurance Negotiation"
 ---
 
-Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case.
+Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice.

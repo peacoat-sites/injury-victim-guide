@@ -21,8 +21,8 @@ faqs:
    a: "For minor fractures with small medical bills and clear liability, some people successfully handle their own claims. But for anything involving surgery, significant lost wages, permanent hardware, lasting pain, or disputed fault, having legal representation almost always makes financial sense. Personal injury attorneys who handle these cases charge contingency fees, typically 33 percent pre-litigation and higher if the case goes to trial. Even after that fee, represented claimants typically recover more than unrepresented ones on comparable injuries."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Insurance Analyst"
-author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+author_title: "Former Bodily-Injury Claims Adjuster"
+author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 
 ---
 You just got the call from the insurance adjuster. Your arm is still in a cast, the hospital bills are piling up on the kitchen table, and this person on the phone is throwing out a number that sounds like it might be fair, but you honestly have no idea. That moment, right there, is exactly why understanding broken bone settlements matters before you need the information, not after.

@@ -21,8 +21,8 @@ faqs:
    a: "Workers' comp law is genuinely specialized. The rules, deadlines, fee structures, and hearing procedures are completely different from a car accident case or slip and fall. A general personal injury attorney can point you in the right direction, but for the actual appeal, find someone who does workers' comp regularly. It makes a real difference."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Legal Research Editor"
-author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+author_title: "Former Claims Adjuster & Legal Researcher"
+author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
 ---
 Your claim got denied. That piece of paper feels like the end of the road. It isn't.

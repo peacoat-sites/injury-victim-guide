@@ -21,8 +21,8 @@ faqs:
    a: "Yes, in meaningful ways. A criminal conviction for DUI or reckless driving establishes facts in the civil case that the defendant can't reliably re-litigate. It also signals to the insurance company that egregious conduct is in the record, which can open the door to punitive damages discussions. Criminal charges don't automatically resolve your civil case, and the two proceedings run separately, but a conviction is powerful evidence that shifts the entire negotiation dynamic."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Auto Accident Writer"
-author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+author_title: "Former Auto Claims Adjuster"
+author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 
 ---
 Picture this: two people are rear-ended at the same intersection, one week apart, by drivers who ran the same red light. Both suffer whiplash. Both miss two weeks of work. One settles for $18,000. The other walks away with $74,000. Same accident type, same injury label, wildly different outcomes. What's the difference? It almost never comes down to luck. It comes down to the specific factors that made one claim more compelling, more documented, and harder for the insurance company to minimize.

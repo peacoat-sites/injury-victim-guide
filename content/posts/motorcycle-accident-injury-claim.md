@@ -8,8 +8,8 @@ categories: ["Other Injury Types"]
 tags: ["motorcycle", "accident", "injury", "claim"]
 author: "Denise Wallace"
 author_slug: "denise-wallace"
-author_title: "Workers Comp Writer"
-author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+author_title: "Former Workers' Comp Claims Adjuster"
+author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 slug: "motorcycle-accident-injury-claim"
 affiliate_disclosure: true
 faqs:

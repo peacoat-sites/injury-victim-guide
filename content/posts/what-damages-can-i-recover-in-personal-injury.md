@@ -21,8 +21,8 @@ faqs:
    a: "The vast majority of personal injury claims settle before trial. Estimates vary, but most sources suggest roughly 95% of civil cases settle out of court. That said, having an attorney prepared to go to trial often produces significantly better settlement offers. Insurance companies know when the person across the table is willing to walk into a courtroom, and it changes the math."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Legal Research Editor"
-author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+author_title: "Former Claims Adjuster & Legal Researcher"
+author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
 ---
 You've just left the emergency room with a fractured wrist, a prescription for pain medication, and a bill for $4,200. The driver who ran the red light has insurance. So now what? Most people in that moment have one burning question: what can I actually get paid for? The answer is almost always broader than they expect, and I've watched countless people leave money on the table simply because they didn't know what to ask for.

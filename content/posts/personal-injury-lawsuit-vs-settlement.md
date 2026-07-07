@@ -21,8 +21,8 @@ faqs:
    a: "In most cases, the answer is no, at least not without having the offer reviewed by an attorney who understands your full medical picture. First offers are often initial negotiating positions, not final ones. That said, there are situations where a first offer is genuinely fair, particularly in clear-cut cases with limited damages. The key is knowing the difference, which is hard to do without professional guidance."
 author: "Denise Wallace"
 author_slug: "denise-wallace"
-author_title: "Workers Comp Writer"
-author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+author_title: "Former Workers' Comp Claims Adjuster"
+author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 
 ---
 You're sitting in a hospital bed, arm in a cast, replaying the moment a distracted driver ran a red light and changed your life in seconds. The insurance adjuster calls within 48 hours, friendly as a neighbor, offering you a check that sounds significant until you realize you haven't even seen a specialist yet. Do you take it? Do you sue? Most injury victims have no idea how different those two paths really are, and choosing the wrong one too fast can cost you far more than the accident itself.

@@ -21,8 +21,8 @@ faqs:
     a: "This comes up more often than you'd think. People are shaken, they want to minimize the situation, they don't feel the full extent of their injury in the moment. A statement saying you weren't hurt at the scene doesn't permanently bar your claim, but it does create a hurdle. The insurer will use it. The best approach is to be honest going forward, document when symptoms appeared or worsened, and get legal advice sooner rather than later."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You're standing in a grocery store aisle, one moment upright and the next on the floor, stunned, your hip throbbing, a wet produce bag near your hand that nobody bothered to clean up. Or maybe it happened at a neighbor's apartment complex, or a big-box retail store with a freshly mopped floor and no warning sign in sight. However it happened, you're probably reading this from an uncomfortable place, physically and emotionally, wondering whether you even have a case, whether it's worth the trouble, and what on earth you're supposed to do next. That's exactly where we're going to start.

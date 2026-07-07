@@ -4,7 +4,7 @@ image: "https://images.pexels.com/photos/9519544/pexels-photo-9519544.jpeg?auto=
 description: "Medical recovery timelines by injury type. ACL tear 12 months, fractured wrist 8 weeks, ankle sprain 3 weeks. Data from orthopedic research + clinical trials."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Legal Research Editor"
+author_title: "Former Claims Adjuster & Legal Researcher"
 date: 2026-06-28
 featured_depth: true
 categories: ["Injury Recovery", "Medical", "Health Data"]

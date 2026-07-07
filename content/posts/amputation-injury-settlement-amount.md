@@ -21,8 +21,8 @@ faqs:
    a: "Yes, significantly. Workers' compensation claims are generally capped under state statutory schedules and don't include pain and suffering damages, while third-party personal injury claims (against a negligent driver, manufacturer, or property owner) allow for a much broader range of damages. If your workplace amputation involved defective equipment, you may have both a workers' comp claim and a product liability claim running simultaneously, which can substantially increase your total recovery."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Legal Research Editor"
-author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+author_title: "Former Claims Adjuster & Legal Researcher"
+author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
 ---
 Most people I talk to after a catastrophic injury have already made at least one serious mistake with their claim before they ever call an attorney. They've given a recorded statement to the insurance adjuster. They've accepted a quick "goodwill" payment that quietly released part of their claim. They've posted a photo on Instagram trying to prove they're coping okay.

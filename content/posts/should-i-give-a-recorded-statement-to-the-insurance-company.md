@@ -21,8 +21,8 @@ faqs:
    a: "Avoid any speculation about fault ('I might have been going too fast'), any minimizing of your symptoms ('it's not that bad'), any reference to prior injuries without legal guidance, and any agreement with the adjuster's summary of what you said. Stick to direct observations: what you saw, what you felt, what happened step by step. If you don't know or don't remember, say exactly that."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Legal Research Editor"
-author_bio: "Jennifer Harris is a legal researcher who spent years working alongside personal injury attorneys before turning that knowledge into consumer-facing content. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims understand what they are dealing with before their first consultation. At Injury Victim Guide, she covers the claims process, legal terminology, and how to document and protect a case from day one."
+author_title: "Former Claims Adjuster & Legal Researcher"
+author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
 ---
 You got a call from an insurance adjuster asking for a recorded statement. Maybe it came the same day as the accident, maybe a week later. Either way, you're probably sitting with that uneasy feeling of not knowing whether saying yes is the right move, and whether saying no will make you look guilty of something.

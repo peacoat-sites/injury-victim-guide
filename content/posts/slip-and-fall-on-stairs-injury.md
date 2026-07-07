@@ -21,8 +21,8 @@ faqs:
    a: "In most states, yes. Under comparative negligence rules, your compensation is reduced by your percentage of fault, but you can often still recover something. A handful of states still use contributory negligence, which can bar recovery if you're found even slightly at fault. An attorney familiar with your state's rules can tell you where you stand."
 author: "Denise Wallace"
 author_slug: "denise-wallace"
-author_title: "Workers Comp Writer"
-author_bio: "Denise Wallace spent years helping workers navigate the workers compensation system after her own workplace injury taught her how opaque and adversarial that process could be. She writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide, she covers workers compensation claims, return-to-work disputes, and what to do when an employer pushes back on a legitimate injury claim."
+author_title: "Former Workers' Comp Claims Adjuster"
+author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 
 ---
 Three steps from the bottom. That's where most stair falls happen, and I can tell you that from twelve years of reading accident reports, not from a brochure.

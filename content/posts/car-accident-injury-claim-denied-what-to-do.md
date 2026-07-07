@@ -21,8 +21,8 @@ faqs:
    a: "Most personal injury attorneys take car accident cases on contingency, meaning you pay nothing unless they recover money for you. The fee comes out of the settlement or verdict. This structure exists specifically so that people without resources can access legal representation. A free consultation costs you nothing and gives you information to make a better decision."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You filed the claim. You waited. You did everything they told you to do. And then the letter arrived: *denied*. I've watched this moment land on people like a gut punch, and I want to be honest with you, the denial letter is not the end of the road. Not even close. What most injury claimants don't realize is that insurance companies deny valid claims every single day, sometimes because of a genuine coverage issue, but often because a denial costs them nothing and betting that you'll give up costs them very little. Understanding why your claim was denied, and what you can actually do about it, changes everything.

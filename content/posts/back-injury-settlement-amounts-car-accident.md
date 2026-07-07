@@ -21,8 +21,8 @@ faqs:
    a: "Rarely, and almost never on a serious injury. First offers are typically opening positions designed to close claims cheaply. They routinely undervalue future treatment, permanent impairment, and pain and suffering. Get the offer in writing, don't respond immediately, and consult with a personal injury attorney before you decide anything."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Auto Accident Writer"
-author_bio: "Lisa Anderson brings firsthand experience to her writing on auto accident claims, having navigated a complex multi-vehicle accident settlement herself. She turned that difficult experience into a careful study of how auto accident claims work, what information matters, and how to avoid the common mistakes that reduce settlements. At Injury Victim Guide, she covers car accident documentation, dealing with the at-fault driver's insurer, and when to involve an attorney."
+author_title: "Former Auto Claims Adjuster"
+author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 
 ---
 You're sitting in the ER two days after a rear-end collision, waiting for the doctor to read your MRI, and a thought keeps creeping in: *what is this actually going to be worth?* It's a completely human question, and nobody blames you for thinking it. Medical bills are already arriving, your boss is asking when you're coming back, and the other driver's insurance company called this morning wanting a recorded statement. Here's the uncomfortable truth the insurance industry doesn't advertise: back injuries are the single most disputed category of soft-tissue and structural injuries in car accident claims, and the gap between what insurers initially offer and what cases ultimately settle for can be enormous.

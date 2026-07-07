@@ -21,8 +21,8 @@ faqs:
     a: "Submit a written HIPAA-compliant request (most providers have a form). Follow up in writing, noting the date of your original request. If a provider is unresponsive, your state's health department or the Office for Civil Rights within HHS handles HIPAA complaints. An attorney handling your claim can also send a request on your behalf, which tends to move faster."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Insurance Analyst"
-author_bio: "Maya Rivera spent a decade working in insurance claims before concluding that most policyholders were at a significant informational disadvantage. She now writes about the claims process from a consumer perspective, helping injury victims understand how insurers evaluate claims and what factors affect settlement offers. At Injury Victim Guide, she covers claim submission, negotiation basics, and what to expect from the insurance side of a personal injury case."
+author_title: "Former Bodily-Injury Claims Adjuster"
+author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 
 ---
 Most evidence checklists for personal injury claims read like they were written by someone who has never actually sat across from an insurance adjuster. They tell you to "gather documentation" and "keep records." Thanks. Very helpful.

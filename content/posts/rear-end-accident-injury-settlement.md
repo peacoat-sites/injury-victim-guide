@@ -21,8 +21,8 @@ faqs:
    a: "Rarely. First offers from insurance adjusters are opening positions, not final offers. They're calculated to close the file quickly and cheaply. In my experience, first offers on soft tissue claims frequently don't account for the full cost of ongoing treatment, lost wages, or pain and suffering. Get the offer in writing, don't respond immediately, and consult an attorney before accepting anything."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Patient Advocate"
-author_bio: "Rachel Thompson works as a patient advocate helping injury victims navigate the medical system during recovery. She helps people understand their treatment options, medical billing, and how to document injuries effectively for both health and legal purposes. At Injury Victim Guide, she covers medical documentation, navigating healthcare after an injury, and the intersection of medical treatment and legal claims."
+author_title: "Former Claims Adjuster & Patient Advocate"
+author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 
 ---
 You're sitting at a red light. Full stop. Then: impact. The other driver hit you from behind, and now your neck hurts, your car is crumpled, and someone at the insurance company is already calling to ask how you're feeling. That call isn't courtesy. It's strategy.
