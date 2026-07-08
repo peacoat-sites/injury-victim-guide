@@ -1,5 +1,5 @@
 ---
-title: "Workplace Slip And Fall Injury Claim"
+title: "Slip And Fall At Work: Your Claim Rights Explained"
 date: 2026-05-22T11:52:57.844470+00:00
 draft: false
 description: "Injured in a workplace slip and fall? Learn how to file a successful injury claim, understand your legal rights, and get the compensation you deserve."
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You slipped on a wet floor at work, hit the ground hard, and now you're lying there wondering whether this counts as a workers' comp claim or [a personal injury lawsuit](/slip-and-fall-injury-claim-process/). The answer is: it depends on who owns that wet floor. Most articles skip right past that distinction and cost people real money.
 

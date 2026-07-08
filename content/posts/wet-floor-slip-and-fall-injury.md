@@ -1,5 +1,5 @@
 ---
-title: "Wet Floor Slip And Fall Injury"
+title: "Wet Floor Slip and Fall: Your Legal Rights Explained"
 date: 2026-05-26T01:42:15.046367+00:00
 draft: false
 description: "Slipped on a wet floor? Learn about your legal rights, how to prove negligence, and how to pursue compensation for your slip and fall injury today."
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You were just trying to get from point A to point B. Maybe it was a grocery store aisle, a hotel lobby, or a restaurant bathroom. One second you were upright, and the next you were on the floor, confused, in pain, and probably embarrassed. If that sounds familiar, you're not alone. The Centers for Disease Control and Prevention reports that slip and fall accidents are the leading cause of emergency room visits in the United States, and wet floors are one of the most common culprits. What happens in the days and weeks after that fall matters enormously, and most people have no idea where to start.
 

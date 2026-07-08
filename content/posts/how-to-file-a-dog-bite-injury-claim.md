@@ -1,5 +1,5 @@
 ---
-title: "How To File A Dog Bite Injury Claim"
+title: "Dog Bite Claims: Get Compensation for Your Injuries"
 date: 2026-07-05T12:44:41.344179+00:00
 draft: false
 description: "Learn how to file a dog bite injury claim step by step. Discover what evidence to gather, how to negotiate with insurers, and maximize your compensation."

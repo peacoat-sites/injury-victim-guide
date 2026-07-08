@@ -1,5 +1,5 @@
 ---
-title: "How To Negotiate Higher Personal Injury Settlement"
+title: "Maximize Your Injury Settlement: 7 Negotiation Tactics"
 date: 2026-05-25T16:30:56.383813+00:00
 draft: false
 description: "Discover proven strategies to negotiate a higher personal injury settlement. Learn how to value your claim, counter lowball offers, and maximize your compensati"
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You submitted a claim. The insurance adjuster reviewed it, ran it through their system, and sent back a number. It feels official. It looks final. But here's what most people don't know: that first offer is almost never the best offer. In my 12 years adjusting claims, I watched insurance companies routinely open with figures 30 to 50 percent below what they were ultimately authorized to pay. The adjuster isn't trying to be cruel. They're doing their job, which is to close your claim for as little as possible. Your job is to push back, and push back smart.
 

@@ -1,5 +1,5 @@
 ---
-title: "Average Settlement For Whiplash Injury 2026"
+title: "What Your Whiplash Claim Could Be Worth in 2026"
 date: 2026-06-27T12:19:37.145130+00:00
 draft: false
 description: "Discover average whiplash injury settlement amounts in 2026, what factors affect compensation, and how to maximize your personal injury claim payout."
@@ -23,7 +23,7 @@ faqs:
    a: "In most states, yes. Most states use some form of comparative fault, which reduces your recovery by your percentage of fault rather than eliminating it entirely. So if you're found 20% at fault and your damages are $50,000, you'd recover $40,000. A handful of states still use contributory negligence, which can bar recovery if you were at all at fault. This is one of the reasons knowing your state's rules matters."
  - q: "Should I accept the first offer from the insurance company?"
    a: "Almost never. The first offer is almost always a lowball number designed to close the claim cheaply before you understand what your case is worth or before your medical picture is complete. Accepting it means you can't go back. If you're in active treatment, you probably haven't reached maximum medical improvement yet, which means you don't actually know your full damages. Getting a second opinion on your claim's value, from an attorney if nothing else, before accepting anything is worth the time."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Somebody rear-ends you at a red light. You feel fine enough to drive home. Then you wake up the next morning and can't turn your head without a shooting pain that runs from your neck down into your shoulder blade. Sound familiar? I've seen this exact scenario play out hundreds of times, first as an adjuster reviewing claims for a major carrier, now talking to the people on the other side of those claims. And the question I hear most often is some version of: "What is my case worth?"

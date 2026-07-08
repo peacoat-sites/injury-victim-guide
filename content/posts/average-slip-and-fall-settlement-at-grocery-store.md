@@ -1,5 +1,5 @@
 ---
-title: "Average Slip And Fall Settlement At Grocery Store"
+title: "Grocery Store Fall Settlements: What You Should Know"
 date: 2026-06-18T14:23:16.763612+00:00
 draft: false
 description: "Learn what average slip and fall settlements at grocery stores are worth, what factors affect payouts, and how to maximize your injury claim."
@@ -23,7 +23,7 @@ faqs:
    a: "A wet floor sign doesn't automatically defeat your claim. Placement matters, whether it was visible from your approach angle matters, and whether the hazard was adequately addressed or just marked matters. These are fact-specific questions worth discussing with an attorney rather than assuming the sign kills your case."
  - q: "Will I have to go to court?"
    a: "Most grocery store slip and fall claims settle before trial. Somewhere in the range of 95% of personal injury cases resolve without a jury verdict. That said, having an attorney willing and prepared to litigate is exactly what creates settlement pressure, so 'unlikely to go to court' isn't the same as 'your attorney doesn't need to be ready for it.'"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most articles about grocery store slip and fall settlements open with a headline number, "$30,000 to $50,000 is typical", then spend 800 words saying almost nothing useful. That number isn't wrong exactly. It's just stripped of every variable that actually determines what your case is worth.
 

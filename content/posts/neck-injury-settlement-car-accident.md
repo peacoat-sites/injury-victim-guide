@@ -1,5 +1,5 @@
 ---
-title: "Neck Injury Settlement Car Accident"
+title: "Neck Injury Settlement: What You Can Actually Expect"
 date: 2026-05-25T14:20:14.426491+00:00
 draft: false
 description: "Injured your neck in a car accident? Learn what affects settlement amounts, average payouts, and how to maximize your compensation with the right legal steps."
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in a parking lot, heart still racing, and the back of your neck is already starting to tighten. The other driver is apologetic. You feel mostly okay, so you wave it off, exchange insurance information, and drive home. Three days later, you can't turn your head without a sharp, shooting pain that wakes you up at 2 a.m. What happens next? And what is that injury actually worth to an insurance company? Those are the two questions this article is really about.
 

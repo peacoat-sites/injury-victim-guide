@@ -1,5 +1,5 @@
 ---
-title: "How Long Do Personal Injury Cases Take"
+title: "Timeline for Settling a Personal Injury Claim"
 date: 2026-05-24T17:32:33.335569+00:00
 draft: false
 description: "Find out how long personal injury cases typically take to settle or go to trial, what factors affect timelines, and how to speed up your claim process."
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You filed the insurance claim two weeks ago. The adjuster has gone quiet. Your medical bills are stacking up, your car still isn't fixed, and someone told you these cases "can take years." That's sometimes true. But a minor rear-end collision with clear liability and a few thousand dollars in damages might settle in six to eight weeks. A complex case involving a traumatic brain injury, disputed fault, and multiple defendants can stretch three to five years. The range is that wide, and understanding what drives it can help you make smarter decisions right now.
 

@@ -1,5 +1,5 @@
 ---
-title: "Insurance Company Delay Tactics Injury Claim"
+title: "Insurance Delays: How to Fight Back on Your Injury Claim"
 date: 2026-05-30T10:55:37.845015+00:00
 draft: false
 description: "Learn how insurance companies use delay tactics to stall injury claims, and discover proven strategies to fight back and secure the compensation you deserve fas"
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You filed the claim weeks ago. The adjuster seemed friendly on the phone, promised to "get back to you soon," and then... nothing. You call again. They're "still reviewing your file." Your medical bills are stacking up, you're missing work, and the insurance company keeps dangling the possibility of a settlement just far enough out of reach to keep you waiting. Sound familiar?
 

@@ -1,5 +1,5 @@
 ---
-title: "Pre-Existing Injury Personal Injury Claim"
+title: "Can Pre-Existing Injuries Derail Your Claim?"
 date: 2026-06-18T14:25:46.554717+00:00
 draft: false
 description: "Learn how pre-existing injuries affect personal injury claims, what compensation you may still receive, and how to protect your rights after an accident."
@@ -23,6 +23,7 @@ faqs:
    a: "They will try to. Broad medical authorization forms can give them access to records going back decades, much of which has no relevance to your injury. An attorney can often negotiate or limit the scope of what you're required to produce to records relevant to the body parts at issue."
  - q: "What kind of doctor's opinion matters most in these cases?"
    a: "The treating physician who has actually examined you over time carries the most weight, usually. But for cases involving disputed causation, an independent medical examination by a specialist (orthopedist, neurologist, physiatrist) who can speak directly to whether the accident aggravated your prior condition can be decisive. Make sure any expert retained on your behalf has reviewed your complete pre-accident records, not just the post-accident ones."
+lastmod: 2026-07-08
 ---
 You're probably reading this because someone told you your pre-existing condition is going to tank your case. Maybe it was the insurance adjuster who called three days after your accident, sounding almost apologetic as he mentioned your old back injury. Maybe it was a well-meaning friend. Either way, you're sitting here wondering if the game's already over.
 

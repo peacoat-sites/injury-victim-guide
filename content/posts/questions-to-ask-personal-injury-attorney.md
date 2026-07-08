@@ -1,5 +1,5 @@
 ---
-title: "Questions To Ask Personal Injury Attorney"
+title: "Essential Questions To Ask Your Injury Attorney"
 date: 2026-06-10T14:30:25.790469+00:00
 draft: false
 description: "Discover the essential questions to ask a personal injury attorney before hiring one, so you can find the best legal representation and maximize your compensati"
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people walk into a first consultation with a personal injury attorney and ask exactly one useful question: "Do I have a case?" That's not enough. Not even close.
 

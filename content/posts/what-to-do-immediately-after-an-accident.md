@@ -1,5 +1,5 @@
 ---
-title: "What To Do Immediately After An Accident"
+title: "The First 24 Hours After an Accident: A Legal Checklist"
 date: 2026-05-24T10:17:36.127300+00:00
 draft: false
 description: "Stay safe and protect your legal rights. Learn the essential steps to take immediately after an accident, from calling 911 to documenting the scene and notifyin"
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people leave a car accident convinced they handled it perfectly. Exchange insurance cards, snap a few photos, drive home rattled but relieved. Then six weeks later: a letter from the other driver's insurance company claiming *they* caused it. Or a [settlement offer](/how-personal-injury-settlements-work/) that covers maybe one hospital visit. I spent 12 years adjusting claims, and I'm telling you straight, the moves you make in the first 60 minutes will either protect you completely or haunt you for years.
 

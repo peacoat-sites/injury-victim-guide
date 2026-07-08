@@ -1,5 +1,5 @@
 ---
-title: "Permanent Disability Workers Comp Settlement"
+title: "How Permanent Disability Workers Comp Settlements Work"
 date: 2026-06-02T12:56:25.200077+00:00
 draft: false
 description: "Get the facts on permanent disability workers comp settlements, including how payouts are calculated, what affects your amount, and how to maximize your compens"
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you've just been told your work injury is now "permanent disability," you're probably overwhelmed. A stack of paperwork you don't fully understand. A settlement number that sounds big but somehow feels wrong. Maybe the insurance company has gone silent and you have no idea what that means. Here's what matters before anything else: a permanent disability workers' comp settlement is one of the biggest financial decisions you'll ever make. The difference between fair and terrible often comes down to whether you understood the process before you signed.
 

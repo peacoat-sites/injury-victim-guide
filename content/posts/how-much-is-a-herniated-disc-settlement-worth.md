@@ -1,5 +1,5 @@
 ---
-title: "How Much Is A Herniated Disc Settlement Worth"
+title: "Herniated Disc Settlements: What Your Claim Is Worth"
 date: 2026-06-15T16:23:40.472153+00:00
 draft: false
 description: "Discover what a herniated disc settlement is worth. Learn key factors that affect compensation and what victims typically receive in personal injury cases."
@@ -12,7 +12,7 @@ author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 slug: "how-much-is-a-herniated-disc-settlement-worth"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people find me after they've already blown it. They settled too fast, they didn't keep the right records, or they took whatever the insurance adjuster dangled at them because it seemed like real money until the third batch of physical therapy invoices arrived.
 

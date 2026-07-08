@@ -1,5 +1,5 @@
 ---
-title: "Delayed Injury Symptoms After Car Accident"
+title: "When Car Accident Injuries Show Up Days Later"
 date: 2026-05-27T05:23:59.217483+00:00
 draft: false
 description: "Learn why car accident injuries like whiplash and concussions often appear days later, and why seeking immediate medical attention protects your health and lega"

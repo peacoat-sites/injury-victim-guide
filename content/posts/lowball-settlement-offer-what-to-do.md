@@ -1,5 +1,5 @@
 ---
-title: "Lowball Settlement Offer What To Do"
+title: "Don't Accept That Lowball Settlement Offer Yet"
 date: 2026-05-27T01:13:59.002420+00:00
 draft: false
 description: "If you receive a lowball settlement offer, learn your rights and strategic options to negotiate effectively and maximize your compensation recovery."
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-08
 ---
 You open the envelope, and the number staring back at you is insultingly small. Maybe you've been out of work for six weeks, you've got $14,000 in medical bills, and the insurance company is offering you $3,500 to go away. That's not a negotiation. That's a test. They're checking whether you know what your claim is actually worth, or whether you'll just take the money and sign the release.
 

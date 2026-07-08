@@ -1,5 +1,5 @@
 ---
-title: "How To Choose A Personal Injury Lawyer"
+title: "Choosing Your Injury Lawyer: 5 Critical Questions"
 date: 2026-07-07T13:27:00.038472+00:00
 draft: false
 description: "Learn how to choose a personal injury lawyer with tips on experience, fees, communication, and reputation to win the compensation you deserve."

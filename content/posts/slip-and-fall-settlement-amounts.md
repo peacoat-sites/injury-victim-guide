@@ -1,5 +1,5 @@
 ---
-title: "Slip And Fall Settlement Amounts"
+title: "How Much Is Your Slip And Fall Case Worth?"
 date: 2026-05-18T22:16:45.345645+00:00
 draft: false
 description: "Find out what slip and fall settlement amounts look like, what factors affect your payout, and how to maximize compensation after an accident on someone else's "
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're standing in the grocery store parking lot, soaking wet from a broken drainage pipe nobody bothered to fix, your ankle throbbing in a way that tells you something is seriously wrong. A store employee hands you an incident report form, and somewhere in the back of your mind you're already wondering: what is this actually worth? I've spent more than two decades watching that question get answered badly, first from the insurance side where I helped companies pay as little as possible, and now from the side of people who deserve fair compensation. The number that shows up on a settlement check varies wildly, and understanding why is the most useful thing you can do right now.
 

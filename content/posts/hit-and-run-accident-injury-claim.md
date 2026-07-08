@@ -1,5 +1,5 @@
 ---
-title: "Hit And Run Accident Injury Claim"
+title: "Hit and Run Injury Claims: Know Your Rights"
 date: 2026-05-20T21:01:11.822548+00:00
 draft: false
 description: "Hit and run accident injuries can be devastating. Learn how to file a claim, gather evidence, and protect your legal rights with our expert guide."

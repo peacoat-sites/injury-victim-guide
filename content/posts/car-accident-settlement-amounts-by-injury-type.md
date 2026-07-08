@@ -1,5 +1,5 @@
 ---
-title: "Car Accident Settlement Amounts By Injury Type"
+title: "How Much Is Your Car Accident Injury Worth"
 date: 2026-05-21T06:03:55.708726+00:00
 draft: false
 description: "Find out typical car accident settlement amounts by injury type, including whiplash, broken bones, TBI, and more, to understand what your claim may be worth."
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in the hospital, arm in a cast, still shaken from the crash. A claims adjuster calls within 48 hours, friendly voice, quick offer. You have no idea if the number they mention is fair, low, or embarrassingly insulting. Most people don't. And that gap in knowledge costs injury victims real money every single year.
 

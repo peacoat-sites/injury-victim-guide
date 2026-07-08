@@ -1,5 +1,5 @@
 ---
-title: "Is Personal Injury Settlement Taxable"
+title: "Do You Owe Taxes on Your Injury Settlement?"
 date: 2026-06-03T14:11:51.112082+00:00
 draft: false
 description: "Find out if your personal injury settlement is taxable. Learn which compensation is tax-free, what the IRS rules say, and when you may owe taxes on your award."
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people think a personal injury settlement is basically free money. Walk away with $200,000, keep $200,000. That assumption is mostly right. But the "mostly" part? That's where people get blindsided.
 

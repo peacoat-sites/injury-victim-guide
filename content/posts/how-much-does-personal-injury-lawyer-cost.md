@@ -1,5 +1,5 @@
 ---
-title: "How Much Does Personal Injury Lawyer Cost"
+title: "What Personal Injury Lawyers Really Charge"
 date: 2026-07-04T12:18:17.353248+00:00
 draft: false
 description: "Learn what personal injury lawyers charge, including contingency fees, hourly rates, and hidden costs, so you can budget confidently before hiring."

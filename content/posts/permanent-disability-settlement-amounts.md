@@ -1,5 +1,5 @@
 ---
-title: "Permanent Disability Settlement Amounts"
+title: "How Permanent Disability Settlements Get Calculated"
 date: 2026-05-23T03:15:20.478589+00:00
 draft: false
 description: "Permanent Disability Settlement Amounts: Learn how settlements are calculated, typical award ranges, and factors affecting your claim payout."

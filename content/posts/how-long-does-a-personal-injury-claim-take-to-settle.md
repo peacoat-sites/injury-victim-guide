@@ -1,5 +1,5 @@
 ---
-title: "How Long Does A Personal Injury Claim Take To Settle"
+title: "How Long Your Injury Claim Really Takes to Settle"
 date: 2026-06-09T13:49:23.417285+00:00
 draft: false
 description: "Wondering how long a personal injury claim takes to settle? Discover the key factors affecting timelines, from liability disputes to medical recovery, and what "
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three months. That's what the adjuster told Maria when she called to check on her rear-end collision claim. Three months turned into eleven. By the time her case settled, she'd missed two car payments, borrowed money from her mother, and had a collection notice from her physical therapist sitting on the kitchen table.
 

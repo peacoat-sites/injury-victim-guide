@@ -1,5 +1,5 @@
 ---
-title: "What Percentage Do Personal Injury Lawyers Take 2026"
+title: "What Personal Injury Lawyers Actually Charge"
 date: 2026-06-24T13:29:08.672529+00:00
 draft: false
 description: "Personal injury lawyers typically take 33% of your settlement. Learn how contingency fees work and what factors affect the percentage attorneys charge."
@@ -23,7 +23,7 @@ faqs:
    a: "Because the attorney's workload increases dramatically once litigation begins: discovery, depositions, motions, potentially trial prep. The higher rate after filing compensates for that additional risk and labor. It's standard, but it's a strong incentive for both sides to settle before that milestone."
  - q: "Are personal injury lawyer fees regulated by the state?"
    a: "In some states, yes. New York, Florida, California, and New Jersey, among others, have statutory rules or caps for certain case types, particularly medical malpractice. Always ask your attorney whether state regulations apply to your specific case type."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about personal injury lawyer fees bury the only number you actually need: **33%**. They spend 800 words circling it, then hedge so hard you leave knowing nothing useful. Let's skip that.

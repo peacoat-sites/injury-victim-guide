@@ -1,5 +1,5 @@
 ---
-title: "Catastrophic Injury Lawsuit Process"
+title: "Your Guide To Winning A Catastrophic Injury Case"
 date: 2026-06-02T12:53:59.048680+00:00
 draft: false
 description: "Learn how catastrophic injury lawsuits work, from filing a claim to settlement or trial. Understand your legal rights and steps to pursue maximum compensation."
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-08
 ---
 You're sitting in a hospital room, three weeks after a construction crane dropped a steel beam on your spouse's car. The bills are already past $200,000. The insurance adjuster called yesterday, friendly as a neighbor, offering a settlement that won't cover next year's care, let alone the next decade. You have no idea what you're supposed to do next. And every article you've found online either reads like a law school textbook or a billboard ad.
 

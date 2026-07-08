@@ -1,5 +1,5 @@
 ---
-title: "Pedestrian Accident Injury Claim"
+title: "How To Win Your Pedestrian Accident Injury Claim"
 date: 2026-06-01T15:35:19.721602+00:00
 draft: false
 description: "Learn how to make a pedestrian accident injury claim, what compensation you may be entitled to, and the key steps to take after being injured on the road."
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-08
 ---
 You're walking home from the grocery store, bags cutting into your fingers, crossing at a marked crosswalk with the walk signal. A driver runs the light, clips you, and suddenly the pavement is coming up fast. They get out, apologizes, says their insurance will "take care of everything." Three weeks later: fractured ankle, medical bills piling up, an insurance adjuster on the phone offering $1,800 to sign away all your rights. This happens thousands of times every year, and I've seen it from both sides.
 

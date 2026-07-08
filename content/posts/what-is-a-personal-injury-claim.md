@@ -1,5 +1,5 @@
 ---
-title: "What Is A Personal Injury Claim"
+title: "How Personal Injury Claims Work: A Claimant's Guide"
 date: 2026-05-20T17:54:18.255842+00:00
 draft: false
 description: "Find out what a personal injury claim is, how the process works, and what compensation you could be entitled to if you've been injured due to someone else's neg"
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in an urgent care waiting room, ice pack on your wrist, replaying the moment you slipped on that unmarked wet floor at the grocery store. The manager handed you an incident report form, the staff was polite, and now you're wondering: do I have a case? What does "filing a personal injury claim" even mean? Most people have heard the phrase a hundred times, but very few understand what actually happens when you pursue one.
 

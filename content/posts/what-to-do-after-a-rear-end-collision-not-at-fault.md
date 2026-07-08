@@ -1,5 +1,5 @@
 ---
-title: "What To Do After A Rear End Collision Not At Fault"
+title: "Hit From Behind? Here's Your Next Move"
 date: 2026-06-17T14:30:23.842441+00:00
 draft: false
 description: "Learn exactly what steps to take after a rear end collision that wasn't your fault, from documenting the scene to filing your insurance claim."
@@ -23,7 +23,7 @@ faqs:
    a: "For the insurance claim itself, report it promptly, usually within days. For a personal injury lawsuit, each state has a 'statute of limitations,' which is the legal deadline to file. It's commonly two to three years from the accident date, but it varies by state and sometimes by who the defendant is. Don't assume you have unlimited time."
  - q: "Should I post about the accident on social media?"
    a: "No. Not even a vague 'had a rough day, got rear-ended' post. Insurance adjusters and defense attorneys do look at social media, and anything you post, even something completely innocent, can be taken out of context or used to suggest your injuries aren't serious. Keep it offline until everything is fully resolved."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Someone rear-ends you at a stoplight. You weren't doing anything wrong. And somehow, within 48 hours, you're drowning in phone calls from adjusters, confused about your own insurance, and second-guessing whether your neck pain is serious or just stress. I've watched this exact scenario spiral into real financial harm for people who did absolutely nothing wrong, and it happens because nobody tells you the rules before the game starts.
 

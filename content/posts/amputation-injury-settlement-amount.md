@@ -1,5 +1,5 @@
 ---
-title: "Amputation Injury Settlement Amount"
+title: "What Amputation Injuries Are Really Worth"
 date: 2026-06-11T14:55:38.465817+00:00
 draft: false
 description: "Discover what factors affect amputation injury settlement amounts, including medical costs, lost wages, and pain and suffering, to understand your potential com"

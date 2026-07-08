@@ -1,5 +1,5 @@
 ---
-title: "Personal Injury Claim Process Step By Step"
+title: "Your Complete Guide to Filing a Personal Injury Claim"
 date: 2026-05-19T12:08:30.985168+00:00
 draft: false
 description: "Learn how the personal injury claim process works step by step, from gathering evidence and filing your claim to negotiating a settlement or taking your case to"
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You wake up in a hospital bed after a car accident that wasn't your fault. A nurse hands you paperwork. Your phone has fourteen missed calls. Somewhere across town, an insurance adjuster is already opening a new claim file with your name on it. That adjuster's job, and I say this having done it for twelve years, is to close your file for as little money as possible. Your job is to understand what comes next before you make a single move that could hurt you.
 

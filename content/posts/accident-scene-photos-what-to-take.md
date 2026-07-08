@@ -1,5 +1,5 @@
 ---
-title: "Accident Scene Photos What To Take"
+title: "Photos That Protect Your Injury Claim"
 date: 2026-06-27T12:22:06.429883+00:00
 draft: false
 description: "Learn exactly which accident scene photos to take after a crash to protect your claim and document damage, injuries, and road conditions effectively."
@@ -23,7 +23,7 @@ faqs:
    a: "Video is a great supplement but a poor substitute. A steady photo captures detail that video often misses, especially at close range. Use both: a slow walking-around video for context, then systematic still photos for detail."
  - q: "What if I was too injured to take photos at the scene?"
    a: "Get someone else to go back as soon as possible, ideally within hours. Ask a friend, a family member, anyone who can get there quickly. Have them document everything they can. Even photos taken hours later can show skid marks, road conditions, and debris. It's not ideal, but it's far better than nothing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people take three photos at an accident scene. A shot of the cars, a shot of the other driver's license plate, maybe one more. Then they put their phone away, convinced they've handled it.

@@ -1,5 +1,5 @@
 ---
-title: "Nursing Home Abuse Personal Injury Claim"
+title: "Nursing Home Abuse: How to Prove Your Claim"
 date: 2026-06-13T13:01:07.443534+00:00
 draft: false
 description: "Discover how to file a nursing home abuse personal injury claim, protect your loved ones, and secure the compensation they deserve with expert legal guidance."
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-08
 ---
 Roughly 91,000 complaints about nursing home abuse and neglect get filed in the United States every year, according to federal data. I'll be straight with you: when I was adjusting claims on the insurance side, nursing home cases made me genuinely uncomfortable. Not because they were legally complex, though they are. Because I watched families who were already grieving, already guilt-ridden about placing a loved one in a facility, walk into the claims process completely unprepared and get worn down by it.
 

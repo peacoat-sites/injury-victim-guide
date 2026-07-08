@@ -1,5 +1,5 @@
 ---
-title: "How To Document Injuries After Accident"
+title: "Document Your Injury the Right Way After an Accident"
 date: 2026-05-22T01:21:39.599804+00:00
 draft: false
 description: "Learn how to properly document injuries after an accident with our step-by-step guide. Protect your legal rights and strengthen your claim with the right eviden"
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You took the ibuprofen, iced your neck, and figured you'd feel better in a couple of days. Six weeks later you're still in pain, your medical bills are climbing, and the insurance adjuster is on the phone telling you there's "no documentation" of your injuries right after the accident. That scenario plays out thousands of times every year, and it costs injured people real money. Thorough, timely documentation is the single most controllable factor in what happens to your claim. Here's how to do it right.
 

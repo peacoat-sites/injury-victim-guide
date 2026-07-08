@@ -1,5 +1,5 @@
 ---
-title: "Medical Malpractice Claim Process"
+title: "How To Build A Winning Medical Malpractice Claim"
 date: 2026-06-15T16:25:37.790633+00:00
 draft: false
 description: "Learn how to file a medical malpractice claim step by step, from gathering evidence to working with attorneys and navigating the legal process."
@@ -23,6 +23,7 @@ faqs:
    a: "Most malpractice attorneys work on contingency, meaning you pay nothing unless you recover. They typically advance the costs for experts, filing fees, and depositions, then recoup those costs from any settlement or verdict. Make sure you understand your fee agreement clearly, including what happens to case costs if you lose."
  - q: "Can I sue a hospital instead of just the individual doctor?"
    a: "Sometimes, yes. If the negligent provider was an employee of the hospital (not an independent contractor), or if the hospital's own policies or procedures contributed to the harm, the hospital can be named as a defendant. Some hospitals try to characterize their providers as independent contractors specifically to limit liability, so this question often requires careful investigation."
+lastmod: 2026-07-08
 ---
 Most people think medical malpractice works like this: something goes wrong, you call a lawyer, the hospital apologizes and cuts a check. I spent 12 years reviewing claims on the insurance side, and I can tell you that almost never happens. Medical malpractice is one of the most contested, drawn-out, brutally difficult categories of personal injury law in the country. The average case that actually reaches trial takes three to five years. Many never do.
 

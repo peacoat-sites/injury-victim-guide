@@ -1,5 +1,5 @@
 ---
-title: "Recorded Statement Insurance Adjuster Tips"
+title: "What Your Recorded Statement Can Cost You in Court"
 date: 2026-06-05T12:23:32.984271+00:00
 draft: false
 description: "Learn how to handle a recorded statement with an insurance adjuster. Discover key tips to protect your rights and avoid costly mistakes after filing a claim."
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-08
 ---
 The call takes less than ten minutes. And it can cost you tens of thousands of dollars.
 

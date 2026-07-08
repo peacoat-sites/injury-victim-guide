@@ -1,5 +1,5 @@
 ---
-title: "Insurance Adjuster Tactics To Watch Out For"
+title: "How Insurance Adjusters Minimize Your Injury Claim"
 date: 2026-06-16T16:06:43.636050+00:00
 draft: false
 description: "Learn the common insurance adjuster tactics used to minimize your claim payout and how to protect yourself during the settlement process."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, genuinely. Even posts that seem unrelated to your injuries can be taken out of context. Adjusters and defense attorneys review public social media as a standard part of claim investigation. Set your accounts to private, and be cautious about posting anything depicting physical activity until your claim is fully resolved."
  - q: "When should I hire a personal injury attorney?"
    a: "The more serious your injury, the more you need one. If you've been hospitalized, if you're missing significant work, if there's any dispute about fault, or if the first settlement offer seems low relative to what you've been through, a free consultation costs you nothing and could change the outcome significantly. Most personal injury attorneys work on contingency, meaning they only get paid if you do."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people filing an injury claim are already losing before the adjuster says hello.
 

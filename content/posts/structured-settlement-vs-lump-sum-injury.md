@@ -1,5 +1,5 @@
 ---
-title: "Structured Settlement Vs Lump Sum Injury"
+title: "Lump Sum vs. Structured: Which Settlement Pays More"
 date: 2026-06-05T12:21:41.493884+00:00
 draft: false
 description: "Unsure whether to choose a structured settlement or lump sum after an injury? Compare both options to find which payment method best suits your financial needs."
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 *I've watched people cry in my office over a decision they made three years earlier.* Not because they were cheated, exactly. Because nobody sat down with them and explained what they were actually choosing between before they signed.
 

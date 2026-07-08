@@ -1,5 +1,5 @@
 ---
-title: "Rear End Accident Injury Settlement"
+title: "Rear End Accident Claims: What Your Settlement Covers"
 date: 2026-05-19T22:08:40.390879+00:00
 draft: false
 description: "Get the compensation you deserve after a rear end accident. Learn what factors affect your injury settlement amount and how to maximize your claim today."
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting at a red light. Full stop. Then: impact. The other driver hit you from behind, and now your neck hurts, your car is crumpled, and someone at the insurance company is already calling to ask how you're feeling. That call isn't courtesy. It's strategy.
 

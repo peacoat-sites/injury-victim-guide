@@ -1,5 +1,5 @@
 ---
-title: "Ice And Snow Slip And Fall Claim"
+title: "Hold Property Owners Liable For Ice And Snow Injuries"
 date: 2026-05-21T13:05:44.516246+00:00
 draft: false
 description: "Injured in an ice or snow slip and fall accident? Find out how to make a successful compensation claim and what evidence you need to support your case."
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You walked across that parking lot a hundred times before. Then one morning, under a thin glaze of ice that looked like nothing more than wet pavement, your feet went out and the ground came up fast. Maybe you grabbed for something that wasn't there. Maybe you don't even remember the fall itself, just the sudden shock of cold pavement and the slow realization that something was wrong. If that's where you are right now, or if it happened recently and you're still sorting out what to do, you're in the right place. According to [the CDC's injury data](https://www.cdc.gov/injury/wisqars/), falls are the leading cause of nonfatal injuries treated in emergency rooms in the United States, and winter slips on ice and snow account for a significant portion of those visits every single year. That number isn't abstract when you're the one who fell.
 

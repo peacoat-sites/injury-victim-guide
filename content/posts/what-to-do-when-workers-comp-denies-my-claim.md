@@ -1,5 +1,5 @@
 ---
-title: "What To Do When Workers Comp Denies My Claim"
+title: "Your Workers Comp Claim Was Denied: Next Steps"
 date: 2026-06-03T14:09:56.822331+00:00
 draft: false
 description: "Find out what steps to take when workers comp denies your claim, including how to appeal the decision, gather evidence, and protect your rights effectively."
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your denial letter arrived on a Tuesday. You probably read it three times trying to find the part where they explain the mistake, because surely this is a mistake. You hurt yourself at work. You reported it. You went to the doctor they sent you to. And now they're telling you no.
 

@@ -1,5 +1,5 @@
 ---
-title: "What Damages Can I Recover In Personal Injury"
+title: "What Damages You Can Actually Recover After Injury"
 date: 2026-05-19T00:53:40.851971+00:00
 draft: false
 description: "Injured due to someone else's negligence? Learn what damages you may recover in a personal injury claim, including medical bills, lost wages, and pain and suffe"
@@ -24,6 +24,7 @@ author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 
+lastmod: 2026-07-08
 ---
 You've just left the emergency room with a fractured wrist, a prescription for pain medication, and a bill for $4,200. The driver who ran the red light has insurance. So now what? Most people in that moment have one burning question: what can I actually get paid for? The answer is almost always broader than they expect, and I've watched countless people leave money on the table simply because they didn't know what to ask for.
 

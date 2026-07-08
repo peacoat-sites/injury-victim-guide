@@ -1,5 +1,5 @@
 ---
-title: "Medical Records Personal Injury Case"
+title: "How Medical Records Strengthen Your Injury Claim"
 date: 2026-06-23T13:47:28.141395+00:00
 draft: false
 description: "Learn how medical records support your personal injury case, what to request, and how attorneys use them to prove damages and strengthen your claim."
@@ -23,6 +23,7 @@ faqs:
    a: "Yes, and be honest about your history. Nothing damages attorney-client trust faster than a surprise pre-existing condition that surfaces during discovery. Your attorney can only protect you from information they know about in advance."
  - q: "How do medical billing records differ from clinical records, and do I need both?"
    a: "Clinical records contain your diagnoses, treatment notes, imaging reports, and physician observations. Billing records show what was charged and what the codes were. You need both. Billing records support your damages calculation, and inconsistencies between clinical and billing records are sometimes used by defense attorneys to challenge treatment necessity."
+lastmod: 2026-07-08
 ---
 
 Your doctor's office just called to say your records request will take "four to six weeks." You've already been waiting three weeks. Your attorney keeps asking for them. The insurance adjuster has already made a lowball offer, and your settlement timeline is stacking up against a statute of limitations you don't fully understand. This is the moment most injury victims realize they should have started collecting their medical records on day one.

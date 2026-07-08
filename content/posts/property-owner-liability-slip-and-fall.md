@@ -1,5 +1,5 @@
 ---
-title: "Property Owner Liability Slip And Fall"
+title: "When Property Owners Are Liable for Slip and Fall Injuries"
 date: 2026-05-24T09:24:26.600976+00:00
 draft: false
 description: "Find out when property owners are legally liable for slip and fall accidents, what victims must prove, and how to protect your rights after an injury."
@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You slipped on a wet floor at a grocery store, caught yourself on a display rack, and felt something pop in your shoulder. The manager handed you an incident report, apologized, and offered you a coupon. Now you're home with a sling, a stack of medical bills, and a growing suspicion that a coupon isn't going to cover a torn rotator cuff. You're right. It won't.
 

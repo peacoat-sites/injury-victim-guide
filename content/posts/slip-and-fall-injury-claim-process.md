@@ -1,5 +1,5 @@
 ---
-title: "Slip And Fall Injury Claim Process"
+title: "How To Win Your Slip And Fall Injury Claim"
 date: 2026-05-19T05:16:42.628664+00:00
 draft: false
 description: "Learn how to file a slip and fall injury claim, what steps to follow, and how to maximize your compensation with our clear, easy-to-understand guide."
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're standing in a grocery store aisle, one moment upright and the next on the floor, stunned, your hip throbbing, a wet produce bag near your hand that nobody bothered to clean up. Or maybe it happened at a neighbor's apartment complex, or a big-box retail store with a freshly mopped floor and no warning sign in sight. However it happened, you're probably reading this from an uncomfortable place, physically and emotionally, wondering whether you even have a case, whether it's worth the trouble, and what on earth you're supposed to do next. That's exactly where we're going to start.
 

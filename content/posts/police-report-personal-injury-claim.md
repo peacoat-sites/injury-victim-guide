@@ -1,5 +1,5 @@
 ---
-title: "Police Report Personal Injury Claim"
+title: "How Police Reports Strengthen Your Injury Claim"
 date: 2026-06-26T13:20:47.449663+00:00
 draft: false
 description: "Learn how a police report strengthens your personal injury claim, what information it contains, and how to obtain a copy to support your case."
@@ -23,7 +23,7 @@ faqs:
    a: "The report itself doesn't trigger the need for an attorney. Whether you need one depends on the severity of your injuries, the clarity of fault, and how aggressively the insurer is pushing back. Minor claims with clear liability and modest medical bills are often handled without an attorney. Serious injuries, disputed fault, or a report with errors that matter? Get a consultation at minimum."
  - q: "Can errors in a police report be corrected?"
    a: "Yes, for factual errors (wrong name, plate number, address, street name). You file an amendment request with the records division, usually in writing with supporting documents, and a supplement gets added to the file. For narrative or opinion-based errors, the path is more difficult. You typically can't force an officer to change their observations, but you can build a counter-record of evidence that tells a more complete story."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about police reports and personal injury claims tell you to "get a copy of the report and share it with your attorney." Thanks. Very helpful. What they skip is the part where the report contains a factual error that's quietly killing your case, or where the adjuster is reading a line you've never even seen.

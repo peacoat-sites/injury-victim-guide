@@ -1,5 +1,5 @@
 ---
-title: "How Insurance Companies Calculate Settlements"
+title: "What Your Insurance Company Actually Uses to Calculate Your Settlement"
 date: 2026-05-26T08:26:20.576759+00:00
 draft: false
 description: "Find out how insurance companies calculate settlements, including the key factors that affect your payout, from medical costs to liability and negotiation tacti"
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You filed a claim after a rear-end collision left you with whiplash, a totaled car, and three weeks of missed work. The other driver was clearly at fault. So why did the insurance company just offer you $4,200 when your medical bills alone are $6,800? That gap isn't an accident. It's math, and it's deliberate. Understanding the formula behind that offer is the first step to knowing whether you should take it, negotiate it, or get a lawyer involved.
 

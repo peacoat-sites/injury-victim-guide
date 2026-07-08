@@ -1,5 +1,5 @@
 ---
-title: "Personal Injury Claim Evidence Checklist"
+title: "Evidence You Need To Win Your Injury Claim"
 date: 2026-06-14T13:05:14.764942+00:00
 draft: false
 description: "Discover exactly what evidence you need to win your personal injury claim. Use our expert checklist to gather proof, strengthen your case and maximise compensat"
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most evidence checklists for personal injury claims read like they were written by someone who has never actually sat across from an insurance adjuster. They tell you to "gather documentation" and "keep records." Thanks. Very helpful.
 

@@ -1,5 +1,5 @@
 ---
-title: "Do I Have A Personal Injury Case"
+title: "Do You Have A Valid Injury Case? Key Signs To Know"
 date: 2026-05-26T02:21:23.968329+00:00
 draft: false
 description: "Find out if you have a personal injury case. Learn the key factors that determine eligibility, from proving negligence to documenting damages, and protect your "
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-08
 ---
 You're sitting in the hospital waiting room, ice pack on your knee, replaying the moment the grocery store floor sent you sliding across the tile. Or maybe you're home three days after a car accident, realizing the soreness isn't fading like you expected. Either way, the same question keeps circling: *do I actually have a case, or am I just wasting everyone's time?*
 

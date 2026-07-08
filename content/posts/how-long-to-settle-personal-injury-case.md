@@ -1,5 +1,5 @@
 ---
-title: "How Long To Settle Personal Injury Case"
+title: "How Long Does A Personal Injury Claim Really Take?"
 date: 2026-06-19T14:25:08.859361+00:00
 draft: false
 description: "Learn how long it takes to settle a personal injury case, from a few months to several years, and what factors affect your timeline."
@@ -23,7 +23,7 @@ faqs:
    a: "You can, but I'd strongly encourage you to at least reach MMI and consult with an attorney before making that decision. Accepting a low offer to resolve things quickly is one of the most common regrets I've heard from injury victims. Once you sign a release, there's no renegotiating."
  - q: "What happens if the other driver's insurance isn't offering enough and negotiations stall?"
    a: "Your attorney can file a lawsuit, which shifts the pressure significantly and opens up discovery tools that may uncover evidence useful to your case. Most cases still settle after suit is filed but before trial. Filing is not a sign things have gone wrong; sometimes it's exactly the right move to get a fair result."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume their personal injury case will settle in a few months. I'll be honest: that assumption causes more frustration, more bad decisions, and more money left on the table than almost anything else I saw in my 12 years adjusting claims.

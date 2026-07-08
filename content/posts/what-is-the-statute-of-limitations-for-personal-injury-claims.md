@@ -1,5 +1,5 @@
 ---
-title: "What Is The Statute Of Limitations For Personal Injury Claims"
+title: "How Long You Have To Sue After An Injury"
 date: 2026-06-13T12:59:10.486958+00:00
 draft: false
 description: "Discover how long you have to file a personal injury claim. Learn about statute of limitations deadlines, key exceptions, and why acting quickly protects your l"
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three years. That's the number I hear most often when people ask about deadlines for injury claims. And honestly? Three years lulls people into a dangerous sense of comfort, because in a lot of states the real deadline is two years, and in some situations it can be as short as six months.
 

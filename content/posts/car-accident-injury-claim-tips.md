@@ -1,5 +1,5 @@
 ---
-title: "Car Accident Injury Claim Tips"
+title: "Get Maximum Compensation From Your Car Accident Claim"
 date: 2026-05-29T18:18:27.592077+00:00
 draft: false
 description: "Car accident injury claims can be complex. Learn essential tips for documenting evidence, dealing with insurance, and maximizing your compensation settlement."

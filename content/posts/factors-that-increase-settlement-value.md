@@ -1,5 +1,5 @@
 ---
-title: "Factors That Increase Settlement Value"
+title: "What Boosts Your Personal Injury Settlement Value"
 date: 2026-05-20T01:01:33.138143+00:00
 draft: false
 description: "Factors that increase settlement value include injury severity, medical expenses, lost wages, liability clarity, and expert testimony. Learn what impacts your c"
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-08
 ---
 Picture this: two people are rear-ended at the same intersection, one week apart, by drivers who ran the same red light. Both suffer whiplash. Both miss two weeks of work. One settles for $18,000. The other walks away with $74,000. Same accident type, same injury label, wildly different outcomes. What's the difference? It almost never comes down to luck. It comes down to the specific factors that made one claim more compelling, more documented, and harder for the insurance company to minimize.
 

@@ -1,5 +1,5 @@
 ---
-title: "Insurance Company Settlement Too Low What To Do"
+title: "Fight Back Against a Low Settlement Offer"
 date: 2026-05-30T10:57:37.125492+00:00
 draft: false
 description: "Received a low insurance settlement offer? Learn your options, how to negotiate effectively, and when to hire an attorney to get the compensation you deserve."
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You open the envelope, see the number, and your stomach drops. The insurance company is offering you $4,200 for an accident that totaled your car, sent you to the ER, and kept you out of work for three weeks. That number doesn't come close to covering your medical bills alone. Here's what most people don't realize: that first offer is almost never the final offer. Insurance companies count on you not knowing that.
 

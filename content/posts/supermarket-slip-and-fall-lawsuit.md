@@ -1,5 +1,5 @@
 ---
-title: "Supermarket Slip And Fall Lawsuit"
+title: "What You're Owed After a Supermarket Fall"
 date: 2026-05-28T12:36:38.723034+00:00
 draft: false
 description: "Injured in a supermarket slip and fall? Learn how to file a lawsuit, prove negligence, and recover compensation for medical bills, lost wages, and pain and suff"
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're walking through the produce section, basket in hand, thinking about what to make for dinner. Then your foot hits a wet patch near the misted vegetable display, and everything happens in less than a second. You're on the floor, your hip is screaming, and a teenage stock clerk is standing over you asking if you're okay. By the time you get home from the urgent care, the soreness has deepened into something that makes you wonder if this is going to be a bigger deal than you first thought.
 

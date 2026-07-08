@@ -1,5 +1,5 @@
 ---
-title: "Medical Records Release Sign Or Not"
+title: "Should You Sign That Medical Records Release?"
 date: 2026-07-04T12:20:19.186551+00:00
 draft: false
 description: "Learn when to sign a medical records release form, what your rights are, and how to protect your privacy before authorizing access to your health information."
@@ -23,7 +23,7 @@ faqs:
     a: "Generally, no. Psychotherapy notes have heightened HIPAA protections and require specific, separate authorization beyond a standard medical release. If mental health treatment isn't directly at issue in your claim, you have a strong basis to exclude those records. An attorney can help you assert that protection."
   - q: "If I have an attorney, can I still be contacted directly about signing a release?"
     a: "Once you have legal representation, the opposing insurer and their attorneys are typically prohibited from contacting you directly about your claim under professional conduct rules. All communications, including release requests, should go through your lawyer. If someone contacts you directly after you've retained counsel, tell your attorney immediately."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The [insurance adjuster](/insurance-adjuster-tactics-to-watch-out-for/) on the other side of your claim is not your friend. I know that sounds harsh, but after 12 years of sitting in that chair, I can tell you exactly what happens when an injured person signs a broad medical records release without reading it first: the adjuster pulls records going back five, sometimes ten years, finds an old back strain from 2017, and uses it to argue your current herniated disc is "pre-existing." Claim value drops. Sometimes dramatically.

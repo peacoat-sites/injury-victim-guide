@@ -1,5 +1,5 @@
 ---
-title: "Workers Comp Denied What To Do"
+title: "Your Workers' Comp Claim Was Denied: Next Steps"
 date: 2026-06-04T12:23:16.263351+00:00
 draft: false
 description: "Find out what to do when your workers comp claim is denied. Learn your rights, how to appeal the decision, and when to hire a workers compensation attorney."
@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your claim got denied. That piece of paper feels like the end of the road. It isn't.
 

@@ -1,5 +1,5 @@
 ---
-title: "How Much Compensation For Spinal Cord Injury Lawsuit"
+title: "Spinal Cord Injury Settlements: What You Can Actually Recover"
 date: 2026-07-01T13:41:37.640530+00:00
 draft: false
 description: "Learn how much compensation you may receive in a spinal cord injury lawsuit, including average settlements, damages covered, and key factors affecting your case"
@@ -23,7 +23,7 @@ faqs:
    a: "You can, legally. But in my experience, and I say this having sat on the adjuster's side for over a decade: people without attorneys settle for substantially less, on average, than people with experienced personal injury counsel. The insurance company's job is to close the file at the lowest defensible number. An experienced attorney's job is the opposite."
  - q: "What if the defendant doesn't have enough insurance to cover my damages?"
    a: "This is unfortunately common and genuinely painful. Your attorney will look for additional defendants (a manufacturer, an employer, a property owner), umbrella or excess policies, and your own uninsured or underinsured motorist coverage. UM/UIM coverage is something I tell everyone to maximize on their own auto policy, because it protects you when the at-fault driver's coverage isn't enough."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Spinal cord injuries produce some of the largest personal injury verdicts in American law. I'm not talking about $50,000 or even $500,000. I'm talking about settlements and verdicts that routinely run into the millions, sometimes tens of millions, and occasionally beyond. When I was adjusting claims, these were the files that made everyone in the room go quiet.

@@ -1,5 +1,5 @@
 ---
-title: "Parking Lot Slip And Fall Injury"
+title: "Parking Lot Slip and Fall: Your Legal Rights"
 date: 2026-05-22T05:38:39.373153+00:00
 draft: false
 description: "Injured in a parking lot slip and fall? Learn about your legal rights, who may be liable, and how to pursue compensation for your injuries. Free case review ava"
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You stepped out of your car, arms full of groceries, and the next thing you remember is staring up at the sky with your hip screaming. Or maybe you slipped on a patch of black ice near the shopping cart return, or tripped over a pothole that had been there long enough to grow weeds. Parking lot slip and fall injuries happen to thousands of people every year, and what surprises most of them isn't the fall itself. It's what happens after. The store manager hands you an incident report, the security footage "malfunctions," and suddenly you're left wondering whether any of this was even someone else's fault. I've sat on both sides of this equation, and I want to give you the real picture.
 

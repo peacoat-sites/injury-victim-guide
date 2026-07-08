@@ -1,5 +1,5 @@
 ---
-title: "Gap In Medical Treatment Injury Claim Effect"
+title: "Treatment Delays Can Tank Your Injury Claim"
 date: 2026-06-21T13:18:46.258641+00:00
 draft: false
 description: "Learn how a gap in medical treatment can hurt your injury claim and what steps to take to protect your right to fair compensation."
@@ -23,7 +23,7 @@ faqs:
    a: "Talk to a personal injury attorney before you say anything to an adjuster about the gap. Adjusters are skilled at using your own explanations against you. Your attorney can help you frame the gap accurately without inadvertently undermining your claim."
  - q: "Can a doctor's note explaining the gap help my case?"
    a: "Yes, significantly. If your treating physician can document in your records why the gap occurred (advised rest, financial barriers noted, patient reported gradual improvement followed by recurrence) that contemporaneous documentation carries real weight compared to an explanation you offer later during settlement negotiations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You treated yourself at home for two weeks after the accident because you figured it was just whiplash. Then you got busy. Then the bills piled up and the thought of another doctor's co-pay felt like one more thing you couldn't handle. By the time you finally went back to see someone, six weeks had passed since your last appointment.

@@ -1,5 +1,5 @@
 ---
-title: "Drunk Driver Accident Injury Lawsuit"
+title: "Can You Sue a Drunk Driver For Your Injuries?"
 date: 2026-05-19T10:22:27.747756+00:00
 draft: false
 description: "Injured in a drunk driver accident? Learn how to file a lawsuit, prove liability, and recover maximum compensation for your injuries, medical bills, and damages"

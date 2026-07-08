@@ -1,5 +1,5 @@
 ---
-title: "Motorcycle Accident Injury Claim"
+title: "What Your Motorcycle Accident Claim Is Actually Worth"
 date: 2026-07-01T13:44:13.594537+00:00
 draft: false
 description: "Injured in a motorcycle accident? Learn how to file a successful injury claim, maximize compensation, and protect your legal rights after a crash."
@@ -23,7 +23,7 @@ faqs:
    a: "In most states, yes. The majority of states use some form of comparative negligence, which reduces your recovery by your percentage of fault rather than eliminating it. A few states still use contributory negligence, where any fault on your part bars recovery entirely. Your state's rule matters enormously here, which is one more reason to get a local attorney involved early."
  - q: "My injuries didn't show up right away. Is it too late to file a claim?"
    a: "No, and this is actually common after motorcycle accidents. Adrenaline masks pain. Soft tissue injuries swell over 24 to 48 hours. TBI symptoms can emerge over days or weeks. As long as you're within your state's statute of limitations, delayed symptom onset doesn't disqualify your claim. Document when symptoms appeared and connect them to your treating physician as early as possible."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about motorcycle accident claims spend three paragraphs explaining what a [personal injury lawsuit](/pedestrian-accident-injury-claim/) is, then bury the one thing you actually need to know: insurers treat motorcyclists differently, and almost none of the general "how to file a claim" advice accounts for that.

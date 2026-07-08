@@ -1,5 +1,5 @@
 ---
-title: "Average Personal Injury Settlement Amounts"
+title: "What Your Injury Claim Is Actually Worth"
 date: 2026-05-18T21:03:39.620978+00:00
 draft: false
 description: "Find out what average personal injury settlement amounts look like, what factors affect your payout, and how to maximize compensation for your claim."
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in a hospital bed with your arm in a cast. The insurance adjuster just offered you $8,500. Is that fair, or are they banking on you not knowing any better?
 

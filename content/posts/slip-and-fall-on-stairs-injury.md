@@ -1,5 +1,5 @@
 ---
-title: "Slip And Fall On Stairs Injury"
+title: "Stair Injuries: Your Rights After a Fall"
 date: 2026-06-07T12:51:19.179603+00:00
 draft: false
 description: "Injured in a slip and fall on stairs? Learn your legal rights, common causes, liability factors, and how to pursue compensation for your injuries today."
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three steps from the bottom. That's where most stair falls happen, and I can tell you that from twelve years of reading accident reports, not from a brochure.
 

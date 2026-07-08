@@ -1,5 +1,5 @@
 ---
-title: "Uninsured Motorist Claim Process"
+title: "How to Win an Uninsured Motorist Claim"
 date: 2026-05-26T10:07:18.887172+00:00
 draft: false
 description: "Uninsured motorist claims help protect you financially when hit by a driver without insurance. Learn the step-by-step process, required documentation, and tips."
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-08
 ---
 You're sitting in a hospital waiting room, ice pack on your neck, when the officer's words finally sink in: the driver who ran the red light and hit you had no insurance. No policy. Nothing. According to [CDC injury data](https://www.cdc.gov/injury/wisqars/), motor vehicle crashes send millions of Americans to emergency departments every year. And the Insurance Research Council estimates that roughly 1 in 8 drivers on the road is uninsured. That's not a fringe risk. That's the car two spots ahead of you in traffic right now.
 

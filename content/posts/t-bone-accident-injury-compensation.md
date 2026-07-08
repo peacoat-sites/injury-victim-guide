@@ -1,5 +1,5 @@
 ---
-title: "T-Bone Accident Injury Compensation"
+title: "T-Bone Accident Claims: What You're Actually Owed"
 date: 2026-05-23T01:05:55.331599+00:00
 draft: false
 description: "Get expert guidance on T-bone accident injury compensation. Learn what affects your claim, how much you could receive, and how to maximise your payout today."
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in your car, or maybe you're already home, and everything happened so fast. One moment you're moving through an intersection, and the next there's an impact you didn't even see coming, a wall of force hitting the side of your door. T-bone collisions, where one vehicle strikes the side of another at roughly a perpendicular angle, are among the most violent crashes on the road. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) consistently shows that side-impact crashes account for a disproportionate share of serious injuries and fatalities compared to other crash types, largely because the door panel offers far less protection than the front or rear of a vehicle. If you're reading this, you might be wondering what your injuries are actually worth, who's responsible, and how to avoid making a costly mistake in the days ahead. I'll walk you through all of it.
 

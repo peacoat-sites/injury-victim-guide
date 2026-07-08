@@ -1,5 +1,5 @@
 ---
-title: "How Much Is My Personal Injury Case Worth"
+title: "What Your Personal Injury Case Is Actually Worth"
 date: 2026-05-25T00:09:49.234083+00:00
 draft: false
 description: "Find out what factors determine the value of your personal injury case, including medical bills, lost wages, pain and suffering, and how insurers calculate sett"
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in a hospital bed three days after a rear-end collision. The at-fault driver's insurance company calls and offers $4,500 to settle. Is that fair, or are they lowballing you? Most people have no idea, and the adjuster on the phone knows it. I spent 12 years as an adjuster before switching sides to help injury victims, and I can tell you that opening offer almost never reflects what a case is actually worth. Understanding how value gets calculated won't make you a lawyer. But it will stop you from making a decision you'll regret for years.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To File Car Accident Injury Claim"
+title: "File Your Car Accident Injury Claim: The Complete Guide"
 date: 2026-05-28T02:09:12.263897+00:00
 draft: false
 description: "File a car accident injury claim by documenting the scene, collecting evidence, notifying your insurer promptly, and seeking legal advice if needed for maximum "
@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-08
 ---
 You're sitting in a hospital waiting room, your neck stiff, your car totaled, and your phone buzzing with calls from an insurance adjuster who somehow already knows about your accident. That adjuster is friendly, sympathetic, and asking you to give a recorded statement "just to get the claim moving." Here's what you need to know right now: that call is not on your side. It's the first move in a process that, if you're not careful, can leave you settling for far less than your injuries actually cost.
 

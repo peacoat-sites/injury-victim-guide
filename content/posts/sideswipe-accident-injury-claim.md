@@ -1,5 +1,5 @@
 ---
-title: "Sideswipe Accident Injury Claim"
+title: "How To Win Your Sideswipe Accident Injury Claim"
 date: 2026-05-20T21:06:23.027913+00:00
 draft: false
 description: "Learn how to file a sideswipe accident injury claim, what compensation you may be entitled to, and how to protect your legal rights after a collision."
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-08
 ---
 You heard the scrape before you felt it. One moment you were driving normally, and then a vehicle drifted into your lane, metal grinding against metal, and suddenly everything changed. Sideswipe accidents feel almost minor in the moment, especially if both cars kept moving. But here's what surprises people: these collisions are far more dangerous than they look. According to the [Insurance Information Institute](https://www.iii.org/), lane-change and sideswipe crashes rank among the most common causes of multi-vehicle fatalities on highways. The injuries they cause, from soft tissue damage to serious spinal trauma, often surface days after the crash when the adrenaline has worn off.
 

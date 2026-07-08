@@ -1,5 +1,5 @@
 ---
-title: "Social Media Injury Claim Mistakes"
+title: "Social Media Posts That Kill Your Injury Claim"
 date: 2026-07-02T13:10:25.380483+00:00
 draft: false
 description: "Avoid costly social media mistakes after an injury claim. Learn what not to post and how your online activity can hurt your settlement."
@@ -23,7 +23,7 @@ faqs:
    a: "Legally and practically, yes. It doesn't matter who posted the photo or where it appeared. If it's accessible and it's of you, it can be used. This is why telling your close circle to hold off on tagging you is genuinely important, not just a precaution."
  - q: "How long do I need to stay off social media during a claim?"
    a: "Until the case is fully resolved, including any settlement being finalized or a verdict being entered. There's no safe midpoint during active litigation. I know that's not the answer people want, but cutting corners here is how cases fall apart in the final stretch."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Three days after her car accident, a woman I'll call Dana posted a photo on Instagram. She was at her cousin's birthday party, smiling, holding a piece of cake. The caption said "finally feeling more like myself." Her attorney didn't find out about that post until the insurance company's lawyer brought it up during mediation. The settlement offer dropped by more than half that same afternoon.

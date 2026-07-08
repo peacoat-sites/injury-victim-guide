@@ -1,5 +1,5 @@
 ---
-title: "Medical Bills Personal Injury Settlement"
+title: "Medical Bills After a Settlement: What You Actually Owe"
 date: 2026-06-14T13:07:11.521951+00:00
 draft: false
 description: "Learn how medical bills are handled in personal injury settlements, who pays them, and how to maximize your compensation to cover all healthcare costs effective"
@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're probably staring at a stack of medical bills right now, wondering whether the settlement check you're waiting on is actually going to cover any of it. Maybe you've already gotten the check and you're not sure why there's less money than you expected. Both situations are incredibly common, and both come with a confusion that nobody warned you about when this whole thing started.
 

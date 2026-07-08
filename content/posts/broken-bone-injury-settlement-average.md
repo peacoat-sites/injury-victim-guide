@@ -1,5 +1,5 @@
 ---
-title: "Broken Bone Injury Settlement Average"
+title: "What Broken Bone Settlements Really Cost"
 date: 2026-05-20T11:39:21.736512+00:00
 draft: false
 description: "Find out the average settlement for broken bone injuries. Learn what factors affect compensation and how to maximize your claim with expert legal guidance."
@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just got the call from the insurance adjuster. Your arm is still in a cast, the hospital bills are piling up on the kitchen table, and this person on the phone is throwing out a number that sounds like it might be fair, but you honestly have no idea. That moment, right there, is exactly why understanding broken bone settlements matters before you need the information, not after.
 
