@@ -23,7 +23,7 @@ faqs:
     a: "Most personal injury firms advertise free consultations and no upfront costs, and that's generally accurate for the attorney fee itself. Case costs (experts, filing fees, records retrieval) are usually advanced by the firm and recouped from settlement. A small number of firms do charge for costs as they arise, so confirm this before hiring anyone."
   - q: "How long does it take to get paid after a settlement?"
     a: "Once a settlement is signed, the insurer typically has 30 days to issue payment, though this varies by state. After the check arrives at the firm, there's a brief period to process any medical liens or subrogation claims before your net proceeds are disbursed. Realistically, plan for 4-6 weeks from signed settlement to money in your account, sometimes faster, occasionally slower if liens are complicated."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people come to this question a little embarrassed that they don't already know the answer. You've just been through something hard, maybe a car accident, a bad fall, a workplace injury, and now you're staring down a pile of medical bills and wondering if you can even afford to ask for help. Let me put that worry to rest right up front.
@@ -159,8 +159,8 @@ The cost of a personal injury attorney, structured correctly, is often the most 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

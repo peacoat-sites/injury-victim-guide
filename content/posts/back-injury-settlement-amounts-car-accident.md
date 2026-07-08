@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in the ER two days after a rear-end collision, waiting for the doctor to read your MRI, and a thought keeps creeping in: *what is this actually going to be worth?* It's a completely human question, and nobody blames you for thinking it. Medical bills are already arriving, your boss is asking when you're coming back, and the other driver's insurance company called this morning wanting a recorded statement. Here's the uncomfortable truth the insurance industry doesn't advertise: back injuries are the single most disputed category of soft-tissue and structural injuries in car accident claims, and the gap between what insurers initially offer and what cases ultimately settle for can be enormous.
 
@@ -38,12 +38,12 @@ Settlement values vary dramatically based on injury severity, treatment required
 
 | Injury Type | Typical Treatment | Illustrative Settlement Range | Key Value Drivers |
 |---|---|---|---|
-| Cervical/Lumbar Strain (soft tissue) | PT, chiropractic, 4–8 weeks | $5,000–$25,000 | Documented therapy compliance; clear impact on daily activities |
-| Disc Bulge (no surgery) | PT, injections, 3–6 months | $25,000–$75,000 | MRI confirmation; epidural steroid injections documented |
-| Herniated Disc (no surgery) | Conservative care, pain management, 6–12 months | $50,000–$150,000 | Radiculopathy symptoms; nerve conduction studies; work restrictions |
-| Herniated Disc (with surgery) | Microdiscectomy or laminectomy | $100,000–$350,000 | Surgical success/complications; post-op limitations; age at injury |
-| Spinal Fusion (single level) | Fusion surgery, 12+ month recovery | $250,000–$500,000+ | Permanent hardware; adjacent segment disease risk; vocational impact |
-| Multi-Level Fusion or Failed Back Surgery | Multiple surgeries, ongoing pain management | $500,000–$1,000,000+ | Chronic pain documentation; life care plan; lost earning capacity |
+| Cervical/Lumbar Strain (soft tissue) | PT, chiropractic, 4-8 weeks | $5,000-$25,000 | Documented therapy compliance; clear impact on daily activities |
+| Disc Bulge (no surgery) | PT, injections, 3-6 months | $25,000-$75,000 | MRI confirmation; epidural steroid injections documented |
+| Herniated Disc (no surgery) | Conservative care, pain management, 6-12 months | $50,000-$150,000 | Radiculopathy symptoms; nerve conduction studies; work restrictions |
+| Herniated Disc (with surgery) | Microdiscectomy or laminectomy | $100,000-$350,000 | Surgical success/complications; post-op limitations; age at injury |
+| Spinal Fusion (single level) | Fusion surgery, 12+ month recovery | $250,000-$500,000+ | Permanent hardware; adjacent segment disease risk; vocational impact |
+| Multi-Level Fusion or Failed Back Surgery | Multiple surgeries, ongoing pain management | $500,000-$1,000,000+ | Chronic pain documentation; life care plan; lost earning capacity |
 
 *General information for comparison; confirm specifics for your situation.*
 

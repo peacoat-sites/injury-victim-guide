@@ -23,6 +23,7 @@ faqs:
     a: "To a degree. Reporting promptly, attending all medical appointments, keeping detailed records, and responding quickly to any insurer requests all help. What you can't control is the insurer's timeline, the court's docket, or how long your body takes to heal. Focus on what's in your hands."
   - q: "At what point is a workers comp case considered 'closed'?"
     a: "A case is typically closed either when you reach MMI and accept a settlement, or when a judge issues a final order. In some states, accepted claims without a formal settlement can stay technically 'open' for years while future medical benefits remain available. This is actually worth understanding before you sign anything, because 'closing' a case in exchange for a lump sum may cut off those ongoing benefits."
+lastmod: 2026-07-08
 ---
 
 Three years into my career as an insurance adjuster, I was assigned a workers comp file that had been open for four years and still hadn't settled. The injured worker, a warehouse foreman from outside Columbus, had a legitimate back injury from a conveyor belt accident. Straightforward facts, clear liability. And yet there we were, nearly half a decade later, still fighting over a permanent impairment rating. That file changed how I thought about this entire system.
@@ -129,6 +130,6 @@ I made this mistake vicariously once. I was advising someone informally, not as 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 

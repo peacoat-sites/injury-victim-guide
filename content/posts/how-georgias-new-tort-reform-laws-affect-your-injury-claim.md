@@ -12,6 +12,7 @@ author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 slug: "how-georgias-new-tort-reform-laws-affect-your-injury-claim"
 affiliate_disclosure: true
+lastmod: 2026-07-08
 ---
 
 If you filed a personal injury claim in Georgia before April 2025, you were playing by one set of rules. If you're filing one now, the game has changed significantly, and most people have no idea. Governor Brian Kemp signed SB 68 and SB 69 into law on April 21, 2025, calling it the most comprehensive overhaul of Georgia's tort system in nearly two decades. By January 2026, both laws were fully operational. The injury victims filing claims right now, in the middle of 2026, are the first wave of real people experiencing these changes in actual courtrooms. What I've found after digging into this is that the impacts are more layered than either side is letting on.
@@ -64,11 +65,11 @@ If you've been injured in Georgia this year, understanding these changes isn't o
 
 ## Sources
 
-- [How Georgia's 2025 Tort Reforms Impact 2026 Personal Injury Claims – National Law Review / Greathouse Trial Law](https://natlawreview.com/press-releases/how-georgias-2025-tort-reforms-impact-2026-personal-injury-claims) (July 2, 2026)
-- [Georgia Tort Reform 2025: What SB 68 and SB 69 Mean for Injury Victims – Reynolds, Horne & Survant](https://reynoldsinjurylaw.com/georgia-tort-reform-2025-what-sb-68-and-sb-69-mean-for-injury-victims-in-macon-ga/) (March 11, 2026)
-- [Georgia Enacts Sweeping Tort Reform and Litigation Funding Laws – DLA Piper](https://www.dlapiper.com/en/insights/publications/2025/05/georgia-enacts-sweeping-tort-reform) (May 2025)
-- [The Truth About Georgia's Tort Reform – Meeks Impact Law](https://meeksimpactlaw.com/blog/the-truth-about-georgias-tort-reform-what-sb-68-means-for-you/) (2025)
-- [National Litigation Trends in Tort Reform: Georgia Leading the Charge – Attorney at Law Magazine](https://attorneyatlawmagazine.com/legal/opinion/national-litigation-trends-in-tort-reform-georgia-leading-the-charge) (August 2025)
+- [How Georgia's 2025 Tort Reforms Impact 2026 Personal Injury Claims, National Law Review / Greathouse Trial Law](https://natlawreview.com/press-releases/how-georgias-2025-tort-reforms-impact-2026-personal-injury-claims) (July 2, 2026)
+- [Georgia Tort Reform 2025: What SB 68 and SB 69 Mean for Injury Victims, Reynolds, Horne & Survant](https://reynoldsinjurylaw.com/georgia-tort-reform-2025-what-sb-68-and-sb-69-mean-for-injury-victims-in-macon-ga/) (March 11, 2026)
+- [Georgia Enacts Sweeping Tort Reform and Litigation Funding Laws, DLA Piper](https://www.dlapiper.com/en/insights/publications/2025/05/georgia-enacts-sweeping-tort-reform) (May 2025)
+- [The Truth About Georgia's Tort Reform, Meeks Impact Law](https://meeksimpactlaw.com/blog/the-truth-about-georgias-tort-reform-what-sb-68-means-for-you/) (2025)
+- [National Litigation Trends in Tort Reform: Georgia Leading the Charge, Attorney at Law Magazine](https://attorneyatlawmagazine.com/legal/opinion/national-litigation-trends-in-tort-reform-georgia-leading-the-charge) (August 2025)
 
 ## Helpful Resources
 
@@ -91,6 +92,6 @@ If you've been injured in Georgia this year, understanding these changes isn't o
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
