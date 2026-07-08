@@ -3,7 +3,7 @@ title: "Sideswipe Accident Injury Claim"
 date: 2026-05-20T21:06:23.027913+00:00
 draft: false
 description: "Learn how to file a sideswipe accident injury claim, what compensation you may be entitled to, and how to protect your legal rights after a collision."
-image: "https://images.pexels.com/photos/78793/automotive-defect-broken-car-wreck-78793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/78793.jpg"
 categories: ["Car Accidents"]
 tags: ["sideswipe", "accident", "injury", "claim"]
 slug: "sideswipe-accident-injury-claim"

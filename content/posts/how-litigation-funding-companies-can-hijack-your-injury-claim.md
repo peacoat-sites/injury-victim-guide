@@ -3,7 +3,7 @@ title: "How Litigation Funding Companies Can Hijack Your Injury Claim"
 date: 2026-06-16T16:04:22.296598+00:00
 draft: false
 description: "Discover how litigation funding companies can take control of your injury claim, drain your settlement, and leave you with less than you deserve. Know your righ"
-image: "https://images.pexels.com/photos/4968659/pexels-photo-4968659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4968659.jpg"
 categories: ["trending"]
 tags: ["litigation", "funding", "companies", "hijack", "your"]
 author: "Maya Rivera"

@@ -3,7 +3,7 @@ title: "Slip And Fall On Stairs Injury"
 date: 2026-06-07T12:51:19.179603+00:00
 draft: false
 description: "Injured in a slip and fall on stairs? Learn your legal rights, common causes, liability factors, and how to pursue compensation for your injuries today."
-image: "https://images.pexels.com/photos/9938263/pexels-photo-9938263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9938263.jpg"
 categories: ["Slip and Fall"]
 tags: ["slip", "fall", "stairs", "injury"]
 slug: "slip-and-fall-on-stairs-injury"

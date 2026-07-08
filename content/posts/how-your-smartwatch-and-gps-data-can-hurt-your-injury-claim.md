@@ -3,7 +3,7 @@ title: "How Your Smartwatch and GPS Data Can Hurt Your Injury Claim"
 date: 2026-06-19T14:23:13.677309+00:00
 draft: false
 description: "Learn how smartwatch and GPS data can be used against you in an injury claim. Discover what insurers look for and how to protect your case from digital evidence"
-image: "https://images.pexels.com/photos/8033003/pexels-photo-8033003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8033003.jpg"
 categories: ["trending"]
 tags: ["your", "smartwatch", "data", "hurt", "your"]
 author: "Rachel Thompson"

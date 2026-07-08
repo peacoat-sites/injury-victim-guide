@@ -3,7 +3,7 @@ title: "Catastrophic Injury Lawsuit Process"
 date: 2026-06-02T12:53:59.048680+00:00
 draft: false
 description: "Learn how catastrophic injury lawsuits work, from filing a claim to settlement or trial. Understand your legal rights and steps to pursue maximum compensation."
-image: "https://images.pexels.com/photos/6129152/pexels-photo-6129152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6129152.jpg"
 categories: ["Serious Injuries"]
 tags: ["catastrophic", "injury", "lawsuit", "process"]
 slug: "catastrophic-injury-lawsuit-process"

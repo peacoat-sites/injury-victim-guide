@@ -3,7 +3,7 @@ title: "How To Choose The Best Personal Injury Lawyer Near Me"
 date: 2026-06-30T13:16:42.867673+00:00
 draft: false
 description: "Learn how to find the best personal injury lawyer near you with expert tips on experience, fees, reviews, and consultations to win your case."
-image: "https://images.pexels.com/photos/4427430/pexels-photo-4427430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4427430.jpg"
 categories: ["Finding an Attorney"]
 tags: ["choose", "best", "personal", "injury", "lawyer"]
 author: "Jennifer Harris"

@@ -3,7 +3,7 @@ title: "Slip And Fall Injury Claim Process"
 date: 2026-05-19T05:16:42.628664+00:00
 draft: false
 description: "Learn how to file a slip and fall injury claim, what steps to follow, and how to maximize your compensation with our clear, easy-to-understand guide."
-image: "https://images.pexels.com/photos/7671671/pexels-photo-7671671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7671671.jpg"
 categories: ["Slip and Fall"]
 tags: ["slip", "fall", "injury", "claim", "process"]
 slug: "slip-and-fall-injury-claim-process"

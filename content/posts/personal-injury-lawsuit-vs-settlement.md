@@ -3,7 +3,7 @@ title: "Personal Injury Lawsuit Vs Settlement"
 date: 2026-05-22T00:41:26.764156+00:00
 draft: false
 description: "Unsure whether to file a personal injury lawsuit or accept a settlement? Learn the key differences, pros, cons, and how to decide which option is right for you."
-image: "https://images.pexels.com/photos/37732188/pexels-photo-37732188.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37732188.jpg"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "lawsuit", "settlement"]
 slug: "personal-injury-lawsuit-vs-settlement"

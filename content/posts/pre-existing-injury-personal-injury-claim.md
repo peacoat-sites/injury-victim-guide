@@ -3,7 +3,7 @@ title: "Pre-Existing Injury Personal Injury Claim"
 date: 2026-06-18T14:25:46.554717+00:00
 draft: false
 description: "Learn how pre-existing injuries affect personal injury claims, what compensation you may still receive, and how to protect your rights after an accident."
-image: "https://images.pexels.com/photos/7876300/pexels-photo-7876300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7876300.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["pre-existing", "injury", "personal", "injury", "claim"]
 author: "Maya Rivera"

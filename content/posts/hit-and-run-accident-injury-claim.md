@@ -3,7 +3,7 @@ title: "Hit And Run Accident Injury Claim"
 date: 2026-05-20T21:01:11.822548+00:00
 draft: false
 description: "Hit and run accident injuries can be devastating. Learn how to file a claim, gather evidence, and protect your legal rights with our expert guide."
-image: "https://images.pexels.com/photos/9195143/pexels-photo-9195143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9195143.jpg"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim"]
 slug: "hit-and-run-accident-injury-claim"

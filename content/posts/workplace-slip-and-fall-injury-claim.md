@@ -3,7 +3,7 @@ title: "Workplace Slip And Fall Injury Claim"
 date: 2026-05-22T11:52:57.844470+00:00
 draft: false
 description: "Injured in a workplace slip and fall? Learn how to file a successful injury claim, understand your legal rights, and get the compensation you deserve."
-image: "https://images.pexels.com/photos/6520057/pexels-photo-6520057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6520057.jpg"
 categories: ["Slip and Fall"]
 tags: ["workplace", "slip", "fall", "injury", "claim"]
 slug: "workplace-slip-and-fall-injury-claim"

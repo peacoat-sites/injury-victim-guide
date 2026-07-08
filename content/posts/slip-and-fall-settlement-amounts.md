@@ -3,7 +3,7 @@ title: "Slip And Fall Settlement Amounts"
 date: 2026-05-18T22:16:45.345645+00:00
 draft: false
 description: "Find out what slip and fall settlement amounts look like, what factors affect your payout, and how to maximize compensation after an accident on someone else's "
-image: "https://images.pexels.com/photos/7925892/pexels-photo-7925892.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7925892.jpg"
 categories: ["Slip and Fall"]
 tags: ["slip", "fall", "settlement", "amounts"]
 slug: "slip-and-fall-settlement-amounts"

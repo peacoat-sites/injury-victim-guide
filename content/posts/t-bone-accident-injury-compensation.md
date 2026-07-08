@@ -3,7 +3,7 @@ title: "T-Bone Accident Injury Compensation"
 date: 2026-05-23T01:05:55.331599+00:00
 draft: false
 description: "Get expert guidance on T-bone accident injury compensation. Learn what affects your claim, how much you could receive, and how to maximise your payout today."
-image: "https://images.pexels.com/photos/35431407/pexels-photo-35431407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35431407.jpg"
 categories: ["Car Accidents"]
 tags: ["T-bone", "accident", "injury", "compensation"]
 slug: "t-bone-accident-injury-compensation"

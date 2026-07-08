@@ -3,7 +3,7 @@ title: "How To Appeal Denied Injury Insurance Claim"
 date: 2026-07-06T14:37:28.960402+00:00
 draft: false
 description: "Learn how to appeal a denied injury insurance claim with step-by-step tips on gathering evidence, writing appeal letters, and maximizing your chances of approva"
-image: "https://images.pexels.com/photos/7736044/pexels-photo-7736044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7736044.jpg"
 categories: ["Insurance Tactics"]
 tags: ["appeal", "denied", "injury", "insurance", "claim"]
 author: "Rachel Thompson"

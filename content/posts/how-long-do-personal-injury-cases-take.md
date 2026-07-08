@@ -3,7 +3,7 @@ title: "How Long Do Personal Injury Cases Take"
 date: 2026-05-24T17:32:33.335569+00:00
 draft: false
 description: "Find out how long personal injury cases typically take to settle or go to trial, what factors affect timelines, and how to speed up your claim process."
-image: "https://images.pexels.com/photos/6077356/pexels-photo-6077356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6077356.jpg"
 categories: ["Personal Injury Basics"]
 tags: ["long", "personal", "injury", "cases", "take"]
 slug: "how-long-do-personal-injury-cases-take"

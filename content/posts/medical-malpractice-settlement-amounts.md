@@ -3,7 +3,7 @@ title: "Medical Malpractice Settlement Amounts"
 date: 2026-06-25T13:30:10.579416+00:00
 draft: false
 description: "Discover average medical malpractice settlement amounts, what factors affect payouts, and how victims can maximize compensation after negligence."
-image: "https://images.pexels.com/photos/8112131/pexels-photo-8112131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8112131.jpg"
 categories: ["Other Injury Types"]
 tags: ["medical", "malpractice", "settlement", "amounts"]
 author: "Jennifer Harris"

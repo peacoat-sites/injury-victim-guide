@@ -3,7 +3,7 @@ title: "Medical Bills Personal Injury Settlement"
 date: 2026-06-14T13:07:11.521951+00:00
 draft: false
 description: "Learn how medical bills are handled in personal injury settlements, who pays them, and how to maximize your compensation to cover all healthcare costs effective"
-image: "https://images.pexels.com/photos/5900070/pexels-photo-5900070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5900070.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["medical", "bills", "personal", "injury", "settlement"]
 slug: "medical-bills-personal-injury-settlement"

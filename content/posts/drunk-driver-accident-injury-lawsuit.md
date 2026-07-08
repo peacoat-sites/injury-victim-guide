@@ -3,7 +3,7 @@ title: "Drunk Driver Accident Injury Lawsuit"
 date: 2026-05-19T10:22:27.747756+00:00
 draft: false
 description: "Injured in a drunk driver accident? Learn how to file a lawsuit, prove liability, and recover maximum compensation for your injuries, medical bills, and damages"
-image: "https://images.pexels.com/photos/10480827/pexels-photo-10480827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10480827.jpg"
 categories: ["Car Accidents"]
 tags: ["drunk", "driver", "accident", "injury", "lawsuit"]
 slug: "drunk-driver-accident-injury-lawsuit"

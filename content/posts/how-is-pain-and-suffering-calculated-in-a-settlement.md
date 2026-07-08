@@ -3,7 +3,7 @@ title: "How Is Pain And Suffering Calculated In A Settlement"
 date: 2026-07-07T13:29:01.295360+00:00
 draft: false
 description: "Learn how pain and suffering damages are calculated in a settlement, including multiplier methods, per diem approaches, and key factors that affect your compens"
-image: "https://images.pexels.com/photos/8152745/pexels-photo-8152745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8152745.jpg"
 categories: ["Settlement Values"]
 tags: ["pain", "suffering", "calculated", "settlement"]
 author: "Jennifer Harris"

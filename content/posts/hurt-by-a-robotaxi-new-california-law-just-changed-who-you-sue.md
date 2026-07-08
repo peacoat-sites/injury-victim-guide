@@ -3,7 +3,7 @@ title: "Hurt by a Robotaxi? New California Law Just Changed Who You Sue"
 date: 2026-07-02T13:07:57.657304+00:00
 draft: false
 description: "Injured by a driverless robotaxi in California? A new state law changes liability rules and who you can sue. Know your rights and legal options after an acciden"
-image: "https://images.pexels.com/photos/32490265/pexels-photo-32490265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32490265.jpg"
 categories: ["trending"]
 tags: ["hurt", "robotaxi?", "california", "just", "changed"]
 author: "Lisa Anderson"

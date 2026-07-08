@@ -3,7 +3,7 @@ title: "What Percentage Do Personal Injury Lawyers Take 2026"
 date: 2026-06-24T13:29:08.672529+00:00
 draft: false
 description: "Personal injury lawyers typically take 33% of your settlement. Learn how contingency fees work and what factors affect the percentage attorneys charge."
-image: "https://images.pexels.com/photos/7841450/pexels-photo-7841450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7841450.jpg"
 categories: ["Finding an Attorney"]
 tags: ["what", "percentage", "personal", "injury", "lawyers"]
 author: "Rachel Thompson"

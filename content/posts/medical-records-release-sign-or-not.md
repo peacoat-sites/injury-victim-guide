@@ -3,7 +3,7 @@ title: "Medical Records Release Sign Or Not"
 date: 2026-07-04T12:20:19.186551+00:00
 draft: false
 description: "Learn when to sign a medical records release form, what your rights are, and how to protect your privacy before authorizing access to your health information."
-image: "https://images.pexels.com/photos/8413294/pexels-photo-8413294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8413294.jpg"
 categories: ["Insurance Tactics"]
 tags: ["medical", "records", "release", "sign"]
 author: "Lisa Anderson"

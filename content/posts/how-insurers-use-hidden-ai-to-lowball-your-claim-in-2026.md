@@ -3,7 +3,7 @@ title: "How Insurers Use Hidden AI to Lowball Your Claim in 2026"
 date: 2026-07-03T13:12:48.876302+00:00
 draft: false
 description: "Discover how AI algorithms influence insurance claim decisions and what you need to know to fight lowball offers in 2026. Protect your rights today."
-image: "https://images.pexels.com/photos/17483906/pexels-photo-17483906.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17483906.jpg"
 categories: ["trending"]
 tags: ["insurers", "hidden", "lowball", "your", "claim"]
 author: "Rachel Thompson"

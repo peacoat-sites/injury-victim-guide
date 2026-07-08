@@ -3,7 +3,7 @@ title: "Florida Raises Government Injury Caps for the First Time Since 2010"
 date: 2026-06-30T13:18:54.015855+00:00
 draft: false
 description: "Florida has raised government injury liability caps for the first time since 2010. Learn how these changes may affect your personal injury claim and legal right"
-image: "https://images.pexels.com/photos/28123710/pexels-photo-28123710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28123710.jpg"
 categories: ["trending"]
 tags: ["florida", "raises", "government", "injury", "caps"]
 author: "Maya Rivera"

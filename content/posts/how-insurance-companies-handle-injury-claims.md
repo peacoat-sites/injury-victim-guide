@@ -3,7 +3,7 @@ title: "How Insurance Companies Handle Injury Claims"
 date: 2026-06-24T13:31:14.853578+00:00
 draft: false
 description: "Learn how insurance companies evaluate injury claims, what adjusters look for, and steps to protect your settlement when filing a personal injury claim."
-image: "https://images.pexels.com/photos/8867364/pexels-photo-8867364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8867364.jpg"
 categories: ["Insurance Tactics"]
 tags: ["insurance", "companies", "handle", "injury", "claims"]
 author: "Denise Wallace"

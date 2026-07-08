@@ -3,7 +3,7 @@ title: "Social Media Addiction Personal Injury Claims Explained"
 date: 2026-06-22T16:01:22.072169+00:00
 draft: false
 description: "Discover how social media addiction can lead to personal injury claims. Learn your legal rights, who may be liable, and how to seek compensation for harm caused"
-image: "https://images.pexels.com/photos/36729377/pexels-photo-36729377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36729377.jpg"
 categories: ["trending"]
 tags: ["social", "media", "addiction", "personal", "injury"]
 author: "Denise Wallace"

@@ -3,7 +3,7 @@ title: "When an Algorithm Decides Your Injury Claim Value"
 date: 2026-06-20T13:02:12.520599+00:00
 draft: false
 description: "Discover how insurance algorithms calculate injury claim values, what factors influence automated decisions, and how to protect your right to fair compensation."
-image: "https://images.pexels.com/photos/8294654/pexels-photo-8294654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8294654.jpg"
 categories: ["trending"]
 tags: ["when", "algorithm", "decides", "your", "injury"]
 author: "Jennifer Harris"

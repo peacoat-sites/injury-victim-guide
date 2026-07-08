@@ -3,7 +3,7 @@ title: "When AI Handles Your Injury Claim: Your New Rights in 2026"
 date: 2026-06-29T14:54:24.161099+00:00
 draft: false
 description: "Discover your legal rights when AI systems process your personal injury claim in 2026. Learn how new regulations protect you and what to do if decisions seem un"
-image: "https://images.pexels.com/photos/8439656/pexels-photo-8439656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8439656.jpg"
 categories: ["trending"]
 tags: ["when", "handles", "your", "injury", "claim:"]
 author: "Denise Wallace"

@@ -3,7 +3,7 @@ title: "Pain And Suffering Calculation Formula"
 date: 2026-05-26T01:39:34.253128+00:00
 draft: false
 description: "Calculate pain and suffering damages using proven formulas. Learn multiplier methods, per diem calculations, and factors courts consider in personal injury case"
-image: "https://images.pexels.com/photos/7298879/pexels-photo-7298879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7298879.jpg"
 categories: ["Settlement Values"]
 tags: ["pain", "suffering", "calculation", "formula"]
 slug: "pain-and-suffering-calculation-formula"

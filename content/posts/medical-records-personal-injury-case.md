@@ -3,7 +3,7 @@ title: "Medical Records Personal Injury Case"
 date: 2026-06-23T13:47:28.141395+00:00
 draft: false
 description: "Learn how medical records support your personal injury case, what to request, and how attorneys use them to prove damages and strengthen your claim."
-image: "https://images.pexels.com/photos/6129194/pexels-photo-6129194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6129194.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["medical", "records", "personal", "injury", "case"]
 author: "Jennifer Harris"

@@ -3,7 +3,7 @@ title: "Car Accident Settlement Amounts By Injury Type"
 date: 2026-05-21T06:03:55.708726+00:00
 draft: false
 description: "Find out typical car accident settlement amounts by injury type, including whiplash, broken bones, TBI, and more, to understand what your claim may be worth."
-image: "https://images.pexels.com/photos/32437422/pexels-photo-32437422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32437422.jpg"
 categories: ["Settlement Values"]
 tags: ["accident", "settlement", "amounts", "injury", "type"]
 slug: "car-accident-settlement-amounts-by-injury-type"

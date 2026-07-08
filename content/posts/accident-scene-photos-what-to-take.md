@@ -3,7 +3,7 @@ title: "Accident Scene Photos What To Take"
 date: 2026-06-27T12:22:06.429883+00:00
 draft: false
 description: "Learn exactly which accident scene photos to take after a crash to protect your claim and document damage, injuries, and road conditions effectively."
-image: "https://images.pexels.com/photos/35162427/pexels-photo-35162427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35162427.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["accident", "scene", "photos", "what", "take"]
 author: "Lisa Anderson"

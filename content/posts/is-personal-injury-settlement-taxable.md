@@ -3,7 +3,7 @@ title: "Is Personal Injury Settlement Taxable"
 date: 2026-06-03T14:11:51.112082+00:00
 draft: false
 description: "Find out if your personal injury settlement is taxable. Learn which compensation is tax-free, what the IRS rules say, and when you may owe taxes on your award."
-image: "https://images.pexels.com/photos/6863259/pexels-photo-6863259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6863259.jpg"
 categories: ["Case Outcomes"]
 tags: ["personal", "injury", "settlement", "taxable"]
 slug: "is-personal-injury-settlement-taxable"

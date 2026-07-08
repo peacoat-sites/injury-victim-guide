@@ -3,7 +3,7 @@ title: "How To Choose A Personal Injury Lawyer"
 date: 2026-07-07T13:27:00.038472+00:00
 draft: false
 description: "Learn how to choose a personal injury lawyer with tips on experience, fees, communication, and reputation to win the compensation you deserve."
-image: "https://images.pexels.com/photos/7841457/pexels-photo-7841457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7841457.jpg"
 categories: ["Finding an Attorney"]
 tags: ["choose", "personal", "injury", "lawyer"]
 author: "Lisa Anderson"

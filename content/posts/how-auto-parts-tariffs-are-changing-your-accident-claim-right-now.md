@@ -3,7 +3,7 @@ title: "How Auto Parts Tariffs Are Changing Your Accident Claim Right Now"
 date: 2026-07-06T14:39:42.490480+00:00
 draft: false
 description: "Discover how new auto parts tariffs are raising repair costs and affecting your accident claim value. Learn what you can do to protect your settlement today."
-image: "https://images.pexels.com/photos/9065483/pexels-photo-9065483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9065483.jpg"
 categories: ["trending"]
 tags: ["auto", "parts", "tariffs", "changing", "your"]
 author: "Denise Wallace"

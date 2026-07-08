@@ -3,7 +3,7 @@ title: "Should I Give A Recorded Statement To The Insurance Company"
 date: 2026-06-08T14:56:26.388766+00:00
 draft: false
 description: "Before giving a recorded statement to an insurance company, learn your rights, the risks involved, and how it could impact your claim settlement."
-image: "https://images.pexels.com/photos/4344878/pexels-photo-4344878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4344878.jpg"
 categories: ["Insurance Tactics"]
 tags: ["should", "give", "recorded", "statement", "insurance"]
 slug: "should-i-give-a-recorded-statement-to-the-insurance-company"

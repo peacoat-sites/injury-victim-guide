@@ -3,7 +3,7 @@ title: "Average Payout For Soft Tissue Injury Car Accident"
 date: 2026-06-09T13:51:41.973329+00:00
 draft: false
 description: "Discover the average payout for soft tissue injury car accidents, what factors affect your settlement, and how to maximize your compensation claim today."
-image: "https://images.pexels.com/photos/8942724/pexels-photo-8942724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8942724.jpg"
 categories: ["Settlement Values"]
 tags: ["average", "payout", "soft", "tissue", "injury"]
 slug: "average-payout-for-soft-tissue-injury-car-accident"

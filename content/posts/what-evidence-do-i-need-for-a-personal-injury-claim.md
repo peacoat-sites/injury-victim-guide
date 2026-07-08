@@ -3,7 +3,7 @@ title: "What Evidence Do I Need For A Personal Injury Claim"
 date: 2026-06-10T14:33:12.907802+00:00
 draft: false
 description: "Discover what evidence you need for a personal injury claim, including medical records, photos, witness statements and more, to strengthen your case and secure "
-image: "https://images.pexels.com/photos/6077431/pexels-photo-6077431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6077431.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["what", "evidence", "need", "personal", "injury"]
 slug: "what-evidence-do-i-need-for-a-personal-injury-claim"

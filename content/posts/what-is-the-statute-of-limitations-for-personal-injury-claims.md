@@ -3,7 +3,7 @@ title: "What Is The Statute Of Limitations For Personal Injury Claims"
 date: 2026-06-13T12:59:10.486958+00:00
 draft: false
 description: "Discover how long you have to file a personal injury claim. Learn about statute of limitations deadlines, key exceptions, and why acting quickly protects your l"
-image: "https://images.pexels.com/photos/6154561/pexels-photo-6154561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6154561.jpg"
 categories: ["Personal Injury Basics"]
 tags: ["what", "statute", "limitations", "personal", "injury"]
 slug: "what-is-the-statute-of-limitations-for-personal-injury-claims"

@@ -3,7 +3,7 @@ title: "What To Do After A Rear End Collision Not At Fault"
 date: 2026-06-17T14:30:23.842441+00:00
 draft: false
 description: "Learn exactly what steps to take after a rear end collision that wasn't your fault, from documenting the scene to filing your insurance claim."
-image: "https://images.pexels.com/photos/1007330/pexels-photo-1007330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1007330.jpg"
 categories: ["Car Accidents"]
 tags: ["what", "after", "rear", "collision", "fault"]
 author: "Denise Wallace"

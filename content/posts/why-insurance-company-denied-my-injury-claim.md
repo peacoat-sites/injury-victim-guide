@@ -3,7 +3,7 @@ title: "Why Insurance Company Denied My Injury Claim"
 date: 2026-06-28T12:23:57.881803+00:00
 draft: false
 description: "Discover the top reasons insurance companies deny injury claims and learn what steps you can take to appeal the decision and get the compensation you deserve."
-image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3760067.jpg"
 categories: ["Insurance Tactics"]
 tags: ["insurance", "company", "denied", "injury", "claim"]
 author: "Maya Rivera"

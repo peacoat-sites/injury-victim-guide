@@ -3,7 +3,7 @@ title: "Average Settlement For Traumatic Brain Injury"
 date: 2026-06-11T14:57:42.250887+00:00
 draft: false
 description: "Discover average traumatic brain injury settlement amounts in 2026, key factors affecting compensation, and how to maximize your TBI claim with expert legal gui"
-image: "https://images.pexels.com/photos/4226123/pexels-photo-4226123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4226123.jpg"
 categories: ["Serious Injuries"]
 tags: ["average", "settlement", "traumatic", "brain", "injury"]
 slug: "average-settlement-for-traumatic-brain-injury"

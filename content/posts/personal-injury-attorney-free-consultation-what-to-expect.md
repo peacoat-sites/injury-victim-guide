@@ -3,7 +3,7 @@ title: "Personal Injury Attorney Free Consultation What To Expect"
 date: 2026-06-12T14:16:36.672705+00:00
 draft: false
 description: "Learn what to expect during a free personal injury attorney consultation, including case evaluation, legal options, fees, and key questions to ask your lawyer."
-image: "https://images.pexels.com/photos/8112231/pexels-photo-8112231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8112231.jpg"
 categories: ["Finding an Attorney"]
 tags: ["personal", "injury", "attorney", "free", "consultation"]
 slug: "personal-injury-attorney-free-consultation-what-to-expect"

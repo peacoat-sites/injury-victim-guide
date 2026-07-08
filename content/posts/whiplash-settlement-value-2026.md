@@ -3,7 +3,7 @@ title: "Whiplash Settlement Value"
 date: 2026-05-20T18:28:47.979640+00:00
 draft: false
 description: "Discover what whiplash settlements are worth in 2026. Learn key factors affecting compensation amounts, average payouts, and how to maximize your claim value."
-image: "https://images.pexels.com/photos/4506205/pexels-photo-4506205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4506205.jpg"
 categories: ["Settlement Values"]
 tags: ["whiplash", "settlement", "value", "2026"]
 slug: "whiplash-settlement-value"

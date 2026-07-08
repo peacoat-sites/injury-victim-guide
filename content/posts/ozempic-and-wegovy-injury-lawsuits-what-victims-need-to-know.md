@@ -3,7 +3,7 @@ title: "Ozempic and Wegovy Injury Lawsuits: What Victims Need to Know"
 date: 2026-06-25T13:27:47.736826+00:00
 draft: false
 description: "Injured by Ozempic or Wegovy? Learn about ongoing lawsuits, common side effects, your legal rights, and how to pursue compensation for serious harm caused by th"
-image: "https://images.pexels.com/photos/5750475/pexels-photo-5750475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5750475.jpg"
 categories: ["trending"]
 tags: ["ozempic", "wegovy", "injury", "lawsuits:", "what"]
 author: "Lisa Anderson"

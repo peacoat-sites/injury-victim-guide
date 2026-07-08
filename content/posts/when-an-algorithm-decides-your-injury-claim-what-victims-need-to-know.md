@@ -3,7 +3,7 @@ title: "When an Algorithm Decides Your Injury Claim: What Victims Need to Know"
 date: 2026-06-23T13:50:05.977951+00:00
 draft: false
 description: "Injured and facing an AI-driven claims process? Learn how insurance algorithms evaluate your claim, their limitations, and how to protect your right to fair com"
-image: "https://images.pexels.com/photos/7735632/pexels-photo-7735632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7735632.jpg"
 categories: ["trending"]
 tags: ["when", "algorithm", "decides", "your", "injury"]
 author: "Maya Rivera"

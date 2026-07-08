@@ -3,7 +3,7 @@ title: "When an Algorithm Decides Your Injury Claim Payout"
 date: 2026-06-26T13:22:57.160104+00:00
 draft: false
 description: "Discover how insurance algorithms calculate injury claim payouts, what factors influence automated decisions, and how to challenge a settlement you believe is u"
-image: "https://images.pexels.com/photos/7736074/pexels-photo-7736074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7736074.jpg"
 categories: ["trending"]
 tags: ["when", "algorithm", "decides", "your", "injury"]
 author: "Rachel Thompson"

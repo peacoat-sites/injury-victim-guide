@@ -3,7 +3,7 @@ title: "Who Is At Fault In A Left Turn Accident"
 date: 2026-07-03T13:11:06.100954+00:00
 draft: false
 description: "Learn who is legally liable in left turn accidents. Understand traffic laws, fault determination, and what evidence matters in these common collisions."
-image: "https://images.pexels.com/photos/9513110/pexels-photo-9513110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9513110.jpg"
 categories: ["Car Accidents"]
 tags: ["fault", "left", "turn", "accident"]
 author: "Maya Rivera"

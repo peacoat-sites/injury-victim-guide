@@ -3,7 +3,7 @@ title: "Louisiana's New 51% Fault Rule Is Changing Injury Claims Now"
 date: 2026-06-17T14:32:47.834310+00:00
 draft: false
 description: "Louisiana's new 51% fault rule now bars injury victims from recovering damages if they're more than half at fault. Learn how this law impacts your claim today."
-image: "https://images.pexels.com/photos/31474037/pexels-photo-31474037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31474037.jpg"
 categories: ["trending"]
 tags: ["louisiana's", "fault", "rule", "changing", "injury"]
 author: "Lisa Anderson"

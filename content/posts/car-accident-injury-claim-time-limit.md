@@ -3,7 +3,7 @@ title: "Car Accident Injury Claim Time Limit"
 date: 2026-05-20T22:36:38.582262+00:00
 draft: false
 description: "Find out how long you have to make a car accident injury claim. Learn about key deadlines, exceptions, and why acting quickly protects your legal rights."
-image: "https://images.pexels.com/photos/5043065/pexels-photo-5043065.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5043065.jpg"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim", "time", "limit"]
 slug: "car-accident-injury-claim-time-limit"

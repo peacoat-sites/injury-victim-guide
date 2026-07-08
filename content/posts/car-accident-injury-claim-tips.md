@@ -3,7 +3,7 @@ title: "Car Accident Injury Claim Tips"
 date: 2026-05-29T18:18:27.592077+00:00
 draft: false
 description: "Car accident injury claims can be complex. Learn essential tips for documenting evidence, dealing with insurance, and maximizing your compensation settlement."
-image: "https://images.pexels.com/photos/2265634/pexels-photo-2265634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2265634.jpg"
 categories: ["Car Accidents"]
 tags: ["accident", "injury", "claim", "tips"]
 slug: "car-accident-injury-claim-tips"

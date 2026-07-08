@@ -3,7 +3,7 @@ title: "Lost Wages In Personal Injury Settlement"
 date: 2026-05-25T05:03:00.152071+00:00
 draft: false
 description: "Recover your lost wages in a personal injury settlement. Learn how to calculate income loss, negotiate fair compensation, and what damages you can claim."
-image: "https://images.pexels.com/photos/7111954/pexels-photo-7111954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7111954.jpg"
 categories: ["Settlement Values"]
 tags: ["lost", "wages", "personal", "injury", "settlement"]
 slug: "lost-wages-in-personal-injury-settlement"

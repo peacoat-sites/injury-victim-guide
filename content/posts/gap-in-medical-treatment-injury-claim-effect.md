@@ -3,7 +3,7 @@ title: "Gap In Medical Treatment Injury Claim Effect"
 date: 2026-06-21T13:18:46.258641+00:00
 draft: false
 description: "Learn how a gap in medical treatment can hurt your injury claim and what steps to take to protect your right to fair compensation."
-image: "https://images.pexels.com/photos/8413332/pexels-photo-8413332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8413332.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["medical", "treatment", "injury", "claim", "effect"]
 author: "Maya Rivera"

@@ -3,7 +3,7 @@ title: "How Personal Injury Settlements Work"
 date: 2026-05-28T06:48:21.711488+00:00
 draft: false
 description: "Learn how personal injury settlements work, from filing a claim to negotiating compensation. Discover what factors affect your payout and how long the process t"
-image: "https://images.pexels.com/photos/14646107/pexels-photo-14646107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14646107.jpg"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "settlements", "work"]
 slug: "how-personal-injury-settlements-work"

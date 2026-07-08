@@ -3,7 +3,7 @@ title: "Personal Injury Claim Evidence Checklist"
 date: 2026-06-14T13:05:14.764942+00:00
 draft: false
 description: "Discover exactly what evidence you need to win your personal injury claim. Use our expert checklist to gather proof, strengthen your case and maximise compensat"
-image: "https://images.pexels.com/photos/34568328/pexels-photo-34568328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34568328.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["personal", "injury", "claim", "evidence", "checklist"]
 slug: "personal-injury-claim-evidence-checklist"

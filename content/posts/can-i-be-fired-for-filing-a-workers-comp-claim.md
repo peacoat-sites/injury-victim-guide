@@ -3,7 +3,7 @@ title: "Can I Be Fired For Filing A Workers Comp Claim"
 date: 2026-06-21T13:21:10.430406+00:00
 draft: false
 description: "Filing a workers comp claim is legally protected. Learn your rights, what retaliation looks like, and what to do if your employer fires you for claiming benefit"
-image: "https://images.pexels.com/photos/5196821/pexels-photo-5196821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5196821.jpg"
 categories: ["Workers Compensation"]
 tags: ["fired", "filing", "workers", "comp", "claim"]
 author: "Rachel Thompson"

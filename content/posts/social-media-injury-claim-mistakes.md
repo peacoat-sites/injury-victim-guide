@@ -3,7 +3,7 @@ title: "Social Media Injury Claim Mistakes"
 date: 2026-07-02T13:10:25.380483+00:00
 draft: false
 description: "Avoid costly social media mistakes after an injury claim. Learn what not to post and how your online activity can hurt your settlement."
-image: "https://images.pexels.com/photos/1542252/pexels-photo-1542252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1542252.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["social", "media", "injury", "claim", "mistakes"]
 author: "Jennifer Harris"

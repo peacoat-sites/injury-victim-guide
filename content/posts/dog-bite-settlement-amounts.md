@@ -3,7 +3,7 @@ title: "Dog Bite Settlement Amounts"
 date: 2026-06-20T12:59:50.447373+00:00
 draft: false
 description: "Learn what dog bite settlements typically pay out, what factors affect compensation, and how to maximize your claim after a dog attack injury."
-image: "https://images.pexels.com/photos/1696591/pexels-photo-1696591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1696591.jpg"
 categories: ["Other Injury Types"]
 tags: ["bite", "settlement", "amounts"]
 author: "Lisa Anderson"

@@ -3,7 +3,7 @@ title: "How To Document Injuries After Accident"
 date: 2026-05-22T01:21:39.599804+00:00
 draft: false
 description: "Learn how to properly document injuries after an accident with our step-by-step guide. Protect your legal rights and strengthen your claim with the right eviden"
-image: "https://images.pexels.com/photos/6520110/pexels-photo-6520110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6520110.jpg"
 categories: ["Personal Injury Basics"]
 tags: ["document", "injuries", "after", "accident"]
 slug: "how-to-document-injuries-after-accident"

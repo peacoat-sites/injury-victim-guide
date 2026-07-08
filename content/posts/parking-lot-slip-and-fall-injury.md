@@ -3,7 +3,7 @@ title: "Parking Lot Slip And Fall Injury"
 date: 2026-05-22T05:38:39.373153+00:00
 draft: false
 description: "Injured in a parking lot slip and fall? Learn about your legal rights, who may be liable, and how to pursue compensation for your injuries. Free case review ava"
-image: "https://images.pexels.com/photos/5231181/pexels-photo-5231181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5231181.jpg"
 categories: ["Slip and Fall"]
 tags: ["parking", "slip", "fall", "injury"]
 slug: "parking-lot-slip-and-fall-injury"

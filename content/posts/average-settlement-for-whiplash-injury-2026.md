@@ -3,7 +3,7 @@ title: "Average Settlement For Whiplash Injury 2026"
 date: 2026-06-27T12:19:37.145130+00:00
 draft: false
 description: "Discover average whiplash injury settlement amounts in 2026, what factors affect compensation, and how to maximize your personal injury claim payout."
-image: "https://images.pexels.com/photos/15755740/pexels-photo-15755740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15755740.jpg"
 categories: ["Settlement Values"]
 tags: ["average", "settlement", "whiplash", "injury", "2026"]
 author: "Denise Wallace"

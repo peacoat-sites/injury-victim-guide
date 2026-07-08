@@ -3,7 +3,7 @@ title: "Car Accident Pain And Suffering Claim"
 date: 2026-05-19T20:28:15.274465+00:00
 draft: false
 description: "Get fair compensation for your car accident pain and suffering claim. Learn how settlements are calculated, what factors affect payouts, and how to maximize you"
-image: "https://images.pexels.com/photos/32437427/pexels-photo-32437427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32437427.jpg"
 categories: ["Car Accidents"]
 tags: ["accident", "pain", "suffering", "claim"]
 slug: "car-accident-pain-and-suffering-claim"

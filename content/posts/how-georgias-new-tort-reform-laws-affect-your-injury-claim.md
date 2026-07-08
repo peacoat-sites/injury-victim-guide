@@ -3,7 +3,7 @@ title: "How Georgia's New Tort Reform Laws Affect Your Injury Claim"
 date: 2026-07-05T12:42:34.350411+00:00
 draft: false
 description: "Injured in Georgia? Learn how the new tort reform laws impact your personal injury claim, damage caps, and legal rights. Know what changed and protect your reco"
-image: "https://images.pexels.com/photos/36595111/pexels-photo-36595111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36595111.jpg"
 categories: ["trending"]
 tags: ["georgia's", "tort", "reform", "laws", "affect"]
 author: "Jennifer Harris"

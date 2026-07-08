@@ -3,7 +3,7 @@ title: "How To File Car Accident Injury Claim"
 date: 2026-05-28T02:09:12.263897+00:00
 draft: false
 description: "File a car accident injury claim by documenting the scene, collecting evidence, notifying your insurer promptly, and seeking legal advice if needed for maximum "
-image: "https://images.pexels.com/photos/5351114/pexels-photo-5351114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5351114.jpg"
 categories: ["Car Accidents"]
 tags: ["file", "accident", "injury", "claim"]
 slug: "how-to-file-car-accident-injury-claim"

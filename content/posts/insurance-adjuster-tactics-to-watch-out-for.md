@@ -3,7 +3,7 @@ title: "Insurance Adjuster Tactics To Watch Out For"
 date: 2026-06-16T16:06:43.636050+00:00
 draft: false
 description: "Learn the common insurance adjuster tactics used to minimize your claim payout and how to protect yourself during the settlement process."
-image: "https://images.pexels.com/photos/474/black-and-white-car-vehicle-vintage.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/474.jpg"
 categories: ["Insurance Tactics"]
 tags: ["insurance", "adjuster", "tactics", "watch"]
 author: "Rachel Thompson"

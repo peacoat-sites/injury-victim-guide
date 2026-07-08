@@ -3,7 +3,7 @@ title: "Police Report Personal Injury Claim"
 date: 2026-06-26T13:20:47.449663+00:00
 draft: false
 description: "Learn how a police report strengthens your personal injury claim, what information it contains, and how to obtain a copy to support your case."
-image: "https://images.pexels.com/photos/8370964/pexels-photo-8370964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8370964.jpg"
 categories: ["Evidence and Documentation"]
 tags: ["police", "report", "personal", "injury", "claim"]
 author: "Maya Rivera"

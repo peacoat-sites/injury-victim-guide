@@ -3,7 +3,7 @@ title: "How Much Compensation For Spinal Cord Injury Lawsuit"
 date: 2026-07-01T13:41:37.640530+00:00
 draft: false
 description: "Learn how much compensation you may receive in a spinal cord injury lawsuit, including average settlements, damages covered, and key factors affecting your case"
-image: "https://images.pexels.com/photos/14797760/pexels-photo-14797760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14797760.jpg"
 categories: ["Serious Injuries"]
 tags: ["much", "compensation", "spinal", "cord", "injury"]
 author: "Rachel Thompson"

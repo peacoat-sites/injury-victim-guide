@@ -3,7 +3,7 @@ title: "Broken Bone Injury Settlement Average"
 date: 2026-05-20T11:39:21.736512+00:00
 draft: false
 description: "Find out the average settlement for broken bone injuries. Learn what factors affect compensation and how to maximize your claim with expert legal guidance."
-image: "https://images.pexels.com/photos/8376305/pexels-photo-8376305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8376305.jpg"
 categories: ["Settlement Values"]
 tags: ["broken", "bone", "injury", "settlement", "average"]
 slug: "broken-bone-injury-settlement-average"

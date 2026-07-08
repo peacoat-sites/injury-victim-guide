@@ -3,7 +3,7 @@ title: "What To Do When Workers Comp Denies My Claim"
 date: 2026-06-03T14:09:56.822331+00:00
 draft: false
 description: "Find out what steps to take when workers comp denies your claim, including how to appeal the decision, gather evidence, and protect your rights effectively."
-image: "https://images.pexels.com/photos/37636256/pexels-photo-37636256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37636256.jpg"
 categories: ["Workers Compensation"]
 tags: ["what", "when", "workers", "comp", "denies"]
 slug: "what-to-do-when-workers-comp-denies-my-claim"

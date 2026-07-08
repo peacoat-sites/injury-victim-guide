@@ -3,7 +3,7 @@ title: "Defective Product Injury Claim"
 date: 2026-06-07T12:53:36.273135+00:00
 draft: false
 description: "Injured by a defective product? Learn how to file a product liability claim, who is liable, and how to get the compensation you deserve for your injuries."
-image: "https://images.pexels.com/photos/18275926/pexels-photo-18275926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18275926.jpg"
 categories: ["Other Injury Types"]
 tags: ["defective", "product", "injury", "claim"]
 slug: "defective-product-injury-claim"

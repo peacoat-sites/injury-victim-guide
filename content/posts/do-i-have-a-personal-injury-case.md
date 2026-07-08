@@ -3,7 +3,7 @@ title: "Do I Have A Personal Injury Case"
 date: 2026-05-26T02:21:23.968329+00:00
 draft: false
 description: "Find out if you have a personal injury case. Learn the key factors that determine eligibility, from proving negligence to documenting damages, and protect your "
-image: "https://images.pexels.com/photos/8371706/pexels-photo-8371706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8371706.jpg"
 categories: ["Personal Injury Basics"]
 tags: ["have", "personal", "injury", "case"]
 slug: "do-i-have-a-personal-injury-case"

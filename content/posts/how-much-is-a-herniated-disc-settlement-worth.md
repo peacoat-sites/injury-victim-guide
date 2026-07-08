@@ -3,7 +3,7 @@ title: "How Much Is A Herniated Disc Settlement Worth"
 date: 2026-06-15T16:23:40.472153+00:00
 draft: false
 description: "Discover what a herniated disc settlement is worth. Learn key factors that affect compensation and what victims typically receive in personal injury cases."
-image: "https://images.pexels.com/photos/30769192/pexels-photo-30769192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30769192.jpg"
 categories: ["Settlement Values"]
 tags: ["much", "herniated", "disc", "settlement", "worth"]
 author: "Lisa Anderson"

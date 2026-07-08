@@ -3,7 +3,7 @@ title: "How Long To Settle Personal Injury Case"
 date: 2026-06-19T14:25:08.859361+00:00
 draft: false
 description: "Learn how long it takes to settle a personal injury case, from a few months to several years, and what factors affect your timeline."
-image: "https://images.pexels.com/photos/7876205/pexels-photo-7876205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7876205.jpg"
 categories: ["Case Outcomes"]
 tags: ["long", "settle", "personal", "injury", "case"]
 author: "Denise Wallace"

@@ -3,7 +3,7 @@ title: "Bad Faith Insurance Claim Explained"
 date: 2026-06-06T12:19:19.226071+00:00
 draft: false
 description: "Learn what bad faith insurance claims are, how to identify unfair insurer tactics, your legal rights, and the steps you can take to fight back and get fair comp"
-image: "https://images.pexels.com/photos/261679/pexels-photo-261679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/261679.jpg"
 categories: ["Insurance Tactics"]
 tags: ["faith", "insurance", "claim", "explained"]
 slug: "bad-faith-insurance-claim-explained"

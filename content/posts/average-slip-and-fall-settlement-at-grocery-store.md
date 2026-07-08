@@ -3,7 +3,7 @@ title: "Average Slip And Fall Settlement At Grocery Store"
 date: 2026-06-18T14:23:16.763612+00:00
 draft: false
 description: "Learn what average slip and fall settlements at grocery stores are worth, what factors affect payouts, and how to maximize your injury claim."
-image: "https://images.pexels.com/photos/35358968/pexels-photo-35358968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35358968.jpg"
 categories: ["Slip and Fall"]
 tags: ["average", "slip", "fall", "settlement", "grocery"]
 author: "Jennifer Harris"

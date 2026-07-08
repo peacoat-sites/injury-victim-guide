@@ -3,7 +3,7 @@ title: "Delayed Injury Symptoms After Car Accident"
 date: 2026-05-27T05:23:59.217483+00:00
 draft: false
 description: "Learn why car accident injuries like whiplash and concussions often appear days later, and why seeking immediate medical attention protects your health and lega"
-image: "https://images.pexels.com/photos/29271763/pexels-photo-29271763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29271763.jpg"
 categories: ["Car Accidents"]
 tags: ["delayed", "injury", "symptoms", "after", "accident"]
 slug: "delayed-injury-symptoms-after-car-accident"

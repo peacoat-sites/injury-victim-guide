@@ -3,7 +3,7 @@ title: "Motorcycle Accident Injury Claim"
 date: 2026-07-01T13:44:13.594537+00:00
 draft: false
 description: "Injured in a motorcycle accident? Learn how to file a successful injury claim, maximize compensation, and protect your legal rights after a crash."
-image: "https://images.pexels.com/photos/33293499/pexels-photo-33293499.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33293499.jpg"
 categories: ["Other Injury Types"]
 tags: ["motorcycle", "accident", "injury", "claim"]
 author: "Denise Wallace"

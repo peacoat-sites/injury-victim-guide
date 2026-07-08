@@ -3,7 +3,7 @@ title: "When To Hire A Personal Injury Lawyer"
 date: 2026-06-22T16:03:46.460758+00:00
 draft: false
 description: "Unsure if you need legal help after an accident? Learn the key signs that tell you when to hire a personal injury lawyer to protect your rights."
-image: "https://images.pexels.com/photos/7876047/pexels-photo-7876047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7876047.jpg"
 categories: ["Finding an Attorney"]
 tags: ["when", "hire", "personal", "injury", "lawyer"]
 author: "Lisa Anderson"

@@ -3,7 +3,7 @@ title: "What Percentage Of Personal Injury Cases Go To Trial"
 date: 2026-06-08T14:54:31.366670+00:00
 draft: false
 description: "Discover what percentage of personal injury cases actually go to trial, why most settle out of court, and key factors that influence whether your case will face"
-image: "https://images.pexels.com/photos/34816946/pexels-photo-34816946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34816946.jpg"
 categories: ["Case Outcomes"]
 tags: ["what", "percentage", "personal", "injury", "cases"]
 slug: "what-percentage-of-personal-injury-cases-go-to-trial"

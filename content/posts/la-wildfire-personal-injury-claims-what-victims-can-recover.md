@@ -3,7 +3,7 @@ title: "LA Wildfire Personal Injury Claims: What Victims Can Recover"
 date: 2026-06-28T12:21:47.302967+00:00
 draft: false
 description: "Learn what compensation LA wildfire victims may recover for injuries, property loss, and trauma. Understand your legal rights and how to pursue a personal injur"
-image: "https://images.pexels.com/photos/4271908/pexels-photo-4271908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4271908.jpg"
 categories: ["trending"]
 tags: ["wildfire", "personal", "injury", "claims:", "what"]
 author: "Jennifer Harris"

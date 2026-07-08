@@ -3,7 +3,7 @@ title: "How Much Does Personal Injury Lawyer Cost"
 date: 2026-07-04T12:18:17.353248+00:00
 draft: false
 description: "Learn what personal injury lawyers charge, including contingency fees, hourly rates, and hidden costs, so you can budget confidently before hiring."
-image: "https://images.pexels.com/photos/4427500/pexels-photo-4427500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4427500.jpg"
 categories: ["Finding an Attorney"]
 tags: ["much", "does", "personal", "injury", "lawyer"]
 author: "Denise Wallace"

@@ -3,7 +3,7 @@ title: "Recorded Statement Insurance Adjuster Tips"
 date: 2026-06-05T12:23:32.984271+00:00
 draft: false
 description: "Learn how to handle a recorded statement with an insurance adjuster. Discover key tips to protect your rights and avoid costly mistakes after filing a claim."
-image: "https://images.pexels.com/photos/38125372/pexels-photo-38125372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/38125372.jpg"
 categories: ["Insurance Tactics"]
 tags: ["recorded", "statement", "insurance", "adjuster", "tips"]
 slug: "recorded-statement-insurance-adjuster-tips"

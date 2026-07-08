@@ -3,7 +3,7 @@ title: "Ice And Snow Slip And Fall Claim"
 date: 2026-05-21T13:05:44.516246+00:00
 draft: false
 description: "Injured in an ice or snow slip and fall accident? Find out how to make a successful compensation claim and what evidence you need to support your case."
-image: "https://images.pexels.com/photos/19245568/pexels-photo-19245568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19245568.jpg"
 categories: ["Slip and Fall"]
 tags: ["snow", "slip", "fall", "claim"]
 slug: "ice-and-snow-slip-and-fall-claim"

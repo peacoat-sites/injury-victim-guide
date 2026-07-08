@@ -3,7 +3,7 @@ title: "How To Negotiate A Higher Injury Settlement With Insurance"
 date: 2026-06-29T14:56:41.511217+00:00
 draft: false
 description: "Learn proven strategies to negotiate a higher injury settlement with your insurance company and maximize the compensation you rightfully deserve."
-image: "https://images.pexels.com/photos/8112160/pexels-photo-8112160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8112160.jpg"
 categories: ["Insurance Tactics"]
 tags: ["negotiate", "higher", "injury", "settlement", "with"]
 author: "Lisa Anderson"

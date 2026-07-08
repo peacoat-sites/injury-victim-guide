@@ -3,7 +3,7 @@ title: "Wrongful Death Personal Injury Claim"
 date: 2026-06-06T12:21:38.282995+00:00
 draft: false
 description: "Learn how to file a wrongful death personal injury claim, understand your legal rights, and find out what compensation you may be entitled to after losing a lov"
-image: "https://images.pexels.com/photos/6907779/pexels-photo-6907779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6907779.jpg"
 categories: ["Serious Injuries"]
 tags: ["wrongful", "death", "personal", "injury", "claim"]
 slug: "wrongful-death-personal-injury-claim"
