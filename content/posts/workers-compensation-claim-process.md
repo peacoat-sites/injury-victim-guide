@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You filed the report, you iced the injury, and now you're sitting with a stack of paperwork you don't fully understand and a nagging worry that you're about to do something wrong. Maybe you've already heard a coworker say something like "they'll try to deny you" or "you need a lawyer immediately." Maybe you're afraid to say the wrong thing to your employer. Maybe you just want to know what actually happens next.
 
@@ -51,7 +51,7 @@ The adjuster will reach out to you, probably within a few business days. They'll
 
 During the investigation period, the carrier is deciding whether to accept or deny your claim. They'll review the incident report, your medical records, any witness statements, and sometimes surveillance (yes, really). They typically have between 14 and 30 days to make an initial decision, depending on the state.
 
-If your claim is accepted, you'll start receiving two main types of benefits: coverage for medical treatment related to the injury, and wage replacement if you miss time from work beyond a short waiting period (usually three to seven days). The wage replacement is called "temporary total disability" or TTD, and it's calculated as a percentage of your average weekly wage, typically around 66 percent in most states, subject to a weekly maximum that varies by state.
+[If your claim is accepted](/permanent-disability-workers-comp-settlement/), you'll start receiving two main types of benefits: coverage for medical treatment related to the injury, and wage replacement if you miss time from work beyond a short waiting period (usually three to seven days). The wage replacement is called "temporary total disability" or TTD, and it's calculated as a percentage of your average weekly wage, typically around 66 percent in most states, subject to a weekly maximum that varies by state.
 
 ## The Part Nobody Reads Until They Need It
 

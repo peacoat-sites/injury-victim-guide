@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
 You slipped on a wet floor at a grocery store, caught yourself on a display rack, and felt something pop in your shoulder. The manager handed you an incident report, apologized, and offered you a coupon. Now you're home with a sling, a stack of medical bills, and a growing suspicion that a coupon isn't going to cover a torn rotator cuff. You're right. It won't.
 
@@ -43,7 +43,7 @@ Your legal status on the property also matters, though this has become less of a
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-A slip and fall claim isn't just "I fell on their property, pay me." You have to establish four elements. Miss one, and the claim fails.
+A [slip and fall claim](/slip-and-fall-injury-claim-process/) isn't just "I fell on their property, pay me." You have to establish four elements. Miss one, and the claim fails.
 
 **1. The owner owed you a duty of care.** This is usually easy to establish if you were a customer or invited guest.
 
@@ -61,7 +61,7 @@ Insurance companies know these cases inside out. They've handled thousands. Unde
 
 **Comparative negligence.** Most states use some form of comparative fault, meaning if you were partly responsible for your fall, your compensation gets reduced by your percentage of fault. Were you looking at your phone? Wearing inappropriate footwear? Ignoring a visible warning cone? These details matter. In some states (pure contributory negligence states like Alabama, Maryland, and North Carolina), being even 1% at fault can bar your recovery entirely.
 
-**Open and obvious doctrine.** If the hazard was so visible that any reasonable person would have noticed and avoided it, the property owner may argue they had no duty to warn you. This is why wet floor signs, while not a magic shield, do shift the legal calculus.
+**Open and obvious doctrine.** If the hazard was so visible that any reasonable person would have noticed and avoided it, the property owner may argue they had no duty to warn you. This is why [wet floor signs](/wet-floor-slip-and-fall-injury/), while not a magic shield, do shift the legal calculus.
 
 **Lack of notice.** The classic defense: "We didn't know it was there, so we can't be held responsible." Your job, or your attorney's job, is to show they did know or should have known. Surveillance footage, maintenance logs, and employee testimony become crucial here.
 

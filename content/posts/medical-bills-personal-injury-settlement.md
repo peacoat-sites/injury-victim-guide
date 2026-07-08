@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You're probably staring at a stack of medical bills right now, wondering whether the settlement check you're waiting on is actually going to cover any of it. Maybe you've already gotten the check and you're not sure why there's less money than you expected. Both situations are incredibly common, and both come with a confusion that nobody warned you about when this whole thing started.
 
@@ -59,7 +59,7 @@ Different types of liens come with wildly different rules, and this is where thi
 
 Here's a piece of industry knowledge most people don't have: the size of your medical bills affects your settlement value in ways that go way beyond simple reimbursement.
 
-Insurance adjusters look at your medical expenses as the anchor for calculating "pain and suffering" damages, which is the non-economic component of your claim. For decades, many insurers used a multiplier method: take your total medical bills, multiply by somewhere between 1.5 and 5 (depending on injury severity), and that's your pain and suffering estimate. Carriers have largely moved away from pure multipliers toward software like Colossus, which runs its own calculations, but the underlying principle remains: higher documented medical expenses generally support higher overall settlement demands.
+Insurance adjusters look at your medical expenses as the anchor for calculating "pain and suffering" damages, which is the non-economic component of your claim. For decades, many insurers used a multiplier method: take your total medical bills, multiply by somewhere between 1.5 and 5 (depending on injury severity), and that's your pain and suffering estimate. Carriers have largely moved away from pure multipliers toward software like Colossus, which runs its own calculations, but the underlying principle remains: [higher documented medical expenses](/how-to-document-injury-for-insurance-claim/) generally support higher overall settlement demands.
 
 This is why I always tell people to keep getting care if you're genuinely still in pain. Not to inflate your claim. But because people stop treatment early because they can't afford it or they feel guilty about "running up bills," and then they settle based on incomplete medical records that don't reflect how badly they were actually hurt. The [CDC's injury statistics](https://www.cdc.gov/injury/wisqars/) show that millions of Americans experience ongoing symptoms after what seem like minor accidents, and those ongoing costs deserve documentation.
 

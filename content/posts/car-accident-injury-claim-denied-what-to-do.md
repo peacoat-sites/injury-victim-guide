@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You filed the claim. You waited. You did everything they told you to do. And then the letter arrived: *denied*. I've watched this moment land on people like a gut punch, and I want to be honest with you, the denial letter is not the end of the road. Not even close. What most injury claimants don't realize is that insurance companies deny valid claims every single day, sometimes because of a genuine coverage issue, but often because a denial costs them nothing and betting that you'll give up costs them very little. Understanding why your claim was denied, and what you can actually do about it, changes everything.
 
@@ -35,9 +35,9 @@ The most common denial reasons fall into a few categories:
 
 **Coverage disputes.** The insurer claims the policy doesn't apply to your situation. This might mean they're arguing the other driver wasn't covered under their policy, that you were somehow excluded, or that a specific exclusion clause applies to your accident.
 
-**Liability disputes.** They're saying their insured wasn't at fault, or that you were at fault. In states with comparative negligence rules, they might admit partial fault but argue your percentage of fault is high enough to reduce or eliminate your payout.
+**Liability disputes.** They're saying their insured wasn't at fault, or that you were at fault. In states with [comparative negligence rules](/who-is-at-fault-in-a-left-turn-accident/), they might admit partial fault but argue your percentage of fault is high enough to reduce or eliminate your payout.
 
-**Causation disputes.** This one is sneaky. They're not necessarily denying the accident happened. They're saying your injuries weren't caused by this accident. You might hear language like "pre-existing condition" or "no objective findings of injury."
+**Causation disputes.** This one is sneaky. They're not necessarily denying the accident happened. They're saying your injuries weren't caused by this accident. You might hear language like "[pre-existing condition](/delayed-injury-symptoms-after-car-accident/)" or "no objective findings of injury."
 
 **Late reporting or procedural issues.** If you didn't report the accident within a certain timeframe or didn't follow some policy requirement, they'll use that as grounds for denial.
 

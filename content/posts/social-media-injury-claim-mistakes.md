@@ -23,6 +23,7 @@ faqs:
    a: "Legally and practically, yes. It doesn't matter who posted the photo or where it appeared. If it's accessible and it's of you, it can be used. This is why telling your close circle to hold off on tagging you is genuinely important, not just a precaution."
  - q: "How long do I need to stay off social media during a claim?"
    a: "Until the case is fully resolved, including any settlement being finalized or a verdict being entered. There's no safe midpoint during active litigation. I know that's not the answer people want, but cutting corners here is how cases fall apart in the final stretch."
+lastmod: 2026-07-07
 ---
 
 Three days after her car accident, a woman I'll call Dana posted a photo on Instagram. She was at her cousin's birthday party, smiling, holding a piece of cake. The caption said "finally feeling more like myself." Her attorney didn't find out about that post until the insurance company's lawyer brought it up during mediation. The settlement offer dropped by more than half that same afternoon.
@@ -57,7 +58,7 @@ Let me be direct about what actually damages cases, because the generic "be care
 
 **Accepting new friend requests during the claim period.** This one catches people off guard. Social media tactics used by defense investigators sometimes include sending friend requests from fake accounts to gain access to private content. It's legal gray territory depending on jurisdiction, but it happens. If someone you don't recognize adds you during an active claim, decline.
 
-**Deleting posts after you've been told to preserve evidence.** Here's something most claimants don't know: if you delete social media content after litigation begins or after you reasonably anticipate it, you can be sanctioned by the court for spoliation of evidence. That means the very act of trying to clean up your digital trail can hurt you more than the original post would have. Do not delete anything without talking to your attorney first.
+**Deleting posts after you've been told to [preserve evidence](/personal-injury-claim-evidence-checklist/).** Here's something most claimants don't know: if you delete social media content after litigation begins or after you reasonably anticipate it, you can be sanctioned by the court for spoliation of evidence. That means the very act of trying to clean up your digital trail can hurt you more than the original post would have. Do not delete anything without talking to your attorney first.
 
 ---
 

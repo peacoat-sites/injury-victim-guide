@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You were just trying to get from point A to point B. Maybe it was a grocery store aisle, a hotel lobby, or a restaurant bathroom. One second you were upright, and the next you were on the floor, confused, in pain, and probably embarrassed. If that sounds familiar, you're not alone. The Centers for Disease Control and Prevention reports that slip and fall accidents are the leading cause of emergency room visits in the United States, and wet floors are one of the most common culprits. What happens in the days and weeks after that fall matters enormously, and most people have no idea where to start.
 
@@ -31,7 +31,7 @@ You were just trying to get from point A to point B. Maybe it was a grocery stor
 
 You're probably asking yourself whether you even have a case. Was I watching where I was going? Should I have seen the wet floor sign? Those questions are completely natural, and I've heard them from almost every person I've worked with. But here's what matters: the fact that you slipped doesn't automatically mean it was your fault. It also doesn't automatically mean someone else is liable. The truth is somewhere in between, and it depends on specific facts that are worth understanding before you do anything else.
 
-The legal framework here is called **premises liability**. It means that property owners and businesses have a legal duty to keep their spaces reasonably safe for people who visit. "Reasonably safe" is doing a lot of work in that sentence. It doesn't mean perfectly safe. It means the owner knew about a dangerous condition, or should have known about it, and failed to fix it or warn you in a reasonable amount of time.
+The legal framework here is called **[premises liability](/property-owner-liability-slip-and-fall/)**. It means that property owners and businesses have a legal duty to keep their spaces reasonably safe for people who visit. "Reasonably safe" is doing a lot of work in that sentence. It doesn't mean perfectly safe. It means the owner knew about a dangerous condition, or should have known about it, and failed to fix it or warn you in a reasonable amount of time.
 
 If a customer spilled a drink 30 seconds before you walked by, that's a completely different situation than a leaking refrigerator case that had been puddling on the floor for two hours while employees walked past it. The length of time the hazard existed, whether staff knew about it, and whether they took any steps to address it all factor into whether the business was actually negligent.
 
@@ -65,14 +65,14 @@ Get a detailed account on paper as soon as you can: the time, the location, what
 
 Here's where a lot of people get confused. The word "negligence" sounds like it means someone was reckless or careless in an obvious way. Legally, it's more specific than that.
 
-To have a viable slip and fall claim, you generally need to show four things:
+To have a viable [slip and fall claim](/slip-and-fall-injury-claim-process/), you generally need to show four things:
 
 1. **Duty:** The property owner owed you a duty of care. If you were a customer in a store, this is almost always established.
 2. **Breach:** The owner failed to meet that duty. This is where the wet floor matters. Was there a leak they knew about? Were cleaning procedures not followed? Was there no warning sign?
 3. **Causation:** The breach caused your injury. This is why immediate medical attention is critical. You need documentation linking the fall to your physical harm.
 4. **Damages:** You suffered actual harm. Medical bills, lost wages, and pain and suffering are the most common types.
 
-One concept worth understanding is **comparative negligence**, because the insurance company will almost certainly raise it. Most states follow some version of this rule, which means if you were partly at fault for the accident, your compensation can be reduced proportionally. If you were on your phone, wearing inappropriate footwear, or in an area marked as off-limits, that can be used to reduce or even eliminate what you recover. In some states, if you're found more than 50% responsible, you recover nothing. In others, you can still recover something as long as you weren't 100% at fault. An attorney licensed in your state can tell you exactly which rule applies to you.
+One concept worth understanding is **[comparative negligence](/how-to-prove-slip-and-fall-case/)**, because the insurance company will almost certainly raise it. Most states follow some version of this rule, which means if you were partly at fault for the accident, your compensation can be reduced proportionally. If you were on your phone, wearing inappropriate footwear, or in an area marked as off-limits, that can be used to reduce or even eliminate what you recover. In some states, if you're found more than 50% responsible, you recover nothing. In others, you can still recover something as long as you weren't 100% at fault. An attorney licensed in your state can tell you exactly which rule applies to you.
 
 ## Dealing With the Insurance Company
 

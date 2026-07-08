@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You're sitting in the hospital, arm in a cast, still shaken from the crash. A claims adjuster calls within 48 hours, friendly voice, quick offer. You have no idea if the number they mention is fair, low, or embarrassingly insulting. Most people don't. And that gap in knowledge costs injury victims real money every single year.
 
@@ -61,11 +61,19 @@ Fractures are easier to document than soft tissue injuries, which typically work
 
 Simple fractures, like a clean broken wrist or collarbone that heals without complications, might settle somewhere between $15,000 and $75,000 depending on the factors above. Compound fractures requiring surgical hardware, or fractures involving joints like the knee or hip that increase your long-term arthritis risk, push values considerably higher.
 
-Orthopedic injuries that require surgery carry a specific legal concept worth understanding: "future medical costs." If your doctor says the hardware in your ankle will need revision surgery in 10 years, that projected cost belongs in your settlement demand. Most people don't know to ask for it. Insurers almost never volunteer it.
+Orthopedic injuries that require surgery carry a specific legal concept worth understanding: "[future medical costs](/factors-that-increase-settlement-value/)." If your doctor says the hardware in your ankle will need revision surgery in 10 years, that projected cost belongs in your settlement demand. Most people don't know to ask for it. Insurers almost never volunteer it.
 
 A life care planner, a professional who projects your long-term medical needs and costs, can be invaluable in orthopedic cases. Personal injury attorneys often hire them as expert witnesses. If you're handling a claim on your own, ask your orthopedic surgeon directly: "Do you anticipate any future procedures or treatment related to this injury?" Get the answer in writing.
 
 ## Traumatic Brain Injuries and Spinal Cord Damage: The High-Stakes Claims
+
+| Injury Type | Typical Settlement Range | Key Value Drivers |
+| --- | --- | --- |
+| Soft Tissue (whiplash, sprains, strains) | $5,000-$40,000 | Consistent medical treatment, diagnostic imaging, documented work loss, physician documentation of causation, prolonged symptoms |
+| Simple Fractures (wrist, collarbone) | $15,000-$75,000 | Imaging evidence, recovery timeline, work interruption, joint involvement |
+| Compound Fractures & Joint Injuries | $75,000-$250,000+ | Surgical repair, hardware placement, long-term arthritis risk, future medical needs |
+| Mild Traumatic Brain Injury | $50,000-$250,000 | Cognitive testing, neuropsychological evaluation, work capacity loss, symptom documentation |
+| Moderate to Severe TBI & Spinal Cord Injury | $250,000-$1,000,000+ | Lifetime care costs, home modifications, lost earning capacity, life care planning, expert testimony |
 
 These are the cases where settlement amounts can climb into six or seven figures, and for legitimate reasons. [The CDC's injury data](https://www.cdc.gov/injury/wisqars/) shows that motor vehicle crashes remain one of the leading causes of traumatic brain injury hospitalizations in the United States, and the long-term economic cost of a serious TBI is staggering.
 

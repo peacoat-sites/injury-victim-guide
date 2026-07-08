@@ -23,9 +23,10 @@ faqs:
    a: "I'd strongly caution against it. Announcing legal knowledge can escalate a situation before you're ready, and it rarely changes employer behavior at that stage. Gather your documentation quietly, consult an attorney, and let the legal process do the heavy lifting. Playing your hand early usually doesn't help."
  - q: "Does it matter if I'm a part-time or contract worker?"
    a: "It matters a lot. Independent contractors typically don't qualify for workers' comp in most states, though misclassification is rampant and worth examining. Part-time employees generally do qualify for retaliation protections if they're genuine employees, but their at-will status and the narrower damages available can complicate cases. If you're uncertain about your classification, that question alone is worth a conversation with an employment attorney."
+lastmod: 2026-07-07
 ---
 
-Most people assume that as long as they do everything right, filing a workers' comp claim is safe. I spent 12 years on the other side of that belief, and I'll be honest: it's one of the most persistently wrong assumptions I encountered.
+Most people assume that as long as they do everything right, [filing a workers' comp claim](/workers-compensation-claim-process/) is safe. I spent 12 years on the other side of that belief, and I'll be honest: it's one of the most persistently wrong assumptions I encountered.
 
 Here's the legal reality. Every state in the U.S. prohibits employers from firing an employee *specifically because* they filed a workers' compensation claim. That protection exists in some form nationwide. What the law doesn't protect you from is everything else your employer might decide to do, and that gap is where things get genuinely complicated.
 

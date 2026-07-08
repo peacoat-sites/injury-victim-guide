@@ -12,6 +12,7 @@ author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 slug: "when-an-algorithm-decides-your-injury-claim-payout"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've recently filed an injury claim and gotten a settlement offer that felt insultingly low, you might be wondering whether a human being ever actually looked at your case. Increasingly, the answer is no. An algorithm did. And as of March 2026, state regulators are finally starting to ask hard questions about what that means for you.
 
@@ -21,11 +22,19 @@ The National Association of Insurance Commissioners launched a 12-state regulato
 
 Here's what I tell people when they're surprised that a computer handled their claim: this isn't a fringe practice anymore. By 2026, an estimated 91% of insurance companies have adopted AI technologies in some form. The AI-in-insurance market is projected to reach $35.8 billion by 2029. This isn't experimental. It's the industry's new operating model.
 
-The technical term you'll start hearing is "straight-through processing," which just means a claim gets resolved automatically from start to finish, no human adjuster involved. For simple claims, those rates have jumped from roughly 10 to 15% a few years ago to as high as 70 to 90% today. That's a staggering shift. What it means practically is that the majority of straightforward claims are now being evaluated, valued, and settled by software.
+The technical term you'll start hearing is "[straight-through processing](/when-ai-handles-your-injury-claim-your-new-rights-in-2026/)," which just means a claim gets resolved automatically from start to finish, no human adjuster involved. For simple claims, those rates have jumped from roughly 10 to 15% a few years ago to as high as 70 to 90% today. That's a staggering shift. What it means practically is that the majority of straightforward claims are now being evaluated, valued, and settled by software.
 
 For a minor fender-bender with a clean repair bill, that speed can genuinely be a good thing. You get paid faster. There's less friction. But the moment your claim involves anything harder to quantify, a soft-tissue injury, emotional distress, ongoing treatment, future medical needs, the algorithm's efficiency becomes your problem.
 
 ## Why Soft-Tissue and Psychological Injuries Are Especially Vulnerable
+
+| Injury Type | AI Valuation Pattern | Documentation Challenge |
+| --- | --- | --- |
+| Minor property damage (fender-bender) | Faster processing, accurate | Repair estimate quantifiable |
+| Soft-tissue injury (whiplash, back pain) | Systematically lower | Doesn't appear on imaging |
+| Psychological injury (anxiety, PTSD) | Systematically lower | No objective measurement |
+| Ongoing/future medical needs | Underweighted | Requires projection, not historical data |
+| Pain affecting daily life | Underweighted | Subjective, not scan-visible |
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -47,7 +56,7 @@ What's still being worked out is the enforcement mechanism. Knowing the law appl
 
 ## What This Means When You're Sitting Across From an Offer
 
-Here's what I tell people in practical terms. The first offer from an AI-assisted system is a starting point, not a verdict. You have the right to understand how your claim was evaluated. Under most state insurance regulations, you can request documentation of how a settlement figure was determined. Whether the insurer's response will actually explain the model's logic is another question, and one regulators are now pressing.
+Here's what I tell people in practical terms. The first offer from an [AI-assisted system](/how-insurers-use-hidden-ai-to-lowball-your-claim-in-2026/) is a starting point, not a verdict. You have the right to understand how your claim was evaluated. Under most state insurance regulations, you can request documentation of how a settlement figure was determined. Whether the insurer's response will actually explain the model's logic is another question, and one regulators are now pressing.
 
 If your injury involves ongoing treatment, future care, or pain that doesn't show up on a scan, those elements almost certainly weren't weighted appropriately by an automated system. That's not speculation. It's a documented pattern that reporting from *Insurance News Net* and consumer-facing legal sources like the *California Accident Attorneys Blog* have both described in detail in 2026.
 

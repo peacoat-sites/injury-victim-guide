@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You rear-ended at a stoplight. The other driver apologizes, you feel fine, and you wave it off. Three days later you can't turn your head without a stabbing pain shooting down your neck and into your shoulder. Sound familiar? Here's the uncomfortable truth: whiplash is the most commonly disputed soft-tissue injury in personal injury claims, and insurance adjusters are trained, from day one, to minimize it. I know because I was one of them for 12 years. What your claim is actually worth in 2026 depends on a surprising number of factors that have nothing to do with how much pain you're in.
 
@@ -54,6 +54,14 @@ Settlement value isn't a single number pulled from a chart. It's a range built f
 **Policy limits.** If the at-fault driver carries only a 25/50 policy (meaning $25,000 per person, $50,000 per accident), that's a hard ceiling unless you have underinsured motorist coverage of your own. I've seen clients with genuine six-figure damages walk away with $25,000 simply because that's all there was.
 
 ## How Adjusters Calculate a Settlement Range
+
+| Documentation Element | Weak Claim | Strong Claim |
+|---|---|---|
+| Time to first medical visit | 10+ days post-accident | Same day or within 48 hours |
+| Treatment consistency | Gaps of 2+ weeks | Regular visits with no unexplained gaps |
+| Objective imaging findings | Soft tissue strain only | MRI shows disc bulge or herniation |
+| Symptom documentation | Verbal complaints only | Written pain journal, functional limitations noted |
+| Policy limits available | $25,000 per person | $100,000+ per person |
 
 I want to demystify the math here because I think it genuinely helps people. Insurance adjusters don't use one universal formula, but many historically used a "multiplier method" as a starting point. You add up your special damages (your actual out-of-pocket losses: medical bills, lost wages, mileage to appointments, prescription costs). Then they multiply that number by a factor, often between 1.5 and 4 for soft-tissue injuries, to account for pain and suffering. A more serious injury with clear objective findings might get a higher multiplier.
 

@@ -12,6 +12,7 @@ author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 slug: "hurt-by-a-robotaxi-new-california-law-just-changed-who-you-sue"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been hurt in a Waymo or another robotaxi recently, or if someone you love was, you're probably sitting with a lot of confusion right now. Who do you even call? Is there a driver to blame? Does your regular car insurance apply? These are completely reasonable questions, and until very recently, the honest answer was: nobody was entirely sure. California just changed that.
 
@@ -41,7 +42,7 @@ This is the kind of thing an experienced attorney will look for immediately. Jag
 
 You might be wondering: okay, but how do I actually prove what the car did wrong? This has historically been the biggest obstacle in autonomous vehicle crash cases. The data that would tell you exactly what the vehicle's sensors perceived, what decision its system made, and why it made it is proprietary. It lives in the manufacturer's servers, and companies have not been eager to hand it over.
 
-AB 1777 creates something valuable here: a new 72-hour reporting obligation. After any noncompliance notice, the manufacturer must report to the California DMV within 72 hours. That documentation trail is now a matter of regulatory record, not just internal corporate files. It gives attorneys a legitimate hook to demand records, and it creates a paper trail that can be cross-referenced with sensor logs, camera data, and incident reports through the discovery process.
+AB 1777 creates something valuable here: a new 72-hour reporting obligation. After any noncompliance notice, the manufacturer must report to the California DMV within 72 hours. That documentation trail is now a matter of regulatory record, not just internal corporate files. It gives attorneys a legitimate hook to demand records, and it creates a paper trail that can be cross-referenced with sensor logs, camera data, and incident reports through the [discovery process](/when-ai-handles-your-injury-claim-your-new-rights-in-2026/).
 
 Waymo is currently providing roughly 200,000 paid rides per week across Los Angeles, San Francisco, and the Bay Area. Regulators opened multiple investigations in 2025 and 2026, including one following an incident in which a Waymo struck a child near a Santa Monica school. The sheer volume of operations and the regulatory scrutiny already in place means there is an existing infrastructure of documentation. AB 1777 adds another layer to it that benefits anyone trying to hold a manufacturer accountable.
 

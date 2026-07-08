@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
 You got a call from an insurance adjuster asking for a recorded statement. Maybe it came the same day as the accident, maybe a week later. Either way, you're probably sitting with that uneasy feeling of not knowing whether saying yes is the right move, and whether saying no will make you look guilty of something.
 
@@ -54,7 +54,7 @@ This is the question most people don't think to ask. The answer depends on whose
 
 **If it's the other driver's insurance (the at-fault party's insurer):** You're generally not required to give a recorded statement. You have no contract with that company. Their job is to minimize what they pay out. You owe them basic cooperation, sure, but a recorded statement is not the same thing as cooperating. The [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on insurance matters makes clear that claimants have rights in this process, and politely declining to record is squarely within them.
 
-**If it's your own insurance company:** This is where it gets trickier. Your policy almost certainly includes a "cooperation clause," which means you do have a contractual obligation to cooperate with your own insurer's investigation. Refusing a recorded statement from your own carrier could technically give them grounds to deny coverage. You still have leverage here though. You can request an attorney present, ask for a written statement instead of a recording, or demand time to review your policy first. But outright refusal is riskier with your own carrier.
+**If it's your own insurance company:** This is where it gets trickier. Your policy almost certainly includes a "[cooperation clause](/how-insurance-companies-handle-injury-claims/)," which means you do have a contractual obligation to cooperate with your own insurer's investigation. Refusing a recorded statement from your own carrier could technically give them grounds to deny coverage. You still have leverage here though. You can request an attorney present, ask for a written statement instead of a recording, or demand time to review your policy first. But outright refusal is riskier with your own carrier.
 
 If you're unsure which company is calling, ask them directly: "Are you representing the at-fault party, or are you calling on behalf of my own policy?" They have to tell you.
 
@@ -64,7 +64,7 @@ Most articles on this topic stop at "be careful." I want to go further.
 
 **The injury timeline problem.** After an accident, your body doesn't always reveal its full damage immediately. Whiplash symptoms can peak 24 to 72 hours after impact. Soft tissue injuries swell, bruising deepens, and herniated discs sometimes don't produce debilitating symptoms for days or weeks. If you give a recorded statement on day two and describe moderate discomfort, you've just created a document that contradicts your later medical records. You weren't lying. You just didn't know yet. The adjuster knows this, which is partly why they call early.
 
-**The paraphrase trap.** Adjusters will sometimes repeat your statement back to you in slightly different words: "So you're saying the impact wasn't that severe?" If you say "right" or "I guess so," you've just agreed to their characterization, not yours. It happens fast. In a recorded statement, it costs you.
+**The [paraphrase trap](/insurance-adjuster-tactics-to-watch-out-for/).** Adjusters will sometimes repeat your statement back to you in slightly different words: "So you're saying the impact wasn't that severe?" If you say "right" or "I guess so," you've just agreed to their characterization, not yours. It happens fast. In a recorded statement, it costs you.
 
 **The scope creep problem.** The adjuster might start with questions about the accident and then, almost naturally, drift into your medical history, prior injuries, work history, general health. You don't have to answer those without an attorney present. But many people do, because it feels rude not to, and because no one told them it wasn't required.
 
@@ -110,7 +110,7 @@ You don't have to be an expert in personal injury law to protect yourself here. 
 
 ---
 
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
+*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed [personal injury attorney](/how-to-negotiate-a-higher-injury-settlement-with-insurance/) in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
 

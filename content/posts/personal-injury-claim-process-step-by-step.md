@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You wake up in a hospital bed after a car accident that wasn't your fault. A nurse hands you paperwork. Your phone has fourteen missed calls. Somewhere across town, an insurance adjuster is already opening a new claim file with your name on it. That adjuster's job, and I say this having done it for twelve years, is to close your file for as little money as possible. Your job is to understand what comes next before you make a single move that could hurt you.
 
@@ -67,7 +67,7 @@ Your attorney, or you if you're handling this yourself, will gather several cate
 
 **Economic damages** are straightforward. Medical expenses, lost wages, cost of future treatment, costs of hiring help for things you can no longer do yourself. These come from actual records and bills.
 
-**Non-economic damages** are messier. Pain and suffering, emotional distress, loss of enjoyment of life, loss of consortium (the impact on your relationship with a spouse). No receipts exist for these. Attorneys typically use one of two methods: the multiplier method (multiplying your economic damages by a number, often 1.5 to 5, based on severity) or the per diem method (assigning a daily dollar value to your pain and multiplying by days of suffering). Neither guarantees what you'll receive. They're starting points for negotiation.
+**[Non-economic damages](/what-damages-can-i-recover-in-personal-injury/)** are messier. Pain and suffering, emotional distress, loss of enjoyment of life, loss of consortium (the impact on your relationship with a spouse). No receipts exist for these. Attorneys typically use one of two methods: the multiplier method (multiplying your economic damages by a number, often 1.5 to 5, based on severity) or the per diem method (assigning a daily dollar value to your pain and multiplying by days of suffering). Neither guarantees what you'll receive. They're starting points for negotiation.
 
 Don't settle before you've reached maximum medical improvement, or MMI. MMI means your condition has stabilized and your doctor can give a realistic picture of long-term effects. Settle before MMI and you might be leaving future medical costs on the table. Once you sign a release, that claim is closed forever.
 

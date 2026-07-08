@@ -23,6 +23,7 @@ faqs:
    a: "Most physicians carry between $1 million and $5 million in coverage, and large verdicts can exceed policy limits. In those situations, you may be able to pursue the physician's personal assets (difficult in practice) or argue bad faith against the insurer for failing to settle within policy limits when it had the chance. This is where an experienced attorney becomes non-negotiable."
  - q: "Is a settlement taxable?"
    a: "Generally, compensation for physical injury is not subject to federal income tax under current IRS rules, but punitive damages (awarded to punish particularly egregious conduct) are taxable, and interest on a settlement can be taxable. Tax situations are individual, and it's worth asking a CPA or tax attorney about your specific case."
+lastmod: 2026-07-07
 ---
 
 Most people assume a "good" medical malpractice settlement is whatever their lawyer tells them is fair. After 12 years on the insurance side, watching adjusters work cases, I can tell you that assumption costs victims real money.
@@ -46,6 +47,12 @@ Damages in malpractice cases break into two buckets: economic and non-economic. 
 ---
 
 ## Damage Caps Are the Most Important Thing Nobody Tells You About
+
+| Damage Type | Description | Cap Status (Example: California) |
+| --- | --- | --- |
+| Economic Damages | Past and future medical bills, lost wages, in-home care, adaptive equipment, physical therapy | No cap; calculated by forensic economists |
+| Non-Economic Damages | Pain and suffering, loss of enjoyment of life, emotional distress | Capped at $350,000 (as of 2022 phase-in); previously $250,000 for decades |
+| Total Settlement Range | Varies by case severity | $50,000-$150,000 (minor cases) to millions (permanent disability/birth injury) |
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You filed a claim after a rear-end collision left you with whiplash, a totaled car, and three weeks of missed work. The other driver was clearly at fault. So why did the insurance company just offer you $4,200 when your medical bills alone are $6,800? That gap isn't an accident. It's math, and it's deliberate. Understanding the formula behind that offer is the first step to knowing whether you should take it, negotiate it, or get a lawyer involved.
 
@@ -40,13 +40,20 @@ Every settlement calculation starts with two buckets of damages: economic damage
 - Property damage
 - Out-of-pocket costs like transportation to doctor appointments, medication, or medical equipment
 
-**Non-economic damages** are messier. This category covers pain and suffering, emotional distress, loss of enjoyment of life, and in some cases, loss of consortium (that's the legal term for how your injury impacts your relationship with a spouse). You can't hand someone a receipt for pain. So how do insurance companies put a dollar figure on it? That's where two specific methods come in.
+**Non-economic damages** are messier. This category covers [pain and suffering](/how-is-pain-and-suffering-calculated-in-a-settlement/), emotional distress, loss of enjoyment of life, and in some cases, loss of consortium (that's the legal term for how your injury impacts your relationship with a spouse). You can't hand someone a receipt for pain. So how do insurance companies put a dollar figure on it? That's where two specific methods come in.
 
 ### The Multiplier Method
 
+| Injury Severity | Typical Multiplier Range | Example |
+| --- | --- | --- |
+| Soft tissue injury (mild whiplash) | 1.5 to 2 | $10,000 medical bills × 1.5 = $15,000 total |
+| Moderate injury (herniated disc requiring surgery) | 4 or higher | $15,000 medical bills × 4 = $60,000 total |
+| Permanent disability or disfigurement | 4+ (can exceed) | Varies based on severity |
+| Per diem method example | Daily rate × days affected | $200/day × 60 days = $12,000 in pain and suffering |
+
 The most common approach is called the multiplier method. The adjuster takes your total medical expenses and multiplies them by a number, usually somewhere between 1.5 and 5, depending on how bad the injury is.
 
-A soft tissue injury like mild whiplash might get a multiplier of 1.5 to 2. A herniated disc requiring surgery could push that multiplier to 4 or higher. Permanent disability or disfigurement can climb even higher. Then they add your lost wages on top of that final number.
+A soft tissue injury like mild whiplash might get a multiplier of 1.5 to 2. [A herniated disc requiring surgery](/how-much-is-a-herniated-disc-settlement-worth/) could push that multiplier to 4 or higher. Permanent disability or disfigurement can climb even higher. Then they add your lost wages on top of that final number.
 
 Here's the catch: the insurance company gets to choose the multiplier. And they'll almost always start low.
 

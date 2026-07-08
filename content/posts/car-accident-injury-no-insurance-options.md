@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
 You get rear-ended at a red light. The other driver gets out, looks at the damage, and then says three words that make your stomach drop: "I don't have insurance." You're hurt, your car is damaged, and suddenly everything you thought you knew about how this works goes out the window. It's a nightmare scenario, but it happens more often than most people realize. According to the Insurance Research Council, roughly 1 in 8 drivers on American roads is uninsured. In some states, that number climbs closer to 1 in 4.
 
@@ -53,7 +53,7 @@ I've seen clients walk away from these situations with full compensation. I've a
 
 Most people don't read their auto policy until something goes wrong. But right now, open that document or call your agent and ask specifically about two coverages.
 
-**Uninsured Motorist Coverage (UM):** This is coverage you may have bought to protect yourself exactly for this. UM pays for your bodily injuries when the at-fault driver has no insurance. Many states require insurers to offer it, and some require you to carry it. If you have it, this is your fastest, cleanest path to compensation for medical bills, lost wages, and pain and suffering. You're filing with your own insurer, but as an injured party, not the at-fault party.
+**[Uninsured Motorist Coverage (UM)](/uninsured-motorist-claim-process/):** This is coverage you may have bought to protect yourself exactly for this. UM pays for your bodily injuries when the at-fault driver has no insurance. Many states require insurers to offer it, and some require you to carry it. If you have it, this is your fastest, cleanest path to compensation for medical bills, lost wages, and pain and suffering. You're filing with your own insurer, but as an injured party, not the at-fault party.
 
 **Underinsured Motorist Coverage (UIM):** This kicks in when the at-fault driver has some insurance, just not enough. Uninsured situations fall under UM, not UIM, but the distinction matters.
 

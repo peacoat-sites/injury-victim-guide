@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 Most people walk into a first consultation with a personal injury attorney and ask exactly one useful question: "Do I have a case?" That's not enough. Not even close.
 
@@ -63,9 +63,15 @@ What you *can* ask, and what a good attorney will answer thoughtfully:
 
 ## The Fee Structure Conversation (Don't Skip This One)
 
+| Scenario | Contingency Fee (Pre-Lawsuit) | Contingency Fee (Post-Trial) | Example on $300,000 Settlement |
+| --- | --- | --- | --- |
+| Standard contingency structure | 33% | 40%+ | 33% = $99,000 attorney fee; 40% = $120,000 attorney fee ($21,000 difference) |
+| Expenses deducted before percentage | Varies | Varies | Results in lower net recovery to client |
+| Expenses deducted after percentage | Varies | Varies | Results in higher net recovery to client |
+
 Personal injury attorneys almost universally work on contingency. That means they take a percentage of your settlement or verdict instead of billing you hourly. No recovery, no fee. It sounds simple. It isn't.
 
-Ask: "What is your contingency fee percentage, and does it change if the case goes to trial?"
+Ask: "What is your [contingency fee percentage](/what-percentage-do-personal-injury-lawyers-take-2026/), and does it change if the case goes to trial?"
 
 Standard contingency fees run 33% pre-lawsuit and often jump to 40% or more if a lawsuit is filed and the case goes to trial. On a $300,000 settlement, the difference between 33% and 40% is $21,000 out of your pocket.
 

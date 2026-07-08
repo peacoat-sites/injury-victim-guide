@@ -23,9 +23,9 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
-You slipped on a wet floor at work, hit the ground hard, and now you're lying there wondering whether this counts as a workers' comp claim or a personal injury lawsuit. The answer is: it depends on who owns that wet floor. Most articles skip right past that distinction and cost people real money.
+You slipped on a wet floor at work, hit the ground hard, and now you're lying there wondering whether this counts as a workers' comp claim or [a personal injury lawsuit](/slip-and-fall-injury-claim-process/). The answer is: it depends on who owns that wet floor. Most articles skip right past that distinction and cost people real money.
 
 Let me fix that.
 
@@ -39,7 +39,7 @@ If your employer's negligence caused the fall, workers' compensation is almost a
 
 If a third party caused the fall, you may have a personal injury lawsuit on your hands alongside or instead of a workers' comp claim. Third parties include building owners, janitorial contractors, equipment manufacturers, or property management companies that aren't your employer.
 
-Picture this: you're a delivery driver who slips on an unmarked wet floor at a client's warehouse. Your workers' comp kicks in because you were working. But the warehouse owner may also owe you compensation under premises liability law, because they had a duty to maintain safe conditions for people on their property. That's a separate civil claim, and it can include damages your workers' comp check will never touch. This distinction is the single most important thing you can understand before you do anything else.
+Picture this: you're a delivery driver who slips on an unmarked wet floor at a client's warehouse. Your workers' comp kicks in because you were working. But the warehouse owner may also owe you compensation under [premises liability law](/property-owner-liability-slip-and-fall/), because they had a duty to maintain safe conditions for people on their property. That's a separate civil claim, and it can include damages your workers' comp check will never touch. This distinction is the single most important thing you can understand before you do anything else.
 
 ---
 
@@ -80,7 +80,7 @@ That gap between what you actually lost and what workers' comp pays is exactly w
 
 ## The Premises Liability Angle: When the Property Owner Is in the Crosshairs
 
-Premises liability is the legal theory that property owners and occupiers have a duty to maintain reasonably safe conditions for people who are lawfully on their property. For workplace slip and fall injuries, this comes into play most often when you work in a building your employer leases (the building owner may be separately liable), when a third-party contractor created the hazard (a cleaning company that left a wet floor without warning signs, for example), or when you were injured at a client's location, vendor's facility, or any property your employer doesn't control.
+Premises liability is the legal theory that property owners and occupiers have a duty to maintain reasonably safe conditions for people who are lawfully on their property. For workplace slip and fall injuries, this comes into play most often when you work in a building your employer leases (the building owner may be separately liable), when a third-party contractor created the hazard (a cleaning company that left a [wet floor without warning signs](/wet-floor-slip-and-fall-injury/), for example), or when you were injured at a client's location, vendor's facility, or any property your employer doesn't control.
 
 To succeed on a premises liability claim, you generally need to show three things: the property owner knew or should have known about the hazard, they failed to fix it or warn about it within a reasonable time, and that failure caused your injury. The "knew or should have known" standard is where cases often get contested. A wet floor that existed for 45 minutes is a harder argument than one that's been there for three days with a maintenance request ignored.
 

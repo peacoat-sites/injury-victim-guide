@@ -23,10 +23,11 @@ faqs:
    a: "A wet floor sign doesn't automatically defeat your claim. Placement matters, whether it was visible from your approach angle matters, and whether the hazard was adequately addressed or just marked matters. These are fact-specific questions worth discussing with an attorney rather than assuming the sign kills your case."
  - q: "Will I have to go to court?"
    a: "Most grocery store slip and fall claims settle before trial. Somewhere in the range of 95% of personal injury cases resolve without a jury verdict. That said, having an attorney willing and prepared to litigate is exactly what creates settlement pressure, so 'unlikely to go to court' isn't the same as 'your attorney doesn't need to be ready for it.'"
+lastmod: 2026-07-07
 ---
 Most articles about grocery store slip and fall settlements open with a headline number, "$30,000 to $50,000 is typical", then spend 800 words saying almost nothing useful. That number isn't wrong exactly. It's just stripped of every variable that actually determines what your case is worth.
 
-Here's what those articles skip: the settlement range for grocery store falls is genuinely enormous, running from a few thousand dollars to well into the seven figures. The spread exists because premises liability cases are wildly fact-dependent. Two people can slip on the same spilled olive oil in the same store and walk away with settlements that differ by $200,000. Understanding why is the only way to evaluate where your case might land.
+Here's what those articles skip: the settlement range for grocery store falls is genuinely enormous, running from a few thousand dollars to well into the seven figures. The spread exists because [premises liability cases](/property-owner-liability-slip-and-fall/) are wildly fact-dependent. Two people can slip on the same spilled olive oil in the same store and walk away with settlements that differ by $200,000. Understanding why is the only way to evaluate where your case might land.
 
 I spent 12 years reviewing these files on the insurer side. The adjusters handling your claim right now are running the same mental checklist I used to. So let me walk you through it.
 

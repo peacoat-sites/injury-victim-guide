@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-07
 ---
 You're sitting in a hospital bed, arm in a cast, replaying the moment a distracted driver ran a red light and changed your life in seconds. The insurance adjuster calls within 48 hours, friendly as a neighbor, offering you a check that sounds significant until you realize you haven't even seen a specialist yet. Do you take it? Do you sue? Most injury victims have no idea how different those two paths really are, and choosing the wrong one too fast can cost you far more than the accident itself.
 
@@ -62,7 +62,7 @@ Every case is different, and I can't stress that enough. But there are concrete 
 
 **Factors that favor settling:**
 
-- Your injuries are fully diagnosed and you've reached what doctors call "maximum medical improvement," meaning your condition has stabilized and future costs are clearer.
+- Your injuries are fully diagnosed and you've reached what doctors call "[maximum medical improvement](/how-to-document-injuries-after-accident/)," meaning your condition has stabilized and future costs are clearer.
 - The offer reasonably covers your medical expenses, lost income, and non-economic damages like pain and suffering.
 - Liability is genuinely disputed, which creates trial risk.
 - The defendant's insurance policy limits are low, and they don't have significant personal assets above those limits.
@@ -74,11 +74,21 @@ Every case is different, and I can't stress that enough. But there are concrete 
 - Your injuries are severe, permanent, or require future medical care that hasn't been fully priced.
 - Liability is clear and the evidence strongly supports your case.
 - The at-fault party has adequate coverage or personal assets.
-- Your state's statute of limitations is approaching.
+- Your state's [statute of limitations is approaching](/personal-injury-statute-of-limitations-by-state/).
 
 Here's the thing most people miss: you can negotiate a settlement even after filing a lawsuit. Filing doesn't lock you into a trial. It locks you into the legal process, which includes plenty of off-ramps toward agreement.
 
 ## Settlement vs. Lawsuit: A Side-by-Side Look
+
+| Factor | Settlement | Lawsuit Leading to Trial |
+|---|---|---|
+| **Timeline** | Weeks to months | 1 to 3+ years |
+| **Certainty** | High, you know exactly what you'll receive | Low, jury verdicts are unpredictable |
+| **Cost to You** | Usually covered by contingency fee agreement | Attorney fees (contingency or hourly) |
+| **Privacy** | Private agreement, typically confidential | Court records are public |
+| **Speed of Resolution** | Faster payout | Delayed payout pending verdict/appeals |
+| **Control Over Outcome** | Both parties agree to terms | Judge or jury decides |
+| **Ability to Reopen** | No, release is permanent | Not applicable once settled |
 
 | Factor | Settlement | Lawsuit Leading to Trial |
 |---|---|---|

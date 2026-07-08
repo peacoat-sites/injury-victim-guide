@@ -23,6 +23,7 @@ faqs:
    a: "Every state bar association maintains a public directory. Search '[your state] state bar attorney search' and you can confirm licensure, standing, and any disciplinary history in about two minutes. Do this. It's free and takes less time than checking a restaurant on Yelp."
  - q: "Can I switch lawyers if I'm unhappy with the one I hired?"
    a: "Yes, though there are practical complications. If you fire your attorney, they typically have a lien on the case for the work they've already done, and your new attorney will need to negotiate that. It's not a reason to stay with someone who's failing you, but it's worth understanding before you make the switch. New counsel can usually help you navigate it."
+lastmod: 2026-07-07
 ---
 
 Most people spend more time choosing a contractor for a bathroom remodel than they do picking the lawyer who'll handle the most stressful financial event of their life. I spent 12 years on the other side of this equation, evaluating injury claims for insurance companies, and I can tell you with zero hesitation: the attorney you choose matters more than almost any other single decision you'll make after an accident.
@@ -59,7 +60,7 @@ First, the percentage is negotiable. Not always by a lot, but in cases with stro
 
 Second, the fee is calculated on the gross recovery before case expenses are deducted, at most firms. So if your settlement is $100,000, your lawyer takes $33,000, and then case expenses (medical records, expert witnesses, filing fees) come off the remaining $67,000. Some firms deduct expenses first and then calculate the fee on the net, which is better for you. Ask which method they use. This is not a minor question.
 
-Third, "no win, no fee" sometimes means you're still on the hook for expenses if the case loses. Read the retainer agreement carefully. Every word of it.
+Third, "[no win, no fee](/personal-injury-attorney-free-consultation-what-to-expect/)" sometimes means you're still on the hook for expenses if the case loses. Read the retainer agreement carefully. Every word of it.
 
 ---
 

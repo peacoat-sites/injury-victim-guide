@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You're sitting in a hospital bed three days after a rear-end collision. The at-fault driver's insurance company calls and offers $4,500 to settle. Is that fair, or are they lowballing you? Most people have no idea, and the adjuster on the phone knows it. I spent 12 years as an adjuster before switching sides to help injury victims, and I can tell you that opening offer almost never reflects what a case is actually worth. Understanding how value gets calculated won't make you a lawyer. But it will stop you from making a decision you'll regret for years.
 
@@ -43,6 +43,12 @@ Getting the economic side right requires paperwork discipline. I've seen clients
 
 ## How Adjusters and Attorneys Actually Calculate a Number
 
+| Calculation Method | Best Used For | Key Variables | Typical Multiplier/Rate |
+| --- | --- | --- | --- |
+| Multiplier Method | All injury types | Severity, permanence, liability clarity, credibility | 1.5-5× economic damages |
+| Per Diem Method | Injuries with defined recovery arc | Daily pain/suffering value × number of days | $X per day (varies by case) |
+| Insurance Software (Colossus) | Claims evaluation by insurers | 100+ weighted variables | Insurer-favored settlement range |
+
 > **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Two methods show up constantly.
@@ -59,9 +65,9 @@ Insurance companies use their own internal software, notably a program called Co
 
 Two cases with identical medical bills can settle for very different amounts.
 
-**Liability clarity.** Rear-ended at a red light with dashcam footage? Liability is airtight. Partially in the crosswalk when a car hit you? The other side argues comparative negligence, meaning they'll claim your own actions reduced their responsibility. Many states follow "modified comparative fault": if you're found more than 50% at fault, you recover nothing. If you're found 30% at fault, your damages are reduced by 30%. That swing alone drastically changes your outcome.
+**[Liability clarity](/factors-that-increase-settlement-value/).** Rear-ended at a red light with dashcam footage? Liability is airtight. Partially in the crosswalk when a car hit you? The other side argues comparative negligence, meaning they'll claim your own actions reduced their responsibility. Many states follow "modified comparative fault": if you're found more than 50% at fault, you recover nothing. If you're found 30% at fault, your damages are reduced by 30%. That swing alone drastically changes your outcome.
 
-**The severity and permanence of your injuries.** A herniated disc that required spinal fusion carries far more weight than a strain that resolved in six weeks. Permanent scarring, loss of a limb, traumatic brain injury, chronic pain conditions, all push values higher. Temporary injuries, even painful ones, generally receive lower multipliers.
+**The severity and permanence of your injuries.** A herniated disc that required spinal fusion carries far more weight than a strain that resolved in six weeks. Permanent scarring, loss of a limb, traumatic brain injury, chronic pain conditions, all push values higher. [Temporary injuries, even painful ones](/average-payout-for-soft-tissue-injury-car-accident/), generally receive lower multipliers.
 
 **Your medical treatment and its consistency.** Gaps in treatment hurt. If you stopped going to physical therapy for two months and then started again, the defense argues you must not have been that injured. Treating consistently with appropriate providers and following your doctor's recommendations builds the narrative that your injury was serious and you took it seriously.
 

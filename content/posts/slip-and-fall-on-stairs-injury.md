@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-07
 ---
 Three steps from the bottom. That's where most stair falls happen, and I can tell you that from twelve years of reading accident reports, not from a brochure.
 
@@ -47,7 +47,7 @@ Here's why this matters for your legal case: an adjuster will almost always try 
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Property owners have a legal duty to maintain reasonably safe conditions for people who are lawfully on their property. That's premises liability, and stairs are one of the most common triggers for those claims. But "the steps were dangerous" is a starting point, not a finished argument.
+Property owners have a legal duty to maintain reasonably safe conditions for people who are lawfully on their property. That's [premises liability](/property-owner-liability-slip-and-fall/), and stairs are one of the most common triggers for those claims. But "the steps were dangerous" is a starting point, not a finished argument.
 
 To have a viable claim, you generally need to show four things: the property owner controlled the staircase, there was a hazardous condition, the owner knew (or should have known) about it, and that condition caused your fall and injuries. That third element, the knowledge piece, is where cases often fall apart.
 
@@ -55,7 +55,7 @@ What counts as a hazardous condition on stairs? More than just a broken step. Lo
 
 The ownership question gets complicated in apartment buildings, rental properties, commercial spaces, and anywhere that involves multiple parties. Fell on the stairs of a rental unit? Your landlord may be liable. Happened in a retail store? The property owner and the business operating inside might both carry exposure. Government-owned building like a courthouse or post office? You're dealing with a different legal process entirely, usually with shorter deadlines than standard civil claims.
 
-Here's something most people don't realize: comparative negligence laws exist in most states. This means your own percentage of fault can reduce (and in a few states, eliminate) your compensation. You were carrying a large box that blocked your view. You were running. You knew the step was damaged and used it anyway. A defense attorney will say you share the blame. That doesn't mean you have no case. It means you need to be prepared to address it.
+Here's something most people don't realize: [comparative negligence laws](/how-to-prove-slip-and-fall-case/) exist in most states. This means your own percentage of fault can reduce (and in a few states, eliminate) your compensation. You were carrying a large box that blocked your view. You were running. You knew the step was damaged and used it anyway. A defense attorney will say you share the blame. That doesn't mean you have no case. It means you need to be prepared to address it.
 
 ---
 
@@ -69,7 +69,7 @@ The day of the fall, if you're physically able, you need to document everything.
 
 After that, write down what happened in as much detail as you can remember: what time it was, what you were wearing, where you were going, what you felt underfoot, whether you grabbed for the railing and what happened when you did. Memory degrades fast, especially under stress. I've seen people who fell on a Monday and by Friday couldn't remember basic details that turned out to matter.
 
-If you're thinking about bringing a claim, an attorney can send what's called a spoliation letter, which is a formal legal notice demanding that the property owner preserve all evidence related to your fall. That can prevent the convenient repair problem. But that letter needs to go out quickly.
+If you're thinking about bringing a claim, an attorney can send what's called a [spoliation letter](/slip-and-fall-injury-claim-process/), which is a formal legal notice demanding that the property owner preserve all evidence related to your fall. That can prevent the convenient repair problem. But that letter needs to go out quickly.
 
 For keeping your own records organized, a personal injury documentation journal (something like this [injury documentation workbook on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal), note that the site may earn a commission on purchases) can be genuinely useful. Sounds low-tech. Works.
 

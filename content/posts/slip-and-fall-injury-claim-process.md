@@ -23,13 +23,13 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You're standing in a grocery store aisle, one moment upright and the next on the floor, stunned, your hip throbbing, a wet produce bag near your hand that nobody bothered to clean up. Or maybe it happened at a neighbor's apartment complex, or a big-box retail store with a freshly mopped floor and no warning sign in sight. However it happened, you're probably reading this from an uncomfortable place, physically and emotionally, wondering whether you even have a case, whether it's worth the trouble, and what on earth you're supposed to do next. That's exactly where we're going to start.
 
 ## What "Slip and Fall" Actually Means Legally
 
-The phrase "slip and fall" sounds casual, but legally it falls under a category called **premises liability**. That's just a fancy term for: the owner or controller of a property has a legal responsibility to keep it reasonably safe for people who have a right to be there.
+The phrase "slip and fall" sounds casual, but legally it falls under a category called **[premises liability](/property-owner-liability-slip-and-fall/)**. That's just a fancy term for: the owner or controller of a property has a legal responsibility to keep it reasonably safe for people who have a right to be there.
 
 The key word is "reasonably." Property owners aren't expected to be perfect. They're expected to be responsible. The legal question won't be "did you fall?" It'll be something more specific: did the property owner know (or should they have known) about the dangerous condition, and did they fail to fix it or warn you in time?
 
@@ -77,7 +77,7 @@ Once you've stabilized and documented, the formal claim process begins. Here's w
 
 **The investigation period.** The insurer assigns an adjuster (I was one of these for 12 years) who reviews the incident report, pulls surveillance footage if it exists, talks to employees or witnesses, and evaluates your medical records. This is the phase where what you documented in the first 48 hours becomes critically important. Insurers move at their own pace here. Weeks, sometimes months.
 
-**The demand letter.** Once your medical treatment has reached what's called "maximum medical improvement", the point where your doctors expect your condition to stabilize, you or your attorney can send a demand letter to the insurer. This letter lays out the facts, the liability argument, your medical expenses, lost wages, and pain and suffering damages. It asks for a specific settlement amount.
+**The demand letter.** Once your medical treatment has reached what's called "[maximum medical improvement](/slip-and-fall-settlement-amounts/)", the point where your doctors expect your condition to stabilize, you or your attorney can send a demand letter to the insurer. This letter lays out the facts, the liability argument, your medical expenses, lost wages, and pain and suffering damages. It asks for a specific settlement amount.
 
 **Negotiation.** The insurer will almost certainly counter with a lower number. This back-and-forth is normal. Most slip and fall claims are resolved through negotiation before anyone steps into a courtroom.
 

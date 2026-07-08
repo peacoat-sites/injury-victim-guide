@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
 Most people filing an insurance claim think the worst that'll happen is a settlement offer they have to negotiate. That's what costs injured people serious money.
 
@@ -48,7 +48,7 @@ Insurance companies have a legal obligation called the "duty of good faith and f
 
 Bad faith is what happens when they cross specific legal lines.
 
-A delayed response becomes bad faith when it's unreasonable and the insurer has zero legitimate reason for it. A low offer becomes bad faith when the company knows, based on its own internal documents, that the offer doesn't reflect the claim's actual value. A denial becomes bad faith when the company fabricates or ignores evidence to justify it.
+A delayed response becomes bad faith when it's unreasonable and the insurer has zero legitimate reason for it. A low offer becomes bad faith when the company knows, based on its own internal documents, that the offer doesn't reflect the claim's actual value. [A denial becomes bad faith](/why-insurance-company-denied-my-injury-claim/) when the company fabricates or ignores evidence to justify it.
 
 The distinction matters hard because bad faith claims work completely differently than ordinary coverage disputes. In a coverage dispute, you're arguing about whether the policy pays and how much. In a bad faith case, you're arguing that the insurer owes you damages beyond the policy limits, plus potentially punitive damages on top of that.
 

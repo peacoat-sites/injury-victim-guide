@@ -23,6 +23,7 @@ faqs:
     a: "It complicates things, but it doesn't eliminate your claim. Under the 'eggshell plaintiff' doctrine, a defendant takes you as they find you. If a prior back injury was aggravated by the accident, you can still recover for the aggravation. Adjusters will fight this hard. Strong medical documentation showing the difference between your baseline and your post-accident condition is how you counter it."
   - q: "What if my injuries are mostly emotional, not physical?"
     a: "Pure emotional distress claims without accompanying physical injury are harder to win and generally produce lower settlements. Documented psychiatric or psychological treatment helps significantly. States vary on how they treat stand-alone emotional distress claims, so the law in your jurisdiction matters a lot here."
+lastmod: 2026-07-07
 ---
 
 Most articles about pain and suffering calculations lead with the multiplier method, explain it badly, and leave you no better off than when you started. Let me fix that.
@@ -67,16 +68,22 @@ If you want a structured tool for this, there are injury documentation journals 
 
 ## Three Worked Examples from Real Claim Types
 
+| Injury Type | Medical Bills | Multiplier | Pain & Suffering | Total Settlement |
+| --- | --- | --- | --- | --- |
+| Soft tissue whiplash, clear liability | $8,500 | 2.5 | $21,250 | $30,000 |
+| Broken femur, surgery, partial fault (20%) | $95,000 | 3.5 (pre-reduction) | $332,500 (pre-reduction) | $255,000 |
+| Chronic pain after slip-and-fall | $35,000 | 4.0 | $140,000+ | $175,000 |
+
 **Soft tissue whiplash, clear liability:**
 Claimant has $8,500 in medical bills, two months of chiropractic, no surgery, full recovery. Adjuster opens with a 1.5 multiplier ($12,750 pain and suffering, $21,250 total). Attorney pushes to 2.5 based on documented sleep disruption and time missed from a physical job. Settlement lands at $30,000.
 Special bills x multiplier → $8,500 x 2.5 = $21,250 P&S → $29,750 total (rounded to $30K).
 
-**Broken femur, surgery, partial fault:**
+**[Broken femur, surgery, partial fault](/broken-bone-injury-settlement-average/):**
 Claimant has $95,000 in medical bills and lost wages. Liability is contested, with the claimant found 20% at fault. A 3.5 multiplier would yield $332,500 total, but the 20% fault reduction drops it to $266,000. The case settles at $255,000 after factoring in future treatment uncertainty.
 $95K specials x 3.5 = $332,500 → minus 20% fault reduction = $266,000 → negotiated final settlement: $255,000.
 
 **Chronic pain after slip-and-fall:**
-Claimant has $35,000 in medical bills and a physician's documentation of permanent partial disability. Per diem argument introduced at $200/day for the 400 days of acute recovery phase ($80,000), then the multiplier method runs parallel at 4x to support the same range. Settlement: $175,000 including future medicals.
+Claimant has $35,000 in medical bills and a physician's documentation of [permanent partial disability](/permanent-disability-settlement-amounts/). Per diem argument introduced at $200/day for the 400 days of acute recovery phase ($80,000), then the multiplier method runs parallel at 4x to support the same range. Settlement: $175,000 including future medicals.
 Two methods used as brackets to establish a credible range, not a single number.
 
 ---

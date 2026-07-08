@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 Three years. That's the number I hear most often when people ask about deadlines for injury claims. And honestly? Three years lulls people into a dangerous sense of comfort, because in a lot of states the real deadline is two years, and in some situations it can be as short as six months.
 
@@ -40,6 +40,13 @@ Courts enforce these deadlines pretty rigidly. The reasoning goes something like
 What most people don't realize is that the statute of limitations varies significantly depending on where you were injured, who injured you, and what type of claim you're filing. There's no single national rule. It's a state-by-state patchwork, and some of the exceptions buried inside those rules can work either in your favor or against you.
 
 ## The State-by-State Reality
+
+| Situation | Typical Deadline | Key Notes |
+| --- | --- | --- |
+| General personal injury (most states) | 2-3 years | Varies by state; California and Texas use 2 years, New York uses 3 years |
+| Government entity claims | 60-180 days | Notice-of-claim requirement; missing this can bar lawsuit entirely |
+| Medical malpractice | 2 years (common) | Often starts from date of negligent act or discovery of injury |
+| Products liability (statute of repose) | 10+ years | Hard cutoff from manufacture/sale date, regardless of injury date |
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

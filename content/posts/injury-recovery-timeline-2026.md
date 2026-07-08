@@ -18,6 +18,7 @@ faqs:
    answer: "Medically cleared to resume normal activity. This does not mean full strength. Most people need another 2-4 weeks of gradual progression before feeling normal."
  - question: "Should I keep moving or rest completely?"
    answer: "Complete immobilization is outdated. Move gently within pain limits (Phase 2+). Controlled movement reduces stiffness and aids healing. But do not force it."
+lastmod: 2026-07-07
 ---
 
 Nobody wants to hear a recovery timeline. You want to hear "three weeks and you are done."
@@ -30,7 +31,7 @@ This guide shows evidence-based recovery timelines for the 8 most common injurie
 
 ## The Four Phases
 
-**Acute (Days 0-7):** Inflammation is protection, not punishment. RICE protocol (Rest, Ice, Compression, Elevation) reduces swelling.
+**Acute (Days 0-7):** Inflammation is protection, not punishment. [RICE protocol](/average-payout-for-soft-tissue-injury-car-accident/) (Rest, Ice, Compression, Elevation) reduces swelling.
 
 **Subacute (Week 2-6):** Swelling decreases. Gentle movement begins. Physical therapy starts.
 

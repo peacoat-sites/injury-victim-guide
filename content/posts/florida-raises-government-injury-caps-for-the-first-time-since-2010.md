@@ -12,12 +12,19 @@ author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 slug: "florida-raises-government-injury-caps-for-the-first-time-since-2010"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture a Miami man who loses his leg after a city bus runs him down. He has a clear-cut case, a devastating injury, and a jury that agrees he deserves millions. But because the bus belonged to a public transit agency, a 15-year-old Florida law caps his recovery at $200,000. To collect anything close to what he's actually owed, he has to wait for the Florida Legislature to pass a one-off "claims bill" on his behalf. That's exactly what happened in 2026, with legislators approving a $4.1 million claims bill just for that single case. One person. One bus. One act of Congress required to correct an outdated law.
 
 That's the system Florida has been running on since 2010. As of March 2026, it's finally changing.
 
 ## What Florida's Legislature Actually Did
+
+| Metric | Old Cap (2010-2026) | New Cap (HB 145, 2026+) | Change |
+| --- | --- | --- | --- |
+| Per-Person Limit | $200,000 | $350,000 | +75% |
+| Per-Incident Limit | $300,000 | $500,000 | +67% |
+| Years Without Adjustment | 15 | 0 | - |
 
 On March 12, 2026, Florida passed HB 145, raising the sovereign immunity caps for the first time in 15 years. The vote wasn't close. The Senate approved it 36-0. The House passed its version 104-7. For context, getting 104 Florida House members to agree on anything is genuinely remarkable, which tells you how obviously broken the old limits had become.
 
@@ -33,7 +40,7 @@ That ceiling just got raised. It's still a ceiling.
 
 
 
-Here's what bothered me most about the old cap, and I say this as someone who spent years on the insurance side of these claims: $200,000 sounds like real money until you price out what a serious injury actually costs in 2026.
+Here's what bothered me most about the old cap, and I say this as someone who spent years on the insurance side of these claims: $200,000 sounds like real money until you price out what a [serious injury actually costs](/when-ai-handles-your-injury-claim-your-new-rights-in-2026/) in 2026.
 
 A leg amputation. A traumatic brain injury. Spinal damage from a government vehicle running a red light. Any one of those can generate hundreds of thousands of dollars in emergency care, surgery, and long-term rehabilitation before you've even counted lost wages or the impact on your family. The cap wasn't designed to cover catastrophic injuries. It was designed to limit the government's exposure regardless of what your injury actually cost you.
 

@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-07
 ---
 Three months. That's what the adjuster told Maria when she called to check on her rear-end collision claim. Three months turned into eleven. By the time her case settled, she'd missed two car payments, borrowed money from her mother, and had a collection notice from her physical therapist sitting on the kitchen table.
 
@@ -32,6 +32,13 @@ I spent twelve years on the other side of that phone call. I know exactly why ad
 Let's talk about what actually drives settlement timelines. Not the optimistic version, not the scary version, just the real one.
 
 ## The Range Is Wider Than Anyone Tells You
+
+| Claim Type | Typical Timeline | Key Factors |
+| --- | --- | --- |
+| Straightforward (clear liability, soft tissue) | 60-90 days | Cooperative insurer, minor injuries, no disputes |
+| Moderate injury (negotiation, no trial) | 6-18 months | Back-and-forth negotiation, medical treatment ongoing |
+| Serious injury, disputed fault, multiple defendants | 2-4 years | Litigation, discovery, court dockets, complex causation |
+| Post-litigation (if filed, before trial) | 12-24 months | Court scheduling, discovery (6-9 months), settlement possible before trial |
 
 Straightforward car accident claims with clear liability, soft tissue injuries, and cooperative insurance companies can settle in 60 to 90 days. I've seen it happen. But "straightforward" is doing a lot of work in that sentence, and most cases don't qualify.
 
@@ -45,7 +52,7 @@ This is where I want to spend real time, because understanding these factors giv
 
 **The single biggest delay: your medical treatment isn't finished.**
 
-Most experienced personal injury attorneys won't file a demand package until you've reached "maximum medical improvement," or MMI. That's the point where your doctor says your condition has stabilized, whether you've fully recovered or not. Here's why: if you settle before you know the full extent of your injuries, you might be signing away rights to compensation for surgeries or treatments you don't even know you'll need yet.
+Most experienced personal injury attorneys won't file a demand package until you've reached "[maximum medical improvement](/how-long-do-personal-injury-cases-take/)," or MMI. That's the point where your doctor says your condition has stabilized, whether you've fully recovered or not. Here's why: if you settle before you know the full extent of your injuries, you might be signing away rights to compensation for surgeries or treatments you don't even know you'll need yet.
 
 This one thing alone can add months. Break your wrist in January, still in occupational therapy in August, and your attorney isn't dragging their feet. They're waiting for your medical picture to get clear. It's the right call, even when it's agonizing.
 
@@ -69,7 +76,7 @@ If settlement negotiations break down and your attorney files a lawsuit, you're 
 
 A lot of this is outside your hands. But not all of it.
 
-Getting medical treatment promptly matters more than people realize. Gaps in treatment are one of the insurance industry's favorite arguments. If you waited three weeks after your accident to see a doctor, you'll hear about it. Not from your doctor, from the adjuster, who will argue the delay proves you weren't really hurt. See a doctor quickly, follow through on recommended treatment, and don't stop going before your doctor clears you.
+Getting medical treatment promptly matters more than people realize. [Gaps in treatment](/how-to-document-injuries-after-accident/) are one of the insurance industry's favorite arguments. If you waited three weeks after your accident to see a doctor, you'll hear about it. Not from your doctor, from the adjuster, who will argue the delay proves you weren't really hurt. See a doctor quickly, follow through on recommended treatment, and don't stop going before your doctor clears you.
 
 Document everything. Relentlessly. Keep a daily pain journal. Photograph your injuries, your car damage, anything relevant. Save every text and email related to the accident. Something as simple as a [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) can make a real difference when your attorney is building a demand package months from now. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

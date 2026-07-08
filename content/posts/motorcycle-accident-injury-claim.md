@@ -23,9 +23,10 @@ faqs:
    a: "In most states, yes. The majority of states use some form of comparative negligence, which reduces your recovery by your percentage of fault rather than eliminating it. A few states still use contributory negligence, where any fault on your part bars recovery entirely. Your state's rule matters enormously here, which is one more reason to get a local attorney involved early."
  - q: "My injuries didn't show up right away. Is it too late to file a claim?"
    a: "No, and this is actually common after motorcycle accidents. Adrenaline masks pain. Soft tissue injuries swell over 24 to 48 hours. TBI symptoms can emerge over days or weeks. As long as you're within your state's statute of limitations, delayed symptom onset doesn't disqualify your claim. Document when symptoms appeared and connect them to your treating physician as early as possible."
+lastmod: 2026-07-07
 ---
 
-Most articles about motorcycle accident claims spend three paragraphs explaining what a personal injury lawsuit is, then bury the one thing you actually need to know: insurers treat motorcyclists differently, and almost none of the general "how to file a claim" advice accounts for that.
+Most articles about motorcycle accident claims spend three paragraphs explaining what a [personal injury lawsuit](/pedestrian-accident-injury-claim/) is, then bury the one thing you actually need to know: insurers treat motorcyclists differently, and almost none of the general "how to file a claim" advice accounts for that.
 
 Let me fix that.
 
@@ -39,7 +40,7 @@ Here's what actually happens, and what you can do about it.
 
 The moment a rider files a claim, an adjuster's internal framing shifts. I know, because I did it myself, without realizing it at first. There's a persistent industry assumption that motorcyclists are higher-risk, less sympathetic claimants. Studies on jury behavior bear this out: [the American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on personal injury litigation notes that juror perception of "assumption of risk" hits motorcycle cases harder than car accidents, even when the rider was legally faultless.
 
-That assumption shows up early. Adjusters will note whether you were wearing full gear. They'll flag any prior speeding violations. They'll look for any way to argue comparative negligence, which is the legal concept that says if you're partially at fault, your payout gets reduced by that percentage. In a handful of states, if you're found more than 50% at fault, you recover nothing.
+That assumption shows up early. Adjusters will note whether you were wearing full gear. They'll flag any prior speeding violations. They'll look for any way to argue [comparative negligence](/defective-product-injury-claim/), which is the legal concept that says if you're partially at fault, your payout gets reduced by that percentage. In a handful of states, if you're found more than 50% at fault, you recover nothing.
 
 Concrete example: A rider in Tennessee gets rear-ended at a red light. Clear liability. But the at-fault driver's insurer argues the rider's lane positioning "contributed to the collision." The adjuster assigns 15% comparative fault to the rider. On a $120,000 injury claim, that's $18,000 that just disappears unless challenged.
 

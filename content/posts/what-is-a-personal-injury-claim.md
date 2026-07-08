@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You're sitting in an urgent care waiting room, ice pack on your wrist, replaying the moment you slipped on that unmarked wet floor at the grocery store. The manager handed you an incident report form, the staff was polite, and now you're wondering: do I have a case? What does "filing a personal injury claim" even mean? Most people have heard the phrase a hundred times, but very few understand what actually happens when you pursue one.
 
@@ -66,7 +66,7 @@ The process feels overwhelming when you're already dealing with pain, missed wor
 
 This isn't just about your health. It creates a documented record that connects your injury to the incident. Gaps in treatment are one of the first things adjusters use to minimize payouts.
 
-**Step 2: Document everything.**
+**Step 2: [Document everything](/how-to-document-injuries-after-accident/).**
 
 Take photos of the scene, your injuries, any property damage. Get names and contact information of witnesses. Keep every receipt and every bill. Write down what happened while it's fresh. Some people find it helpful to keep a daily journal of their symptoms and how the injury affects their daily life. A simple injury documentation journal (available on Amazon, and yes, this site may earn a small commission on purchases) can make this habit easier to stick to.
 
@@ -90,7 +90,7 @@ The adjuster reviews medical records, police reports, photos, and your account o
 
 If negotiations produce a fair number, you sign a release and the case closes. If they don't, litigation may begin.
 
-One practical note: every state has a **statute of limitations** for personal injury claims, typically ranging from one to three years from the date of the injury. Miss that deadline and you permanently lose your right to file. Don't wait.
+One practical note: every state has a **[statute of limitations](/what-is-the-statute-of-limitations-for-personal-injury-claims/)** for personal injury claims, typically ranging from one to three years from the date of the injury. Miss that deadline and you permanently lose your right to file. Don't wait.
 
 ---
 

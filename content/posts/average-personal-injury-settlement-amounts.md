@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You're sitting in a hospital bed with your arm in a cast. The insurance adjuster just offered you $8,500. Is that fair, or are they banking on you not knowing any better?
 
@@ -33,7 +33,7 @@ I spent 12 years adjusting claims. I know how that phone call goes, and I can te
 
 Every personal injury article promises a number. "$50,000 is average." "Car accidents pay $20,000." Those figures are nearly meaningless for your case.
 
-Settlement amounts aren't like restaurant menu prices. They're negotiated outcomes shaped by dozens of variables specific to your situation. The Insurance Information Institute consistently points out that payouts vary enormously by injury type, jurisdiction, policy limits, and liability factors. A rear-end fender-bender with soft tissue injuries in a rural county settles differently than the same collision in a major metro where medical costs are higher and juries award more.
+Settlement amounts aren't like restaurant menu prices. They're negotiated outcomes shaped by dozens of variables specific to your situation. The Insurance Information Institute consistently points out that payouts vary enormously by injury type, jurisdiction, [policy limits](/how-insurance-companies-calculate-settlements/), and liability factors. A rear-end fender-bender with soft tissue injuries in a rural county settles differently than the same collision in a major metro where medical costs are higher and juries award more.
 
 That doesn't mean knowing the landscape is useless. It helps you spot when an offer is insulting versus reasonable.
 
@@ -56,6 +56,15 @@ When I was adjusting claims, these were the variables we actually weighed.
 **Policy limits.** Here's a hard truth: no matter how strong your case is, you generally can't collect more than the at-fault party's policy limits without pursuing personal assets, which is usually impractical. If the driver who hit you carries only $25,000 in bodily injury coverage, your recovery is capped even if your damages are twice that. Your own uninsured/underinsured motorist coverage, if you have it, can partially bridge that gap.
 
 ## What Common Injury Types Generally Look Like
+
+| Injury Type | Typical Settlement Range | Key Variables |
+|---|---|---|
+| Soft tissue / whiplash | $2,500 to $25,000 | Treatment duration, documentation quality |
+| Broken bones (uncomplicated) | $15,000 to $75,000 | Location of fracture, recovery time |
+| Herniated disc / spinal injury | $30,000 to $150,000+ | Surgery required, permanent symptoms |
+| Traumatic brain injury (TBI) | $100,000 to $1M+ | Severity, long-term cognitive effects |
+| Wrongful death | $500,000 to $3M+ | Dependents, income of deceased |
+| Slip and fall | $10,000 to $100,000 | Liability clarity, injury severity |
 
 | Injury Type | Typical Settlement Range | Key Variables |
 |---|---|---|

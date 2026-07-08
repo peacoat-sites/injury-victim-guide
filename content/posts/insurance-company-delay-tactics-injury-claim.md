@@ -23,29 +23,35 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You filed the claim weeks ago. The adjuster seemed friendly on the phone, promised to "get back to you soon," and then... nothing. You call again. They're "still reviewing your file." Your medical bills are stacking up, you're missing work, and the insurance company keeps dangling the possibility of a settlement just far enough out of reach to keep you waiting. Sound familiar?
 
 I've seen this play out hundreds of times, from both sides of the table. As an adjuster, I was trained in exactly these techniques. Now I help people understand what's actually happening when a claim goes quiet, and more importantly, what you can do about it.
 
 ## Why Insurance Companies Delay: It's Not an Accident
+
+| Claim Handling Step | Typical Timeframe (State Requirement) | Common Reality |
+| --- | --- | --- |
+| Claim acknowledgment | 10-30 days | Often delayed with documentation requests |
+| Accept or deny decision | 40-45 days from proof of loss | Stretched through adjuster transfers and repeated requests |
+| Initial contact after filing | Within stated window | May take weeks; adjuster unavailable or unresponsive |
 As of June 2026, 
 Let me be direct: delay is a business strategy. Insurance companies hold billions of dollars in reserves, and every day that money sits uninvested is a day it's not earning returns. But the more immediate reason is simpler. They're betting that you'll get desperate.
 
 When your bills are piling up and you're not sure how you'll cover next month's rent, a lowball settlement starts to look attractive. That $18,000 offer feels a lot more tempting at month four than it would have at week two, when you still had some financial cushion. The industry even has an informal term for this: "delay and diminish." Stall long enough, reduce the perceived value of the claim, and settle for less.
 
-The Insurance Information Institute notes that claims handling practices are regulated at the state level, but enforcement varies widely. What counts as "reasonable" delay in one state might be considered a bad faith violation in another. Most states require insurers to acknowledge a claim within 10 to 30 days and to accept or deny it within 40 to 45 days of receiving proof of loss, but those windows are often stretched in practice. Additional documentation requests, repeated transfers between adjusters, bureaucratic friction, these all extend the timeline while technically staying within the rules.
+The Insurance Information Institute notes that claims handling practices are regulated at the state level, but enforcement varies widely. What counts as "reasonable" delay in one state might be considered a [bad faith violation](/bad-faith-insurance-claim-explained/) in another. Most states require insurers to acknowledge a claim within 10 to 30 days and to accept or deny it within 40 to 45 days of receiving proof of loss, but those windows are often stretched in practice. Additional documentation requests, repeated transfers between adjusters, bureaucratic friction, these all extend the timeline while technically staying within the rules.
 
 ## The Specific Tactics You're Up Against
 
 I want to name these clearly. Recognizing them is the first step to countering them.
 
-**The Endless Documentation Request.** You send your medical records. They ask for your complete five-year medical history. You send that. Now they want a recorded statement. Then they need "clarification" on one document. Then they've assigned the file to a new adjuster who needs time to "get up to speed." Each request resets your emotional clock and extends the timeline.
+**The Endless Documentation Request.** You send your medical records. They ask for your complete five-year medical history. You send that. Now they want a [recorded statement](/should-i-give-a-recorded-statement-to-the-insurance-company/). Then they need "clarification" on one document. Then they've assigned the file to a new adjuster who needs time to "get up to speed." Each request resets your emotional clock and extends the timeline.
 
 **The Sympathetic Stall.** Your adjuster is friendly, empathetic, almost apologetic. "I'm really trying to get this pushed through for you," they say. "My supervisor keeps holding things up." This is frequently a technique. A warm relationship with your adjuster does not mean your claim is being prioritized. I've watched adjusters who genuinely liked their claimants still follow department protocols that stretched claims out for months.
 
-**Questioning Causation Repeatedly.** After you've already submitted medical records showing your injury, they send a letter suggesting that your herniated disc might be a "pre-existing condition." They request an Independent Medical Examination. Here's what you should know: these exams aren't actually independent. They're performed by doctors who are paid by, and frequently work exclusively for, insurance companies. According to Nolo's personal injury resources, IME doctors deny or minimize claims at significantly higher rates than treating physicians, and their findings are routinely used to justify lower settlement offers.
+**Questioning Causation Repeatedly.** After you've already submitted medical records showing your injury, they send a letter suggesting that your herniated disc might be a "pre-existing condition." They request an [Independent Medical Examination](/insurance-adjuster-tactics-to-watch-out-for/). Here's what you should know: these exams aren't actually independent. They're performed by doctors who are paid by, and frequently work exclusively for, insurance companies. According to Nolo's personal injury resources, IME doctors deny or minimize claims at significantly higher rates than treating physicians, and their findings are routinely used to justify lower settlement offers.
 
 **The Missing Adjuster.** Your point of contact goes on leave, gets reassigned, or simply doesn't return calls for two to three weeks. When you finally reach someone, they apologize and say the file needs to be reviewed before continuing. This can happen multiple times on a single claim.
 

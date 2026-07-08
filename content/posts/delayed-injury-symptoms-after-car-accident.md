@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You walked away from the fender-bender feeling shaken but okay. The other driver exchanged insurance info, a police officer filed a report, and you told everyone on the scene that you were fine. Three days later you wake up and can't turn your head. By day five, you're having headaches so severe you're calling out of work. Sound familiar? I've sat across from dozens of people in this exact situation, and the first thing most of them say is: "I feel stupid. I told them I wasn't hurt." You're not stupid. You're human. And what happened to your body is backed by real biology.
 
@@ -76,7 +76,7 @@ Traumatic brain injury. Spinal cord damage. Internal bleeding. All three can be 
 - Irritability, mood swings, or anxiety that started after the crash
 - Tingling or numbness in your hands or feet
 
-That last group, the emotional and psychological stuff, gets ignored constantly. I've watched clients develop genuine post-traumatic stress disorder after a crash, then spend months thinking they were just "stressed." PTSD and anxiety disorders count as injuries in personal injury claims. They're real. They're documented. They're treatable.
+That last group, the emotional and psychological stuff, gets ignored constantly. I've watched clients develop genuine post-traumatic stress disorder after a crash, then spend months thinking they were just "stressed." PTSD and anxiety disorders count as injuries in [personal injury claims](/how-to-file-car-accident-injury-claim/). They're real. They're documented. They're treatable.
 
 ---
 
@@ -85,7 +85,7 @@ That last group, the emotional and psychological stuff, gets ignored constantly.
 Actually do these things. What you do in the first week protects both your body and your legal options.
 
 **See a doctor within 24 to 72 hours.**
-Even if you feel okay. Tell your doctor you were in a car accident. Report everything, including the vague stuff: slight headache, neck tension, feeling "off." Doctors create a paper trail. If you say nothing, nothing gets written down. That missing record becomes ammunition later if symptoms develop and you need to make a claim.
+Even if you feel okay. Tell your doctor you were in a car accident. Report everything, including the vague stuff: slight headache, neck tension, feeling "off." Doctors create a [paper trail](/car-accident-injury-claim-tips/). If you say nothing, nothing gets written down. That missing record becomes ammunition later if symptoms develop and you need to make a claim.
 
 **Keep a daily symptom journal.**
 Start on the day of the crash. Every single day, write down how you're feeling physically and mentally. Use a 1-10 scale for pain. Note what you couldn't do, how you slept, whether you missed work. This isn't being dramatic. This is building a case. A plain notebook works, or a structured [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) keeps you consistent. (The site earns a commission on these purchases.)

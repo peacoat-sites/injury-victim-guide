@@ -23,6 +23,7 @@ faqs:
    a: "You can, legally. But in my experience, and I say this having sat on the adjuster's side for over a decade: people without attorneys settle for substantially less, on average, than people with experienced personal injury counsel. The insurance company's job is to close the file at the lowest defensible number. An experienced attorney's job is the opposite."
  - q: "What if the defendant doesn't have enough insurance to cover my damages?"
    a: "This is unfortunately common and genuinely painful. Your attorney will look for additional defendants (a manufacturer, an employer, a property owner), umbrella or excess policies, and your own uninsured or underinsured motorist coverage. UM/UIM coverage is something I tell everyone to maximize on their own auto policy, because it protects you when the at-fault driver's coverage isn't enough."
+lastmod: 2026-07-07
 ---
 
 Spinal cord injuries produce some of the largest personal injury verdicts in American law. I'm not talking about $50,000 or even $500,000. I'm talking about settlements and verdicts that routinely run into the millions, sometimes tens of millions, and occasionally beyond. When I was adjusting claims, these were the files that made everyone in the room go quiet.
@@ -34,6 +35,11 @@ Let me walk you through what actually determines these numbers, because most of 
 ---
 
 ## The Actual Cost of Living with a Spinal Cord Injury
+
+| Injury Type | Age | Lifetime Cost Estimate | Primary Cost Components |
+| --- | --- | --- | --- |
+| High cervical (C-level, affects breathing and all four limbs) | 25 | $5M+ | Hospitalizations, surgeries, wheelchair systems, home modifications, attendant care, specialized transportation, medications, urological care, secondary condition treatment |
+| Thoracic-level (paraplegia) | 25 | $1M+ | Hospitalizations, surgeries, wheelchair systems, home modifications, attendant care, specialized transportation, medications, urological care, secondary condition treatment |
 
 I'll be honest: the first time I sat across from a life care planner in a deposition, I thought she was padding the numbers. She wasn't. She was being conservative.
 
@@ -55,7 +61,7 @@ There are two broad categories of damages in a personal injury case, and underst
 
 **Economic damages** are the calculable losses: past medical bills, future medical costs, lost wages (past and projected future earnings), costs of home care, and similar out-of-pocket expenses. These get calculated by economists and life care planners using actuarial tables, labor market data, and sometimes employment records. They're not guesses. They're formal projections, and they're contested vigorously by the defense.
 
-**Non-economic damages** are pain and suffering, loss of enjoyment of life, emotional distress, and in some cases, loss of consortium for a spouse or family member. These are inherently harder to quantify. Some states cap non-economic damages in personal injury cases. Others don't. That distinction alone can swing a case outcome by hundreds of thousands of dollars. The American Bar Association's public education resources on civil litigation spell out how these caps vary by state, and if you're in a capped state, it's something your attorney will factor into any settlement discussion.
+**Non-economic damages** are pain and suffering, loss of enjoyment of life, emotional distress, and in some cases, [loss of consortium](/wrongful-death-personal-injury-claim/) for a spouse or family member. These are inherently harder to quantify. Some states cap non-economic damages in personal injury cases. Others don't. That distinction alone can swing a case outcome by hundreds of thousands of dollars. The American Bar Association's public education resources on civil litigation spell out how these caps vary by state, and if you're in a capped state, it's something your attorney will factor into any settlement discussion.
 
 What surprised me when I started looking at actual case data from the plaintiff side is how often economic damages alone, before a single dollar of pain and suffering is added, already exceed $3 million in high-cervical injury cases. The non-economic component in those cases isn't driving the verdict. It's almost a secondary consideration.
 
@@ -97,7 +103,7 @@ This is where my years of adjusting claims become genuinely useful, because I wa
 
 I spent 12 years doing this. I know the playbook.
 
-The first offer comes early and low. It almost always does, especially when the injured person doesn't yet have an attorney. Early offers exploit the financial desperation that comes immediately after a catastrophic injury. Bills pile up. Income stops. The adjuster calls with a number that sounds significant but doesn't account for future care at all.
+The first offer comes early and low. It almost always does, especially when the injured person doesn't yet have an attorney. Early offers exploit the financial desperation that comes immediately after a [catastrophic injury](/catastrophic-injury-lawsuit-process/). Bills pile up. Income stops. The adjuster calls with a number that sounds significant but doesn't account for future care at all.
 
 What happens in practice: a family accepts $250,000 for what is ultimately a case worth $3 million or more, because they didn't know what they didn't know. Once you sign a release, it's done. There's no coming back for additional costs later.
 

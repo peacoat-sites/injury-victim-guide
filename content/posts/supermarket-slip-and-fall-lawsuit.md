@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You're walking through the produce section, basket in hand, thinking about what to make for dinner. Then your foot hits a wet patch near the misted vegetable display, and everything happens in less than a second. You're on the floor, your hip is screaming, and a teenage stock clerk is standing over you asking if you're okay. By the time you get home from the urgent care, the soreness has deepened into something that makes you wonder if this is going to be a bigger deal than you first thought.
 
@@ -35,7 +35,7 @@ I spent 12 years on the other side of these cases, evaluating claims for insurer
 
 ## Why Grocery Stores Are Legally Responsible (And Why They'll Fight You Anyway)
 
-Supermarkets are what the law calls "business invitees" destinations. When a store invites you onto their property to spend money, they take on a legal duty of care. That's the formal term for their obligation to keep the premises reasonably safe. Slip and fall claims against grocery stores fall under premises liability law, which holds property owners accountable when their negligence causes injury to someone lawfully on the property.
+Supermarkets are what the law calls "business invitees" destinations. When a store invites you onto their property to spend money, they take on a legal duty of care. That's the formal term for their obligation to keep the premises reasonably safe. Slip and fall claims against grocery stores fall under [premises liability law](/property-owner-liability-slip-and-fall/), which holds property owners accountable when their negligence causes injury to someone lawfully on the property.
 
 Here's the part most people miss: "negligence" doesn't mean the store intended to hurt you. It means they either created a dangerous condition, knew about it and didn't fix it, or should have known about it through reasonable inspection. A wet floor near a produce misting system that runs on a 20-minute cycle? The store can't claim they had no idea water accumulates there. That's a condition they created.
 
@@ -79,7 +79,7 @@ I can't stress this enough. The insurer's adjuster will look at your Facebook, I
 
 ## What the Store's Insurance Company Will Do Next
 
-Once you file a claim, the grocery chain's insurer will assign an adjuster. That adjuster's job, done well, involves gathering facts. Done in the insurer's financial interest, it involves looking for gaps in your story.
+Once you file a claim, the grocery chain's insurer will assign an adjuster. That adjuster's job, done well, involves gathering facts. Done in the insurer's financial interest, it involves looking for [gaps in your story](/how-to-prove-slip-and-fall-case/).
 
 Here's what happens on the adjuster side of the table. They'll request your recorded statement, often quickly, before you've fully understood your injuries or consulted an attorney. They may phrase questions in ways that lead you to minimize your pain or admit you were distracted. They'll pull your prior medical records looking for any history of the same body part being injured. They'll check whether the store had a floor inspection log that shows the area was checked recently.
 

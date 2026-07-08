@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You're sitting in the backseat of an Uber, heading home from a late dinner. The driver runs a yellow light, gets clipped by a pickup truck, and suddenly you're being helped out of the car by a stranger while your shoulder throbs and your phone screen is cracked. In the chaos, someone asks if you're okay and you say "I think so" because that's what people say. Two days later, the shoulder is worse. You file a claim. And then you discover that getting compensated for a rideshare accident is nothing like filing a claim after a regular car crash.
 
@@ -42,6 +42,13 @@ The Insurance Information Institute has documented how rideshare companies intro
 ---
 
 ## The Three Coverage Periods: This Is Everything
+
+| Coverage Period | App Status | Driver Status | Bodily Injury Limit | Property Damage Limit | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Period 0 | Off | Personal use only | Driver's personal policy | Driver's personal policy | Uber and Lyft provide no coverage |
+| Period 1 | On, waiting | Logged in, no ride accepted | $50,000 per person / $100,000 per accident | $25,000 | Contingent coverage only; kicks in if driver's personal insurance denies or is insufficient |
+| Period 2 | On, trip accepted | En route to pick up passenger | $1,000,000 | $1,000,000 | Commercial liability policy active |
+| Period 3 | On, passenger in vehicle | Passenger aboard | $1,000,000 | $1,000,000 | Full commercial liability coverage in effect |
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -73,7 +80,7 @@ Here's what to do, in order:
 
 4. **Collect information.** Get the driver's name, personal insurance info, and driver's license number. Get contact information from any witnesses.
 
-5. **Seek medical attention the same day.** Even if you feel okay. "I think I'm fine" is one of the most damaging things you can say in a personal injury claim. Soft tissue injuries, concussions, and internal injuries often have delayed symptoms. A gap between the accident and your first medical visit gives insurers ammunition to argue your injuries weren't caused by the crash.
+5. **Seek medical attention the same day.** Even if you feel okay. "I think I'm fine" is one of the most damaging things you can say in a [personal injury claim](/how-to-file-car-accident-injury-claim/). Soft tissue injuries, concussions, and internal injuries often have delayed symptoms. A gap between the accident and your first medical visit gives insurers ammunition to argue your injuries weren't caused by the crash.
 
 6. **Report the accident through the app.** Both Uber and Lyft have in-app accident reporting. Use it. This creates a timestamp and initiates the company's own claims process.
 

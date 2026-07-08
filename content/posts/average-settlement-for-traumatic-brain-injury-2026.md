@@ -23,11 +23,11 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-07
 ---
 Nobody can tell you what your traumatic brain injury case is worth. Not me, not a personal injury attorney you found at 2 a.m., not a settlement calculator you stumbled across online. What I *can* tell you is that most of what you'll read about "average TBI settlements" is either dangerously misleading or so vague it's useless, and after 12 years on the other side of these claims, I think you deserve a more honest picture.
 
-Let me start with the number everyone wants: studies and jury verdict databases consistently show TBI settlements ranging from under $100,000 for mild cases to well over $10 million for severe ones. A 2023 analysis by Jury Verdict Research put the median plaintiff verdict in traumatic brain injury cases at roughly $1.2 million. That sounds impressive until you understand what that number actually means, where it comes from, and why it probably tells you almost nothing about your specific situation.
+Let me start with the number everyone wants: studies and jury verdict databases consistently show TBI settlements ranging from under $100,000 for mild cases to well over $10 million for severe ones. A 2023 analysis by Jury Verdict Research put the median plaintiff verdict in [traumatic brain injury cases](/traumatic-brain-injury-claim-guide/) at roughly $1.2 million. That sounds impressive until you understand what that number actually means, where it comes from, and why it probably tells you almost nothing about your specific situation.
 
 ---
 

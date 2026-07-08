@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
 Most people who slip and fall on someone else's property assume they've got an easy case. The floor was wet. No warning sign. They fell. Simple, right? What catches them off guard, often weeks later when they're locked in a fight with an insurance adjuster, is that "I fell" and "someone is legally responsible for my fall" are two entirely different claims. I've watched legitimately injured people walk away with nothing because they couldn't prove the second one. And I've seen cases that looked weak initially turn into solid settlements because the injured person knew what actually had to be established.
 
@@ -49,7 +49,7 @@ Then there's damages. You must show actual harm: medical bills, lost wages, docu
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-What surprised me on the claims side was how many people would call within days of a fall, furious and hurting, but with almost nothing usable to work with. The wet floor had dried by then. The broken handrail was fixed. Surveillance footage had been overwritten. Property owners don't always do this maliciously. They just have no legal duty to preserve your case.
+What surprised me on the claims side was how many people would call within days of a fall, furious and hurting, but with almost nothing usable to work with. The [wet floor](/wet-floor-slip-and-fall-injury/) had dried by then. The broken handrail was fixed. Surveillance footage had been overwritten. Property owners don't always do this maliciously. They just have no legal duty to preserve your case.
 
 Here's what you need to get, fast:
 
@@ -61,7 +61,7 @@ Here's what you need to get, fast:
 
 **Your shoes and clothes.** Don't toss them. They can counter claims that your footwear was unsuitable for the conditions.
 
-**Medical records from day one.** Hit the ER or urgent care that same day, even if you feel "probably fine." Two things happen when you wait. First, soft tissue injuries and concussions often hurt worse on day two than right after impact. Second, a gap between the incident and your first medical visit gives insurers ammo to argue your injuries weren't that serious or weren't tied to the fall.
+**Medical records from day one.** Hit the ER or urgent care that same day, even if you feel "probably fine." Two things happen when you wait. First, [soft tissue injuries and concussions](/slip-and-fall-injury-claim-process/) often hurt worse on day two than right after impact. Second, a gap between the incident and your first medical visit gives insurers ammo to argue your injuries weren't that serious or weren't tied to the fall.
 
 Keeping an injury documentation journal helps track symptoms and how the injury affects your work and daily life. Organized records genuinely shift how adjusters talk to you. (Note: if you purchase through links on this site, we may earn a small commission.)
 
@@ -69,7 +69,7 @@ Keeping an injury documentation journal helps track symptoms and how the injury 
 
 ## The Comparative Fault Problem (And Why It Matters for Your Case)
 
-Here's what blindsides people. In most states, your payout can be reduced, or eliminated entirely, based on your own percentage of fault. This is comparative negligence, and insurers go hunting for it immediately.
+Here's what blindsides people. In most states, your payout can be reduced, or eliminated entirely, based on your own percentage of fault. This is [comparative negligence](/property-owner-liability-slip-and-fall/), and insurers go hunting for it immediately.
 
 Were you on your phone? Wearing heels on ice? Ignoring a warning cone that was there? Entering a closed area? These aren't rhetorical. The defense will ask them, and their answers will trim your compensation.
 

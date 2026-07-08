@@ -23,11 +23,11 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 Nobody can tell you what your soft tissue injury is "worth." Not me, not a settlement calculator, not the adjuster who calls you three days after the crash with a number that sounds surprisingly reasonable. I spent over a decade on the insurance side helping set those numbers, and the whole framing of "average payout" is something the industry quietly benefits from you believing in.
 
-Here's the problem with averages. When you read that soft tissue injury settlements range from $10,000 to $100,000 (a range you'll see quoted constantly), that number is so wide it's essentially meaningless. A whiplash claim settled in week two for $3,500 and a herniated disc case that took 18 months of physical therapy and an MRI series get lumped into the same category. Same label. Completely different realities.
+Here's the problem with averages. When you read that soft tissue injury settlements range from $10,000 to $100,000 (a range you'll see quoted constantly), that number is so wide it's essentially meaningless. A [whiplash claim](/average-settlement-for-whiplash-injury-2026/) settled in week two for $3,500 and a herniated disc case that took 18 months of physical therapy and an MRI series get lumped into the same category. Same label. Completely different realities.
 
 What I can do is walk you through what actually moves these numbers, what the insurance company is thinking on the other side of the table, and where people leave serious money behind because they don't know what they don't know.
 
@@ -44,7 +44,7 @@ What I can do is walk you through what actually moves these numbers, what the in
 
 ## What "Soft Tissue Injury" Actually Covers (And Why It Matters for Your Claim)
 
-**"Insurance companies pay whatever you claim for soft tissue injuries"**: Most people assume that if they file a claim, they'll receive their requested amount. But data from the Insurance Information Institute shows that insurers deny or reduce soft tissue injury claims in approximately 40-60% of cases, particularly for whiplash and minor sprains. The average soft tissue claim is reduced by 30-50% from initial demands, with insurers citing insufficient medical documentation, gaps in treatment, or pre-existing conditions. Without imaging evidence (which soft tissue injuries rarely show) or consistent medical records, your claim becomes vulnerable to substantial reductions before it ever reaches settlement.
+**"Insurance companies pay whatever you claim for [soft tissue injuries](/soft-tissue-injury-settlement-amounts/)"**: Most people assume that if they file a claim, they'll receive their requested amount. But data from the Insurance Information Institute shows that insurers deny or reduce soft tissue injury claims in approximately 40-60% of cases, particularly for whiplash and minor sprains. The average soft tissue claim is reduced by 30-50% from initial demands, with insurers citing insufficient medical documentation, gaps in treatment, or pre-existing conditions. Without imaging evidence (which soft tissue injuries rarely show) or consistent medical records, your claim becomes vulnerable to substantial reductions before it ever reaches settlement.
 
 
 Insurance adjusters love the phrase "soft tissue." It's a polite way of saying: no broken bones visible on your X-ray, so prepare to fight for every dollar.

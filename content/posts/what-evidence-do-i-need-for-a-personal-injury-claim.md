@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 If you're reading this, you probably just went through something scary. Maybe a few days ago, maybe a few weeks. You're dealing with pain, medical appointments, missed work, and now someone's telling you that you need to gather "evidence" for your claim, and you have no idea where to start or what that even means in practice.
 
@@ -39,7 +39,7 @@ But here's what I tell people who call me after an accident: the first 48 hours 
 
 If you're physically able to do any of the following at the scene, do them:
 
-Take photographs of everything. Your injuries (even if they don't look bad yet), the vehicles involved, the road conditions, any debris, signage, lighting, the other driver's license plate and insurance card. More is always better. I've seen claims fall apart because the only photo a person had was a blurry shot of a dented bumper that showed nothing about how severe the collision was.
+[Take photographs of everything](/accident-scene-photos-what-to-take/). Your injuries (even if they don't look bad yet), the vehicles involved, the road conditions, any debris, signage, lighting, the other driver's license plate and insurance card. More is always better. I've seen claims fall apart because the only photo a person had was a blurry shot of a dented bumper that showed nothing about how severe the collision was.
 
 Get witness contact information before you leave. Full name, phone number, email if possible. Don't just hope the police get it. Get it yourself.
 

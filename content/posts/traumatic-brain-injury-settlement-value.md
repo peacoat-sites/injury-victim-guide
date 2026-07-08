@@ -1,4 +1,5 @@
 ---
+
 title: "Traumatic Brain Injury Settlement Value"
 date: 2026-05-22T12:54:35.833292+00:00
 draft: false
@@ -24,10 +25,11 @@ author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 
+lastmod: 2026-07-07
 ---
 You're sitting in a neurologist's office six weeks after a car accident, and the doctor is explaining that your headaches, memory gaps, and sudden irritability aren't "just stress." You have a traumatic brain injury. Meanwhile, the other driver's insurance company has already called twice, offering a settlement that sounds like a lot of money until you realize you may need ongoing care for years. That gap between what they're offering and what you actually need is exactly what this article is about.
 
-Traumatic brain injuries are among the most undervalued and misunderstood injuries in personal injury law. Studies published in peer-reviewed journals estimate that the lifetime economic cost of a single moderate-to-severe TBI can exceed $1 million when you factor in lost wages, medical care, and what experts call "loss of enjoyment of life." Yet insurance adjusters routinely lowball early offers because they know most people don't understand what their case is actually worth.
+Traumatic brain injuries are among the most undervalued and misunderstood injuries in personal injury law. Studies published in peer-reviewed journals estimate that the lifetime economic cost of a single moderate-to-severe TBI can exceed $1 million when you factor in lost wages, medical care, and what experts call "[loss of enjoyment of life](/how-is-pain-and-suffering-calculated-in-a-settlement/)." Yet insurance adjusters routinely lowball early offers because they know most people don't understand what their case is actually worth.
 
 I spent 12 years on the other side of that table. Here's what you need to know.
 
@@ -51,7 +53,7 @@ Doctors classify TBIs on a spectrum from mild (which includes most concussions) 
 
 No two TBI cases settle for the same amount, and anyone who gives you a dollar figure without reviewing your specific facts is guessing. That said, there are consistent factors that every adjuster and plaintiff's attorney will examine.
 
-**Liability and fault percentage.** Before any calculation about damages makes sense, you need clear liability. If you were 20% at fault in a state that uses comparative negligence, your recovery is reduced by that percentage. Some states use contributory negligence, which can bar recovery entirely if you're even slightly at fault. Where you live matters enormously.
+**Liability and fault percentage.** Before any calculation about damages makes sense, you need clear liability. If you were 20% at fault in a state that uses [comparative negligence](/how-insurance-companies-calculate-settlements/), your recovery is reduced by that percentage. Some states use contributory negligence, which can bar recovery entirely if you're even slightly at fault. Where you live matters enormously.
 
 **Medical expenses, past and future.** Your current medical bills are the foundation of economic damages. But the bigger number in a serious TBI case is often future medical costs: neurological care, neuropsychological testing, cognitive rehabilitation, psychiatric treatment, and possibly in-home support or assisted living. Insurance companies hire medical experts to minimize these projections. You need your own medical experts to counter them.
 

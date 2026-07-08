@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 Most evidence checklists for personal injury claims read like they were written by someone who has never actually sat across from an insurance adjuster. They tell you to "gather documentation" and "keep records." Thanks. Very helpful.
 
@@ -67,7 +67,7 @@ What you need to collect and keep:
 
 **Bills.** Every single one, even before insurance processes them. The gross charge matters for calculating damages, not just your out-of-pocket.
 
-Here's something adjusters know but rarely tell claimants: gaps in treatment kill claims. If you stop treating for six weeks and then start again, the adjuster will argue you must have healed during that gap and that your resumed treatment is for something unrelated. If you have to pause treatment for a real reason, document why, in writing, with your doctor.
+Here's something adjusters know but rarely tell claimants: [gaps in treatment kill claims](/gap-in-medical-treatment-injury-claim-effect/). If you stop treating for six weeks and then start again, the adjuster will argue you must have healed during that gap and that your resumed treatment is for something unrelated. If you have to pause treatment for a real reason, document why, in writing, with your doctor.
 
 ## The Proof Nobody Thinks to Gather
 

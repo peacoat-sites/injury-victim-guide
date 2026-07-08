@@ -12,12 +12,18 @@ author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 slug: "ozempic-and-wegovy-injury-lawsuits-what-victims-need-to-know"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: you started taking Ozempic or Wegovy for type 2 diabetes or weight loss, maybe sometime in 2022 or 2023 when these drugs were everywhere. Then something went wrong. Your stomach stopped working the way it should, leaving you hospitalized with severe nausea and vomiting that doctors eventually diagnosed as gastroparesis. Or you woke up one morning with blurred vision in one eye, and after a terrifying round of tests, learned you'd developed a condition called NAION, a form of optic nerve damage that can cause permanent vision loss. You reported it to your doctor. You maybe even reported it to Novo Nordisk. And then you waited, wondering if anyone else was experiencing this, wondering if you had any recourse at all.
 
 A lot has happened since then. And if that scenario sounds familiar, right now, June 2026, is a moment you genuinely cannot afford to ignore.
 
 ## The Litigation Just Crossed a Threshold That Changes Everything
+
+| Proceeding | MDL Number | Focus Area | Court | Judge | Status as of June 2026 |
+| --- | --- | --- | --- | --- | --- |
+| Original MDL | MDL No. 3094 | Gastrointestinal injuries (gastroparesis) | Eastern District of Pennsylvania | - | 3,763 pending cases |
+| Vision-Loss MDL | MDL No. 3163 | NAION (optic nerve damage) | Eastern District of Pennsylvania | Judge Karen Marston | Approved December 2025; Science Day held June 2, 2026 |
 
 Here's where things stand. There are currently two separate federal court proceedings consolidating Ozempic and Wegovy injury claims. The original MDL (that's multidistrict litigation, essentially a federal system that bundles similar lawsuits together for efficiency), MDL No. 3094, covers gastrointestinal injury claims like gastroparesis. As of June 1, 2026, it holds 3,763 pending cases in the Eastern District of Pennsylvania, up 127 cases from just the month before, according to Drugwatch's June 2026 litigation update. That growth rate tells you something: attorneys are still actively signing clients, and the case pool is expanding, not contracting.
 
@@ -31,7 +37,7 @@ On June 2, 2026, Judge Marston held what's called a Science Day for the NAION li
 
 
 
-What most people don't realize is that the legal question in these cases isn't just whether you got hurt. It's whether Novo Nordisk knew, or should have known, about these risks and adequately warned patients and doctors. That's called a failure-to-warn claim, and the science behind it has gotten significantly stronger in the past year.
+What most people don't realize is that the legal question in these cases isn't just whether you got hurt. It's whether Novo Nordisk knew, or should have known, about these risks and adequately warned patients and doctors. That's called a [failure-to-warn claim](/when-ai-handles-your-injury-claim-your-new-rights-in-2026/), and the science behind it has gotten significantly stronger in the past year.
 
 In June 2025, the European Medicines Agency concluded that semaglutide, the active ingredient in both Ozempic and Wegovy, doubles a patient's risk of developing NAION. That finding from a major regulatory body in the European Union carries real weight in American courtrooms. Plaintiffs' attorneys are leaning on it hard, and understandably so. If regulators across the Atlantic identified a doubled risk, the argument becomes: what did Novo Nordisk know, when did they know it, and why didn't American patients get a clearer warning?
 

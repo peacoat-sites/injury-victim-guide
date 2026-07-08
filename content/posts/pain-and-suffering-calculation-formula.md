@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
 You're lying in a hospital bed three days after a rear-end collision, and someone from the insurance company calls to tell you they're prepared to offer a settlement. The number sounds reasonable at first. Then you realize they've only accounted for your medical bills. Nothing for the six weeks you couldn't pick up your kids, the sleep you lost, or the anxiety that hits every time you get behind the wheel. That gap between what they offered and what you actually suffered? That's what pain and suffering damages are supposed to fill, and understanding how those numbers get calculated can mean the difference between accepting a check that barely covers your losses and walking away with something that actually reflects what you've been through.
 
@@ -36,6 +36,13 @@ Non-economic damages cover everything harder to quantify: physical pain, emotion
 The challenge is that our legal system asks juries, adjusters, and attorneys to put a dollar figure on something that has no market price. That's where formulas come in.
 
 ## The Two Main Formulas Adjusters and Attorneys Use
+
+| Injury Severity | Typical Multiplier Range | Example Calculation | Notes |
+| --- | --- | --- | --- |
+| Minor soft tissue injury (full recovery ~6 weeks) | 1.5-2 | $30,000 economic damages × 1.5 = $45,000 pain and suffering | Quick recovery, limited ongoing impact |
+| Moderate injury (recovery 2-3 months) | 2.5-3.5 | $30,000 economic damages × 3 = $90,000 pain and suffering | Some documented treatment, temporary limitations |
+| Serious injury requiring surgery (ongoing limitations) | 4-5 | $50,000+ economic damages × 4-5 = $200,000-$250,000+ pain and suffering | Permanent effects, strong medical documentation |
+| Catastrophic/permanent disability | 5+ | Case-specific; often combined with life expectancy tables | Requires expert testimony; highest variability |
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

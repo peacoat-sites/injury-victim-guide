@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
 You're sitting at a red light. Full stop. Then: impact. The other driver hit you from behind, and now your neck hurts, your car is crumpled, and someone at the insurance company is already calling to ask how you're feeling. That call isn't courtesy. It's strategy.
 
@@ -55,7 +55,7 @@ Settlement value in any personal injury claim comes down to damages, the legal t
 - Property damage to your vehicle
 
 **Non-economic damages** are harder to quantify but often larger:
-- Pain and suffering
+- [Pain and suffering](/car-accident-pain-and-suffering-claim/)
 - Emotional distress
 - Loss of enjoyment of life
 - Loss of consortium (impact on your relationship with a spouse)
@@ -70,7 +70,7 @@ There's no universal formula, but these factors carry the most weight.
 
 **The severity and permanence of your injuries.** A soft tissue strain that resolves in six weeks settles for far less than a cervical disc herniation requiring surgery. A traumatic brain injury changes the math entirely.
 
-**Maximum Medical Improvement (MMI).** This is the point where your doctor says your condition has stabilized, meaning you've either recovered or reached a plateau. You should almost never settle a bodily injury claim before reaching MMI. You won't know your full medical costs until you do.
+**[Maximum Medical Improvement (MMI)](/delayed-injury-symptoms-after-car-accident/).** This is the point where your doctor says your condition has stabilized, meaning you've either recovered or reached a plateau. You should almost never settle a bodily injury claim before reaching MMI. You won't know your full medical costs until you do.
 
 **Your state's fault rules.** Some states use pure comparative negligence, where you can recover damages even if you're 99% at fault (though your recovery is reduced proportionally). Others use modified comparative negligence with cutoff thresholds, often 50% or 51%. A handful still use contributory negligence, which can bar recovery entirely if you're even 1% at fault. If the other driver claims you stopped suddenly or your brake lights were out, these rules matter.
 

@@ -23,9 +23,9 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-
+lastmod: 2026-07-07
 ---
-Most people leave a car accident convinced they handled it perfectly. Exchange insurance cards, snap a few photos, drive home rattled but relieved. Then six weeks later: a letter from the other driver's insurance company claiming *they* caused it. Or a settlement offer that covers maybe one hospital visit. I spent 12 years adjusting claims, and I'm telling you straight, the moves you make in the first 60 minutes will either protect you completely or haunt you for years.
+Most people leave a car accident convinced they handled it perfectly. Exchange insurance cards, snap a few photos, drive home rattled but relieved. Then six weeks later: a letter from the other driver's insurance company claiming *they* caused it. Or a [settlement offer](/how-personal-injury-settlements-work/) that covers maybe one hospital visit. I spent 12 years adjusting claims, and I'm telling you straight, the moves you make in the first 60 minutes will either protect you completely or haunt you for years.
 
 ---
 
@@ -94,7 +94,7 @@ You have a contractual duty to report the accident promptly. So call them, yes. 
 
 It's not a conversation between friends. The person on the other end is trained to gather information that minimizes your claim or establishes comparative fault. An offhand comment like "I was distracted for a second" ends up in your file permanently.
 
-Stick to the facts: when and where it happened, the other driver's information, that you've sought medical attention. Don't speculate about fault. Don't give a recorded statement without talking to a personal injury attorney first. Don't accept any settlement offer, even a small one, until you know the full scope of your injuries and damages.
+Stick to the facts: when and where it happened, the other driver's information, that you've sought medical attention. Don't speculate about fault. Don't give a recorded statement without talking to a [personal injury attorney](/do-i-have-a-personal-injury-case/) first. Don't accept any settlement offer, even a small one, until you know the full scope of your injuries and damages.
 
 The Insurance Information Institute [notes at iii.org](https://www.iii.org/) that most policies require cooperation with the insurer's investigation, but cooperation doesn't mean waiving your rights to careful communication.
 

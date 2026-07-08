@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-07
 ---
 Your denial letter arrived on a Tuesday. You probably read it three times trying to find the part where they explain the mistake, because surely this is a mistake. You hurt yourself at work. You reported it. You went to the doctor they sent you to. And now they're telling you no.
 
@@ -32,6 +32,13 @@ I spent 12 years on the other side of that letter. I wrote denials. I know exact
 Most people don't. They accept it, try to tough it out, or quietly pay for their own medical care. The insurance company knows the statistics. That's why they deny early and often.
 
 ## First, Understand Why They Denied You (It Matters More Than You Think)
+
+| Denial Reason | What It Means | Your Strategy Focus |
+| --- | --- | --- |
+| "Not work-related" | Insurer claims injury was pre-existing, off-the-clock, or outside covered location | Gather evidence of when/where injury occurred; medical records showing timing |
+| "Didn't report in time" | Missed state-specific reporting deadline | Check your state's legal deadline immediately; distinguish from employer's internal window |
+| "No medical evidence" | Employer's preferred doctor found insufficient basis for claim | Obtain independent medical evaluation; gather records from your own physician |
+| "Independent contractor, not employee" | Misclassification dispute | Document employment relationship; consult attorney on worker classification rules |
 
 This sounds obvious, but I've seen injured workers spend months fighting the wrong battle because they didn't read the denial reason carefully. Your denial letter is required by law to state the specific reason. That reason dictates your entire next move.
 
@@ -49,13 +56,13 @@ Knowing which category you're in tells you where to spend your energy.
 
 ## Do Not Wait. File an Appeal Immediately.
 
-Here's where most people lose before they even start: deadlines. Workers' comp appeal windows are short and vary dramatically by state. Florida gives you three years from the date of accident or two years from the last payment of benefits, whichever is later. New York has certain deadlines kicking in within 30 days of a denial. Miss these and you don't just weaken your case. You end it.
+Here's where most people lose before they even start: deadlines. Workers' comp [appeal windows are short](/workers-compensation-claim-process/) and vary dramatically by state. Florida gives you three years from the date of accident or two years from the last payment of benefits, whichever is later. New York has certain deadlines kicking in within 30 days of a denial. Miss these and you don't just weaken your case. You end it.
 
 The moment you get a denial, your clock is ticking. Write down the date you received the letter. Then do two things that week:
 
 **Request your complete claim file from the insurance company in writing.** They're required to provide it. This file contains the adjuster's notes, medical reports, internal communications, and the evidence they used to deny you. I can't tell you how many times a claim file revealed a factual error, a missing document, or a medical report that had been misread.
 
-**Contact a workers' compensation attorney for a free consultation.** This week, not next month.
+**Contact a [workers' compensation attorney](/workers-comp-denied-what-to-do/) for a free consultation.** This week, not next month.
 
 I know some people want to handle this themselves, and for minor disputes with clear documentation, that's sometimes possible. A denied claim is different. Most workers' comp attorneys work on contingency, taking a percentage of your final award with nothing upfront. The percentage varies by state but is typically capped somewhere between 10 and 20 percent. An unrepresented injured worker statistically recovers significantly less than a represented one. The math usually works in your favor to get help.
 

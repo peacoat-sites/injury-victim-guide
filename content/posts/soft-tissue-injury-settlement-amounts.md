@@ -23,9 +23,9 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
-You walked away from the accident feeling fine. Maybe a little shaken, a little stiff. By morning your neck ached, your shoulder was screaming, and you couldn't turn your head to check your blind spot. The ER diagnosed you with a cervical strain, which is just a medical way of saying your neck's soft tissues got wrenched. No broken bones, no visible damage on the X-ray. And right there is the problem: insurance adjusters know that "nothing broke" is an easy story to tell a jury, which is exactly why soft tissue injury claims are among the most fought-over in personal injury law.
+You walked away from the accident feeling fine. Maybe a little shaken, a little stiff. By morning your neck ached, your shoulder was screaming, and you couldn't turn your head to check your blind spot. The ER diagnosed you with a cervical strain, which is just a medical way of saying your neck's soft tissues got wrenched. No broken bones, no visible damage on the X-ray. And right there is the problem: insurance adjusters know that "nothing broke" is an easy story to tell a jury, which is exactly why [soft tissue injury claims](/average-payout-for-soft-tissue-injury-car-accident/) are among the most fought-over in personal injury law.
 
 ## Why Soft Tissue Injuries Are So Complicated to Value
 
@@ -61,7 +61,7 @@ Adjusters don't pull numbers from thin air. They use software and internal guide
 
 Here's the catch: Colossus rewards what it can quantify and ignores what it can't. It might capture your $3,200 in physical therapy bills but have no good way to value the fact that you can no longer coach your daughter's soccer team or sleep through the night.
 
-Settlement components break down like this. **Special damages** are your economic losses: medical bills, future medical costs, lost wages, transportation to appointments. **General damages** are your non-economic losses: pain and suffering, emotional distress, loss of enjoyment of life, and loss of consortium.
+Settlement components break down like this. **Special damages** are your economic losses: medical bills, future medical costs, lost wages, transportation to appointments. **General damages** are your non-economic losses: [pain and suffering](/how-is-pain-and-suffering-calculated-in-a-settlement/), emotional distress, loss of enjoyment of life, and loss of consortium.
 
 Historically, many attorneys and adjusters used a multiplier applied to special damages to estimate pain and suffering, often between 1.5 and 5 times medicals depending on severity. That approach has become less rigid as software-driven claims handling took over, but it's still useful for understanding how the numbers relate to each other.
 

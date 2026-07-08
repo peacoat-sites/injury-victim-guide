@@ -10,15 +10,15 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
-After an accident or injury, you're left wondering: was this just bad luck, or do I actually have a case? The questions pile up. Did someone else cause this? Did I wait too long to act? Is any of this worth pursuing?
+After an [accident or injury](/accident-scene-photos-what-to-take/), you're left wondering: was this just bad luck, or do I actually have a case? The questions pile up. Did someone else cause this? Did I wait too long to act? Is any of this worth pursuing?
 
 This 7-question quiz won't evaluate your case or promise any outcome. What it will do is walk you through the common factors people weigh before calling a lawyer, so you can figure out if that conversation is even worth having.
 
 {{< quiz >}}
 
-Whatever your answers were, keep this in mind: this is a thinking tool, nothing more. Real cases depend on facts, evidence, and state-by-state laws that shift constantly. If something here struck a chord, your actual next move is straightforward. Call a personal injury attorney in your area for a free consultation. Then read through our beginner's guides to understand how this stuff works before you do.
+Whatever your answers were, keep this in mind: this is a thinking tool, nothing more. Real cases depend on facts, evidence, and state-by-state laws that shift constantly. If something here struck a chord, your actual next move is straightforward. [Call a personal injury attorney](/do-i-have-a-personal-injury-case/) in your area for a free consultation. Then read through our beginner's guides to understand how this stuff works before you do.
 
 ## Sources & References
 As of June 2026, 

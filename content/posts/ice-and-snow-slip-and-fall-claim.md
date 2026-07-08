@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You walked across that parking lot a hundred times before. Then one morning, under a thin glaze of ice that looked like nothing more than wet pavement, your feet went out and the ground came up fast. Maybe you grabbed for something that wasn't there. Maybe you don't even remember the fall itself, just the sudden shock of cold pavement and the slow realization that something was wrong. If that's where you are right now, or if it happened recently and you're still sorting out what to do, you're in the right place. According to [the CDC's injury data](https://www.cdc.gov/injury/wisqars/), falls are the leading cause of nonfatal injuries treated in emergency rooms in the United States, and winter slips on ice and snow account for a significant portion of those visits every single year. That number isn't abstract when you're the one who fell.
 
@@ -31,7 +31,7 @@ You walked across that parking lot a hundred times before. Then one morning, und
 As of June 2026, 
 You might be wondering: if it's obvious that the ice caused my fall, isn't this pretty straightforward? I understand why it feels that way. But here's what I tell people who come to me after a winter slip: property owners and their insurance companies have a lot of built-in defenses in these cases, and they use them aggressively.
 
-The central concept you'll hear in almost every one of these cases is **duty of care**. A property owner owes you a reasonable duty to keep their premises safe. But what's "reasonable" in winter conditions is exactly where the fights happen. Property owners will argue that the storm was still in progress when you fell, that they had already treated the area, that you weren't paying attention, or that the hazard was so obvious you should have avoided it.
+The central concept you'll hear in almost every one of these cases is **[duty of care](/property-owner-liability-slip-and-fall/)**. A property owner owes you a reasonable duty to keep their premises safe. But what's "reasonable" in winter conditions is exactly where the fights happen. Property owners will argue that the storm was still in progress when you fell, that they had already treated the area, that you weren't paying attention, or that the hazard was so obvious you should have avoided it.
 
 That last one has a legal name: the **open and obvious doctrine**. It's a real obstacle in many states. The basic idea is that if a hazard would have been apparent to a reasonable person, the property owner may have reduced or even no liability. Ice that's clearly visible and well-known to you could trigger this defense. Black ice, on the other hand, by definition isn't obvious, which is actually one of the reasons those claims tend to be stronger.
 
@@ -73,7 +73,7 @@ A daily journal of your symptoms, your medical appointments, your limitations, a
 
 This is where a lot of people get confused, and honestly, the answer is "it depends" in ways that actually matter.
 
-**Commercial property owners** (grocery stores, restaurants, shopping centers, employers) generally have the highest duty of care. They're expected to have systems in place: regular inspections, ice removal schedules, sand and salt applications. A store that opens at 7 a.m. and hasn't touched its icy entrance by noon has a hard time arguing it acted reasonably.
+**[Commercial property owners](/average-slip-and-fall-settlement-at-grocery-store/)** (grocery stores, restaurants, shopping centers, employers) generally have the highest duty of care. They're expected to have systems in place: regular inspections, ice removal schedules, sand and salt applications. A store that opens at 7 a.m. and hasn't touched its icy entrance by noon has a hard time arguing it acted reasonably.
 
 **Residential property owners** have varying obligations depending on your state and why you were on the property. A social guest (called a **licensee** in legal terms) is often owed a different level of care than a business invitee (someone who came to the property for a commercial purpose). Trespassers have almost no protections, with narrow exceptions.
 

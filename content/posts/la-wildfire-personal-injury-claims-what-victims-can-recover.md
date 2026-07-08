@@ -12,12 +12,21 @@ author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 slug: "la-wildfire-personal-injury-claims-what-victims-can-recover"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most coverage of the LA wildfire litigation focuses on the dollar figures, the celebrity victims, and the dramatic courtroom battles ahead. What it glosses over is the deadline problem, and that's the part that actually affects whether injured victims collect anything at all.
 
 Here's where things stand in June 2026: hundreds of lawsuits are active against Southern California Edison over the Eaton Fire alone, a separate $10 billion class action targets state and city officials for botching the firefighting response, and legal analysts estimate total wildfire claims could exceed $40 billion across personal injury, property damage, and business losses. The machinery of justice is moving. But California's two-year statute of limitations for personal injury claims means that victims injured in January 2025 are staring down a filing deadline as early as January 2027. That's not far away. Right now is when decisions need to get made.
 
 ## What "Personal Injury" Actually Covers Here
+
+| Damage Category | Coverage | Key Limitation |
+| --- | --- | --- |
+| Property loss (per sq ft) | $550-$750 | Applies to residential structures only; does not cover personal injury or emotional distress |
+| Personal injury claims | Medical expenses, lost income, pain and suffering, emotional distress | Subject to 2-year statute of limitations (January 2027 deadline for Jan 2025 injuries) |
+| Wrongful death | Loss of financial support, loss of companionship, pre-death pain and suffering | Subject to 2-year statute of limitations; follows separate procedural rules |
+| Government entity claims | Varies by outcome of $10 billion class action | Requires separate government tort claim filed within 6 months of incident (deadline: July 2025 for Jan 2025 injuries) |
+| Punitive damages | Available in cases of egregious conduct | No statutory cap under California law |
 
 People hear "personal injury lawsuit" and picture car accidents. Wildfire injury claims are a different animal, and they're broader than most victims realize.
 

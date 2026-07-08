@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
 Your claim got denied. That piece of paper feels like the end of the road. It isn't.
 
@@ -53,7 +53,7 @@ One more thing: get the actual claims file. You have a right to request it in mo
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Workers' comp has some of the harshest statute of limitations rules in all of personal injury law. Miss a deadline by one day and a valid claim can be permanently barred. No exceptions. No sympathy.
+Workers' comp has some of the harshest [statute of limitations rules](/workers-compensation-claim-process/) in all of personal injury law. Miss a deadline by one day and a valid claim can be permanently barred. No exceptions. No sympathy.
 
 Most states give you somewhere between 30 and 90 days to file an appeal after a denial. Some states, like California, have their own formal process with the Workers' Compensation Appeals Board. Others use a state labor department hearing. A few route everything through a judge immediately. The process varies wildly by state, which is why the generic advice you find online is often useless or actively misleading.
 
@@ -83,7 +83,7 @@ I know that's not what everyone wants to hear. Attorneys take a fee, typically 1
 
 When you probably can handle it yourself: the denial is purely procedural (late filing, missing form), the facts are completely undisputed, and the fix is straightforward documentation. That's a narrow category.
 
-When you need an attorney: disputed causation, a pre-existing condition argument, an IME that went against you, any employer claiming you're not an employee, a permanent disability component, or any situation where your employer is being adversarial. That covers most denied claims.
+When you need an attorney: disputed causation, a pre-existing condition argument, an IME that went against you, any employer claiming you're not an employee, a [permanent disability com](/permanent-disability-workers-comp-settlement/)ponent, or any situation where your employer is being adversarial. That covers most denied claims.
 
 Finding one is easy. Finding a good one takes a few calls. Look for someone who handles workers' comp exclusively or primarily. Ask how many denied claims they've taken to hearing in the last two years. Ask their fee percentage. If they can't answer those questions clearly in the first call, move on.
 

@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You filed a police report. You saw a doctor. You kept every receipt. And then life happened, the way it always does, and you put the folder in a drawer and told yourself you'd deal with it soon. Fourteen months later, you pull that folder out and start looking for a lawyer. That's when you hear the words that can hollow out your stomach: "I'm sorry, but the statute of limitations on your case may have already expired." In some states, that means your right to sue is completely gone, no matter how legitimate your claim, no matter how serious your injuries. I've watched this happen to good people who did everything else right. Understanding deadlines before they become a crisis is the single most important thing you can do to protect yourself after an injury.
 
@@ -40,6 +40,14 @@ Here's what surprises most people: the clock doesn't always start ticking on the
 ---
 
 ## State-by-State Deadlines: The Landscape
+
+| Statute of Limitations | States |
+| --- | --- |
+| 1 year | Kentucky, Louisiana, Tennessee |
+| 2 years | Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Texas, Virginia, West Virginia, Wisconsin |
+| 3 years | Arkansas, Florida, Mississippi, Montana, New Hampshire (some claims), New York, North Dakota, Rhode Island, South Carolina, South Dakota, Washington, Wyoming |
+| 4 years | Nebraska, Utah |
+| 6 years | Maine (contract-based), North Dakota (some claims), Wyoming (some claims) |
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

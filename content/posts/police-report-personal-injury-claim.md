@@ -23,6 +23,7 @@ faqs:
    a: "The report itself doesn't trigger the need for an attorney. Whether you need one depends on the severity of your injuries, the clarity of fault, and how aggressively the insurer is pushing back. Minor claims with clear liability and modest medical bills are often handled without an attorney. Serious injuries, disputed fault, or a report with errors that matter? Get a consultation at minimum."
  - q: "Can errors in a police report be corrected?"
    a: "Yes, for factual errors (wrong name, plate number, address, street name). You file an amendment request with the records division, usually in writing with supporting documents, and a supplement gets added to the file. For narrative or opinion-based errors, the path is more difficult. You typically can't force an officer to change their observations, but you can build a counter-record of evidence that tells a more complete story."
+lastmod: 2026-07-07
 ---
 
 Most articles about police reports and personal injury claims tell you to "get a copy of the report and share it with your attorney." Thanks. Very helpful. What they skip is the part where the report contains a factual error that's quietly killing your case, or where the adjuster is reading a line you've never even seen.
@@ -69,7 +70,7 @@ Officers make mistakes. They're human, they're often managing a chaotic scene, a
 
 For factual errors (your license plate was transcribed incorrectly, your address is wrong, the street name is wrong), most departments have a straightforward amendment request process. You submit a written request, often with supporting documentation, and the department issues a supplemental report that corrects the record. The original stays on file, the supplement gets attached. Both will go to the insurer.
 
-For narrative errors (the officer wrote that you ran the stop sign based on what the other driver said, but you have a witness who says otherwise), the path is harder. You can submit a written statement to the records division requesting a narrative amendment, but departments aren't obligated to change an officer's observations. What you can do is build a counter-record: a signed witness statement, any available surveillance footage, photos of skid marks or vehicle positions, even a traffic engineer's analysis in serious cases. Your attorney uses all of that to argue the report's narrative is incomplete or incorrect.
+For narrative errors (the officer wrote that you ran the stop sign based on what the other driver said, but you have a witness who says otherwise), the path is harder. You can submit a written statement to the records division requesting a narrative amendment, but departments aren't obligated to change an officer's observations. What you can do is build a counter-record: [a signed witness statement](/personal-injury-claim-evidence-checklist/), any available surveillance footage, photos of skid marks or vehicle positions, even a traffic engineer's analysis in serious cases. Your attorney uses all of that to argue the report's narrative is incomplete or incorrect.
 
 One thing I'd push back on that you'll hear elsewhere: don't assume you need an attorney to correct a factual error. A wrong street name or transposed plate number? Handle that yourself through the records division. Save the attorney's attention for the fight that actually affects liability.
 
@@ -81,7 +82,7 @@ I spent 12 years on that side of the table. Here's how the report gets used agai
 
 The first thing an adjuster looks for is the contributing circumstances field. If it says "driver 1: no contributing factor / driver 2: failure to yield," the liability picture is already painted before anyone picks up the phone. If that field is blank or ambiguous, expect the adjuster to call you early and ask open-ended questions about the accident. They're filling in what the report left out, and they're doing it with your words.
 
-Second: the property damage narrative. If the officer noted "minor damage" to your vehicle but you're claiming significant injuries, that gap becomes a favorite tool. Adjusters and defense attorneys call it a "soft tissue versus property damage" argument. They'll suggest that because your car wasn't badly damaged, your body couldn't have been badly injured either. The biomechanics research on low-speed crashes actually doesn't support this cleanly, but the argument gets made constantly.
+Second: the property damage narrative. If the officer noted "minor damage" to your vehicle but [you're claiming significant injuries](/how-to-document-injury-for-insurance-claim/), that gap becomes a favorite tool. Adjusters and defense attorneys call it a "soft tissue versus property damage" argument. They'll suggest that because your car wasn't badly damaged, your body couldn't have been badly injured either. The biomechanics research on low-speed crashes actually doesn't support this cleanly, but the argument gets made constantly.
 
 Third: any notation that you refused medical treatment or declined ambulance transport gets flagged. It's not an automatic claim killer, but it's a speed bump the insurer will use to push back on damages.
 

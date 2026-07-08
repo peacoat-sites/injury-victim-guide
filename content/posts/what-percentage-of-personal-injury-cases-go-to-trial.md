@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-
+lastmod: 2026-07-07
 ---
 Most people who file personal injury claims picture a dramatic courtroom showdown. They imagine cross-examining the other driver, watching a jury deliberate, hearing a verdict read aloud. It almost never happens that way.
 
@@ -37,7 +37,7 @@ Insurance companies are not in the business of gambling. They have actuaries and
 
 On the plaintiff's side, the math looks similar. Trials are expensive. Your attorney fronts costs for depositions, expert witnesses, court reporters, medical record retrieval, and trial exhibits. A car accident trial with a spine injury can easily run $50,000-$100,000 in litigation costs before a verdict. Those costs get reimbursed from any award you receive, but if you lose, they don't disappear, they come out of your pocket, or your attorney eats them depending on your fee agreement. Most injured people can't roll the dice like that.
 
-And then there's time. In many metropolitan jurisdictions, a case filed today might not get a trial date for 2-3 years. Meanwhile you've got mounting medical bills, lost income, and a life that's on hold. A settlement you can use today often beats a potentially larger verdict you might get in 2027.
+And then there's time. In many metropolitan jurisdictions, a case filed today might not get a trial date for 2-3 years. Meanwhile you've got mounting medical bills, lost income, and a life that's on hold. A [settlement you can use today](/how-long-to-settle-personal-injury-case/) often beats a potentially larger verdict you might get in 2027.
 
 None of this means settlement is always the right answer. It means the system is structurally designed to push cases toward resolution.
 
@@ -64,6 +64,15 @@ I watched this play out repeatedly from the other side of the table. When a case
 ---
 
 ## The Discovery Process: Where Cases Get Resolved (or Don't)
+
+| Factor | Impact on Settlement | Likelihood of Trial |
+| --- | --- | --- |
+| Liability clearly established | Both sides agree on fault | Very low (favors settlement) |
+| Liability genuinely disputed | Conflicting accounts, no corroborating evidence | Higher (may go to trial) |
+| Damages within typical range | Narrow valuation gap | Very low (favors settlement) |
+| Damages catastrophic or disputed | Wide settlement gap ($3M vs $800K) | Higher (may go to trial) |
+| Mediation completed | Neutral third party facilitates negotiation | ~70-80% resolve at this stage |
+| Post-discovery phase | Information asymmetry resolved | Most cases settle here |
 
 Most settlements happen during or right after discovery, the phase where both sides exchange evidence, take depositions, and hire expert witnesses to analyze things like biomechanics, accident reconstruction, or future medical needs. This is the part of litigation most people don't know about, and it's where the real work happens.
 

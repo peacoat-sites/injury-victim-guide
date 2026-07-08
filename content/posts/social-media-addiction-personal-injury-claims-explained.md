@@ -12,6 +12,7 @@ author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 slug: "social-media-addiction-personal-injury-claims-explained"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something shifted on March 25, 2026, and most coverage is treating it like a footnote. A Los Angeles jury didn't just hand down a verdict. It rewrote the legal map for an entire industry. The jury in *K.G.M. v. Meta & YouTube* awarded $6 million against two of the most powerful tech companies on earth, finding them liable for a teenager's addiction and mental health injuries. First-ever verdict of its kind. Then, on June 15, 2026, the first federal bellwether trial in MDL-3047 opened in Oakland. If you have a child who's been harmed by social media platforms, or you're simply trying to understand what's actually happening in this litigation, the next few months matter more than anything that's come before.
 
@@ -47,7 +48,7 @@ The statute of limitations varies by state. In most states, personal injury clai
 
 Document everything now. Medical records, therapy records, school performance records, psychiatric evaluations. If a provider ever noted excessive phone use or screen time in connection with a mental health diagnosis, that documentation is relevant. Screenshots of usage data from device settings can help establish the pattern. A journal entry isn't a medical record, but it can corroborate one.
 
-Fees in these cases are almost universally contingency-based, meaning attorneys get paid a percentage of any recovery and nothing if the case doesn't succeed. That structure means reputable attorneys are screening cases carefully. If a law firm takes your case, they believe there's something there. If three firms decline, that's also useful information.
+Fees in these cases are almost universally [contingency-based](/how-litigation-funding-companies-can-hijack-your-injury-claim/), meaning attorneys get paid a percentage of any recovery and nothing if the case doesn't succeed. That structure means reputable attorneys are screening cases carefully. If a law firm takes your case, they believe there's something there. If three firms decline, that's also useful information.
 
 One practical note: the MDL consolidation means individual plaintiffs don't necessarily go to trial in Oakland. Their cases are part of the larger proceeding for pretrial purposes, but if no global settlement emerges, individual cases can be remanded to their home districts. A lawyer handling these cases will explain what that means for your specific situation.
 

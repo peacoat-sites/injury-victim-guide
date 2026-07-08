@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-07
 ---
 Every year, people walk away from car accidents feeling shaken but relieved they survived, deciding to "wait and see" how their injuries develop before doing anything official. Some of those people wait too long. Not a little too long. Fatally too long, legally speaking. They try to file a claim or lawsuit and discover that a deadline they didn't know existed has permanently closed the door on any compensation. The money they needed for surgery, lost wages, or ongoing treatment is simply gone. This happens constantly, and it happens to people who aren't careless or uninformed. It happens because the insurance industry and even many general-interest articles bury the critical details about time limits under layers of reassuring language.
 
@@ -59,7 +59,7 @@ The discovery rule says the statute of limitations begins when you discovered, o
 
 You're rear-ended on a Tuesday. You feel a little sore but drive home. Three months later, you're diagnosed with a herniated disc your doctor directly links to the impact. In some states, your clock might start at diagnosis, not at the accident date. In others, it starts at the accident regardless of when symptoms appeared.
 
-I've seen clients assume they missed their window, consult an attorney anyway, and discover the discovery rule extended their deadline. I've also seen clients assume the discovery rule protected them when it didn't. The point isn't that the discovery rule will save you. The point is you need an attorney to evaluate your specific situation before you decide the door is closed.
+I've seen clients assume they missed their window, consult an attorney anyway, and discover the [discovery rule extended their deadline](/delayed-injury-symptoms-after-car-accident/). I've also seen clients assume the discovery rule protected them when it didn't. The point isn't that the discovery rule will save you. The point is you need an attorney to evaluate your specific situation before you decide the door is closed.
 
 ## Special Rules That Can Shorten or Extend Your Deadline
 

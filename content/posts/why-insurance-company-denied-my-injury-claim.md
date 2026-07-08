@@ -23,6 +23,7 @@ faqs:
    a: "In my experience watching this from both sides: yes, meaningfully so. Insurers respond differently to represented claimants. Attorneys who handle personal injury cases generally know which arguments an insurer is likely to abandon and which ones they'll fight, and they can spot procedural and coverage issues that most people would miss entirely."
  - q: "What if the denial was based on my own insurance policy, not the other driver's?"
    a: "This is common in situations involving uninsured motorist coverage, underinsured motorist coverage, or med-pay claims on your own policy. The appeals process is similar, but the legal relationship is different since you're dealing with your own insurer. In some ways that creates stronger obligations on the insurer's part, and it also means bad faith claims can be easier to establish."
+lastmod: 2026-07-07
 ---
 
 Your claim just got denied. You're holding a letter full of policy language that somehow manages to say a lot without telling you anything useful, and you're probably feeling some combination of confused, angry, and a little defeated. That's a completely normal reaction. I've seen it on the faces of hundreds of people who sat across from me when I was adjusting claims, and I see it now every time someone reaches out after getting that letter.
@@ -44,7 +45,7 @@ The most common reasons fall into a few categories:
 
 **"We don't think our policyholder was at fault."** This is probably the most contested denial reason in personal injury cases. The insurer for the person who hit you, for example, has a financial interest in minimizing their policyholder's liability. Disputing fault is often a first move, not a final determination. It can be challenged with evidence, witness statements, and sometimes accident reconstruction.
 
-**"Your injuries aren't related to this accident."** This one, called a causation denial, is especially common if you had any prior injuries or health conditions. Insurers will pull your medical history and argue that your herniated disc, for example, was pre-existing. Sometimes that argument has merit. Often it doesn't. A condition that was dormant and became symptomatic because of an accident is still a compensable injury in most states.
+**"Your injuries aren't related to this accident."** This one, called [a causation denial](/bad-faith-insurance-claim-explained/), is especially common if you had any prior injuries or health conditions. Insurers will pull your medical history and argue that your herniated disc, for example, was pre-existing. Sometimes that argument has merit. Often it doesn't. A condition that was dormant and became symptomatic because of an accident is still a compensable injury in most states.
 
 **"You didn't seek treatment promptly."** There's a widely held belief inside insurance companies that if you were really hurt, you'd have gone to the hospital immediately. This ignores the reality that people delay care for about a hundred understandable reasons: no insurance, fear of bills, hoping the pain would pass, not realizing how serious the injury was. A gap in treatment is a red flag for adjusters, but it's not automatically disqualifying.
 

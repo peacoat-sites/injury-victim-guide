@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 Most people think a personal injury settlement is basically free money. Walk away with $200,000, keep $200,000. That assumption is mostly right. But the "mostly" part? That's where people get blindsided.
 
@@ -42,6 +42,17 @@ What surprised me digging into this was how broad that exclusion actually is. Pa
 The key phrase is "on account of." As long as the money traces back to a physical injury, you're usually in good shape.
 
 ## Where It Gets Complicated: The Taxable Buckets
+
+| Settlement Component | Taxable Status | Key Reason |
+| --- | --- | --- |
+| Medical expenses (physical injury) | Generally excluded | Part of physical injury compensation |
+| Pain and suffering (physical injury) | Generally excluded | Restoration, not income |
+| Lost wages (physical injury settlement) | Generally excluded | On account of physical injury |
+| Punitive damages | Always taxable | Punishment, not compensation |
+| Emotional distress (no physical injury) | Taxable | Not tied to physical injury |
+| Back pay (employment/discrimination) | Taxable | Replaces ordinary income |
+| Interest (pre/post-judgment) | Taxable | Investment income |
+| Medical deduction reimbursement | Taxable | Tax benefit rule applies |
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -69,7 +80,7 @@ One more thing: employment settlements are almost always reported on a W-2 or 10
 
 ## What About Structured Settlements?
 
-A structured settlement means you receive periodic payments over time instead of one lump sum. Maybe $2,000 a month for 20 years instead of $400,000 today.
+A [structured settlement](/structured-settlement-vs-lump-sum-injury/) means you receive periodic payments over time instead of one lump sum. Maybe $2,000 a month for 20 years instead of $400,000 today.
 
 The good news: if the underlying claim is a physical personal injury claim, and the settlement qualifies under Section 104, then all those periodic payments are also tax-free. Including the investment growth built into the payment schedule. That's actually a meaningful financial advantage over taking a lump sum and investing it yourself, where the investment earnings would be taxable.
 

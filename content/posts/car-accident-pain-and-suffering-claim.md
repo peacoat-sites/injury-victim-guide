@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You went to the doctor, you missed work, and your car is finally fixed. On paper, those losses are measurable. But here you are, three weeks later, still waking up at 3 a.m. because your neck aches, still anxious every time someone cuts you off on the highway, still explaining to your family why you're just not yourself. That part, the part that doesn't show up on a medical bill, is what a pain and suffering claim is designed to address. And if you've never heard of it before this moment, you're not alone. Most people don't know this category of compensation even exists until they're already in the middle of a situation where they desperately need it.
 
@@ -63,13 +63,13 @@ Neither method is legally mandated. They're basically negotiation frameworks. Wh
 
 ## Why Documentation Is the Difference Between a Good Outcome and a Bad One
 
-Plain and simple: your claim only survives scrutiny if your records hold up.
+Plain and simple: [your claim only survives scrutiny](/car-accident-injury-claim-denied-what-to-do/) if your records hold up.
 
 Adjusters are trained to find holes. A three-week gap where you didn't see a doctor? They'll use that to argue you must have been fine. No written record of your emotional distress? Now you're asking someone to just believe you, and adjusters aren't wired to be generous about that.
 
 Start doing this today if you haven't already:
 
-**Step 1: Keep a daily pain journal.** Record your pain level (1-10), what you couldn't do that day, how you slept, any anxiety or emotional symptoms. Date every entry. A notes app on your phone is fine. What matters is consistency and detail.
+**Step 1: Keep a [daily pain journal](/what-to-do-after-a-car-accident-injury/).** Record your pain level (1-10), what you couldn't do that day, how you slept, any anxiety or emotional symptoms. Date every entry. A notes app on your phone is fine. What matters is consistency and detail.
 
 **Step 2: Tell your doctor everything.** This is the biggest mistake I see repeatedly. People mention neck pain but don't say a word about nightmares, anxiety attacks, or that they've stopped attending their kid's soccer games because being in a crowd now triggers panic. Your doctor has to document all of it to create a medical record that backs up your claim.
 

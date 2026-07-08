@@ -23,13 +23,13 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-07
 ---
 You're rear-ended at a red light. The other driver's insurance pays your $4,200 repair bill and your $1,800 in medical bills without much argument. Case closed. Except you're waking up at 3 a.m. with neck pain. You've stopped going to your Saturday morning basketball games. Every time someone rides your bumper on the highway, you feel a spike of anxiety. None of that appears on any receipt, but the law says it's worth something real. That's pain and suffering, and most injury victims either don't know they can claim it or they drastically underestimate what it's actually worth.
 
 ## What "Pain and Suffering" Actually Means Legally
 
-Pain and suffering is just the legal label for one category of damages (damages being the fancy word for compensation). There are two main buckets: economic damages and non-economic damages.
+Pain and suffering is just the legal label for one category of damages (damages being the fancy word for compensation). There are two main buckets: [economic damages](/what-damages-can-i-recover-in-personal-injury/) and non-economic damages.
 
 Economic damages are straightforward. Medical bills. Lost wages. Future treatment costs. You show the receipts, you get a number. Non-economic damages? Those can't be receipted. Pain and suffering lives there.
 
@@ -38,6 +38,11 @@ Legally, it covers two overlapping things. Physical pain refers to the actual bo
 Here's the key point most people miss: pain and suffering isn't a bonus. In many serious injury cases, it represents the largest portion of a settlement or verdict. I've seen cases where medical bills were under $10,000 but non-economic damages were multiples of that because the injury genuinely wrecked someone's quality of life for months or years.
 
 ## How Insurance Companies Calculate It (And Why That Matters)
+
+| Calculation Method | How It Works | Best Used For | Multiplier/Rate Range |
+| --- | --- | --- | --- |
+| Multiplier Method | Economic damages × multiplier factor | Most common approach in injury claims | 1.5-5× (varies by severity) |
+| Per Diem Method | Daily suffering rate × number of affected days | Claims with clear daily impact documentation | Anchored to daily wage or reasonable daily rate |
 
 Insurance adjusters don't just pluck a number from thin air, though it can feel that way. Two common methods exist, and understanding both gives you real leverage.
 

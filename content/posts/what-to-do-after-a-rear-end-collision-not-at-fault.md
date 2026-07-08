@@ -23,6 +23,7 @@ faqs:
    a: "For the insurance claim itself, report it promptly, usually within days. For a personal injury lawsuit, each state has a 'statute of limitations,' which is the legal deadline to file. It's commonly two to three years from the accident date, but it varies by state and sometimes by who the defendant is. Don't assume you have unlimited time."
  - q: "Should I post about the accident on social media?"
    a: "No. Not even a vague 'had a rough day, got rear-ended' post. Insurance adjusters and defense attorneys do look at social media, and anything you post, even something completely innocent, can be taken out of context or used to suggest your injuries aren't serious. Keep it offline until everything is fully resolved."
+lastmod: 2026-07-07
 ---
 Someone rear-ends you at a stoplight. You weren't doing anything wrong. And somehow, within 48 hours, you're drowning in phone calls from adjusters, confused about your own insurance, and second-guessing whether your neck pain is serious or just stress. I've watched this exact scenario spiral into real financial harm for people who did absolutely nothing wrong, and it happens because nobody tells you the rules before the game starts.
 
@@ -52,13 +53,13 @@ Keep a pain journal starting that night. Nothing fancy, a notes app on your phon
 
 This is where people make expensive mistakes.
 
-You'll need to report the accident to your own insurance company, even though you weren't at fault. I know that feels unfair, and people resist it because they're worried their rates will go up. Your rates should not increase for a not-at-fault accident, though policies vary by state and insurer. Check your policy or call your agent to confirm. But report it. Your own insurer needs to know, and if the at-fault driver's insurance drags its feet or denies the claim, you may end up using your own collision coverage or uninsured/underinsured motorist coverage to get your car fixed.
+You'll need to report the accident to your own insurance company, even though you weren't at fault. I know that feels unfair, and people resist it because they're worried their rates will go up. Your rates should not increase for a not-at-fault accident, though policies vary by state and insurer. Check your policy or call your agent to confirm. But report it. Your own insurer needs to know, and if the at-fault driver's insurance drags its feet or denies the claim, you may end up using your own collision coverage or [uninsured/underinsured motorist coverage](/uninsured-motorist-claim-process/) to get your car fixed.
 
 The at-fault driver's insurance is called the "third-party" insurer. You'll file what's called a third-party liability claim with them. They represent the other driver, not you. Their adjuster's job is to settle your claim for as little money as possible. I say that without any bitterness, it's just the structural reality. I was that adjuster. The Insurance Information Institute's data shows that liability claims for bodily injury average well above $20,000 currently, which is exactly why carriers have financial incentive to minimize payouts.
 
 Here's what to expect when the third-party adjuster calls:
 
-You are not required to give a recorded statement to the other driver's insurance company. They will often ask for one early, before you've fully assessed your injuries. You can decline, or delay, until you've spoken with a personal injury attorney. This is one of the single most important things I can tell you.
+You are not required to give a recorded statement to the other driver's insurance company. They will often ask for one early, before you've fully assessed your injuries. You can decline, or delay, until you've spoken with a [personal injury attorney](/car-accident-injury-claim-tips/). This is one of the single most important things I can tell you.
 
 Don't accept a quick settlement for your injuries before you know the full extent of them. Property damage (your car) can be handled quickly, that's fine. But injury claims are different. Once you sign a release, you're done. You can't go back and ask for more money because your herniated disc required physical therapy for six months.
 

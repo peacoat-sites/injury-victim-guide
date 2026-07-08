@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You just got the call you've been waiting months for. The insurance company agreed to a settlement. You're relieved, maybe even a little emotional, and then your brain goes somewhere unexpected: *wait, do I have to pay taxes on this?* That question stops a lot of people cold, and honestly, it's one of the smartest things you can ask. Because the answer isn't a simple yes or no. It depends on what that money is actually for.
 
@@ -42,6 +42,17 @@ The keyword here is *physical*. That one word does a lot of heavy lifting in tax
 ---
 
 ## When Parts of Your Settlement Become Taxable
+
+| Settlement Component | Tax Treatment | Notes |
+| --- | --- | --- |
+| Physical injury/sickness compensation | Tax-free (excludable) | IRC Section 104(a)(2); compensatory damages for physical harm |
+| Emotional distress (from physical injury) | Tax-free (excludable) | Must flow directly from the physical injury |
+| Emotional distress (no physical injury) | Taxable | Standalone emotional distress claims are ordinary income |
+| Punitive damages | Taxable | Designed to punish defendant, not compensate; ordinary income |
+| Lost wages (part of physical injury settlement) | Tax-free (excludable) | Included in broader compensatory damages |
+| Lost wages (employment discrimination, separate award) | Taxable | Without physical injury component, treated as income |
+| Interest (pre-judgment or post-judgment) | Taxable | Always reportable as income |
+| Medical expense reimbursement (previously deducted) | Potentially taxable | Tax benefit rule may require recapture if itemized deductions were claimed |
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -79,7 +90,7 @@ The [Insurance Information Institute](https://www.iii.org/) has noted that settl
 
 ## Structured Settlements: A Special Situation Worth Understanding
 
-If you're receiving your settlement as a series of payments over time rather than a lump sum, you have what's called a structured settlement. The tax treatment generally follows the same rules, but there's an additional layer to understand.
+If you're receiving your settlement as a series of payments over time rather than a lump sum, you have what's called a [structured settlement](/structured-settlement-vs-lump-sum-injury/). The tax treatment generally follows the same rules, but there's an additional layer to understand.
 
 Payments from a qualified structured settlement annuity that compensates for physical injuries are tax-free, including any investment growth on the annuity itself. That's a meaningful benefit. In a normal investment, you'd pay taxes on the earnings each year. In a qualifying structured settlement, those earnings remain excluded as long as the payments stem from a physical injury claim.
 

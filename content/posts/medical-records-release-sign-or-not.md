@@ -23,9 +23,10 @@ faqs:
     a: "Generally, no. Psychotherapy notes have heightened HIPAA protections and require specific, separate authorization beyond a standard medical release. If mental health treatment isn't directly at issue in your claim, you have a strong basis to exclude those records. An attorney can help you assert that protection."
   - q: "If I have an attorney, can I still be contacted directly about signing a release?"
     a: "Once you have legal representation, the opposing insurer and their attorneys are typically prohibited from contacting you directly about your claim under professional conduct rules. All communications, including release requests, should go through your lawyer. If someone contacts you directly after you've retained counsel, tell your attorney immediately."
+lastmod: 2026-07-07
 ---
 
-The insurance adjuster on the other side of your claim is not your friend. I know that sounds harsh, but after 12 years of sitting in that chair, I can tell you exactly what happens when an injured person signs a broad medical records release without reading it first: the adjuster pulls records going back five, sometimes ten years, finds an old back strain from 2017, and uses it to argue your current herniated disc is "pre-existing." Claim value drops. Sometimes dramatically.
+The [insurance adjuster](/insurance-adjuster-tactics-to-watch-out-for/) on the other side of your claim is not your friend. I know that sounds harsh, but after 12 years of sitting in that chair, I can tell you exactly what happens when an injured person signs a broad medical records release without reading it first: the adjuster pulls records going back five, sometimes ten years, finds an old back strain from 2017, and uses it to argue your current herniated disc is "pre-existing." Claim value drops. Sometimes dramatically.
 
 So before you put your signature on anything the insurance company sends you, let's talk about what you're actually signing.
 
@@ -55,7 +56,7 @@ Here's the part that trips people up: you have the legal right to refuse to sign
 
 You're probably thinking, "but won't they just deny my claim if I don't cooperate?" Fair question. The answer is: not automatically, and not legally, if you cooperate in a reasonable and limited way.
 
-Under most states' tort law frameworks, you're required to provide records that are reasonably related to your claimed injuries. That's it. A slipped disc from a car accident doesn't entitle the insurer to your therapy notes from 2015. If they push, they can request records through the formal discovery process in litigation, which gives your attorney a chance to object to overreach.
+Under most states' tort law frameworks, you're required to provide records that are reasonably related to your claimed injuries. That's it. A slipped disc from a car accident doesn't entitle the insurer to your therapy notes from 2015. If they push, they can request records through the [formal discovery process in litigation](/how-to-appeal-denied-injury-insurance-claim/), which gives your attorney a chance to object to overreach.
 
 The practical reality, as of July 2026: most pre-litigation claims are resolved without the insurer ever getting a full unrestricted records dump, provided the injured person (or their attorney) pushes back appropriately. What I'd tell a friend sitting across from me right now: don't sign anything the insurance company sends you until an attorney has looked at it. Many personal injury lawyers offer free consultations and will review a release in 15 minutes.
 

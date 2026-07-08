@@ -23,6 +23,7 @@ faqs:
    a: "Yes, genuinely. Even posts that seem unrelated to your injuries can be taken out of context. Adjusters and defense attorneys review public social media as a standard part of claim investigation. Set your accounts to private, and be cautious about posting anything depicting physical activity until your claim is fully resolved."
  - q: "When should I hire a personal injury attorney?"
    a: "The more serious your injury, the more you need one. If you've been hospitalized, if you're missing significant work, if there's any dispute about fault, or if the first settlement offer seems low relative to what you've been through, a free consultation costs you nothing and could change the outcome significantly. Most personal injury attorneys work on contingency, meaning they only get paid if you do."
+lastmod: 2026-07-07
 ---
 Most people filing an injury claim are already losing before the adjuster says hello.
 
@@ -38,7 +39,7 @@ Adjusters get trained to move fast, usually within 24 to 72 hours of a claim fil
 
 They're recording you at the moment when your injuries are least documented and most uncertain. Say "my back is sore but I think I'm fine" and that quote becomes evidence later when you're claiming serious back injuries. Defense lawyers memorize early statements and read them back during depositions like scripture.
 
-You typically aren't required to give a recorded statement to the other driver's insurance company. (Check your own policy though, because cooperation clauses can be strict.) Before saying yes to anything recorded, call a personal injury attorney. Most will talk to you free. Do that.
+You typically aren't required to give a recorded statement to the other driver's insurance company. (Check your own policy though, because cooperation clauses can be strict.) Before saying yes to anything recorded, [call a personal injury attorney](/should-i-give-a-recorded-statement-to-the-insurance-company/). Most will talk to you free. Do that.
 
 ## The Quick Settlement Offer
 

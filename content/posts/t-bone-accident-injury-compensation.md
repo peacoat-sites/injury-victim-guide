@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-
+lastmod: 2026-07-07
 ---
 You're sitting in your car, or maybe you're already home, and everything happened so fast. One moment you're moving through an intersection, and the next there's an impact you didn't even see coming, a wall of force hitting the side of your door. T-bone collisions, where one vehicle strikes the side of another at roughly a perpendicular angle, are among the most violent crashes on the road. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) consistently shows that side-impact crashes account for a disproportionate share of serious injuries and fatalities compared to other crash types, largely because the door panel offers far less protection than the front or rear of a vehicle. If you're reading this, you might be wondering what your injuries are actually worth, who's responsible, and how to avoid making a costly mistake in the days ahead. I'll walk you through all of it.
 
@@ -41,7 +41,7 @@ The injuries I see most often in T-bone cases include:
 - **Hip and pelvis fractures:** Particularly serious in older adults, these can require surgery and months of rehabilitation.
 - **Shoulder and arm injuries:** The arm near the door often sustains crush-type injuries, torn rotator cuffs, or fractures.
 
-Here's what matters about delayed symptoms: you might feel okay at the scene, or even the next morning. That's adrenaline doing its job. Soft tissue injuries, spinal issues, and even concussions can take 24 to 72 hours to fully manifest. Go to the emergency room or urgent care that same day regardless. Not tomorrow. That day.
+Here's what matters about [delayed symptoms](/delayed-injury-symptoms-after-car-accident/): you might feel okay at the scene, or even the next morning. That's adrenaline doing its job. Soft tissue injuries, spinal issues, and even concussions can take 24 to 72 hours to fully manifest. Go to the emergency room or urgent care that same day regardless. Not tomorrow. That day.
 
 ---
 
@@ -71,7 +71,7 @@ The term "compensation" covers more territory than most people realize. Legally,
 
 **Economic damages** are the losses you can document with a receipt or a bill: emergency room treatment, surgery, hospitalization, follow-up appointments, physical therapy, specialist visits, prescription medications, medical equipment like braces or crutches, future medical care if your injuries require ongoing treatment, lost wages from time you couldn't work, reduced future earning capacity if a permanent injury changes what work you can do, property damage to your vehicle.
 
-**Non-economic damages** are real losses that don't come with a bill: pain and suffering, emotional distress and anxiety (many T-bone survivors develop situational anxiety around driving), loss of enjoyment of life, loss of consortium, meaning the impact on your relationship with a spouse or partner.
+**Non-economic damages** are real losses that don't come with a bill: [pain and suffering](/car-accident-pain-and-suffering-claim/), emotional distress and anxiety (many T-bone survivors develop situational anxiety around driving), loss of enjoyment of life, loss of consortium, meaning the impact on your relationship with a spouse or partner.
 
 In severe cases involving reckless behavior, like a driver who ran a red light while intoxicated, **punitive damages** may also come into play. These aren't meant to compensate you but to punish conduct that was especially egregious.
 

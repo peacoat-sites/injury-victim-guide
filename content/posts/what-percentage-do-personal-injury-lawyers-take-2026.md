@@ -23,6 +23,7 @@ faqs:
    a: "Because the attorney's workload increases dramatically once litigation begins: discovery, depositions, motions, potentially trial prep. The higher rate after filing compensates for that additional risk and labor. It's standard, but it's a strong incentive for both sides to settle before that milestone."
  - q: "Are personal injury lawyer fees regulated by the state?"
    a: "In some states, yes. New York, Florida, California, and New Jersey, among others, have statutory rules or caps for certain case types, particularly medical malpractice. Always ask your attorney whether state regulations apply to your specific case type."
+lastmod: 2026-07-07
 ---
 
 Most articles about personal injury lawyer fees bury the only number you actually need: **33%**. They spend 800 words circling it, then hedge so hard you leave knowing nothing useful. Let's skip that.
@@ -34,6 +35,14 @@ Here's what the fine print actually looks like.
 ---
 
 ## The Fee Structure Nobody Explains Clearly
+
+| Scenario | Fee Percentage | When It Applies |
+| --- | --- | --- |
+| Settlement before lawsuit | 33.3% | Case resolves through negotiation |
+| Litigation (lawsuit filed) | 40% | Formal lawsuit has been filed |
+| Trial or appeal | 45% or more | Case goes to trial or appellate process |
+| Strong case (optional negotiation) | 25-28% | Clear liability, well-documented injuries, solvent defendant |
+| Weak case (higher risk) | 33-45%+ | Disputed liability, pre-existing conditions, low policy limits |
 
 Contingency fee means the lawyer gets paid a percentage of what you recover. You pay nothing upfront. If you recover nothing, the attorney collects nothing. That's the deal, and for most injury victims who can't afford $400-an-hour billing, it's genuinely a good one.
 
@@ -95,7 +104,7 @@ A lawyer who charges 40% and recovers $250,000 nets you $150,000. A lawyer who c
 
 Insurers track which attorneys actually go to trial. This is not a rumor, it's a documented dynamic in claims handling. Adjusters have internal ratings and institutional memory about which plaintiff's attorneys are serious trial threats and which ones will fold for a nuisance settlement. The firms that actually take cases to verdict get better pre-trial offers, because the insurer's math changes when trial risk is real.
 
-When you're evaluating attorneys, ask: "How many cases did you take to verdict in the last two years? What were the outcomes?" A good attorney will answer. A great one will have specifics.
+When you're [evaluating attorneys](/how-to-choose-a-personal-injury-lawyer/), ask: "How many cases did you take to verdict in the last two years? What were the outcomes?" A good attorney will answer. A great one will have specifics.
 
 ---
 

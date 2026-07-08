@@ -12,6 +12,7 @@ author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 slug: "louisianas-new-51-fault-rule-is-changing-injury-claims-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Six months ago, Louisiana quietly flipped one of the most plaintiff-friendly features of its personal injury law, and I'll be honest, the full impact is only starting to show up now that real cases are moving through the system. If you were injured in an accident in Louisiana this year and someone is arguing that you share some blame, what you're about to read could be the most important thing you encounter before talking to a lawyer.
 
@@ -36,6 +37,11 @@ The burden on injured claimants to document their own innocence has genuinely in
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## The Date of Your Accident Matters More Than You Think
+
+| Fault Standard | Recovery Allowed | Effective Date in Louisiana | Applies To |
+| --- | --- | --- | --- |
+| Pure Comparative Fault | Yes, any amount under 100% | Before January 1, 2026 | Accidents before January 1, 2026 |
+| Modified Comparative Fault (51% Bar) | Only if at or below 50% at fault | January 1, 2026 onward | Accidents on or after January 1, 2026 |
 
 This is one area where the law is actually clear and it matters enormously. House Bill 431 is not retroactive. If your accident happened before January 1, 2026, pure comparative fault still applies to your case, full stop, regardless of when you file your lawsuit or when it goes to trial. The Liskow and Lewis firm confirmed this in their May 2026 analysis: the new standard only governs accidents that occurred on or after the effective date.
 

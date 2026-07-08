@@ -12,12 +12,20 @@ author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 slug: "when-an-algorithm-decides-your-injury-claim-value"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you're sitting with a settlement offer in your hand right now, trying to figure out whether it's fair, you're not alone. And if it feels like the number appeared out of nowhere, almost mechanical, you're probably more right than you know.
 
 Something significant is happening in the insurance industry, and it directly affects anyone who has been hurt in an accident. In March 2026, regulators from 12 states launched a coordinated audit, through the National Association of Insurance Commissioners, specifically targeting the AI systems insurers use to value claims and determine payouts. It's the first time government regulators have collectively turned their attention to software that, at this point, shapes the vast majority of bodily injury settlements in this country. A vote on a nationwide rollout is already scheduled for the NAIC's November 2026 fall meeting. That timeline matters. If you have a claim open right now, this is happening in real time.
 
 ## The Algorithm Was There Before the Adjuster
+
+| Metric | Before (Few Years Ago) | Current (2026) |
+| --- | --- | --- |
+| AI-enabled straight-through processing of simple claims | 10-15% | 70-90% |
+| U.S. insurance companies using AI technologies | Not specified | 91% |
+| Bodily injury claim severity year-over-year increase | Not specified | 9.2% |
+| States in coordinated NAIC regulatory audit | - | 12 |
 
 Here's something most people don't realize: by the time a human adjuster looks at your file, a piece of software has often already scored it.
 
@@ -57,7 +65,7 @@ You might be wondering what any of this means for your specific claim. I want to
 
 First, understand that the first offer is almost never the final one. Algorithms are often set conservatively, partly because many people accept the first number. The software accounts for that.
 
-Second, documentation that's hard to quantify is exactly what you need to generate. Detailed records from your doctor about functional limitations, a journal of how your injuries affect daily life, evidence of psychological impact, these are the categories the AI undervalues and the categories that human review and negotiation can restore.
+Second, [documentation that's hard to quantify](/how-your-smartwatch-and-gps-data-can-hurt-your-injury-claim/) is exactly what you need to generate. Detailed records from your doctor about functional limitations, a journal of how your injuries affect daily life, evidence of psychological impact, these are the categories the AI undervalues and the categories that human review and negotiation can restore.
 
 Third, the fact that a 12-state regulatory audit is actively scrutinizing these systems right now is relevant context when you're negotiating. Insurers are aware of the scrutiny. This is not the moment to assume the algorithm's number is the final word.
 

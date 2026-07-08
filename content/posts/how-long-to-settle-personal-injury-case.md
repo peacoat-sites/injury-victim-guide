@@ -23,6 +23,7 @@ faqs:
    a: "You can, but I'd strongly encourage you to at least reach MMI and consult with an attorney before making that decision. Accepting a low offer to resolve things quickly is one of the most common regrets I've heard from injury victims. Once you sign a release, there's no renegotiating."
  - q: "What happens if the other driver's insurance isn't offering enough and negotiations stall?"
    a: "Your attorney can file a lawsuit, which shifts the pressure significantly and opens up discovery tools that may uncover evidence useful to your case. Most cases still settle after suit is filed but before trial. Filing is not a sign things have gone wrong; sometimes it's exactly the right move to get a fair result."
+lastmod: 2026-07-07
 ---
 
 Most people assume their personal injury case will settle in a few months. I'll be honest: that assumption causes more frustration, more bad decisions, and more money left on the table than almost anything else I saw in my 12 years adjusting claims.
@@ -33,7 +34,7 @@ The real answer is somewhere between six weeks and several years, and that range
 
 Here's the thing most articles won't tell you directly: the insurance company's internal processes are often the biggest driver of timeline, not the courts, not your attorney's caseload. When I worked for a major carrier, we had internal benchmarks called "cycle time goals." A soft-tissue rear-end claim was supposed to close in 90 days or fewer. A case with disputed liability or significant injuries? That got escalated to a senior adjuster and filed into a completely different workflow, one with no meaningful deadline pressure at all.
 
-What I was tracking, constantly, was your medical status. Specifically, whether you'd reached what we called MMI: maximum medical improvement. That's the point where your doctor says your condition has stabilized and further treatment won't meaningfully change your outcome. Until you're at MMI, a competent adjuster will not make a full settlement offer, because we don't know yet what your injury actually cost you. And you shouldn't accept one either, because once you sign a release, that's it. No going back if your back surgery costs more than you thought.
+What I was tracking, constantly, was your medical status. Specifically, whether you'd reached what we called MMI: maximum medical improvement. That's the point where your doctor says your condition has stabilized and further treatment won't meaningfully change your outcome. Until you're at MMI, a competent adjuster will not make a full settlement offer, because we don't know yet what your injury actually cost you. And you shouldn't accept one either, because [once you sign a release](/structured-settlement-vs-lump-sum-injury/), that's it. No going back if your back surgery costs more than you thought.
 
 So the first variable is how long your medical treatment takes. A sprained wrist that resolves in six weeks is a very different story from a herniated disc requiring surgery, physical therapy, and potentially a pain management specialist across 18 months.
 
@@ -42,6 +43,15 @@ The second variable is liability. If it's clear you did nothing wrong (a red-lig
 Third: the damages themselves. Soft-tissue cases with smaller medical bills settle faster because there's less money at stake and less reason for an insurer to dig in. Cases with permanent injuries, lost earning capacity, or future care needs attract actuaries, vocational experts, and life care planners, all of whom take time to hire and prepare.
 
 ## The Actual Phases of a Personal Injury Case
+
+| Case Phase | Typical Duration | Key Variables |
+| --- | --- | --- |
+| Treatment Phase | 6 weeks to 18+ months | Type of injury, medical complexity, MMI timeline |
+| Demand Phase | 30-60 days after treatment ends | Time to collect records from hospitals and specialists |
+| Negotiation | Few weeks to several months | Liability clarity, damages amount, insurer responsiveness |
+| Post-Filing/Discovery | 6-12 months (if suit filed) | Court docket, complexity of case |
+| Settlement or Trial | 2-4 years total (if litigated) | Court schedule, mediation outcomes |
+| **Overall Range** | **6 weeks to several years** | **All factors combined** |
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

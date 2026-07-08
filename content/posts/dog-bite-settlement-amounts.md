@@ -23,6 +23,7 @@ faqs:
    a: "You can try, but gaps in treatment hurt claims. Insurance adjusters use delayed treatment as evidence that the injury wasn't serious, even if your reason for waiting was financial or logistical. Go to a doctor as soon as possible after a bite, even if you think it's minor. Infections from dog bites develop fast and can become serious within 24 to 48 hours."
  - q: "What if the dog owner has no homeowner's or renter's insurance?"
    a: "This is a genuine problem. You can sue and potentially win a judgment, but collecting on it means going after the person's wages, bank accounts, or property, which is slow and often yields little if they have limited assets. Before assuming there's no coverage, check whether the dog owner was renting (renter's insurance often covers dog bites), whether they were staying with someone who has a homeowner's policy, or whether a landlord might share liability for a known dangerous dog on their property."
+lastmod: 2026-07-07
 ---
 
 Most articles about dog bite settlements lead with a number. "Average settlements range from $30,000 to $50,000!" That number is nearly meaningless without context, and the context is everything.
@@ -46,6 +47,12 @@ Insurance companies also look hard at liability. Twelve states follow a "one bit
 ---
 
 ## The Injury Severity Spectrum (And Where Money Actually Goes)
+
+| Injury Severity Level | Typical Settlement Range | Key Characteristics |
+| --- | --- | --- |
+| Minor | $5,000-$15,000 | Single bite, clean puncture, urgent care only, no permanent scarring |
+| Moderate | $25,000-$75,000 | Deep lacerations, surgical repair, weeks of wound care, visible scarring |
+| Severe | $100,000+ | Multiple bites, facial disfigurement, nerve damage, reconstructive surgery, psychological trauma |
 
 > **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

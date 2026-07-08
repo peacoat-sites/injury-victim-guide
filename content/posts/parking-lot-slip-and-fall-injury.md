@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You stepped out of your car, arms full of groceries, and the next thing you remember is staring up at the sky with your hip screaming. Or maybe you slipped on a patch of black ice near the shopping cart return, or tripped over a pothole that had been there long enough to grow weeds. Parking lot slip and fall injuries happen to thousands of people every year, and what surprises most of them isn't the fall itself. It's what happens after. The store manager hands you an incident report, the security footage "malfunctions," and suddenly you're left wondering whether any of this was even someone else's fault. I've sat on both sides of this equation, and I want to give you the real picture.
 
@@ -33,7 +33,7 @@ Here's the thing most people get wrong immediately: they assume the store is res
 
 Parking lot liability is a tangled web of ownership, leases, and maintenance contracts. A grocery store might lease its space from a commercial property management company, which contracts snow removal to a third-party vendor, which subcontracts the actual salting to a seasonal crew. When you fall on an icy surface, you could theoretically have a claim against any one of them, all of them, or in some cases, none of them if the condition was genuinely unforeseeable or existed for only a few minutes.
 
-The legal concept at play is called *premises liability*. It means property owners and occupiers have a legal duty to keep their property reasonably safe for people who are there lawfully. "Reasonably safe" does a lot of heavy lifting in that sentence. It doesn't mean perfect. It means the kind of care that a reasonable property manager would exercise given what they knew or should have known about the hazard.
+The legal concept at play is called *[premises liability](/property-owner-liability-slip-and-fall/)*. It means property owners and occupiers have a legal duty to keep their property reasonably safe for people who are there lawfully. "Reasonably safe" does a lot of heavy lifting in that sentence. It doesn't mean perfect. It means the kind of care that a reasonable property manager would exercise given what they knew or should have known about the hazard.
 
 What struck me when I started researching this was how much the outcome depends on the state you're in. Some states follow *contributory negligence* rules, where if you're found even 1% at fault, you can be barred from recovery entirely. Most states now use some version of *comparative negligence*, where your compensation gets reduced by your percentage of fault. Looking down at your phone while walking? That matters. Wearing shoes with no traction in a blizzard? That gets argued too.
 
@@ -43,7 +43,7 @@ Not all parking lot hazards are created equal when it comes to legal viability. 
 
 The hazards that tend to produce the most defensible claims are the ones that were visible, persistent, and known (or should have been known) to the property owner:
 
-**Ice and snow accumulation** is the biggest category in northern states. When a store opens for business and fails to salt or sand walkways despite knowing a freeze occurred overnight, that's different from black ice that formed an hour before you arrived.
+**[Ice and snow accumulation](/ice-and-snow-slip-and-fall-claim/)** is the biggest category in northern states. When a store opens for business and fails to salt or sand walkways despite knowing a freeze occurred overnight, that's different from black ice that formed an hour before you arrived.
 
 **Potholes and cracked asphalt** are almost better for claimants in one specific way: they're usually obvious and documented over time. If a pothole has been there for six months and the property owner never repaired it, that history matters enormously.
 

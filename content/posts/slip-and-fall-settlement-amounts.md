@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You're standing in the grocery store parking lot, soaking wet from a broken drainage pipe nobody bothered to fix, your ankle throbbing in a way that tells you something is seriously wrong. A store employee hands you an incident report form, and somewhere in the back of your mind you're already wondering: what is this actually worth? I've spent more than two decades watching that question get answered badly, first from the insurance side where I helped companies pay as little as possible, and now from the side of people who deserve fair compensation. The number that shows up on a settlement check varies wildly, and understanding why is the most useful thing you can do right now.
 
@@ -48,7 +48,7 @@ If you want to understand what your case might be worth, think about it in two c
 A few factors that can significantly increase a settlement:
 
 - Severe or permanent injuries, particularly those involving the spine, head, or joints
-- Clear negligence by the property owner, especially if they had prior notice of the hazard
+- Clear negligence by the [property owner](/property-owner-liability-slip-and-fall/), especially if they had prior notice of the hazard
 - Evidence the property owner tried to cover up or ignore the dangerous condition
 - Strong witness testimony or video surveillance footage
 - High pre-injury income or an occupation that requires physical ability
@@ -62,9 +62,9 @@ Factors that can reduce a settlement:
 
 ## How Fault Laws in Your State Can Cut Your Recovery
 
-This is the part most people learn about too late. Most states use some version of **comparative negligence**, which means if you were partially at fault for your fall, your settlement gets reduced proportionally. A few states still use **contributory negligence**, which is far harsher: if you were even 1% at fault, you may recover nothing.
+This is the part most people learn about too late. Most states use some version of **[comparative negligence](/how-to-prove-slip-and-fall-case/)**, which means if you were partially at fault for your fall, your settlement gets reduced proportionally. A few states still use **contributory negligence**, which is far harsher: if you were even 1% at fault, you may recover nothing.
 
-Here's how it plays out in practice. Say you fell on a wet floor in a restaurant where a pipe had been leaking for three days and nobody fixed it. You were also looking at your phone instead of where you were going. In a comparative negligence state, a jury might decide you were 25% at fault. If your damages were valued at $100,000, you'd recover $75,000. In the handful of contributory negligence states, that same 25% finding might zero out your recovery entirely.
+Here's how it plays out in practice. Say you fell on a [wet floor in a restaurant](/wet-floor-slip-and-fall-injury/) where a pipe had been leaking for three days and nobody fixed it. You were also looking at your phone instead of where you were going. In a comparative negligence state, a jury might decide you were 25% at fault. If your damages were valued at $100,000, you'd recover $75,000. In the handful of contributory negligence states, that same 25% finding might zero out your recovery entirely.
 
 Insurance adjusters know exactly which state you're in and they'll use the fault system to their advantage from the very first call. They may ask you questions that seem casual but are designed to get you to admit partial responsibility. "Were you in a hurry?" "Were you paying attention?" "Had you been there before and seen the floor was sometimes wet?" These aren't friendly questions. They're claim management.
 

@@ -23,6 +23,7 @@ faqs:
    a: "In most states, yes. Most states use some form of comparative fault, which reduces your recovery by your percentage of fault rather than eliminating it entirely. So if you're found 20% at fault and your damages are $50,000, you'd recover $40,000. A handful of states still use contributory negligence, which can bar recovery if you were at all at fault. This is one of the reasons knowing your state's rules matters."
  - q: "Should I accept the first offer from the insurance company?"
    a: "Almost never. The first offer is almost always a lowball number designed to close the claim cheaply before you understand what your case is worth or before your medical picture is complete. Accepting it means you can't go back. If you're in active treatment, you probably haven't reached maximum medical improvement yet, which means you don't actually know your full damages. Getting a second opinion on your claim's value, from an attorney if nothing else, before accepting anything is worth the time."
+lastmod: 2026-07-07
 ---
 
 Somebody rear-ends you at a red light. You feel fine enough to drive home. Then you wake up the next morning and can't turn your head without a shooting pain that runs from your neck down into your shoulder blade. Sound familiar? I've seen this exact scenario play out hundreds of times, first as an adjuster reviewing claims for a major carrier, now talking to the people on the other side of those claims. And the question I hear most often is some version of: "What is my case worth?"
@@ -33,7 +34,14 @@ So let's talk about what's actually going on here in 2026.
 
 ## What the Numbers Actually Look Like
 
-Minor whiplash claims, meaning soft-tissue neck injuries with no structural damage, no surgery, and a recovery measured in weeks rather than months, tend to settle somewhere between $2,500 and $15,000. That's a wide range, I know. More significant whiplash involving herniated discs, nerve involvement, or injuries that drag on past six months can push settlements into the $30,000 to $100,000 range. Cases with permanent impairment, documented by imaging and specialist opinion, can go higher.
+| Injury Severity | Settlement Range | Key Characteristics |
+| --- | --- | --- |
+| Minor whiplash | $2,500-$15,000 | Soft-tissue neck injury, no structural damage, no surgery, recovery in weeks |
+| Significant whiplash | $30,000-$100,000 | Herniated discs, nerve involvement, recovery beyond six months |
+| Permanent impairment | Above $100,000 | Documented by imaging and specialist opinion |
+| Multiplier range | 1.5-5× medical bills | Applied to calculate pain and suffering from medical expenses |
+
+Minor whiplash claims, meaning [soft-tissue neck injuries](/soft-tissue-injury-settlement-amounts/) with no structural damage, no surgery, and a recovery measured in weeks rather than months, tend to settle somewhere between $2,500 and $15,000. That's a wide range, I know. More significant whiplash involving herniated discs, nerve involvement, or injuries that drag on past six months can push settlements into the $30,000 to $100,000 range. Cases with permanent impairment, documented by imaging and specialist opinion, can go higher.
 
 I've seen adjusters at my old company settle genuinely serious whiplash cases for $8,000 because the claimant didn't have good medical documentation. I've also seen people with "minor" whiplash walk away with $40,000 because their attorney knew how to build a pain narrative that connected the injury to concrete life disruption. The medical facts matter, but how they're presented matters almost as much.
 
@@ -47,7 +55,7 @@ What most people don't realize is that "whiplash" isn't a precise medical diagno
 
 Here's where I'll give you something more useful than a dollar range.
 
-**The severity and duration of your treatment.** Insurance companies calculate something called a "multiplier," typically between 1.5 and 5, applied to your medical bills (your "specials") to arrive at a pain and suffering estimate. The longer you treat, and the more specialized your treatment, the higher the multiplier tends to go. Physical therapy for twelve weeks reads differently than one urgent care visit and three ibuprofen.
+**The severity and duration of your treatment.** Insurance companies calculate something called a "multiplier," typically between 1.5 and 5, applied to your medical bills (your "specials") to arrive at a [pain and suffering estimate](/how-is-pain-and-suffering-calculated-in-a-settlement/). The longer you treat, and the more specialized your treatment, the higher the multiplier tends to go. Physical therapy for twelve weeks reads differently than one urgent care visit and three ibuprofen.
 
 **Whether you have documented wage loss.** Missed time from work needs proof. Pay stubs, employer letters, tax returns for self-employed people. Without documentation, adjusters don't give wage loss claims much weight. I can tell you from experience they don't.
 

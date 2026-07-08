@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 You took the ibuprofen, iced your neck, and figured you'd feel better in a couple of days. Six weeks later you're still in pain, your medical bills are climbing, and the insurance adjuster is on the phone telling you there's "no documentation" of your injuries right after the accident. That scenario plays out thousands of times every year, and it costs injured people real money. Thorough, timely documentation is the single most controllable factor in what happens to your claim. Here's how to do it right.
 
@@ -31,7 +31,7 @@ You took the ibuprofen, iced your neck, and figured you'd feel better in a coupl
 
 Insurance companies are not your friends. I spent 12 years on their side of the table, and I can tell you plainly: adjusters are trained to look for gaps. A gap in time between the accident and your first medical visit. A gap between your complaint of pain and a doctor's written record of it. A gap between what you told the ER and what you said three months later. Every gap is an opportunity to reduce or deny your claim.
 
-The Insurance Information Institute notes that disputed liability and inadequate documentation are among the leading reasons personal injury claims settle for less than their potential value. That's not a scare tactic. It's just how the system works.
+The Insurance Information Institute notes that disputed liability and inadequate documentation are among the leading reasons [personal injury claim](/what-is-a-personal-injury-claim/)s settle for less than their potential value. That's not a scare tactic. It's just how the system works.
 
 Good documentation does two things. It creates a contemporaneous record, meaning evidence made close in time to the event, which courts and adjusters treat as more credible than memories formed months later. And it tells a story. A coherent, consistent, well-documented story is much harder to dismiss than a claimant saying "I was hurt and I hurt now."
 

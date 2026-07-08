@@ -23,6 +23,7 @@ faqs:
     a: "Most personal injury firms advertise free consultations and no upfront costs, and that's generally accurate for the attorney fee itself. Case costs (experts, filing fees, records retrieval) are usually advanced by the firm and recouped from settlement. A small number of firms do charge for costs as they arise, so confirm this before hiring anyone."
   - q: "How long does it take to get paid after a settlement?"
     a: "Once a settlement is signed, the insurer typically has 30 days to issue payment, though this varies by state. After the check arrives at the firm, there's a brief period to process any medical liens or subrogation claims before your net proceeds are disbursed. Realistically, plan for 4-6 weeks from signed settlement to money in your account, sometimes faster, occasionally slower if liens are complicated."
+lastmod: 2026-07-07
 ---
 
 Most people come to this question a little embarrassed that they don't already know the answer. You've just been through something hard, maybe a car accident, a bad fall, a workplace injury, and now you're staring down a pile of medical bills and wondering if you can even afford to ask for help. Let me put that worry to rest right up front.
@@ -46,6 +47,11 @@ I've seen that exact scenario play out dozens of times. The self-represented cla
 ---
 
 ## What Actually Comes Out of Your Settlement
+
+| Scenario | Settlement | Attorney Fee (33%) | Case Costs | Net to Client |
+| --- | --- | --- | --- | --- |
+| Option A: Fees calculated first | $100,000 | $33,000 | $5,000 | $62,000 |
+| Option B: Costs deducted first | $100,000 | $31,350 | $5,000 | $63,650 |
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

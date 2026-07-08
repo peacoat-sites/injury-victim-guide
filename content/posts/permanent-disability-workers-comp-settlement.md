@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-
+lastmod: 2026-07-07
 ---
 If you've just been told your work injury is now "permanent disability," you're probably overwhelmed. A stack of paperwork you don't fully understand. A settlement number that sounds big but somehow feels wrong. Maybe the insurance company has gone silent and you have no idea what that means. Here's what matters before anything else: a permanent disability workers' comp settlement is one of the biggest financial decisions you'll ever make. The difference between fair and terrible often comes down to whether you understood the process before you signed.
 
@@ -75,7 +75,7 @@ Your disability rating gets plugged into a formula. Most states factor in your p
 The insurer or their attorney presents a figure. Do not sign anything without fully understanding what you're releasing.
 
 **Step 5: Negotiate or Dispute**
-This is where having a workers' comp attorney matters most. The American Bar Association's guidance is clear: unrepresented claimants in complex disability claims often get significantly less than those with representation. Most workers' comp attorneys work on contingency, they take a percentage of your settlement rather than charging upfront.
+This is where having a [workers' comp attorney](/workers-compensation-claim-process/) matters most. The American Bar Association's guidance is clear: unrepresented claimants in complex disability claims often get significantly less than those with representation. Most workers' comp attorneys work on contingency, they take a percentage of your settlement rather than charging upfront.
 
 **Step 6: Get Court or State Agency Approval**
 In most states, permanent disability settlements need approval from a workers' comp judge or state agency. This is a protection for you, not a formality.
