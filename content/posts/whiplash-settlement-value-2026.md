@@ -1,5 +1,5 @@
 ---
-title: "Whiplash Settlement Value"
+title: "How Much Is Your Whiplash Claim Worth?"
 date: 2026-05-20T18:28:47.979640+00:00
 draft: false
 description: "Discover what whiplash settlements are worth in 2026. Learn key factors affecting compensation amounts, average payouts, and how to maximize your claim value."
@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You rear-ended at a stoplight. The other driver apologizes, you feel fine, and you wave it off. Three days later you can't turn your head without a stabbing pain shooting down your neck and into your shoulder. Sound familiar? Here's the uncomfortable truth: whiplash is the most commonly disputed soft-tissue injury in personal injury claims, and insurance adjusters are trained, from day one, to minimize it. I know because I was one of them for 12 years. What your claim is actually worth in 2026 depends on a surprising number of factors that have nothing to do with how much pain you're in.
 

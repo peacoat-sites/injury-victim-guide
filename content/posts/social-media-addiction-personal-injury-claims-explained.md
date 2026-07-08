@@ -1,5 +1,5 @@
 ---
-title: "Social Media Addiction Personal Injury Claims Explained"
+title: "How Social Media Addiction Can Lead to Personal Injury Claims"
 date: 2026-06-22T16:01:22.072169+00:00
 draft: false
 description: "Discover how social media addiction can lead to personal injury claims. Learn your legal rights, who may be liable, and how to seek compensation for harm caused"
@@ -12,7 +12,7 @@ author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 slug: "social-media-addiction-personal-injury-claims-explained"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Something shifted on March 25, 2026, and most coverage is treating it like a footnote. A Los Angeles jury didn't just hand down a verdict. It rewrote the legal map for an entire industry. The jury in *K.G.M. v. Meta & YouTube* awarded $6 million against two of the most powerful tech companies on earth, finding them liable for a teenager's addiction and mental health injuries. First-ever verdict of its kind. Then, on June 15, 2026, the first federal bellwether trial in MDL-3047 opened in Oakland. If you have a child who's been harmed by social media platforms, or you're simply trying to understand what's actually happening in this litigation, the next few months matter more than anything that's come before.
 
