@@ -3,6 +3,9 @@ title: "Personal Injury Statute of Limitations by State (2026)"
 date: 2026-01-01
 draft: false
 description: "How long you have to file a personal injury lawsuit in every U.S. state. Deadlines range from 1 to 6 years, and missing yours usually ends the case before it starts."
+author: "Denise Wallace"
+author_slug: "denise-wallace"
+author_title: "Former Workers' Comp Claims Adjuster"
 ---
 
 The single most important deadline after an injury is one most people have never heard of: the statute of limitations. It's the legal time limit to file a lawsuit, and it is unforgiving. Miss it, even by a day, and the court will almost certainly throw out your case no matter how strong it was. This is why the clock matters more than almost anything else in the early days after an accident.
