@@ -2,45 +2,50 @@
   {
     "label": "Comparative Negligence",
     "url": "/comparative-negligence-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "comparative",
       "negligence"
-    ]
+    ],
+    "desc": "See how shared fault could reduce an injury settlement in your state."
   },
   {
     "label": "Do Have Case",
     "url": "/do-i-have-a-personal-injury-case/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "case"
-    ]
+    ],
+    "desc": "Answer a few questions to see if you may have a valid claim."
   },
   {
     "label": "Statute Limitations",
     "url": "/personal-injury-statute-of-limitations-by-state/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "statute",
       "limitations",
       "state"
-    ]
+    ],
+    "desc": "Check the deadline to file an injury claim in your state."
   },
   {
     "label": "Post Accident",
     "url": "/post-accident-checklist/",
-    "icon": "\u2705",
+    "icon": "✅",
     "match": [
       "post",
       "accident"
-    ]
+    ],
+    "desc": "Follow the steps to protect your health and your claim after a crash."
   },
   {
     "label": "Settlement Calc",
     "url": "/personal-injury-settlement-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "settlement"
-    ]
+    ],
+    "desc": "Get a ballpark range for what your injury claim might be worth."
   }
 ]
