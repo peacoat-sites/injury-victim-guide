@@ -5,7 +5,8 @@ date: 2026-06-10
 slug: "comparative-negligence-calculator"
 description: "Use our free comparative negligence calculator to estimate how much you could recover after a personal injury — based on your state's fault rules."
 categories: ["Legal Rights"]
-author: "Marcus Webb"
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
 faqs:
   - q: "What is comparative negligence?"
     a: "Comparative negligence is a legal doctrine that reduces your injury compensation by the percentage you were at fault for the accident. Most states use some form of comparative negligence, though a few still use the harsher contributory negligence rule."
