@@ -3,7 +3,8 @@ title: "Personal Injury Settlement Calculator — Estimate Your Case Value"
 hide_title: true
 slug: "personal-injury-settlement-calculator"
 date: 2026-06-10
-author: "Marcus Webb"
+author: "Rachel Thompson"
+author_slug: "rachel-thompson"
 description: "Use our free personal injury settlement range estimator to get a rough idea of what your case might be worth. Understand economic damages, pain and suffering multipliers, and how comparative negligence affects your recovery."
 categories: ["Settlement Value"]
 image: ""

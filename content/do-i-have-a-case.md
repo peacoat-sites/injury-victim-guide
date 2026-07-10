@@ -4,7 +4,8 @@ date: 2026-06-10
 slug: "do-i-have-a-personal-injury-case"
 description: "Answer five questions to find out whether your situation shows strong, moderate, or weak indicators for a personal injury claim — and what to do next."
 categories: ["After an Accident"]
-author: "Marcus Webb"
+author: "Maya Rivera"
+author_slug: "maya-rivera"
 faqs:
   - q: "What are the basic elements of a personal injury case?"
     a: "To win a personal injury claim, you generally need to prove four elements: (1) the defendant owed you a duty of care, (2) they breached that duty through negligence, (3) that breach caused your injury, and (4) you suffered actual damages. All four elements must be present."
