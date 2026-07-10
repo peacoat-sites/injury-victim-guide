@@ -1,0 +1,21 @@
+{
+  "question": "After an accident, what would you do first?",
+  "options": [
+    {
+      "label": "Research my options online",
+      "votes": 364
+    },
+    {
+      "label": "Call my insurance",
+      "votes": 292
+    },
+    {
+      "label": "Talk to a lawyer",
+      "votes": 176
+    },
+    {
+      "label": "Honestly not sure",
+      "votes": 121
+    }
+  ]
+}
