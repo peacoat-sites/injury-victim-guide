@@ -153,23 +153,11 @@ Knowing these tactics doesn't mean every adjuster is malicious. It means the sys
 
 Getting hit by a drunk driver is a specific kind of injustice. The other person made a choice, a conscious one, and you're dealing with surgery, missed work, and a car you can't drive. The civil justice system exists exactly for this situation. It won't undo what happened, but it can shift the financial consequences back toward the person who created them. Document carefully, talk to a lawyer before talking to their insurance company, and don't settle until you understand what your claim is actually worth.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
-*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

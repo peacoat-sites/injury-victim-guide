@@ -125,14 +125,6 @@ If the case goes to trial, the outcome is decided by a judge or jury and can be 
 
 Living with a TBI while fighting an insurance claim is genuinely one of the hardest situations a person can face. The injury itself affects your ability to manage stress, organize information, and advocate for yourself, which is exactly when you most need to. Getting educated about how these cases work, building your evidence carefully, and working with professionals who understand the full picture of TBI are the most concrete steps you can take to protect yourself. You deserve a settlement that reflects your actual losses, not just the number the other side hopes you'll accept.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CDC, Traumatic Brain Injury and Concussion](https://www.cdc.gov/traumaticbraininjury/), Authoritative health info on TBI symptoms, recovery, and long-term effects
@@ -146,10 +138,3 @@ Living with a TBI while fighting an insurance claim is genuinely one of the hard
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

@@ -112,23 +112,11 @@ I've watched people do everything right at the accident scene and then quietly u
 
 The window for good documentation closes faster than most people expect. Records get lost. Memories fade. Surveillance footage gets overwritten. Physical evidence disappears. You don't have to turn into a legal expert overnight, but you do have to act deliberately and consistently from the moment the accident happens. The steps here aren't complicated. They just require showing up, writing things down, keeping receipts, and taking the whole thing seriously before anyone else decides for you that it isn't. That shift in mindset, from "I'm sure it'll be fine" to "I'm going to document this properly," is genuinely the most protective thing you can do for yourself.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

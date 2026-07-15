@@ -127,23 +127,11 @@ One comparison worth keeping in mind: claims with legal representation settle fo
 
 Your back is not a minor inconvenience to manage around. It's the structural foundation of everything you do physically, and an injury to it can ripple through your work, your relationships, and your daily life for years. The insurance process isn't designed to be fair automatically; it's designed to resolve claims efficiently. Those two goals are very different things. Understanding how your claim is valued, what the insurer's incentives are, and what steps protect your interests gives you a real chance at an outcome that actually reflects what you've been through. Talk to a qualified personal injury attorney in your state before making any decisions you can't undo.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

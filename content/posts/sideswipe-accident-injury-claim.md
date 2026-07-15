@@ -126,23 +126,11 @@ Most personal injury attorneys work on contingency, meaning they take a percenta
 
 The weeks after a sideswipe accident feel like a fog of paperwork, phone calls, aching muscles, and unanswered questions. You're dealing with a disrupted life on top of an unfamiliar process. What I hope you take from this is simple: your choices in the early days matter more than most people realize. Document carefully, get medical attention promptly, and understand your rights before you talk to anyone's insurance company. You don't have to figure this out alone. Reaching out to a professional to at least understand your options is almost always worth the hour it takes.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
-*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

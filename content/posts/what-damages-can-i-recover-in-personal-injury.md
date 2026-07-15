@@ -122,24 +122,6 @@ An injury claim workbook or documentation journal can help you organize all of t
 
 Getting hurt because of someone else's negligence is genuinely disorienting. The medical system, the insurance system, and the legal system all demand your attention at once, usually while you're in pain and stressed. The most useful thing you can do right now is start documenting everything, learn what categories of harm the law recognizes, and talk to a personal injury attorney in your state before you sign anything the insurance company puts in front of you. You don't have to do this blind, and you shouldn't have to accept less than what you're actually owed.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
-*Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
-
----
-
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
----
-
-## Recommended Resources
-
 ## Sources
 
 - [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)

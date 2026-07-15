@@ -118,24 +118,11 @@ For more context on what your claim might realistically be worth given your spec
 
 The car accident injury claim process can feel overwhelming when you're also trying to heal, get back to work, and manage the emotional aftermath of a crash. But the process has a logic to it, and understanding that logic is genuinely protective. Take the time to document carefully, don't rush to accept early offers, and consult an attorney if your injuries are serious. The insurance company has professionals working this file every day. You deserve to walk into those negotiations just as prepared.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-
-
-*Photo: [Mike Bird](https://www.pexels.com/@mikebirdy) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

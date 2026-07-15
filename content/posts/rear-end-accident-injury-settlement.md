@@ -126,23 +126,11 @@ One factor that complicates timing: medical liens. If your health insurance paid
 
 The driver who rear-ended you set off a chain of consequences they probably didn't intend. But intent doesn't pay your medical bills or compensate you for the months you spent in physical therapy. The settlement process exists to make you whole, at least financially, and understanding how it works is the only way to make sure it does. Take your time, document everything, and don't let urgency, yours or theirs, push you into a decision before you're ready to make it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
-*Photo: [Jorge Romero](https://www.pexels.com/@jorgeromeroortiz) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

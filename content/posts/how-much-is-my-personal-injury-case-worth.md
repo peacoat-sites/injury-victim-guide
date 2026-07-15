@@ -124,23 +124,11 @@ A few common mistakes genuinely hurt claims.
 
 You deserve to make decisions about your case with clear eyes, not under pressure from an adjuster working against your interests. The numbers aren't magic. They're built from documentation, evidence, medical facts, and an honest accounting of how your life was changed. Get the right information, treat yourself properly, protect your claim with good habits, and talk to a qualified personal injury attorney before you accept anything. The first consultation won't cost you a thing, and what you learn could be worth far more than you realize.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-
-*Photo: [SHOX ART](https://www.pexels.com/@shox) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -119,16 +119,6 @@ Get a consultation before accepting any settlement involving pain and suffering.
 
 Nobody expects to be sitting at a kitchen table six months after a car accident, still hurting, still anxious, still unable to do the things that made their life feel like theirs. But it happens constantly, and the law recognizes it. Pain and suffering compensation exists precisely because some losses can't be itemized on a bill. You don't have to prove you're tough. You just have to prove the accident hurt you, and that the hurt was real. Start documenting today, protect yourself from the common mistakes, and before you sign anything, talk to someone who's done this before.
 
-## Helpful Resources
-
-> *As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
-*Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
@@ -141,8 +131,6 @@ Nobody expects to be sitting at a kitchen table six months after a car accident,
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -157,4 +145,3 @@ Nobody expects to be sitting at a kitchen table six months after a car accident,
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

@@ -135,15 +135,6 @@ Run your own situation against this table. Where are you strong? Where are the g
 
 Every injury claim is different, and the factors above don't all carry equal weight in every situation. What matters is understanding which levers exist so you can take deliberate steps to strengthen your position. If you're trying to get a baseline sense of where your case might fall, reviewing [average personal injury settlement amounts](/average-personal-injury-settlement-amounts/) can give you useful context, and speaking with a personal injury attorney for a free consultation will give you the specific picture your situation deserves. Knowledge is the first line of defense against a lowball offer.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
@@ -156,10 +147,3 @@ Every injury claim is different, and the factors above don't all carry equal wei
 - [III, How Auto Insurance Claims Work](https://www.iii.org/article/how-auto-insurance-claims-work), Industry nonprofit explains claims evaluation factors
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

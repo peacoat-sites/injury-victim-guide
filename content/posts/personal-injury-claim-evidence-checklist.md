@@ -109,20 +109,6 @@ I'd push back on the common advice that you should always hire an attorney for a
 
 The honest truth about evidence is that it's most valuable when it's collected reflexively, before you even know whether you'll need it. By the time you're deciding whether to file a claim, the window on some of your best evidence has already closed or is closing fast. Treat documentation like seatbelts: you do it before anything goes wrong, not after.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
-*Photo: [Božo Gunjajević](https://www.pexels.com/@diverzant) via Pexels*
-
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)

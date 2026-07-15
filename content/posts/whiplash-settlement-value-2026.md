@@ -108,14 +108,6 @@ Most personal injury attorneys work on contingency, meaning no fee unless you wi
 
 Every whiplash claim is different. The variables are real, and the stakes are higher than people realize when they're standing in a parking lot exchanging insurance cards. What you do in the days and weeks right after the accident shapes the entire trajectory of your claim. Document obsessively, get consistent medical care, and don't sign anything or accept any payment before you genuinely understand what your injury is worth. Your health and your financial recovery both depend on getting this right from the start.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Insurance Information Institute, Understanding Auto Insurance](https://www.iii.org/article/understanding-auto-insurance), Supports insurance industry claims management practices
@@ -126,10 +118,3 @@ Every whiplash claim is different. The variables are real, and the stakes are hi
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

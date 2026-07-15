@@ -99,18 +99,6 @@ A consultation with a personal injury attorney (many of whom offer free initial 
 
 The parking lot where you fell doesn't look like a courtroom, but in a very real sense, it became one the moment you hit the ground. The property owner's insurer is already building a file. The maintenance company is checking its logs. You deserve to understand what's actually happening and to have someone genuinely in your corner while you figure out your next steps. Get checked out medically, document everything you can, and talk to an attorney before you say anything more to any insurance company. That's not legal advice. That's just what I'd tell a friend.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)

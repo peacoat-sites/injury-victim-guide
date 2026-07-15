@@ -83,27 +83,8 @@ Whether you agree with these reforms or not, they are the rules your case will p
 - [Georgia's Latest Efforts at Tort Reform: SB 68 & SB 69 ,  Zelle LLP](https://www.zellelaw.com/Georgias_Latest_Efforts_at_Tort_Reform_SB_68_and_SB_69_Reshape_the_Liability_Landscape_for_Insurers_and_Policyholders_Alike) (2025/2026)
 - [Impact of Georgia Tort Reform on Personal Injury Litigation ,  Bader Law / FinanzWire](https://www.finanzwire.com/press-release/bader-law-personal-injury-lawyers-analyzes-impact-of-georgia-tort-reform-on-personal-injury-litigation-0HSvTaLcahY) (June 2026)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-
-
-*Photo: [dp singh Bhullar](https://www.pexels.com/@dpsinghbhullar) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
-

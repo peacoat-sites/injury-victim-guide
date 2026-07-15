@@ -97,14 +97,6 @@ If you're in the middle of this right now, here's what you should be doing in ro
 
 Your broken bone claim is only as strong as the evidence supporting it. The adjuster on the other end of that phone call has handled thousands of these claims. You've likely handled one. Close that information gap, document everything starting today, consult an attorney before accepting any offer, and don't let the urgency of unpaid bills push you into a decision you'll regret for years.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [NAIC, Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm), explains liability coverage and claims process basics
@@ -118,10 +110,3 @@ Your broken bone claim is only as strong as the evidence supporting it. The adju
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

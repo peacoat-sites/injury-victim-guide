@@ -135,23 +135,11 @@ People who've never been through a personal injury claim don't know what they do
 
 The decision between settling and pursuing a lawsuit isn't about which path is inherently better. It's about which path serves your specific situation at this specific moment. Your injuries, your financial pressures, your evidence, and the conduct of the other side all matter. What I know after two decades in and around this process is that the people who fare best are the ones who slow down, get fully informed, and consult a qualified attorney before making any permanent decisions. A signature on a release takes two seconds. Living with the consequences takes much longer.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
-*Photo: [SHOX ART](https://www.pexels.com/@shox) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -115,24 +115,11 @@ Rather than a vague list, let me tell you what I've actually watched affect numb
 
 The honest truth is that medical malpractice settlement amounts are less about justice and more about leverage, documentation, jurisdiction, and the willingness of both sides to bear uncertainty. That sounds cold, but understanding it actually helps victims position their cases better. You can't change the law in your state, but you can make sure your damages are thoroughly documented, you're not communicating desperation to the other side, and the attorney you hire has actually tried malpractice cases in your jurisdiction before. Those three things, more than anything else, are what I'd focus on.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
-
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -147,4 +134,3 @@ The honest truth is that medical malpractice settlement amounts are less about j
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

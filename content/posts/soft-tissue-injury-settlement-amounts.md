@@ -99,23 +99,11 @@ The decision to litigate is never easy. It takes time, often 18 months to severa
 
 The honest truth about soft tissue injury settlements is that there's no universal answer to "what's mine worth." Every claim lives or dies on its specific facts, its documentation, and how well that story gets told. The people who fare best are the ones who take their injury seriously from day one, keep meticulous records, and don't let an early lowball offer make the decision for them. If you're in the middle of this right now, getting a free consultation with a personal injury attorney isn't committing to anything. It's just making sure you understand the full picture before you decide.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

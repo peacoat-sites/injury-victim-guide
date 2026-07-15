@@ -116,22 +116,11 @@ The case law gets fuzzy on some edges, but the core rule is locked in: talk to a
 
 Slip and fall cases are genuinely hard to prove well. But they're winnable when you understand what's being judged. The owner's knowledge of the hazard. Their response. Your own actions. Your evidence quality. Each piece counts, and the sooner you build the record, the stronger you stand. If you're in this right now, do this today: see a doctor, document everything, and get a free consultation with a personal injury attorney before you talk to the insurer.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

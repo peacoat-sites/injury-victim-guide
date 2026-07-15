@@ -132,23 +132,11 @@ That said, no attorney can guarantee an outcome. Anyone who tells you exactly wh
 
 Getting hurt because of someone else's carelessness is already hard enough. The settlement process doesn't have to be a black box. Understanding these fundamentals won't make you an expert overnight, but it will help you ask better questions, recognize a lowball offer, and know when you genuinely need professional help. Take the time to document everything, don't rush to settle, and if your injuries are significant, talk to a qualified personal injury attorney before you sign anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-
-*Photo: [Graziele Rosa](https://www.pexels.com/@grazielerosa) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

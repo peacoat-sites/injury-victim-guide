@@ -128,14 +128,6 @@ The claims that seem simple often aren't. And the claims that seem hopeless some
 
 The rideshare industry moved faster than insurance law was ready for, and injured people often pay that price in the form of confusing claims, delayed settlements, and undervalued injuries. You're not being paranoid if you feel like the process is stacked against you. It kind of is. But understanding how the coverage layers work, documenting everything from minute one, and getting professional guidance before you sign anything puts you in a far stronger position than most people. You have more rights than the first phone call from an adjuster will suggest.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Insurance Information Institute, Rideshare Insurance](https://www.iii.org/article/ridesharing), explains rideshare insurance layers and coverage phases
@@ -148,10 +140,3 @@ The rideshare industry moved faster than insurance law was ready for, and injure
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

@@ -97,21 +97,11 @@ Keep every piece of correspondence from the insurance company. Date every phone 
 
 You've been through something serious, and the settlement process can feel designed to wear you down until you accept whatever's on the table. Sometimes it is. But you have more tools and more time than the insurance company wants you to believe. Understand your state's rules, get your documentation in order, and talk to an attorney before signing anything that closes your case permanently. That signature is the last move you'll ever get to make on this claim. Make it count.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

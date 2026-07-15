@@ -106,18 +106,6 @@ Speaking of deadlines: every state has a **statute of limitations** for personal
 
 What you do in the hours and days after a wet floor fall quietly shapes everything that follows. You don't have to be a legal expert, and you don't have to figure this out alone. But you do have to act: document, seek medical care, report, and, if your injuries are serious, talk to someone who can help you understand your full picture. You deserve to make informed decisions about your own recovery, and now you have a better foundation to do exactly that.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)

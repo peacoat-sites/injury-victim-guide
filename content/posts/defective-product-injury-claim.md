@@ -116,14 +116,6 @@ Don't assume you have more time than you do. I've seen people spend 18 months ne
 
 The situation after a defective product hurts you is genuinely unfair. You bought something, used it the way intended, and now you're dealing with medical bills, lost work, and pain that shouldn't exist. What I hope you take from this is that you have real legal tools, but they're time-sensitive and evidence-dependent in ways that catch people off guard. Move fast on documentation. Be careful what you say to the manufacturer's team before talking with your own attorney. Don't let anyone pressure you into a quick settlement before you know what your injuries will actually cost.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [FTC, Consumer Rights and Protections](https://consumer.ftc.gov/), Federal guidance on consumer rights and dealing with companies
@@ -136,10 +128,3 @@ The situation after a defective product hurts you is genuinely unfair. You bough
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

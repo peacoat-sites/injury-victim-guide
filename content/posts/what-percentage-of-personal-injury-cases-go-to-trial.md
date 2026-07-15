@@ -120,23 +120,11 @@ One practical tool I recommend to anyone in active litigation: keep an organized
 
 The 5% statistic isn't discouraging. It's clarifying. Your case will most likely resolve without a courtroom, but how it resolves, and for how much, depends heavily on preparation, documentation, and having an attorney who can credibly threaten to go the distance. Insurance companies aren't afraid of plaintiffs who file suit. They're afraid of plaintiffs who mean it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-
-*Photo: [khezez | خزاز](https://www.pexels.com/@khezez) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

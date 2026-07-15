@@ -104,21 +104,11 @@ I spent 12 years on the other side of this. I know how claims get minimized, del
 
 The core thing to take away is this: a workplace slip and fall can generate multiple, overlapping claims under different legal theories, and the decisions you make in the first few days disproportionately affect every one of them. Document aggressively, get medical attention immediately, report the incident in writing, and talk to an attorney before you give anyone a recorded statement. Your employer's insurer has professionals working this file on day one. You deserve an equally clear-eyed approach.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

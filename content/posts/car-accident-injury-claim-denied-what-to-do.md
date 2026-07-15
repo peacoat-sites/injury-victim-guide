@@ -112,23 +112,11 @@ Neither path is automatically right. The more serious your injuries and the more
 
 A denied claim feels like a closed door, and I understand why people accept it and move on. But working on both sides of this process taught me that the insurance industry is built on the assumption that most people will. If your claim was wrongly denied, you have real options: appeals, regulatory complaints, legal consultation, and ultimately litigation. Start with the denial letter, document everything, and don't accept a decision as final until you've actually understood it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

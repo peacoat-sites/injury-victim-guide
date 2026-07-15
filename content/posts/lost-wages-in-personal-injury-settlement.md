@@ -145,23 +145,11 @@ These errors happen constantly, and they're all avoidable.
 
 Lost wages aren't just numbers on a spreadsheet. They're your rent, your groceries, your kid's soccer league, and the financial stability you built before someone else's negligence upended your life. The insurance company on the other side of your claim has professionals whose job is to minimize what they pay you. Your job is to make sure every dollar of your loss is documented, presented clearly, and fought for. You don't have to become an expert overnight. But you do have to understand enough to protect yourself. Start with your paperwork, talk to a qualified attorney, and don't let a fast, cheap settlement close the door on what you're actually owed.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
-*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

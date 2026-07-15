@@ -81,14 +81,6 @@ Staffing data functions almost like a weather report for what happened. If a fac
 
 If there's one thing I'd want families to take away, it's this: the discomfort you feel about "making this into a legal thing" is something insurance carriers are counting on. You placed someone you love in a facility and paid, often thousands of dollars a month, for professional care. When that care fails, holding someone accountable isn't greedy or litigious. It's the mechanism that keeps facilities honest. The claims that get filed are the reason any standards exist at all.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [National Institute on Aging, Elder Abuse](https://www.nia.nih.gov/health/elder-abuse), Defines types of elder abuse including neglect
@@ -101,10 +93,3 @@ If there's one thing I'd want families to take away, it's this: the discomfort y
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

@@ -131,23 +131,11 @@ You don't need to file a lawsuit immediately. But consulting with an attorney ea
 
 Your body delayed the signal. The insurance system moves fast. Those two forces pulling in opposite directions is exactly where good claims fall apart, and exactly where knowing what you're dealing with makes the difference. You don't need a perfect case or a dramatic injury to deserve fair treatment. You just need to take the right steps.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
-*Photo: [jordan besson](https://www.pexels.com/@jordan-besson-2051439001) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -118,24 +118,11 @@ If negotiations stall, filing a lawsuit doesn't necessarily mean going to trial.
 
 The woman in that opening scenario isn't hypothetical. I've met versions of her more times than I can count. People who were hurt badly, dealt with in good faith, and still ended up worse off because they didn't know what they were walking into. That's what this process can do to someone who isn't prepared. You don't need to be a legal expert to protect yourself. You need to know enough to slow down, preserve your options, and get informed counsel before you make any permanent decisions. The settlement process will still be there after you've done that. The evidence you didn't preserve won't be.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-
-
-*Photo: [Bijen Amatya](https://www.pexels.com/@bijenamatya) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

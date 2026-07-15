@@ -92,23 +92,11 @@ I'll be direct: I can't give you a number for what a case "typically" settles fo
 
 The process is hard. I won't pretend otherwise. But knowing what you're walking into, understanding where cases get won and lost, and getting moving on documentation and legal consultation early can make a real difference in whether you get anywhere at all. The system isn't built for patients, but that doesn't mean patients can't win.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-
-*Photo: [khezez | خزاز](https://www.pexels.com/@khezez) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

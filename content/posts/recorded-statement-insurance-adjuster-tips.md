@@ -103,14 +103,6 @@ What surprised me, looking back, is how rarely claimants pushed back on timing. 
 
 The call takes less than ten minutes. But your preparation for it, a few days of documenting and one free consultation and knowing your rights before you pick up, that's what actually protects you. The adjuster on the other end of that line knows this process cold. You should too.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [NAIC, Understanding the Claims Process](https://content.naic.org/consumer.htm), Consumer guidance on insurance claims and adjuster interactions
@@ -123,10 +115,3 @@ The call takes less than ten minutes. But your preparation for it, a few days of
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-*Disclosure: As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** ($16), Written by a personal injury attorney, explains the full claims process and how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** ($14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

@@ -83,14 +83,6 @@ One more thing. If a third party, not your employer, caused or contributed to yo
 
 If you're early in this process, slow down before you sign anything or give any recorded statements. If you're further in and things have gone sideways, know that a bad outcome at one stage doesn't lock you in forever. The appeals process exists for a reason. Use it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [OSHA, Injury and Illness Recordkeeping](https://www.osha.gov/recordkeeping), Employer reporting obligations and worker rights after injury
@@ -99,10 +91,3 @@ If you're early in this process, slow down before you sign anything or give any 
 *Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

@@ -128,22 +128,11 @@ This isn't an accusation. I spent 12 years on that side of the desk. It's simply
 
 The window to act after a car accident injury is real, finite, and indifferent to whether you were fairly warned about it. The good news: for most people reading this, the window is still open. A free consultation with a personal injury attorney costs nothing and gives you a clear picture of where you actually stand. That's not a soft suggestion. It's the single most practical step you can take today, and it belongs at the top of your list.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

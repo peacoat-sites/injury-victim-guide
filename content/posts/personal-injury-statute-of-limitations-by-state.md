@@ -127,23 +127,11 @@ Filing a lawsuit doesn't mean you're going to trial. The vast majority of person
 
 You don't need to file a lawsuit today. What you need is to know exactly how much time you have and what could shorten that window. Most people who lose their right to sue don't lose it because they chose not to act. They lose it because nobody told them the clock was running. The date of your injury, the identity of who caused it, and a single consultation with an attorney in your state are the three things that will tell you where you actually stand. That's a concrete, achievable first step, and it's worth taking before the folder goes back in the drawer.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

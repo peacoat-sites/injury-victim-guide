@@ -113,23 +113,11 @@ Statute of limitations is a hard deadline you can't miss. Most states give you t
 
 You didn't choose to be in this situation. But you do get to choose how you respond to it, and the choices you make in the next few weeks can have a real impact on what you're able to recover. Get your medical care, protect your documentation, be careful what you say to insurers, and talk to a qualified personal injury attorney before you make any decisions you can't undo. You deserve to understand your options fully, and you deserve to be treated fairly.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
-*Photo: [P G](https://www.pexels.com/@p-g-354416850) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

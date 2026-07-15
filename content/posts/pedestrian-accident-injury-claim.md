@@ -97,21 +97,11 @@ Medical records organization matters throughout this process. A medical records 
 
 Getting hit by a car is terrifying, and what comes next can feel just as overwhelming. But you have rights and options. Don't make decisions in shock or financial panic, and don't assume the other driver's insurer is helping you. Take time to understand your injuries, document everything, and talk to a personal injury attorney before signing anything. Most offer free consultations. That conversation could be the difference between a settlement that covers your losses and one that leaves you paying bills for years.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

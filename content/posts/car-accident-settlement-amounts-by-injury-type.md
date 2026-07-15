@@ -128,20 +128,6 @@ If you want a structured way to do this, a medical records and injury documentat
 
 Every car accident claim is as individual as the person dealing with it. The injury type gives you a starting framework, but the details of your treatment, your documentation, your state's laws, and the available insurance coverage are what actually shape the outcome. Don't let urgency or an adjuster's friendly pressure push you into a decision before you understand what you're signing away. You get one shot at this. Make it count.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
-*Photo: [Ann H](https://www.pexels.com/@ann-h-45017) via Pexels*
-
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Insurance Information Institute](https://www.iii.org/)

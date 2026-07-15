@@ -120,18 +120,6 @@ The **statute of limitations** is the deadline to file a lawsuit. It varies by s
 
 Nobody expects to need this information until the moment they do. If you're reading this because something just happened to you, take a breath. Focus first on your health, then on documentation, then on understanding your options before making any decisions. You don't have to figure this out alone, and you don't have to rush into anything. A personal injury attorney consultation costs you nothing in most cases and gives you real answers about your specific situation. That's the most useful next step I can point you toward.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
 ## Sources
 
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)

@@ -87,23 +87,11 @@ If you want a more structured system, there are [insurance claim workbooks and o
 
 The paperwork is annoying, the phone calls are exhausting, and the whole process can make you feel like you're being punished for someone else's mistake. That frustration is completely legitimate. But the people who slow down, document carefully, get medical care, and don't rush into a settlement are the ones who actually come out whole. That's the part worth protecting.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-
-*Photo: [Mike Bird](https://www.pexels.com/@mikebirdy) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

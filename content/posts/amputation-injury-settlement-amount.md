@@ -109,24 +109,11 @@ Contingency fees in personal injury cases typically run 33% before suit is filed
 
 Here's what I want you to take away from all of this: amputation claims aren't straightforward even though they look like they should be. The injury is visible. The impact is undeniable. The damages are real. But the gap between what you deserve and what you actually collect depends almost entirely on how thoroughly your case gets built, and how early you start building it. Get an experienced attorney involved before you talk to the insurance company. Not after.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-
-
-*Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

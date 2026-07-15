@@ -133,21 +133,11 @@ If you're unsure whether your situation qualifies, this resource on [whether you
 
 The days after a car accident injury are overwhelming, and it's easy to make decisions that feel right in the moment but create real problems down the road. Taking the scene seriously, getting proper medical care, keeping detailed records, and understanding how insurance companies operate puts you in a fundamentally different position than someone who just wings it. You don't have to be an expert. You just have to know enough not to be taken advantage of, and now you do.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

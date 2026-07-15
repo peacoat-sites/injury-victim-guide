@@ -130,14 +130,6 @@ Most work on contingency, meaning they only get paid if you win. A 30-minute con
 
 Pain and suffering damages exist because the law recognizes that an injury isn't just a stack of medical bills. It's months of not sleeping through the night. It's declining invitations because you can't stand for more than 20 minutes. It's flinching when you hear brakes squeal behind you. Those things have value. Understanding how that value gets calculated, and what you can do to protect it, puts you in a much stronger position than accepting the first number someone reads off a screen. If you're still early in the process and wondering whether you have a case worth pursuing, starting with [how personal injury settlements work](/how-personal-injury-settlements-work/) can give you a clearer picture of the road ahead.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Cornell Law School, Damages overview](https://www.law.cornell.edu/wex/damages), defines economic vs non-economic damages in legal context
@@ -150,10 +142,3 @@ Pain and suffering damages exist because the law recognizes that an injury isn't
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

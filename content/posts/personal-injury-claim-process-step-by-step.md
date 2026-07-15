@@ -103,23 +103,11 @@ Throughout all of this, one deadline governs everything: the **statute of limita
 
 The personal injury claim process rewards the people who are organized, patient, and informed. It punishes people who act out of fear or urgency and accept the first offer just to make it disappear. You don't have to be a legal expert to protect yourself. You just need to know enough to ask the right questions, document everything, and get qualified help before making decisions you can't undo.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-
-*Photo: [SHOX ART](https://www.pexels.com/@shox) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

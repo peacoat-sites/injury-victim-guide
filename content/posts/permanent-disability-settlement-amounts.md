@@ -118,18 +118,6 @@ If you've been told your injury is permanent or likely permanent, there are conc
 
 Permanent disability changes your life in ways that ripple out for decades. The settlement process can feel overwhelmingly technical at a time when you're already dealing with pain, fear, and uncertainty. But the decisions you make in these months matter enormously. Get to MMI. Document obsessively. Understand the difference between what you've already lost and what you stand to lose over a lifetime. And please, talk to an attorney before you sign anything. You only get one shot at this.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)

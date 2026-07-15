@@ -93,23 +93,11 @@ This is genuinely one area where having an attorney on your side changes outcome
 
 Grief and legal claims make a brutal combination. You shouldn't have to learn civil litigation while also learning to live without someone you loved. What you should know is that these claims exist for a reason, that your family's losses are real and potentially compensable, and that the time to understand your options is before that statute of limitations runs out. Take it one step at a time. Start with information. Then find the right help.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-
-*Photo: [Arina Krasnikova](https://www.pexels.com/@arina-krasnikova) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

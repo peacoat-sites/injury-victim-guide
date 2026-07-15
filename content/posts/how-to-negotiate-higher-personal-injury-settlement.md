@@ -126,20 +126,6 @@ I've watched otherwise strong claims get gutted by avoidable mistakes. Here are 
 
 The negotiation process feels unequal because it is, at least at the start. The adjuster does this every day. You're doing it once, while you're hurt and stressed. But information levels the playing field. Know your damages down to the dollar. Document everything. Don't rush. And don't be afraid to bring in a professional when the complexity demands it. You have more leverage than that first offer suggests.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
-## Recommended Resources
-
 ## Sources
 
 - [acknowledges that settlement negotiations are expected in personal injury claims](https://www.iii.org/)

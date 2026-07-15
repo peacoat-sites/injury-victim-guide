@@ -94,8 +94,6 @@ A good attorney also knows how to handle the lien issues that most people don't 
 
 The honest truth about slip and fall settlements is that the number isn't predetermined. It's the result of what gets documented, what gets argued, and how well the full picture of your losses gets communicated to the people writing the check. You deserved a safe place to walk. When someone's negligence took that from you, you deserve a settlement that reflects the real cost. Don't let a rushed process or an early low offer make that decision for you. Take the time to understand your situation fully, get a professional opinion before you sign anything, and know that you have more leverage than the first phone call from a claims adjuster will ever suggest.
 
-## Recommended Resources
-
 ## Sources
 
 - [Insurance Information Institute](https://www.iii.org/)

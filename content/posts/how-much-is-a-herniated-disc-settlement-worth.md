@@ -121,23 +121,11 @@ It complicates it, but doesn't kill it. The key is medical documentation showing
 
 Here's the most important thing I can tell you: don't make permanent financial decisions while you're still in treatment and don't yet know what recovery looks like. The pressure to settle fast is real and it's deliberate. Getting a free consultation with a personal injury attorney costs nothing, and for a case involving a herniated disc, it's almost always worth an hour.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-
-*Photo: [Viktors Duks](https://www.pexels.com/@duksi) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

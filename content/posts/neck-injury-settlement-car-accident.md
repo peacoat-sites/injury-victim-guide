@@ -131,23 +131,11 @@ Most personal injury attorneys offer free initial consultations. The information
 
 Nobody plans for a car accident. And nobody expects to spend months dealing with neck pain, medical appointments, and insurance negotiations when they were just trying to get somewhere. But the decisions you make in the hours and days after a crash, whether you see a doctor, what you say to the adjuster, whether you sign anything early, can shape the outcome of your claim in ways that are hard to undo. Take it seriously from the beginning. Document everything. Know when to ask for help. Don't let urgency or pressure push you into a settlement that leaves you short. You deserve to be made whole.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-
-*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

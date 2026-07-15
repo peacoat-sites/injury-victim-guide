@@ -124,23 +124,11 @@ Most personal injury attorneys offer free consultations and can at least tell yo
 
 The statute of limitations feels like a procedural technicality until it's the thing standing between you and any recovery at all. I've watched it happen to people with serious injuries, legitimate claims, and every reason to win. Don't let the calendar make the decision for you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-
-*Photo: [Alexander Pinzón](https://www.pexels.com/@pinzonphoto) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

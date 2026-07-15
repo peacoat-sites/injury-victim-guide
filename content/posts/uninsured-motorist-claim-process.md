@@ -116,14 +116,6 @@ I've seen good claims go sideways because of entirely avoidable errors.
 
 Being hit by an uninsured driver feels like a double injustice. You did everything right, paid your premiums, followed the rules, and someone else's carelessness left you injured and chasing money from your own insurance company. That's genuinely unfair. But understanding the process, moving quickly, documenting everything carefully, and getting professional guidance when the stakes are high will turn an unfair situation into one you can actually recover from. Don't let the complexity of this process talk you out of pursuing what you're legitimately owed.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)**
-- **[Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
@@ -136,10 +128,3 @@ Being hit by an uninsured driver feels like a double injustice. You did everythi
 - [NAIC, Uninsured Motorists Coverage](https://content.naic.org/cipr-topics/uninsured-motorists), Explains UM/UIM coverage and state requirements
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.

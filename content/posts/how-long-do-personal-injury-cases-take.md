@@ -126,23 +126,11 @@ An experienced personal injury attorney can give you a realistic read on what yo
 
 There's no shortcut to making a personal injury case resolve faster than the facts allow. But you're not powerless. Staying organized, treating consistently, understanding your deadlines, and working with someone who knows how the system operates all put you in a stronger position. If you're feeling uncertain about where your case stands or whether you're missing something important, a consultation with a personal injury attorney, most offer them free, is rarely a wasted afternoon.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)**
-- **[Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-
-*Photo: [KATRIN BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -94,14 +94,6 @@ Structured settlements are also worth understanding. In high-value TBI cases, es
 
 The honest thing I can tell you after everything I've learned on both sides of these claims: your case is specific to you in ways that no article can fully account for. What I hope you take from this is a clearer framework for asking the right questions, a healthier skepticism of easy answers, and the understanding that the insurance company on the other side has professionals working their angle. You deserve the same.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)**
-- **[Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)**
-- **[How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CDC, Traumatic Brain Injury Overview](https://www.cdc.gov/traumatic-brain-injury/), supports TBI severity classifications and long-term outcomes
@@ -115,10 +107,3 @@ The honest thing I can tell you after everything I've learned on both sides of t
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
