@@ -2,7 +2,9 @@
 title: "State Non-Economic Damage Caps — All 50 States"
 slug: "state-damage-caps"
 date: 2026-06-10
-author: "Marcus Webb"
+author: "Jennifer Harris"
+author_slug: "jennifer-harris"
+author_title: "Former Claims Adjuster & Legal Researcher"
 description: "A searchable, state-by-state reference table of non-economic damage caps in personal injury and medical malpractice cases. Understand your state's limits before settling."
 categories: ["Legal Rights"]
 faqs:

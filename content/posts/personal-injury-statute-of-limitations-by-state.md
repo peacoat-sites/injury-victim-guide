@@ -2,7 +2,7 @@
 title: "How Long You Have To Sue: State-By-State Injury Deadlines"
 date: 2026-05-18T21:44:14.339773+00:00
 draft: false
-description: "Find out the personal injury statute of limitations in your state. Learn how long you have to file a claim and why missing the deadline can cost you your case."
+description: "The personal injury filing deadline and comparative fault rule for all 50 states plus DC in one searchable table, with the recent Florida and Louisiana changes explained."
 image: "/img/heroes/8730785.jpg"
 categories: ["Personal Injury Basics"]
 tags: ["personal", "injury", "statute", "limitations", "state"]
@@ -19,11 +19,13 @@ faqs:
    a: "Potentially, yes. When an accident crosses state lines, or when you live in a different state than where the injury occurred, choice-of-law questions come into play. Courts use various tests to decide which state's statute of limitations governs. This is genuinely complex territory and requires a lawyer, not a general resource."
  - q: "If the at-fault driver's insurance already paid me something, does that affect the deadline?"
    a: "Receiving a partial payment or signing certain documents with an insurer might affect your claim depending on the language, but it does not automatically stop the statute of limitations clock. Some release forms, if you signed one, might actually have waived your right to sue for additional damages. Get a lawyer to review anything you signed before assuming you're still free to file."
+ - q: "What if the accident was partly my fault?"
+   a: "It depends entirely on your state's fault rule. In the five contributory-negligence jurisdictions (Alabama, Maryland, North Carolina, Virginia, and DC), any share of fault can bar recovery completely. In pure comparative states you recover something at any fault level, minus your percentage. Most states fall in the middle: your award shrinks by your fault share and disappears once you hit 50% or 51%. This is why insurers work so hard to pin a fault percentage on you."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-08
+lastmod: 2026-07-19
 ---
 You filed a police report. You saw a doctor. You kept every receipt. And then life happened, the way it always does, and you put the folder in a drawer and told yourself you'd deal with it soon. Fourteen months later, you pull that folder out and start looking for a lawyer. That's when you hear the words that can hollow out your stomach: "I'm sorry, but the statute of limitations on your case may have already expired." In some states, that means your right to sue is completely gone, no matter how legitimate your claim, no matter how serious your injuries. I've watched this happen to good people who did everything else right. Understanding deadlines before they become a crisis is the single most important thing you can do to protect yourself after an injury.
 
@@ -39,31 +41,15 @@ Here's what surprises most people: the clock doesn't always start ticking on the
 
 ---
 
-## State-by-State Deadlines: The Landscape
+## State-by-State Deadlines and Fault Rules
 
-| Statute of Limitations | States |
-| --- | --- |
-| 1 year | Kentucky, Louisiana, Tennessee |
-| 2 years | Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Texas, Virginia, West Virginia, Wisconsin |
-| 3 years | Arkansas, Florida, Mississippi, Montana, New Hampshire (some claims), New York, North Dakota, Rhode Island, South Carolina, South Dakota, Washington, Wyoming |
-| 4 years | Nebraska, Utah |
-| 6 years | Maine (contract-based), North Dakota (some claims), Wyoming (some claims) |
+Every state sets its own statute of limitations for personal injury claims, and the range is surprisingly wide: a single year in Kentucky and Tennessee, six years in Maine and North Dakota. Just as important, and almost never listed next to it, is each state's fault rule, which decides what happens to your payout if the insurer convinces anyone that you share blame for the accident. The table below puts both side by side for all 50 states plus DC, current through July 2026.
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+{{< datatable "injury_legal_rules" >}}
 
-Every state sets its own statute of limitations for personal injury claims. The range is surprisingly wide. A handful of states give you just one year. Most cluster around two or three years. A few are more generous.
+Two details in that table deserve special attention. First, recent reforms have moved deadlines: Florida cut its window from four years to two in March 2023, and Louisiana doubled its one-year deadline to two for injuries on or after July 1, 2024. Plenty of older articles still circulate the outdated numbers for both states. Second, if you are in Alabama, Maryland, North Carolina, Virginia, or DC, the contributory negligence rule means any finding of shared fault, even 1%, can erase your claim entirely; treat every recorded statement to an insurer with that in mind. To see what a fault percentage does to your specific numbers, run them through our [comparative negligence calculator](/comparative-negligence-calculator/), and check [your state's damage caps](/state-damage-caps/) before you anchor on a settlement figure.
 
-**One-Year States:** Kentucky, Louisiana, Tennessee
-
-**Two-Year States:** Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Texas, Virginia, West Virginia, Wisconsin
-
-**Three-Year States:** Arkansas, Florida, Mississippi, Montana, New Hampshire (note: some claims), New York, North Dakota, Rhode Island, South Carolina, South Dakota, Washington, Wyoming
-
-**Four-Year States:** Nebraska, Utah
-
-**Six-Year States:** Maine (for some contract-based injury theories), North Dakota (some claims), Wyoming (some claims)
-
-Here's the critical disclaimer: the list above reflects general personal injury claims (car accidents, slip-and-falls, premises liability). Medical malpractice, product liability, wrongful death, and claims against government entities all carry their own separate deadlines, which often differ from general personal injury limits in the same state. And those deadlines can be shorter. Always verify with a licensed attorney in your state before relying on any general resource, including this one.
+Here's the critical disclaimer: the table above reflects general personal injury claims (car accidents, slip-and-falls, premises liability). Medical malpractice, product liability, wrongful death, and claims against government entities all carry their own separate deadlines, which often differ from general personal injury limits in the same state. And those deadlines can be shorter. Always verify with a licensed attorney in your state before relying on any general resource, including this one.
 
 ---
 
@@ -135,21 +121,11 @@ You don't need to file a lawsuit today. What you need is to know exactly how muc
 
 ## Sources
 
-- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
 - [Nolo's personal injury legal encyclopedia](https://www.nolo.com/legal-encyclopedia/personal-injury)
-- [this one on Amazon](https://www.amazon.com/s?k=personal+injury+claim+workbook)
 - [Insurance Information Institute](https://www.iii.org/)
-- [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process and how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-
----
-
-## Recommended Resources
+- [Cozen O'Connor: Louisiana adopts a two-year statute of limitations for tort claims](https://www.cozen.com/subrogation/resources/publications/louisiana-adopts-two-year-statute-of-limitations-for-tort-claims) (2024)
+- [American Bar Association: Florida tort reform, three key changes](https://www.americanbar.org/groups/litigation/resources/newsletters/mass-torts/florida-tort-reform-three-key-changes/) (2023)
+- State statutes of limitations and comparative fault rules, compiled July 2026
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

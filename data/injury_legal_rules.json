@@ -1,0 +1,399 @@
+{
+ "title": "Personal Injury Filing Deadlines and Fault Rules by State (2026)",
+ "note": "General negligence deadlines for adults (car accidents, slip and fall, premises liability). Medical malpractice, product liability, wrongful death, and claims against government entities carry different and often shorter deadlines. Compiled from state statutes as of July 2026. This is general information, not legal advice; confirm with a licensed attorney in your state.",
+ "search_placeholder": "Search your state…",
+ "filters": [
+  {
+   "key": "deadline",
+   "label": "Deadline"
+  },
+  {
+   "key": "negligence",
+   "label": "Fault rule"
+  }
+ ],
+ "columns": [
+  {
+   "key": "state",
+   "label": "State",
+   "primary": true
+  },
+  {
+   "key": "deadline",
+   "label": "Filing deadline"
+  },
+  {
+   "key": "negligence",
+   "label": "Fault rule"
+  },
+  {
+   "key": "fault_detail",
+   "label": "How shared fault affects payout",
+   "wide": true
+  },
+  {
+   "key": "note",
+   "label": "Worth knowing",
+   "wide": true
+  }
+ ],
+ "rows": [
+  {
+   "state": "Alabama",
+   "deadline": "2 years",
+   "negligence": "Contributory negligence",
+   "fault_detail": "All or nothing: if you are found even 1% at fault, you recover nothing. Insurers push hard for any shared-blame finding here.",
+   "note": "One of just 4 states plus DC still using the all-or-nothing contributory rule."
+  },
+  {
+   "state": "Alaska",
+   "deadline": "2 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": ""
+  },
+  {
+   "state": "Arizona",
+   "deadline": "2 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": ""
+  },
+  {
+   "state": "Arkansas",
+   "deadline": "3 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "California",
+   "deadline": "2 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": "Claims against government entities require a notice of claim within 6 months."
+  },
+  {
+   "state": "Colorado",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Connecticut",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Delaware",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "District of Columbia",
+   "deadline": "3 years",
+   "negligence": "Contributory negligence",
+   "fault_detail": "All or nothing: if you are found even 1% at fault, you recover nothing. Insurers push hard for any shared-blame finding here.",
+   "note": "Contributory rule, with a limited exception protecting pedestrians and cyclists hit by vehicles."
+  },
+  {
+   "state": "Florida",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": "Cut from 4 years to 2 for injuries on or after March 24, 2023; the same reform moved Florida to a 51% bar."
+  },
+  {
+   "state": "Georgia",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Hawaii",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Idaho",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Illinois",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Indiana",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Iowa",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Kansas",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Kentucky",
+   "deadline": "1 year",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": "Car-accident claims get 2 years under the no-fault statute; most other injury claims get only 1."
+  },
+  {
+   "state": "Louisiana",
+   "deadline": "2 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": "Deadline doubled from 1 year to 2 for injuries on or after July 1, 2024."
+  },
+  {
+   "state": "Maine",
+   "deadline": "6 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": "Unusually long 6-year window, but medical malpractice is 3 years and government claims are far shorter."
+  },
+  {
+   "state": "Maryland",
+   "deadline": "3 years",
+   "negligence": "Contributory negligence",
+   "fault_detail": "All or nothing: if you are found even 1% at fault, you recover nothing. Insurers push hard for any shared-blame finding here.",
+   "note": "One of just 4 states plus DC still using the all-or-nothing contributory rule."
+  },
+  {
+   "state": "Massachusetts",
+   "deadline": "3 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Michigan",
+   "deadline": "3 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": "The 51% bar applies to non-economic damages; economic damages are only reduced, not barred."
+  },
+  {
+   "state": "Minnesota",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Mississippi",
+   "deadline": "3 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": ""
+  },
+  {
+   "state": "Missouri",
+   "deadline": "5 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": "One of the longest windows at 5 years; medical malpractice is only 2."
+  },
+  {
+   "state": "Montana",
+   "deadline": "3 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Nebraska",
+   "deadline": "4 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Nevada",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "New Hampshire",
+   "deadline": "3 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "New Jersey",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "New Mexico",
+   "deadline": "3 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": ""
+  },
+  {
+   "state": "New York",
+   "deadline": "3 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": "Claims against municipalities require a notice of claim within 90 days."
+  },
+  {
+   "state": "North Carolina",
+   "deadline": "3 years",
+   "negligence": "Contributory negligence",
+   "fault_detail": "All or nothing: if you are found even 1% at fault, you recover nothing. Insurers push hard for any shared-blame finding here.",
+   "note": "One of just 4 states plus DC still using the all-or-nothing contributory rule."
+  },
+  {
+   "state": "North Dakota",
+   "deadline": "6 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Ohio",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Oklahoma",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Oregon",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Pennsylvania",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Rhode Island",
+   "deadline": "3 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": ""
+  },
+  {
+   "state": "South Carolina",
+   "deadline": "3 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "South Dakota",
+   "deadline": "3 years",
+   "negligence": "Slight/gross comparative",
+   "fault_detail": "You recover only if your negligence was 'slight' next to the defendant's gross negligence; otherwise you are barred. The strictest rule after contributory negligence.",
+   "note": ""
+  },
+  {
+   "state": "Tennessee",
+   "deadline": "1 year",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": "Tied for the shortest deadline in the country; act quickly."
+  },
+  {
+   "state": "Texas",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Utah",
+   "deadline": "4 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Vermont",
+   "deadline": "3 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Virginia",
+   "deadline": "2 years",
+   "negligence": "Contributory negligence",
+   "fault_detail": "All or nothing: if you are found even 1% at fault, you recover nothing. Insurers push hard for any shared-blame finding here.",
+   "note": "One of just 4 states plus DC still using the all-or-nothing contributory rule."
+  },
+  {
+   "state": "Washington",
+   "deadline": "3 years",
+   "negligence": "Pure comparative",
+   "fault_detail": "Your award is reduced by your share of fault, but you can recover something even if you were mostly at fault (70% at fault still recovers 30%).",
+   "note": ""
+  },
+  {
+   "state": "West Virginia",
+   "deadline": "2 years",
+   "negligence": "Modified comparative (50% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share reaches 50%.",
+   "note": ""
+  },
+  {
+   "state": "Wisconsin",
+   "deadline": "3 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  },
+  {
+   "state": "Wyoming",
+   "deadline": "4 years",
+   "negligence": "Modified comparative (51% bar)",
+   "fault_detail": "Your award is reduced by your share of fault and barred entirely once your share passes 50%.",
+   "note": ""
+  }
+ ]
+}
