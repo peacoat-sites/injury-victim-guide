@@ -4,7 +4,7 @@ date: 2026-07-09T13:59:57.796496+00:00
 draft: false
 description: "Talking to an insurance adjuster after an accident? Know exactly what to say, what to avoid, and how to protect your claim from the start."
 image: "/img/heroes/967139.jpg"
-categories: ["After the Accident"]
+categories: ["Evidence and Documentation"]
 tags: ["what", "insurance", "adjuster", "after", "accident"]
 author: "Denise Wallace"
 author_slug: "denise-wallace"

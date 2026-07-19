@@ -4,7 +4,7 @@ date: 2026-07-13T13:32:59.063673+00:00
 draft: false
 description: "Learn the essential checklist to follow immediately after a car accident, from calling 911 to documenting evidence for insurance claims."
 image: "/img/heroes/29870958.jpg"
-categories: ["After the Accident"]
+categories: ["Evidence and Documentation"]
 tags: ["what", "immediately", "after", "accident", "checklist"]
 author: "Maya Rivera"
 author_slug: "maya-rivera"

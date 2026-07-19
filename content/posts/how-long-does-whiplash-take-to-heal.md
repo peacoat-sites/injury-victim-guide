@@ -4,7 +4,7 @@ date: 2026-07-18T12:05:06.814097+00:00
 draft: false
 description: "Learn realistic whiplash recovery timelines, from initial injury through full healing. Understand what affects recovery speed and when to seek help."
 image: "/img/heroes/4506214.jpg"
-categories: ["Injury Recovery"]
+categories: ["Serious Injuries"]
 tags: ["long", "does", "whiplash", "take", "heal"]
 author: "Maya Rivera"
 author_slug: "maya-rivera"

@@ -4,7 +4,7 @@ date: 2026-07-16T12:54:42.374984+00:00
 draft: false
 description: "Learn which states require no-fault insurance, how claims work, and what coverage protects you in these jurisdictions."
 image: "/img/heroes/968881.jpg"
-categories: ["State Laws and Deadlines"]
+categories: ["Case Outcomes"]
 tags: ["fault", "insurance", "states", "explained"]
 author: "Denise Wallace"
 author_slug: "denise-wallace"

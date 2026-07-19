@@ -7,3 +7,10 @@
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
 /dr.-jennifer-marshall/ /dr-jennifer-marshall/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/after-the-accident/ /categories/evidence-and-documentation/ 301
+/categories/health-data/ /categories/injury-symptoms/ 301
+/categories/injury-recovery/ /categories/serious-injuries/ 301
+/categories/medical/ /categories/personal-injury-basics/ 301
+/categories/state-laws-and-deadlines/ /categories/case-outcomes/ 301

@@ -7,7 +7,7 @@ author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 date: 2026-06-28
 featured_depth: true
-categories: ["Injury Recovery", "Medical", "Health Data"]
+categories: ["Personal Injury Basics"]
 keywords: ["injury recovery timeline", "how long to recover from injury", "injury recovery by type", "medical recovery times"]
 faqs:
  - q: "Why do recovery times vary so much?"
