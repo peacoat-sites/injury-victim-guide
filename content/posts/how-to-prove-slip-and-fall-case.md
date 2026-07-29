@@ -145,3 +145,10 @@ Slip and fall cases are genuinely hard to prove well. But they're winnable when 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
+## Sources and References
+
+This guide is grounded in premises-liability and workplace-safety references from independent, authoritative bodies:
+
+- [OSHA: Walking-Working Surfaces](https://www.osha.gov/walking-working-surfaces)
+- [Cornell Legal Information Institute: Damages](https://www.law.cornell.edu/wex/damages)
+- [Cornell Legal Information Institute: Tort](https://www.law.cornell.edu/wex/tort)

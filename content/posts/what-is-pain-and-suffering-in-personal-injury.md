@@ -155,3 +155,10 @@ Nobody expects to be sitting at a kitchen table six months after a car accident,
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
+## Sources and References
+
+How damages are defined and treated here follows authoritative legal and government references:
+
+- [U.S. Bureau of Justice Statistics](https://bjs.ojp.gov/)
+- [IRS Publication 4345: Settlements and Taxability](https://www.irs.gov/pub/irs-pdf/p4345.pdf)
+- [Cornell Legal Information Institute: Negligence](https://www.law.cornell.edu/wex/negligence)

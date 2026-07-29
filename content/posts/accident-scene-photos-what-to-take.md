@@ -128,3 +128,10 @@ One thing I'd push back on: the idea that you should send all your photos to the
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
+## Sources and References
+
+Guidance on records and evidence here draws on authoritative legal references:
+
+- [Cornell Legal Information Institute: Negligence](https://www.law.cornell.edu/wex/negligence)
+- [Cornell Legal Information Institute: Damages](https://www.law.cornell.edu/wex/damages)
+- [U.S. Bureau of Justice Statistics](https://bjs.ojp.gov/)

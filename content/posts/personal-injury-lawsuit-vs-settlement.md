@@ -164,3 +164,10 @@ The decision between settling and pursuing a lawsuit isn't about which path is i
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
+## Sources and References
+
+The legal process described here follows established references from law and government:
+
+- [Cornell Legal Information Institute: Negligence](https://www.law.cornell.edu/wex/negligence)
+- [Cornell Legal Information Institute: Tort](https://www.law.cornell.edu/wex/tort)
+- [Cornell Legal Information Institute: Statute of Limitations](https://www.law.cornell.edu/wex/statute_of_limitations)

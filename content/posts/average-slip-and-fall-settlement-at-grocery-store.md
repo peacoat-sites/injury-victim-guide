@@ -124,3 +124,10 @@ The grocery store's insurer is prepared. Being prepared yourself is the only rea
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
+## Sources and References
+
+This guide is grounded in premises-liability and workplace-safety references from independent, authoritative bodies:
+
+- [U.S. Bureau of Justice Statistics](https://bjs.ojp.gov/)
+- [Cornell Legal Information Institute: Negligence](https://www.law.cornell.edu/wex/negligence)
+- [OSHA: Walking-Working Surfaces](https://www.osha.gov/walking-working-surfaces)
