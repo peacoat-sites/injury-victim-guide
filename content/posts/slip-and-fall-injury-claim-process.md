@@ -39,11 +39,11 @@ Courts typically look at three things:
 - **Negligence:** Did they fail to act reasonably given what they knew?
 - **Causation:** Did that failure directly cause your injury?
 
-In my experience, the notice piece is where most claims either gain traction or fall apart. A spill that happened 30 seconds before you walked by is very different from a leaking ceiling that's been dripping for three weeks. The longer a hazard existed, the stronger the argument that the owner had time to fix it and chose not to.
+The notice piece is where most claims either gain traction or fall apart. A spill that happened 30 seconds before you walked by is very different from a leaking ceiling that's been dripping for three weeks. The longer a hazard existed, the stronger the argument that the owner had time to fix it and chose not to.
 
 ## The First 48 Hours Matter More Than You Think
 
-I've seen clients make decisions in those first two days that either protected their claim or quietly destroyed it. Not because they were careless people, but because nobody told them what mattered.
+Decisions made in those first two days often either protect a claim or undermine it. Many claimants don't realize what matters in those early hours.
 
 Here's what to actually do as soon as you're able:
 
@@ -112,7 +112,7 @@ Here's what I tell people when they ask: it depends on the severity of your inju
 
 For minor injuries with quick recovery and a cooperative property owner, some people handle small claims themselves or negotiate directly with the insurer. That's a legitimate choice.
 
-For anything involving significant medical expenses, missed work, lasting pain, surgery, or any dispute about who was at fault, an attorney changes the outcome in most cases. Studies consistently show that represented claimants receive higher settlements on average, even after attorney fees are factored in.
+For anything involving significant medical expenses, missed work, lasting pain, surgery, or any dispute about who was at fault, an attorney changes the outcome in most cases. Represented claimants typically receive higher settlements on average, even after attorney fees are factored in.
 
 Most personal injury attorneys work on a **contingency fee** basis. They take a percentage of your recovery if you win (typically 25 to 40 percent depending on the case and state) and you owe nothing if they don't recover anything. No upfront cost to consult.
 
@@ -127,7 +127,6 @@ Nobody expects to need this information until the moment they do. If you're read
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
 - [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

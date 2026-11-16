@@ -81,7 +81,7 @@ The pattern is clear enough. Patience has value here. Settling in a hurry almost
 
 When a physician assigns a permanent impairment rating at MMI, they're following a structured protocol, not making a judgment call from the gut. Under the AMA Guides Sixth Edition (which, as of August 2026, remains the most widely adopted framework, used in over 40 states for workers' comp), impairment ratings combine objective clinical findings with validated outcome measures and functional assessments.
 
-What most people don't know: the rating can differ significantly depending on which edition of the AMA Guides the state requires. The Fifth Edition (still required in several states, including California for some claim types) and the Sixth Edition use different methodologies and can produce meaningfully different impairment percentages for the same injury. I've seen a lumbar spine injury rated at 8% under the Fifth Edition and 5% under the Sixth. That gap matters when the rating feeds into a benefits calculation.
+What most people don't know: the rating can differ significantly depending on which edition of the AMA Guides the state requires. The Fifth Edition (still required in several states, including California for some claim types) and the Sixth Edition use different methodologies and can produce meaningfully different impairment percentages for the same injury. A lumbar spine injury, for example, might be rated at 8% under the Fifth Edition and 5% under the Sixth. That gap matters when the rating feeds into a benefits calculation.
 
 The [Insurance Information Institute](https://www.iii.org/) has solid plain-language coverage of how impairment ratings flow into workers' comp benefit formulas if you want to see the math from a neutral source.
 

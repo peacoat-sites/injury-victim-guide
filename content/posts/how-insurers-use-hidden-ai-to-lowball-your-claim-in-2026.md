@@ -19,7 +19,7 @@ Your insurance claim arrives at the adjuster's desk, but the adjuster isn't the 
 
 Seventy-six percent of insurance companies are now using generative AI in daily operations, with automated systems handling 20 to 30 percent of standard claims without human eyes ever touching them. The companies deploying Perspective AI, Shift Technology, and Tractable report hitting 75 percent faster claim resolution with 30 to 40 percent cost cuts. That efficiency translates to one thing for you: lower settlements, faster rejections, and less negotiating room before the file closes.
 
-What makes this urgent right now is the collision between aggressive AI deployment and regulatory awakening. In May 2026, Pennsylvania's attorney general settled with GEICO over AI-driven underwriting practices that systematically disadvantaged claimants, signaling that regulators are finally paying attention. But the law hasn't caught up. There's no clear rule about what insurers can and can't do with AI claims scoring, how transparent they must be, or what you're legally entitled to know. That creates a window where insurers are testing how far they can push automation before enforcement catches them. You're in that window right now.
+What makes this urgent right now is the collision between aggressive AI deployment and regulatory awakening. Regulators have begun taking action on AI in insurance. In May 2026, Pennsylvania's attorney general settled with GEICO over AI-driven underwriting practices that systematically disadvantaged claimants. But the law hasn't caught up. There's no clear rule about what insurers can and can't do with AI claims scoring, how transparent they must be, or what you're legally entitled to know. That creates a window where insurers are testing how far they can push automation before enforcement catches them.
 
 ## The Hidden Scoring System
 
@@ -37,8 +37,6 @@ Here's what matters: you won't see the score. Insurance companies don't disclose
 ## The Data They're Using Against You
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 AI systems aren't just reading medical records. They're watching you. Insurers are now monitoring smartwatch activity, GPS records, fitness tracker data, and vehicle braking patterns to challenge injury credibility. If your Apple Watch shows you walked 8,000 steps on a day you told the adjuster you were in severe pain, the AI flags it. If your vehicle's data shows aggressive braking patterns suddenly stopped after your collision, it might signal you're faking the whiplash.
 

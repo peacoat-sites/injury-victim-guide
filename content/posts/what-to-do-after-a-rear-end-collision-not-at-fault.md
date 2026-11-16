@@ -25,7 +25,7 @@ faqs:
    a: "No. Not even a vague 'had a rough day, got rear-ended' post. Insurance adjusters and defense attorneys do look at social media, and anything you post, even something completely innocent, can be taken out of context or used to suggest your injuries aren't serious. Keep it offline until everything is fully resolved."
 lastmod: 2026-07-08
 ---
-Someone rear-ends you at a stoplight. You weren't doing anything wrong. And somehow, within 48 hours, you're drowning in phone calls from adjusters, confused about your own insurance, and second-guessing whether your neck pain is serious or just stress. I've watched this exact scenario spiral into real financial harm for people who did absolutely nothing wrong, and it happens because nobody tells you the rules before the game starts.
+Someone rear-ends you at a stoplight. You weren't doing anything wrong. And somehow, within 48 hours, you're drowning in phone calls from adjusters, confused about your own insurance, and second-guessing whether your neck pain is serious or just stress. This scenario often spirals into financial harm for people who did nothing wrong, and it happens because the rules aren't always clear upfront.
 
 Here's what I wish someone had told me during my 12 years on the other side of that phone call.
 
@@ -33,7 +33,7 @@ Here's what I wish someone had told me during my 12 years on the other side of t
 
 Don't move your car until you've taken photos. I know that sounds obvious, but the adrenaline is real, and most people's first instinct is to pull into a parking lot and swap information. Do that, but document everything first. Get skid marks if there are any. Get the position of both vehicles relative to lane lines. Get the other driver's license plate from multiple angles, because sometimes people drive away.
 
-Call 911, even if both cars look fine. This is the part most people skip, and I've seen it cost them later. A police report is a contemporaneous, third-party record that you were rear-ended. Without it, an insurance adjuster in a recorded statement three weeks later can float the idea that the accident was somehow ambiguous. With it, there's an official document that says a police officer responded, observed the scene, and documented who hit whom. That report can cost you nothing and is worth a significant amount.
+Call 911, even if both cars look fine. This is the part most people skip, and it can cost them later. A police report is a contemporaneous, third-party record that you were rear-ended. Without it, an insurance adjuster in a recorded statement three weeks later can float the idea that the accident was somehow ambiguous. With it, there's an official document that says a police officer responded, observed the scene, and documented who hit whom. That report can cost you nothing and is worth a significant amount.
 
 Get the other driver's: full name, phone number, address, driver's license number, license plate, insurance company name, and policy number. Photo everything. Their insurance card, their license. People get nervous and sometimes give you wrong information by accident (or not by accident). Document it while you're both standing there.
 
@@ -71,7 +71,7 @@ Not every rear-end collision requires an attorney. I'll be honest about that. If
 
 But if you were injured? Even if you think it's minor? Seriously consider a free consultation with a personal injury attorney before you say much to the other driver's insurance company. Most personal injury attorneys take these cases on contingency, meaning they don't get paid unless you do. There's no upfront cost to at least have the conversation.
 
-The cases where I've seen people lose money by skipping an attorney almost always involve underestimated injury. Someone settles for $3,500 two weeks after the crash, feeling mostly okay, and then needs an MRI at $1,800, a round of physical therapy, and misses two weeks of work. That settlement is gone and there's nothing left to collect.
+Cases where people lose money by skipping an attorney almost always involve underestimated injury. Someone settles for $3,500 two weeks after the crash, feeling mostly okay, and then needs an MRI at $1,800, a round of physical therapy, and misses two weeks of work. That settlement is gone and there's nothing left to collect.
 
 I'm not going to tell you which attorney to hire or that you definitely need one. That's a call you make after a consultation. What I am saying is don't let an adjuster's friendly tone and fast offer shortcut a decision you can't undo.
 
@@ -81,7 +81,7 @@ The people who come out of this process best are the ones who treated their clai
 
 Get a folder, physical or digital, and put everything in it: the police report number (you can usually request the full report online within a few days for a small fee, often around $15 to $25 depending on the jurisdiction), photos from the scene, every medical bill and explanation of benefits, every email or letter from insurance companies, records of every phone call including date, time, who you spoke to, and what they said.
 
-If you want a more structured system, there are [insurance claim workbooks and organizers](https://www.amazon.com/s?k=insurance+claim+organizer+workbook) available that walk you through exactly what to track. (The site may earn a small commission.) I've seen disorganized claimants walk away with less than they deserved simply because they couldn't produce the documentation to support their claim. Organization isn't just tidiness, it's leverage.
+If you want a more structured system, there are [insurance claim workbooks and organizers](https://www.amazon.com/s?k=insurance+claim+organizer+workbook) available that walk you through exactly what to track. (The site may earn a small commission.) Disorganized claimants often end up with less than they deserved simply because they can't produce the documentation to support their claim. Organization directly affects what you can recover.
 
 ---
 
@@ -100,7 +100,6 @@ The paperwork is annoying, the phone calls are exhausting, and the whole process
 - [insurance claim workbooks and organizers](https://www.amazon.com/s?k=insurance+claim+organizer+workbook)
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

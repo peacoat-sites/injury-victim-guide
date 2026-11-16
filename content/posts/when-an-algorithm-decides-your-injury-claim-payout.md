@@ -38,8 +38,6 @@ For a minor fender-bender with a clean repair bill, that speed can genuinely be 
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is the part nobody tells you upfront. Consumer advocates have documented that AI settlement platforms used by major insurers are specifically calibrated in ways that produce lower valuations for injuries that don't show up cleanly on imaging or a repair estimate. Whiplash. Chronic back pain. Anxiety after a serious crash. These are real harms, but they're hard to reduce to a number a model can process with confidence, so the model discounts them.
 
 Think about what an algorithm is actually doing. It's trained on historical claims data, which means it's learning what past settlements looked like. If insurers historically lowballed soft-tissue claims (and they did, I know because I spent 12 years on that side of the table), the model learns to replicate that pattern and optimizes it further. It's not malicious. It's math. But the output is the same: an offer that doesn't reflect your actual situation.
@@ -48,7 +46,7 @@ The injury picture makes this worse. Industry data from 2026 shows bodily injury
 
 ## What Regulators Are Actually Examining
 
-You might be wondering what the NAIC pilot is specifically looking at. Based on reporting from *Auto Body News* in March 2026, the examination targets how AI systems influence total-loss determinations and claims payouts. That's significant because it's not just auditing whether AI is being used, it's scrutinizing the outputs and the calibration behind them.
+You might be wondering what the NAIC pilot is specifically looking at. Based on reporting from *Auto Body News* in March 2026, the examination targets how AI systems influence total-loss determinations and claims payouts. The examination goes beyond confirming that AI is in use to review the actual outputs and the calibration behind them.
 
 The NAIC has also taken a clear public position that existing insurance laws apply equally to AI-driven decisions. If a human adjuster made a bad-faith decision, the insurer is liable. If an AI system makes the same bad-faith decision, the insurer is still fully liable, including when that AI comes from a third-party vendor. That's an important legal point. The insurer can't point at software and shrug.
 

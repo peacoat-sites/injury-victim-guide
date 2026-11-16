@@ -92,7 +92,7 @@ Product liability cases often involve multiple defendants. The manufacturer, the
 
 ## Strict Liability and Why It Actually Helps You
 
-Here's something genuinely surprising when I switched sides: in many product liability cases, you don't have to prove the company was careless. You just have to prove the product was defective and the defect caused your injury.
+In many product liability cases, you don't have to prove the company was careless. You just have to prove the product was defective and the defect caused your injury.
 
 That's called strict liability, and most states apply some version to product claims. The logic is that companies profiting from products in commerce should bear the cost when those products cause harm, regardless of whether they cut corners on purpose. It shifts the burden meaningfully.
 
@@ -110,7 +110,7 @@ Every state sets a deadline for filing a personal injury lawsuit. Miss it and yo
 
 There are exceptions: discovery rules that start the clock when you discover the injury's cause, different deadlines for government entity claims, tolling for minors. [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) offer a state-by-state breakdown worth checking as a starting point.
 
-Don't assume you have more time than you do. I've seen people spend 18 months negotiating directly with a manufacturer, walk into an attorney's office, and learn the statute of limitations ran six months ago. Case over before it starts.
+Don't assume you have more time than you do. A common mistake is spending months or even over a year negotiating directly with a manufacturer, only to discover the statute of limitations has already run. Once that deadline passes, your case is over before it starts.
 
 ---
 

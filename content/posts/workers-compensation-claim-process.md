@@ -37,7 +37,7 @@ Report the injury to your employer. I know that sounds obvious, but timing isn't
 
 Write it down if you can. Even a text message creates a timestamp. Something simple like "I'm letting you know I injured my lower back on the warehouse floor this morning around 10 a.m." beats a verbal conversation that someone later misremembers entirely.
 
-Get medical attention, even if you feel like you can push through it. Two things happen when you delay treatment: your injury gets harder to document, and insurance adjusters (I used to be one) note the gap between incident and treatment as suspicious. A three-day delay can be totally innocent, but I've seen it used to cast doubt on a claim. Get seen. Keep every piece of paper they give you.
+Get medical attention, even if you feel like you can push through it. Two things happen when you delay treatment: your injury gets harder to document, and insurance adjusters note the gap between incident and treatment as suspicious. A three-day delay can be totally innocent, but delays are often used to cast doubt on a claim. Get seen. Keep every piece of paper they give you.
 
 Your employer is supposed to file what's called a "First Report of Injury" with their workers' comp insurance carrier after you notify them. In most states, they're required to do this within a few days. If they drag their feet or try to discourage you from filing at all, that's a red flag. The [Insurance Information Institute](https://www.iii.org/) has a good overview of how these systems work state by state if you want to verify what your employer should be doing.
 
@@ -71,7 +71,7 @@ Every state has an appeals process for denied workers' comp claims. The specific
 
 The most common denial reasons I saw were: late reporting, a gap between the incident and medical treatment, a pre-existing condition the carrier blamed for the injury, or a question about whether the injury actually happened "in the course of employment." Most of these can be challenged with the right documentation and sometimes with an attorney's help. A denial, particularly on a first round, is often an opening position, not a final one.
 
-Keeping organized records from day one makes appeals dramatically easier. There's actually a well-reviewed medical records and insurance claim organizer on Amazon (this site may earn a small commission if you purchase through our links) that several people I've worked with have found genuinely useful for keeping everything in one place: incident reports, medical notes, communications from the carrier, pay stubs for wage verification.
+Keeping organized records from day one makes appeals dramatically easier. Medical records and insurance claim organizers can help you keep everything in one place: incident reports, medical notes, communications from the carrier, pay stubs for wage verification.
 
 ## A Few Things Most Articles Skip
 

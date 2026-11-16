@@ -33,9 +33,9 @@ So when readers ask me what to say to an insurance adjuster after an accident, m
 
 ## The Call You're Not Ready For
 
-Here's what surprised me when I switched sides: most accident victims have no idea the first call is a tactic, not a formality. Adjusters are trained to call quickly, partly because it's genuinely efficient, and partly because you're more likely to say something inconsistent or damaging when you're still in shock, still in pain, and haven't had a chance to talk to anyone.
+Most accident victims don't realize the first call is a tactic, not a formality. Adjusters are trained to call quickly, partly because it's genuinely efficient, and partly because you're more likely to say something inconsistent or damaging when you're still in shock, still in pain, and haven't had a chance to talk to anyone.
 
-I'll be honest, I made this mistake myself once. Years before I worked in insurance, I was rear-ended on I-90 outside of Cleveland. The adjuster called the next morning. I was still sore, still rattled, and I said something like, "I feel okay, just a little stiff." That phrase, "I feel okay," followed me through the entire claims process. It was used to minimize my medical treatment six weeks later when I was still going to physical therapy for a neck strain. I didn't know then that soft tissue injuries, especially whiplash, can take days or weeks to fully manifest. [The CDC's injury data](https://www.cdc.gov/injury/wisqars/) consistently shows delayed symptom presentation is common in motor vehicle collisions, which makes those early statements especially dangerous.
+A common mistake is downplaying symptoms in that first call. For example, someone in shock after a collision might say "I feel okay, just a little stiff." That phrase can be used later to minimize medical treatment, even if serious soft tissue injuries like whiplash take days or weeks to fully manifest. [The CDC's injury data](https://www.cdc.gov/injury/wisqars/) consistently shows delayed symptom presentation is common in motor vehicle collisions, which makes those early statements especially dangerous.
 
 So step one: you don't have to take the call right now.
 
@@ -44,8 +44,6 @@ You can say, "I'm not in a position to speak today. Can I call you back?" That's
 ## What You Actually Have to Say (And What You Don't)
 
 > **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 There's a real distinction that most people miss. If the claim is against the *other driver's* insurance company, you generally have no legal obligation to speak with their adjuster at all. They're not your insurer. Your obligation is to your own insurance company under your policy's cooperation clause.
 
@@ -87,19 +85,19 @@ What works, based on years of watching claims play out on both sides, is the "co
 
 **Defer** anything medical, anything about fault, and anything you're not 100% certain about: "I'm still receiving medical treatment and don't have a full picture of my injuries yet." "I'd prefer not to speculate about fault while the investigation is ongoing." "I'd like to review the police report before discussing the specifics."
 
-A reader, Marcus, contacted me last spring after a rear-end collision in Atlanta. He'd already given a recorded statement before finding this information. He'd told the adjuster he "hadn't been sleeping well" and "was maybe a little distracted" that morning. Neither thing caused the accident, but that language appeared in the adjuster's notes and was referenced when his pain and suffering demand was countered. His attorney eventually worked through it, but it cost time and leverage. The outcome settled, but lower than it might have otherwise. That's the real cost of a careless first call.
+Recorded statements given too early often backfire. For example, someone might mention sleep problems or distraction before the accident without realizing how adjusters will frame those comments. Even irrelevant details can appear in claim notes and be used to counter pain and suffering demands, forcing attorneys to spend time correcting the record and potentially lowering settlement value.
 
 Here are a couple of scenarios showing how this plays out in practice:
 
 Driver rear-ended at a red light, soft tissue injuries → Gave recorded statement same day saying "nothing really hurts yet, just shaken up" → Adjuster noted "claimant reported no injuries at scene" and offered $1,400 to resolve everything within 10 days. Claimant signed. Needed months of physical therapy afterward with no recourse.
 
-Driver T-boned at intersection, similar injuries → Declined recorded statement, said "I'm still being evaluated" → Retained attorney after diagnosis, documented treatment fully → Case settled for significantly more because there was no early statement contradicting the medical records. I don't quote specific dollar figures because every case is different, but the pattern here is consistent across hundreds of claims I've seen.
+By contrast, declining a recorded statement early and waiting until after diagnosis and full medical documentation allows your records to speak for themselves. Cases with no early statements contradicting the medical evidence tend to settle for more, though exact amounts vary by claim.
 
 ## What to Do Before Any Adjuster Call
 
 Document everything first. That means writing down your own account of what happened while it's fresh, before any call. Take photos of your vehicle, the scene if you haven't already, any visible injuries. Get a copy of the police report as soon as it's available (usually 3-7 days after the accident).
 
-If you want a structured way to do this, there are personal injury documentation journals available on Amazon, like the ones by Organized Injury Journals, that walk you through everything worth capturing, from symptom tracking to medical appointments to out-of-pocket expenses. (This site may earn a small commission on purchases made through links.) Not required, but I've seen disorganized documentation lose people money, so it's worth it for a few dollars.
+If you want a structured way to do this, there are personal injury documentation journals available on Amazon, like the ones by Organized Injury Journals, that walk you through everything worth capturing, from symptom tracking to medical appointments to out-of-pocket expenses. (This site may earn a small commission on purchases made through links.) Not required, but Disorganized documentation can cost claimants money, so structured tracking is worth the investment.
 
 Write down the names of everyone you speak to at the insurance company, the date and time of every call, and a summary of what was said. This sounds tedious. It matters enormously if the claim gets contested.
 
@@ -112,7 +110,6 @@ Write down the names of everyone you speak to at the insurance company, the date
 - Insurance Information Institute: "Auto Claims Process" overview, including adjuster roles and claimant obligations
 
 ---
-
 
 ---
 

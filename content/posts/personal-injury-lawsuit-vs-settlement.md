@@ -76,7 +76,7 @@ Every case is different, and I can't stress that enough. But there are concrete 
 - The at-fault party has adequate coverage or personal assets.
 - Your state's [statute of limitations is approaching](/personal-injury-statute-of-limitations-by-state/).
 
-Here's the thing most people miss: you can negotiate a settlement even after filing a lawsuit. Filing doesn't lock you into a trial. It locks you into the legal process, which includes plenty of off-ramps toward agreement.
+You can negotiate a settlement even after filing a lawsuit. Filing doesn't lock you into a trial. It locks you into the legal process, which includes plenty of off-ramps toward agreement.
 
 ## Settlement vs. Lawsuit: A Side-by-Side Look
 
@@ -109,7 +109,7 @@ Whether you settle or sue, how you handle the period right after the accident sh
 
 **Step 1: Get complete medical care first.** Don't let anyone rush you into a settlement while you're still treating. The full cost of your injuries has to be known before you can evaluate any offer meaningfully. Settling before you reach maximum medical improvement is one of the most common regrets I hear from people who later needed surgery.
 
-**Step 2: Document everything obsessively.** Keep a daily log of your pain levels, limitations, and how the injury affects your life. I've seen juries respond powerfully to detailed, handwritten journals because they feel real. If you want a structured tool for this, there are injury documentation journals available on Amazon that can help you keep consistent records. *(This site may earn a commission from qualifying purchases.)*
+**Step 2: Document everything obsessively.** Keep a daily log of your pain levels, limitations, and how the injury affects your life. Detailed, handwritten journals tend to resonate with juries because they feel authentic. If you want a structured tool for this, there are injury documentation journals available on Amazon that can help you keep consistent records. *(This site may earn a commission from qualifying purchases.)*
 
 **Step 3: Organize your medical records.** You'll need them for any negotiation or lawsuit. A medical records organizer, also available on Amazon, can help you keep imaging reports, specialist notes, bills, and prescription receipts in one place, which your attorney will appreciate and which you'll need for any deposition. *(This site may earn a commission from qualifying purchases.)*
 
@@ -121,7 +121,7 @@ Whether you settle or sue, how you handle the period right after the accident sh
 
 ## Common Mistakes That Hurt Your Case
 
-People who've never been through a personal injury claim don't know what they don't know. A few things I've watched derail otherwise strong cases:
+Several common mistakes can derail otherwise strong cases:
 
 **Posting on social media.** Defense attorneys and insurance investigators search social media routinely. A photo of you hiking a month after claiming a debilitating back injury, even if you were having a rare good day, can be used against you at trial or in negotiations.
 
@@ -148,7 +148,6 @@ The decision between settling and pursuing a lawsuit isn't about which path is i
 - [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
 - [SHOX ART](https://www.pexels.com/@shox)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

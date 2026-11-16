@@ -38,7 +38,7 @@ Here's what most people don't realize: the moment a claim is filed, many insuran
 
 The assumption claimants make is that their private Instagram or locked-down Facebook is safe. That's the first mistake. Defense attorneys can and do subpoena social media data as part of the discovery process, which means your "private" posts can become evidence. Courts have consistently held that there's no reasonable expectation of privacy for content you've shared with friends, family, or followers, even if you intended it to stay in that circle.
 
-I've seen adjusters find usable content from posts made years before the accident, too. If you're claiming a back injury and there's a public photo from two summers ago where you're hiking a 14-er, that photo is going into the file. Context doesn't matter at that point. Perception does.
+Adjusters regularly find usable content from posts made years before the accident. If you're claiming a back injury and there's a public photo from two summers ago where you're hiking a 14-er, that photo is going into the file. Context doesn't matter at that point. Perception does.
 
 ---
 
@@ -46,15 +46,13 @@ I've seen adjusters find usable content from posts made years before the acciden
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let me be direct about what actually damages cases, because the generic "be careful on social media" advice you'll read everywhere doesn't tell you what to actually watch for.
 
 **Posting anything that contradicts your claimed injuries.** This is the obvious one, but people underestimate how easy it is to do accidentally. You claim chronic neck pain from a rear-end collision. Then a friend tags you at a concert where you're clearly standing, dancing, and having a great time. The adjuster doesn't know that you took three ibuprofen to get through that hour, or that you paid for it for a week afterward. They see what they see. A 2023 survey by the American Bar Association found that over 70% of attorneys reported finding social media evidence used against their clients in personal injury cases. That number has only grown as of 2026.
 
 **Posting about the accident itself.** Right after a collision, people are shaken and want to process out loud. Totally human. Also potentially catastrophic for your claim. Anything you say about the accident, fault, your injuries, the other driver, how fast anyone was going, all of it can be used to undercut your account later. "Fender bender, I think I'm okay" posted at 6pm contradicts a claim for whiplash symptoms that emerged over the following days, even though delayed-onset symptoms are medically well-documented (the CDC's injury data is clear that soft tissue injuries often don't fully manifest for 24-72 hours).
 
-**Venting about the legal process.** I've seen claimants post about their attorneys, their frustration with the insurance company, their confidence about the outcome. One man I remember was negotiating a fairly strong case and posted something to the effect of "these insurance companies are going to pay me what I deserve." That kind of post signals that a claimant is motivated by money, not just medical recovery. Defense attorneys absolutely use that framing.
+**Venting about the legal process.** Claimants sometimes post about their attorneys, their frustration with the insurance company, or their confidence about the outcome. Posts stating or implying "the insurance company will pay me what I deserve" signal that a claimant is motivated by money, not just medical recovery. Defense attorneys absolutely use that framing.
 
 **Accepting new friend requests during the claim period.** This one catches people off guard. Social media tactics used by defense investigators sometimes include sending friend requests from fake accounts to gain access to private content. It's legal gray territory depending on jurisdiction, but it happens. If someone you don't recognize adds you during an active claim, decline.
 
@@ -103,7 +101,6 @@ If you're feeling frustrated that you have to modify your behavior because an in
 - Byrd, James A., "Electronic Evidence in Civil Litigation" (2022): Practical analysis of discovery rules covering social media content, spoliation standards, and claimant obligations during active litigation.
 
 ---
-
 
 ---
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You open the envelope, and the number staring back at you is insultingly small. Maybe you've been out of work for six weeks, you've got $14,000 in medical bills, and the insurance company is offering you $3,500 to go away. That's not a negotiation. That's a test. They're checking whether you know what your claim is actually worth, or whether you'll just take the money and sign the release.
 
-Spoiler: most people take it. I've seen it from both sides of the table.
+Spoiler: most people take it.
 
 ## Why Insurance Companies Make Lowball Offers (It's Not an Accident)
 

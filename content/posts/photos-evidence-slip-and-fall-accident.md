@@ -35,11 +35,11 @@ I've seen a [wet floor](/wet-floor-slip-and-fall-injury/) sign appear in an inci
 
 ## What You're Actually Trying to Prove
 
-Here's the thing most people don't understand about slip-and-fall cases: you don't just need to show you got hurt. You need to show the [property owner](/property-owner-liability-slip-and-fall/) knew about the dangerous condition (or should have known), failed to fix it, and that the hazard caused your specific fall. That's three separate things, and photos speak to all three.
+In slip-and-fall cases, you don't just need to show you got hurt. You need to show the [property owner](/property-owner-liability-slip-and-fall/) knew about the dangerous condition (or should have known), failed to fix it, and that the hazard caused your specific fall. That's three separate things, and photos speak to all three.
 
 A close-up of a floor drain that's been patched four different times tells a jury this wasn't a one-day problem. The angle of a wet-floor cone placed 12 feet away from the actual spill tells an adjuster that someone was covering their backside without actually addressing the hazard. A photo that shows the lighting in the stairwell was so dim you can barely see the step edge? That's negligence, documented on your phone.
 
-The [Insurance Information Institute](https://www.iii.org/) consistently tracks slip-and-fall as one of the leading causes of premises liability claims, and the gap in claim outcomes between documented and undocumented cases is stark. When I was adjusting, my internal guidance was simple: if the claimant had good photos, we settled. If they didn't, we fought.
+The [Insurance Information Institute](https://www.iii.org/) consistently tracks slip-and-fall as one of the leading causes of premises liability claims. Cases with good photos of the hazard, your injuries, and the scene tend to settle more readily than those without documentation.
 
 ## The Shots That Actually Matter
 
@@ -51,9 +51,7 @@ Think of it in three layers: establishing, context, and close-up. The establishi
 
 For a liquid spill, you want to capture the spread pattern (it tells you how long it's been there), whether it's been partially cleaned or tracked through, and whether any signage exists and where it's positioned relative to the actual wet area. For a structural defect like a broken step or cracked pavement, get a shot that includes something to establish scale, like your hand or a coin near the defect.
 
-One thing I've seen people miss every single time: photograph your own shoes. Both of them. Soles up. The condition of your footwear becomes an issue in almost every case because the defense will argue contributory negligence, that you were wearing inappropriate shoes for the conditions.
-
-These figures reflect patterns I observed over more than a decade of claims work, not a controlled study. But the directional story they tell is consistent with what I've seen repeatedly.
+Photograph your own shoes. Both of them. Soles up. The condition of your footwear becomes an issue in almost every case because the defense will argue contributory negligence, that you were wearing inappropriate shoes for the conditions.
 
 ## Timing: The Window is Shorter Than You Think
 
@@ -84,7 +82,7 @@ If you want a system for organizing this kind of documentation, something like [
 
 ## Witnesses: The Human Version of a Timestamp
 
-Get names and phone numbers from anyone who saw the fall or who was present near the hazard. Don't wait for someone to offer. I've watched cases fall apart because the one witness who could corroborate the condition of the floor moved out of state and couldn't be located six months later.
+Get names and phone numbers from anyone who saw the fall or who was present near the hazard. Don't wait for someone to offer. A witness who moves away or becomes hard to locate months later may not be available to testify or provide a statement when needed.
 
 Also: if someone at the scene says anything like "oh, that drain has been leaking for weeks" or "I almost fell there yesterday," write it down verbatim immediately. Not on your phone's notes app, because timestamps can be challenged. Text it to a friend right then so there's a record.
 

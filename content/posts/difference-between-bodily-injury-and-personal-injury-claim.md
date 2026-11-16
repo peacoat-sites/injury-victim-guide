@@ -27,13 +27,11 @@ faqs:
 
 Most people who walk into an attorney's office after a car accident use "bodily injury" and "[personal injury](/what-percentage-do-personal-injury-lawyers-take-2026/)" interchangeably. I did too, for years, before I spent over a decade on the other side of those claims as an adjuster. Turns out, conflating these two terms can cost you real money and real time, because they operate in completely different parts of the legal and insurance universe.
 
-Here's the thing that surprised me when I first started digging into how these terms actually function in practice: "bodily injury" is primarily an insurance coverage term, and "personal injury" is a legal cause of action. They overlap, sure. But they're not the same animal, and the distinction matters enormously depending on which side of a claim you're on.
+"Bodily injury" is primarily an insurance coverage term, and "personal injury" is a legal cause of action. They overlap, sure. But they're not the same animal, and the distinction matters enormously depending on which side of a claim you're on.
 
 I'll be honest, I spent probably my first three years as an adjuster not fully appreciating how differently these terms played out in litigation versus in a policy. It wasn't until a claimant's attorney sent a demand letter citing personal injury tort claims that reached well beyond what the bodily injury liability limits would cover that I really sat up and paid attention.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">"Bodily injury" is an insurance coverage type; "personal injury" is a broader legal claim category.</li><li style="margin:5px 0">Bodily injury (BI) coverage pays third parties hurt by the insured's negligence, up to policy limits.</li><li style="margin:5px 0">Personal injury claims can include emotional distress and reputational harm, not just physical injuries.</li><li style="margin:5px 0">BI limits in most states run $25,000 to $100,000 per person; your damages may far exceed that.</li><li style="margin:5px 0">Filing a personal injury lawsuit and making a BI insurance claim are separate processes that often run simultaneously.</li></ul></div>
-
 
 ## What "Bodily Injury" Actually Means in an Insurance Policy
 
@@ -54,8 +52,6 @@ These feel similar but run through completely different parts of the insurance s
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Personal injury is a legal term covering civil claims where someone's negligence, recklessness, or intentional act caused harm to another person. Physical injury is the most common example, but personal injury law also covers:
 
 - Emotional distress (even without physical injury, in some cases)
@@ -65,7 +61,7 @@ Personal injury is a legal term covering civil claims where someone's negligence
 
 So when you file a personal injury lawsuit after a car accident, you're exercising a tort law right. The bodily injury insurance claim might be how you actually get paid, but the lawsuit is the legal mechanism that compels payment when the insurance company won't cooperate or when damages exceed the policy limits.
 
-What surprised me early on, coming from the adjuster side, was how attorneys used the personal injury lawsuit as leverage even when they expected to settle. Filing suit opens up discovery, and discovery opens up things insurers would rather keep quiet, like prior complaints about a defective product, or internal communications about a lowball settlement strategy.
+Attorneys often use the personal injury lawsuit as leverage even when they expect to settle. Filing suit opens up discovery, and discovery opens up things insurers would rather keep quiet, like prior complaints about a defective product, or internal communications about a lowball settlement strategy.
 
 The CDC's injury data consistently shows that unintentional injuries are a leading cause of death and disability in the U.S., which means the pipeline of legitimate personal injury claims is enormous. Most of those claims never see a courtroom, but the threat of litigation is exactly what moves settlements.
 
@@ -119,7 +115,6 @@ If you're documenting your own injury and want to stay organized through this pr
 - Insurance Research Council: Studies on bodily injury claim severity trends and settlement patterns
 
 ---
-
 
 *Photo: [Vika Glitter](https://www.pexels.com/@vika-glitter-392079) via Pexels*
 

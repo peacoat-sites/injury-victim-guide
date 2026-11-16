@@ -103,7 +103,7 @@ Some states cap non-economic damages in certain types of cases. Your attorney ne
 
 ## Why These Cases Take So Long (and Why That's Actually Correct)
 
-I've had clients frustrated that their case has been going for two years with no resolution. That frustration is completely understandable. It's also a sign the case is being handled correctly.
+Cases that stretch on for two years without resolution can frustrate plaintiffs understandably. That frustration is completely understandable. It's also a sign the case is being handled correctly.
 
 Here's the core problem with settling too fast: you can't fully know what a catastrophic injury will cost until the medical picture is stable. A brain injury victim's long-term cognitive function may not be clear for a year or more. A spinal cord injury patient may have significant complications develop over time. Settling before that picture is clear means guessing, and guessing wrong is permanent.
 

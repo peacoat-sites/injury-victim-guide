@@ -31,7 +31,7 @@ You submitted a claim. The insurance adjuster reviewed it, ran it through their 
 
 Insurance adjusters work within what's called a "reserve," a dollar amount set internally when your claim is opened. That reserve represents the maximum the company expects to pay. But it's not what they'll offer first. They'll start low because most people accept.
 
-Most people are stressed, in pain, maybe out of work. They get a check offer and think "at least it's something." I've seen this happen dozens of times. A claimant with a legitimate $40,000 claim walks away with $18,000 because they didn't know the process, didn't document their damages fully, and felt intimidated by someone who sounded authoritative on the phone.
+Most people are stressed, in pain, maybe out of work. They get a check offer and think "at least it's something." A common mistake is accepting too quickly without understanding the process, documenting damages fully, or questioning an adjuster who sounds authoritative. For example, a legitimate $40,000 claim can settle for $18,000 when the claimant lacks this information and preparation.
 
 The Insurance Information Institute [acknowledges that settlement negotiations are expected in personal injury claims](https://www.iii.org/), and that insurers factor in the likelihood of litigation when calculating offers. Translation: if you look like someone who will fight, you'll usually get more.
 
@@ -74,7 +74,7 @@ You can't just say "I want more." You need to anchor your counter-offer to a spe
 | Multiplier Method | Multiply special damages by a factor (usually 1.5x to 5x) based on severity | $32,000 x 3 = $96,000 total demand |
 | Per Diem Method | Assign a daily dollar value to your suffering for each day you were impacted | $150/day x 180 days = $27,000 added to specials |
 
-Severity drives the multiplier. A soft-tissue strain that healed in eight weeks looks different from a herniated disc requiring surgery. The [pain and suffering calculation formula](/pain-and-suffering-calculation-formula/) goes deeper on how adjusters and attorneys arrive at these numbers, and understanding it gives you real leverage.
+Severity drives the multiplier. A soft-tissue strain that healed in eight weeks looks different from a herniated disc requiring surgery. The [pain and suffering calculation formula](/pain-and-suffering-calculation-formula/) goes deeper on how adjusters and attorneys arrive at these numbers, and understanding it strengthens your negotiating position.
 
 Your counter-demand should be higher than what you'll actually accept. Leave room to negotiate down without landing below your true minimum. Never reveal your minimum number to the adjuster.
 
@@ -114,7 +114,7 @@ If you're still figuring out whether you even have a viable claim, start with th
 
 ## Protecting Yourself: Common Mistakes That Kill Settlements
 
-I've watched otherwise strong claims get gutted by avoidable mistakes. Here are the ones I see most often.
+Strong claims often get weakened by avoidable mistakes.
 
 **Accepting a quick settlement before treatment ends.** Once you sign a release, it's permanent. If your "minor whiplash" turns into a six-month treatment course with a $30,000 bill, it doesn't matter. You already settled. Never settle before you've reached what doctors call "maximum medical improvement," the point where your condition has stabilized and future treatment costs can be estimated.
 
@@ -133,7 +133,6 @@ The negotiation process feels unequal because it is, at least at the start. The 
 - [injury and symptom tracking workbook](https://www.amazon.com/s?k=injury+symptom+journal)
 - [make clear that claimants have the right to negotiate and are not obligated to accept any settlement offer](https://www.americanbar.org/groups/public_education/)
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

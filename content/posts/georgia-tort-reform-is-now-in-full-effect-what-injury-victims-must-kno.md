@@ -16,13 +16,11 @@ affiliate_disclosure: true
 
 Picture this: it's the summer of 2026, you've just been hurt in a [car accident](/back-injury-settlement-amounts-car-accident/) on I-285, and your neighbor's kid who went to law school tells you over the backyard fence that "Georgia changed all the rules" and your case might not be worth what it used to be. You don't know whether to believe him or panic. Both, maybe.
 
-Here's the thing: he's not entirely wrong. On April 21, 2025, Governor Brian Kemp signed SB 68 and SB 69 into law, kicking off what legal analysts are calling Georgia's most sweeping [tort reform](/how-georgias-new-tort-reform-laws-affect-your-injury-claim/) in nearly two decades, the first major overhaul since 2005. The changes rolled out in stages, and as of July 1, 2026, the final major piece locked into place: mandatory registration and disclosure rules for litigation financing. The package is now fully operational. And it is reshaping how injured Georgians pursue claims, how those claims get valued, and who has to reveal what to whom in a courtroom.
+He's not entirely wrong. On April 21, 2025, Governor Brian Kemp signed SB 68 and SB 69 into law, kicking off what legal analysts are calling Georgia's most sweeping [tort reform](/how-georgias-new-tort-reform-laws-affect-your-injury-claim/) in nearly two decades, the first major overhaul since 2005. The changes rolled out in stages, and as of July 1, 2026, the final major piece locked into place: mandatory registration and disclosure rules for litigation financing. The package is now fully operational. And it is reshaping how injured Georgians pursue claims, how those claims get valued, and who has to reveal what to whom in a courtroom.
 
 What most people don't realize is that these reforms don't just tinker around the edges. They change what a jury sees, what lawyers can say, and how your medical bills get counted. According to a July 2026 analysis published by Greathouse Trial Law in the National Law Review, the practical effects on 2026 [personal injury claims](/la-wildfire-personal-injury-claims-what-victims-can-recover/) are already being felt across the state. If you're hurt in Georgia right now, or you're watching from another state that's eyeing similar legislation, you need to understand what actually changed.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SB 68 and SB 69, signed April 21, 2025, represent Georgia's biggest tort overhaul since 2005.</li><li style="margin:5px 0">As of July 1, 2026, litigation funders must register with the state and disclose agreement terms.</li><li style="margin:5px 0">"Phantom damages" are eliminated: juries now see amounts actually paid, not inflated billing rates.</li><li style="margin:5px 0">Attorneys face new restrictions on suggesting specific high-dollar pain and suffering figures to juries.</li><li style="margin:5px 0">Defendants can now request split trials, separating liability from damages, adding time and cost.</li></ul></div>
-
 
 ## The "Phantom Damages" Change Is the One That Hits Your Wallet
 
@@ -36,9 +34,7 @@ This doesn't mean you can't recover medical costs. It means the floor shifts dow
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I've seen cases where the opening argument in a trial changed everything. A skilled plaintiff's attorney might tell a jury, "We're asking you to award $15 million for what this family lost," and that number anchors the jury's thinking before a single witness testifies. It's a real and documented psychological effect.
+I've seen cases where the opening argument in a trial changed everything. A skilled plaintiff's attorney might tell a jury, "We're asking you to award $15 million for what this family lost," and that number anchors the jury's thinking before a single witness testifies. This reflects documented psychological anchoring effects.
 
 SB 68 restricts that. Georgia attorneys are now limited in how they can suggest specific high-dollar figures for non-economic damages like pain and suffering. The law also eliminates double recovery of attorney fees in certain circumstances. The practical effect is that plaintiffs' lawyers have less room to frame the magnitude of what a client deserves before the evidence comes in.
 

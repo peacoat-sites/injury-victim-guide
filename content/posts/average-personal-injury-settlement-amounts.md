@@ -41,7 +41,7 @@ That doesn't mean knowing the landscape is useless. It helps you spot when an of
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-When I was adjusting claims, these were the variables we actually weighed.
+The following variables typically affect how adjusters evaluate claims.
 
 **Liability clarity.** Three witnesses saw the other driver run a red light and hit you. Liability is clear. Clear liability means stronger leverage. Shared fault complicates everything. Most states use comparative negligence, so if you're found 20% at fault, your recovery drops by 20%. A few states still use contributory negligence, which can bar recovery entirely if you're even slightly at fault. Know your state's rule before evaluating any offer.
 
@@ -81,7 +81,7 @@ These ranges come from aggregated claim data and legal resources like Nolo's per
 
 You can actually influence your outcome. The biggest mistake I see is people treating their claim as something that happens to them. It's not. You're building a case, and what you do in the first days and weeks matters.
 
-**Step 1: Get medical care immediately and follow through.** A gap in treatment gives adjusters ammunition to argue you weren't seriously hurt. I've seen legitimate claims devalued by $10,000 or more because someone waited three weeks to see a doctor or stopped physical therapy after two sessions.
+**Step 1: Get medical care immediately and follow through.** A gap in treatment gives adjusters ammunition to argue you weren't seriously hurt. Claims can be devalued by $10,000 or more when there are gaps in treatment, such as waiting three weeks to see a doctor or stopping physical therapy after two sessions.
 
 **Step 2: Document everything.** Keep a daily log of your pain levels, what you couldn't do, how your injury affected your life. Canceled plans, missed kids' events, nights you couldn't sleep. A notebook works. If you want something structured, [injury documentation journals on Amazon](https://www.amazon.com/s?k=personal+injury+journal) can keep everything organized. (This site may earn a small commission on purchases, at no cost to you.)
 
@@ -120,7 +120,6 @@ You came here looking for a number. The honest answer is that your settlement de
 - [medical records organizer](https://www.amazon.com/s?k=medical+records+organizer)
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

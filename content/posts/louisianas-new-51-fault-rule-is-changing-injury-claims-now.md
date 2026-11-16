@@ -28,7 +28,7 @@ What surprises a lot of people is the cliff-edge nature of it. The difference be
 
 ## Why Fault Disputes Are About to Get Much More Contentious
 
-I spent 12 years on the insurance side of these claims, and I can tell you with complete certainty: adjusters and defense attorneys already knew how to push fault percentages up. Now they have an even stronger incentive to do it. If they can get a plaintiff from 49% to 51%, the insurer pays nothing instead of something. That's not cynicism, that's just the financial math of how claims get evaluated.
+Adjusters and defense attorneys have long understood how to push fault percentages up. Now they have an even stronger incentive to do it. If they can get a plaintiff from 49% to 51%, the insurer pays nothing instead of something. That's not cynicism, that's just the financial math of how claims get evaluated.
 
 Gertler Law Firm discussed this dynamic directly in June 2026, noting that fault disputes are becoming far more evidence-critical in both settlement negotiations and litigation. What used to be a negotiation about how much to pay is increasingly a battle about whether to pay anything at all. Expect defendants and their insurers to scrutinize every detail: your speed, your phone records, whether you were wearing a seatbelt, whether you had the legal right of way, what witnesses say you did in the seconds before impact.
 

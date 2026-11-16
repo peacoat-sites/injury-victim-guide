@@ -53,7 +53,7 @@ What drives soft tissue values up:
 - A treating physician who clearly connects your symptoms to the crash
 - Records showing the injury persisted well beyond the typical recovery window
 
-What drives them down: gaps in treatment, using only a chiropractor without any ER or primary care visit, waiting weeks to see a doctor, and recorded statements to the adjuster before you've fully assessed your injuries. I've seen clients lose tens of thousands of dollars simply because they told an adjuster "I'm doing okay" two weeks after a crash before their nerve damage was properly diagnosed.
+What drives them down: gaps in treatment, using only a chiropractor without any ER or primary care visit, waiting weeks to see a doctor, and recorded statements to the adjuster before you've fully assessed your injuries. A common mistake is telling an adjuster "I'm doing okay" early in recovery, before all injuries are properly diagnosed. This can significantly reduce settlement value, particularly when conditions like nerve damage emerge later.
 
 ## Broken Bones and Orthopedic Injuries
 
@@ -87,7 +87,7 @@ Car fires, airbag deployment, and chemical exposure from accidents can cause bur
 
 Juries, and by extension insurance companies trying to avoid trial, tend to award higher non-economic damages for injuries that are visible and permanent. Facial scarring in particular tends to receive serious attention. Reconstructive surgery costs, psychological treatment for body image trauma, and the documented impact on your social and professional life all feed into the valuation.
 
-There's no formula that spits out a number, which is why these cases vary so dramatically. I've seen minor scarring cases settle for more than some fracture cases, simply because the disfigurement was in a visible location and extensively documented with photographs from the day of the accident forward.
+There's no formula that spits out a number, which is why these cases vary so dramatically. Settlement amounts vary dramatically based on factors beyond injury type alone. A minor scar in a highly visible location with extensive photographic documentation from the time of injury may settle for more than a fracture case with minimal documentation.
 
 ## The Multiplier Method: How Insurers Actually Calculate Pain and Suffering
 
@@ -116,7 +116,7 @@ If you're currently dealing with a car accident injury, these actions matter. Ta
 
 **2. Document everything.** Photographs of your injuries on day one, day three, and week two tell a story that words can't. Keep a daily pain journal. Write down how the injury affects your sleep, your ability to work, your relationships, your ability to lift your kids or walk the dog. These details build a pain and suffering narrative.
 
-If you want a structured way to do this, a medical records and injury documentation organizer can help you stay organized. Some clients I've worked with used simple claim workbooks to track every appointment, bill, and symptom. [These types of organizers are available on Amazon](https://www.amazon.com/s?k=personal+injury+claim+organizer) and can be a practical investment when you're trying to manage a complex situation. *As an Amazon Associate this site earns from qualifying purchases.*
+If you want a structured way to do this, a medical records and injury documentation organizer can help you stay organized. Simple claim workbooks can track every appointment, bill, and symptom. [These types of organizers are available on Amazon](https://www.amazon.com/s?k=personal+injury+claim+organizer) and can be a practical investment when you're trying to manage a complex situation. *As an Amazon Associate this site earns from qualifying purchases.*
 
 **3. Don't give a recorded statement without guidance.** You're not legally required to give one to the other driver's insurer. Your own insurer's policy may require cooperation, but you still have the right to understand what you're agreeing to.
 
@@ -135,7 +135,6 @@ Every car accident claim is as individual as the person dealing with it. The inj
 - [The CDC's injury data](https://www.cdc.gov/injury/wisqars/)
 - [These types of organizers are available on Amazon](https://www.amazon.com/s?k=personal+injury+claim+organizer)
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

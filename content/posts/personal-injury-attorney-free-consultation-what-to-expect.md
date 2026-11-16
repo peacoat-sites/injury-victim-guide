@@ -55,7 +55,7 @@ Here's what to bring, ranked by usefulness:
 
 **Insurance information.** Your own policy and whatever you know about the at-fault party's insurance. If you were in a car accident and exchanged information, bring that sheet.
 
-One thing I'd add from the years I spent on the other side of this: keep a daily pain journal starting the day after any accident. Not because you'll necessarily need it, but because insurance adjusters are trained to ask "what were you doing on October 14th?" six months after an incident and use your inability to answer as evidence that you weren't that hurt. A simple notebook works. There are also [injury documentation and claim workbooks on Amazon](https://www.amazon.com/s?k=personal+injury+claim+workbook) that walk you through what to record daily (this site may earn a commission on purchases). I've seen a consistent pain journal swing a soft-tissue case considerably.
+Keep a daily pain journal starting the day after any accident. Not because you'll necessarily need it, but because insurance adjusters are trained to ask "what were you doing on October 14th?" six months after an incident and use your inability to answer as evidence that you weren't that hurt. A simple notebook works. There are also [injury documentation and claim workbooks on Amazon](https://www.amazon.com/s?k=personal+injury+claim+workbook) that walk you through what to record daily (this site may earn a commission on purchases). A consistent pain journal can strengthen a soft-tissue case.
 
 ## The Questions They'll Ask You
 

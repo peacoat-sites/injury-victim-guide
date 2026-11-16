@@ -25,9 +25,9 @@ author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 lastmod: 2026-07-08
 ---
-*I've watched people cry in my office over a decision they made three years earlier.* Not because they were cheated, exactly. Because nobody sat down with them and explained what they were actually choosing between before they signed.
+*People sometimes regret settlement decisions made years earlier.* Not because they were cheated, exactly. Because nobody sat down with them and explained what they were actually choosing between before they signed.
 
-The structured settlement versus lump sum question shows up in almost every significant personal injury case once liability is reasonably settled. And the advice people get on it is all over the place. I've seen attorneys lean hard toward structured settlements because they're easier to close. I've seen financial advisors push lump sums because that's where the fees are for them. What most people don't realize is that neither option is inherently better. The right answer depends almost entirely on *you*, your specific injuries, your age, your family situation, and a few factors most people never think to ask about.
+The structured settlement versus lump sum question shows up in almost every significant personal injury case once liability is reasonably settled. And the advice people get on it is all over the place. Attorneys may favor structured settlements because they're easier to close, while financial advisors may push lump sums because that's where the fees are. What most people don't realize is that neither option is inherently better. The right answer depends almost entirely on *you*, your specific injuries, your age, your family situation, and a few factors most people never think to ask about.
 
 Let me break this down the way I wish someone had broken it down for the people I used to watch sign things they didn't fully understand.
 
@@ -72,7 +72,7 @@ This is one area where the structured settlement has a genuine, concrete edge. W
 
 Severe and permanent injuries with ongoing medical costs are the clearest case. Spinal cord injuries, traumatic brain injuries, burns requiring years of reconstruction. If you're going to need a guaranteed income stream to cover medical care, attendant care, or adaptive equipment for decades, a structured settlement that mirrors those expenses is hard to beat. You can build in cost-of-living increases. You can schedule larger payments to coincide with anticipated medical procedures.
 
-Young claimants, particularly children, are another strong fit. A structured settlement for a minor can be designed so large payments land at 18, 25, and 30, rather than handing a teenager a check for several hundred thousand dollars at once. I've seen the other version play out. It doesn't always go well.
+Young claimants, particularly children, are another strong fit. A structured settlement for a minor can be designed so large payments land at 18, 25, and 30, rather than handing a teenager a check for several hundred thousand dollars at once.
 
 **When a lump sum often makes more sense:**
 
@@ -85,8 +85,6 @@ Cases involving debt. If you've been out of work for two years and you're facing
 ---
 
 ## The Flexibility Trap (And the Secondary Market)
-
-I want to spend some time here because this is where I've watched people get into real trouble.
 
 Once a structured settlement is established, you cannot simply call up the annuity company and ask for your money early. Your payment schedule is locked. However, there is a secondary market: structured settlement factoring companies that will buy your future payment rights for a lump sum today.
 

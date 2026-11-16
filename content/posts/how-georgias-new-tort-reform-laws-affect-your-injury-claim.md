@@ -19,7 +19,7 @@ If you filed a personal injury claim in Georgia before April 2025, you were play
 
 ## What Just Changed With Medical Damages (And Why It Matters More Than You Think)
 
-Here's the thing most people assume: if a hospital bills $80,000 for your treatment after a car accident, that's the number a jury hears. Under the old system, that was largely true. Under SB 68, it's not that simple anymore.
+Many people assume that if a hospital bills $80,000 for your treatment after a car accident, that's the number a jury hears. Under the old system, that was largely true. Under SB 68, the calculation changed.
 
 The new law requires juries to consider both the "chargemaster" rate, which is that full billed amount, and the amount that was actually paid, typically the lower negotiated rate your health insurer paid. So if your insurer settled that $80,000 bill for $22,000, the jury now knows both numbers. The practical effect is that defendants can argue your real economic loss was closer to $22,000, potentially driving down your total damages award.
 
@@ -28,8 +28,6 @@ I'll be honest, this one is genuinely complicated. On one hand, there's a legiti
 ## The Pain-and-Suffering Calculation Got Harder to Win
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Non-economic damages, the legal term for pain, suffering, emotional distress, and loss of enjoyment of life, are notoriously difficult to quantify. Plaintiff attorneys have long used a tactic called "anchoring," where they suggest a specific dollar figure early in closing arguments to give jurors a mental starting point. Research in behavioral psychology consistently shows that people anchor heavily on the first number they hear. Defense attorneys hate this for exactly that reason.
 

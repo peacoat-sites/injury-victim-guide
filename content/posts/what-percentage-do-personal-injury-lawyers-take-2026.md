@@ -64,8 +64,6 @@ Some states cap contingency fees by statute. New York, Florida, California, and 
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is the part that blindsides people most. The contingency fee and case costs are two different things.
 
 Costs are the out-of-pocket expenses to build and pursue your case: filing fees, expert witness fees, medical record requests, deposition transcripts, accident reconstruction specialists, and so on. A complex car accident case might run $5,000 to $15,000 in costs. A medical malpractice case can exceed $100,000 in expert expenses alone.
@@ -86,7 +84,7 @@ That's a $3,600 difference on a $100,000 recovery. On larger cases, the gap is p
 
 Here's a contrarian take that I'll stand behind: the contingency percentage is more negotiable than the legal industry wants you to believe.
 
-Attorneys compete for cases. Strong cases, with clear liability and serious injuries, are more attractive to firms than weak ones. If you've got a case where fault is obvious, your injuries are well-documented, and there's a well-insured defendant, you have actual leverage. A 25% or 28% fee isn't unheard of in those situations. I've seen it happen.
+Attorneys compete for cases. Strong cases, with clear liability and serious injuries, are more attractive to firms than weak ones. Cases with obvious fault, well-documented injuries, and a well-insured defendant give you leverage. A 25% or 28% fee isn't uncommon in those situations.
 
 What weakens your negotiating position: disputed liability, pre-existing conditions the defense will exploit, lower policy limits, or any scenario where the attorney is going to put in 200 hours to recover a modest sum. They're running a business. The math has to work for them too.
 
@@ -102,7 +100,7 @@ This is uncomfortable to say, but I'll say it: obsessing over the fee percentage
 
 A lawyer who charges 40% and recovers $250,000 nets you $150,000. A lawyer who charges 30% but settles too early or lacks the trial credibility to pressure the insurer, gets you $120,000. You net $84,000. The cheaper attorney cost you $66,000.
 
-Insurers track which attorneys actually go to trial. This is not a rumor, it's a documented dynamic in claims handling. Adjusters have internal ratings and institutional memory about which plaintiff's attorneys are serious trial threats and which ones will fold for a nuisance settlement. The firms that actually take cases to verdict get better pre-trial offers, because the insurer's math changes when trial risk is real.
+Insurers track which attorneys actually go to trial. Adjusters track which plaintiff's attorneys pursue trial and which settle early. The firms that actually take cases to verdict get better pre-trial offers, because the insurer's math changes when trial risk is real.
 
 When you're [evaluating attorneys](/how-to-choose-a-personal-injury-lawyer/), ask: "How many cases did you take to verdict in the last two years? What were the outcomes?" A good attorney will answer. A great one will have specifics.
 
@@ -128,7 +126,6 @@ And if you want to track your own case documentation, medical expenses, and insu
 
 ---
 
-
 ---
 
 The injury claim process is already stressful enough. According to injury data tracked by the [CDC's injury statistics program](https://www.cdc.gov/injury/wisqars/), millions of Americans experience unintentional injuries annually, and most of them have never dealt with an insurance claim before. Understanding the fee structure before you sign anything isn't cynicism. It's just knowing what you're agreeing to.
@@ -148,7 +145,6 @@ Ask the questions. Read the agreement. Pick the attorney who will actually fight
 - [CDC's injury statistics program](https://www.cdc.gov/injury/wisqars/)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

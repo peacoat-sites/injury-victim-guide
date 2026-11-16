@@ -41,7 +41,7 @@ There's also the disc issue, which is the one I wish more people understood upfr
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Here's something I got wrong for years when I was adjusting claims: I treated a delay in symptoms as a red flag suggesting the injury wasn't real or wasn't related to the accident. I wasn't alone. That was standard adjuster training. It's medically wrong.
+A common mistake in claims adjustment is treating a delay in symptoms as a red flag suggesting the injury wasn't real or wasn't related to the accident. This was standard adjuster training for years. It's medically wrong.
 
 When you show up at a spine specialist's office in week four complaining of new radiating pain down your left leg, that symptom timeline actually tells the doctor something specific. It suggests a disc that was injured during the crash has progressed to the point of nerve compression. The delay isn't suspicious, it's diagnostic.
 
@@ -57,13 +57,13 @@ That last one isn't a "call your doctor when you get a chance" situation. Leg we
 
 ## The Documentation Gap That Kills Claims
 
-I cannot overstate how often I've seen legitimate injury claims fail, not because of bad facts, but because of a documentation gap between the accident date and when the person finally sought consistent care.
+Legitimate injury claims often fail not because of bad facts, but because of a documentation gap between the accident date and when the claimant finally seeks consistent care.
 
 Here's a real scenario I encountered: a woman rear-ended on I-95 outside of Jacksonville in early 2024, moderate impact, her car was repaired for around $6,400. She felt achy but manageable for two weeks. At week three, the pain intensified and began radiating down her right leg. She went to a walk-in clinic, got told it was "muscle strain," prescribed cyclobenzaprine, and sent home. She didn't follow up for another month because she was juggling two kids and a job. By the time she consulted a personal injury attorney, the insurance carrier's initial response was that her injury was "inconsistent with the mechanism of loss" and her treatment gap suggested it wasn't related to the accident.
 
 She had a herniated disc at L4-L5. Confirmed by MRI. Directly consistent with the accident mechanics.
 
-The documentation gap cost her leverage at exactly the moment she needed it. → She eventually retained an attorney and recovered a settlement, but it took 14 months and a gap expert to explain the delay. Had she seen a spine specialist at week three and maintained continuous care, the trajectory would've looked entirely different.
+For example, a claimant with a documentation gap between the accident and consistent care may struggle to establish causation and recover full damages. Had the claimant seen a specialist early and maintained continuous care, the claim trajectory could have been different.
 
 What "continuous care" means practically: don't skip appointments because you had a "good week." I know that sounds counterintuitive and a little cynical, but insurance carriers literally track your appointment gaps against your pain diary entries. A good week is worth documenting as such, not worth using as a reason to cancel physical therapy.
 

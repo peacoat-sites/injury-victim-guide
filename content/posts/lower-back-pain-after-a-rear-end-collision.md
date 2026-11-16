@@ -25,15 +25,13 @@ faqs:
     a: "In many states, yes. Most states use some form of comparative negligence, which means your damages are reduced by your percentage of fault rather than eliminated entirely. A few states still use contributory negligence rules, which are much harsher. Where you live matters here, and it's worth understanding the rules in your state before assuming you have no case."
 ---
 
-Sixty-five percent of rear-[end collision](/what-to-do-after-a-rear-end-collision-not-at-fault/) victims develop lower back pain, and the majority of them don't feel it until 24 to 72 hours after the crash. I've seen this catch people completely off guard, time and again, both when I was on the other side of the desk reviewing claims and now when I'm helping people understand what happened to their bodies and their rights.
+Sixty-five percent of rear-[end collision](/what-to-do-after-a-rear-end-collision-not-at-fault/) victims develop lower back pain, and the majority of them don't feel it until 24 to 72 hours after the crash. Delayed pain onset often catches people off guard, since they may feel fine immediately after the crash.
 
 If you're reading this because your back started aching a day or two after someone rear-ended you, and you're wondering whether it's serious or whether you should have said something sooner, take a breath. You're not alone, you didn't do anything wrong, and the timing of your symptoms doesn't make them less real or less valid. Insurance adjusters will sometimes imply otherwise. That's worth knowing upfront.
 
-Here's the thing that surprised me most when I was still adjusting claims: the crashes that cause the most stubborn back injuries are often the low-speed ones. Under 10 mph. The ones that leave barely a scratch on the bumper. A 2021 paper published in the *Journal of Orthopaedic & Sports Physical Therapy* found that impact speed has a poor correlation with injury severity in rear-end collisions, particularly for soft-tissue injuries to the lumbar region. The physics make sense once you understand them: a stiffer, less-damaged vehicle transfers more force directly to the occupant. Less crumple, more whip.
-
+Counterintuitively, the crashes that cause the most stubborn back injuries are often the low-speed ones. Under 10 mph. The ones that leave barely a scratch on the bumper. A 2021 paper published in the *Journal of Orthopaedic & Sports Physical Therapy* found that impact speed has a poor correlation with injury severity in rear-end collisions, particularly for soft-tissue injuries to the lumbar region. The physics make sense once you understand them: a stiffer, less-damaged vehicle transfers more force directly to the occupant. Less crumple, more whip.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Lower back pain appears 24-72 hours post-collision in most cases; delayed onset does NOT mean it's fabricated.</li><li style="margin:5px 0">Low-speed rear-end crashes (under 10 mph) frequently cause serious lumbar injuries due to force transfer dynamics.</li><li style="margin:5px 0">Lumbar sprains, disc herniations, and facet joint injuries are the three most common diagnoses after a rear-end crash.</li><li style="margin:5px 0">Seek medical evaluation within 72 hours, even if pain is mild; your records will matter if a claim follows.</li><li style="margin:5px 0">In represented injury cases involving disc herniation, settlements regularly reach five to six figures, but outcomes vary widely.</li></ul></div>
-
 
 ## What's Actually Happening to Your Spine
 
@@ -53,8 +51,6 @@ One thing I didn't fully appreciate until I started working with [injury victims
 
 > **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The 72-hour window isn't just a medical recommendation. It's also a legal and practical reality that affects how your case gets handled.
 
 According to data compiled by [the CDC's injury reporting systems](https://www.cdc.gov/injury/wisqars/), motor vehicle crashes are the second-leading cause of emergency department visits for musculoskeletal injuries in adults under 65. But most rear-end collision victims don't go to the ER. They go home, take some ibuprofen, and figure they'll feel better in the morning. Then two days later they can barely get out of bed.
@@ -63,9 +59,7 @@ Here's what I tell people who call me in that situation: go get evaluated today.
 
 A concrete example: a woman in Austin, Texas, was rear-ended at a stoplight in late 2024. She had mild stiffness the day after and decided to wait it out. By day four she had debilitating pain radiating down her left leg. She saw her primary care doctor on day five. The adjuster on that file initially offered $1,800 and cited the treatment gap. She eventually retained an attorney, got an MRI showing an L4-L5 disc herniation, and her case settled at a number considerably higher. I can't quote the final figure, but I can tell you the five-day delay cost her months of unnecessary argument.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Days to first medical visit vs. claim complication rate (%)</div><div class="sc-row"><span class="sc-label">Same day</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">1-2 days</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">19%</span></div><div class="sc-row"><span class="sc-label">3-7 days</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">41%</span></div><div class="sc-row"><span class="sc-label">8-14 days</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">63%</span></div><div class="sc-row"><span class="sc-label">15+ days</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">78%</span></div><div class="sc-src">Source: Insurance Research Council, 2023 Injury Claims Study</div></div>
-
 
 That chart tells a story I watched play out over and over from the adjuster's side. Every day you wait, the number of hoops you'll have to jump through to prove your injury multiplies.
 
@@ -84,11 +78,9 @@ The typical diagnostic pathway, current as of July 2026, looks something like th
 | Orthopedic or neurology consult | Week 4-12 | Surgical necessity, specialist opinion on prognosis | $200-$600 |
 | EMG/nerve conduction study | If radiculopathy suspected | Nerve damage location and severity | $400-$1,100 |
 
-The MRI cost range is wide because facility type makes a huge difference. A hospital-based MRI and a freestanding imaging center MRI produce the same images. If you're paying out of pocket, get quotes. In my experience, freestanding centers often run $800-$1,400 less for the same scan.
+The MRI cost range is wide because facility type makes a huge difference. A hospital-based MRI and a freestanding imaging center MRI produce the same images. If you're paying out of pocket, get quotes. Freestanding imaging centers typically charge $800-$1,400 less than hospital-based facilities for the same scan.
 
 ## What "Soft Tissue" Really Means (and Why Adjusters Love That Term)
-
-I want to spend a minute on this because it frustrated me even when I was an adjuster.
 
 "Soft tissue injury" is technically accurate: it describes damage to muscles, tendons, and ligaments rather than to bone. But the term has been weaponized by the insurance industry to mean "minor, temporary, not serious." That framing is often wrong.
 
@@ -115,7 +107,6 @@ One more thing: if you already have pre-existing lumbar issues, like degenerativ
 - [Nolo Legal Encyclopedia: Personal Injury](https://www.nolo.com/legal-encyclopedia/personal-injury) -- plain-language explanation of soft-tissue damages and personal injury valuation.
 
 ---
-
 
 *Photo: [Mike Bird](https://www.pexels.com/@mikebirdy) via Pexels*
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You filed the claim weeks ago. The adjuster seemed friendly on the phone, promised to "get back to you soon," and then... nothing. You call again. They're "still reviewing your file." Your medical bills are stacking up, you're missing work, and the insurance company keeps dangling the possibility of a settlement just far enough out of reach to keep you waiting. Sound familiar?
 
-I've seen this play out hundreds of times, from both sides of the table. As an adjuster, I was trained in exactly these techniques. Now I help people understand what's actually happening when a claim goes quiet, and more importantly, what you can do about it.
+A common pattern in claims handling is the use of delay tactics, whether intentional or built into standard procedures. Understanding what's happening when a claim goes quiet is important so you know what to do about it.
 
 ## Why Insurance Companies Delay: It's Not an Accident
 
@@ -49,7 +49,7 @@ I want to name these clearly. Recognizing them is the first step to countering t
 
 **The Endless Documentation Request.** You send your medical records. They ask for your complete five-year medical history. You send that. Now they want a [recorded statement](/should-i-give-a-recorded-statement-to-the-insurance-company/). Then they need "clarification" on one document. Then they've assigned the file to a new adjuster who needs time to "get up to speed." Each request resets your emotional clock and extends the timeline.
 
-**The Sympathetic Stall.** Your adjuster is friendly, empathetic, almost apologetic. "I'm really trying to get this pushed through for you," they say. "My supervisor keeps holding things up." This is frequently a technique. A warm relationship with your adjuster does not mean your claim is being prioritized. I've watched adjusters who genuinely liked their claimants still follow department protocols that stretched claims out for months.
+**The Sympathetic Stall.** Your adjuster is friendly, empathetic, almost apologetic. "I'm really trying to get this pushed through for you," they say. "My supervisor keeps holding things up." This is frequently a technique. A warm relationship with your adjuster does not mean your claim is being prioritized. Adjusters who are personally friendly may still follow department protocols that stretch claims out for months.
 
 **Questioning Causation Repeatedly.** After you've already submitted medical records showing your injury, they send a letter suggesting that your herniated disc might be a "pre-existing condition." They request an [Independent Medical Examination](/insurance-adjuster-tactics-to-watch-out-for/). Here's what you should know: these exams aren't actually independent. They're performed by doctors who are paid by, and frequently work exclusively for, insurance companies. According to Nolo's personal injury resources, IME doctors deny or minimize claims at significantly higher rates than treating physicians, and their findings are routinely used to justify lower settlement offers.
 

@@ -20,9 +20,7 @@ A nuclear verdict is any jury award exceeding $10 million. According to the Inst
 
 So you have real injuries getting more expensive, juries responding with larger awards, and state legislatures responding to insurance and business lobbying by capping what those juries can award. Pick a side later. First, understand what's actually happening.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Nuclear verdicts exceed $10 million; the Institute for Legal Reform analyzed 1,288 cases showing rising frequency through 2026.</li><li style="margin:5px 0">West Virginia now caps certain trucking accident damages at $5 million, directly limiting some of the highest-value claims.</li><li style="margin:5px 0">Bodily injury severity in auto claims rose 9.2% year-over-year in early 2026, pushing underlying claim values higher.</li><li style="margin:5px 0">Missouri, South Carolina, Alabama, and Indiana all have active tort reform efforts in mid-2026, more caps are coming.</li><li style="margin:5px 0">Georgia now requires disclosure of third-party litigation funders, which changes how big cases get financed.</li></ul></div>
-
 
 ## Why Juries Keep Writing Nine-Figure Checks
 
@@ -35,8 +33,6 @@ Trucking cases are particularly fertile ground. The combination of severe injuri
 ## The New Caps: A State-by-State Snapshot
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where things get practical. The reforms aren't uniform. What's changed in your state, or what might change soon, directly affects the ceiling on your recovery.
 
@@ -57,7 +53,7 @@ That's not a hypothetical. That's the law right now for some West Virginia truck
 
 Sentry's 2026 C-Suite Stress Index found that 69% of roughly 1,200 business leaders believe a single nuclear verdict could put their company out of business. That number tells you something important about settlement negotiations.
 
-When a defendant's leadership genuinely fears an existential verdict, they have real incentive to settle before trial. That fear is your leverage, to the extent that leverage exists in any specific case. But when the same defendant operates in a state with newly enacted caps, the math changes. A $5 million cap on damages reduces the worst-case scenario they're staring at, which reduces their urgency to settle at full value.
+When a defendant's leadership genuinely fears an existential verdict, they have real incentive to settle before trial. That fear can create settlement pressure, to the extent such pressure exists in any specific case. When a defendant operates in a state with newly enacted caps, the math changes. A $5 million cap on damages reduces the worst-case scenario they're staring at, which reduces their urgency to settle at full value.
 
 I spent 12 years adjusting claims. The single biggest factor in settlement value was always the defendant's realistic assessment of trial exposure. Caps shrink that exposure. Smaller exposure means lower settlement offers, even when your injuries are just as severe.
 

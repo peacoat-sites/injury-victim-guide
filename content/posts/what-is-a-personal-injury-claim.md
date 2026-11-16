@@ -40,7 +40,7 @@ The legal backbone of every personal injury claim is a concept called **negligen
 3. That breach **caused** your injury. You slipped because of the wet floor, not because your shoe fell apart.
 4. You suffered actual **damages** as a result: a fractured wrist, a week off work, physical therapy bills.
 
-Miss any one of those four elements and the claim gets much harder to make. Insurance adjusters, and I spent 12 years being one, are trained to attack whichever element is weakest. They'll question causation. They'll argue your injuries were pre-existing. They'll suggest you were partly at fault. That's not cynicism; it's just how the system works.
+Miss any one of those four elements and the claim gets much harder to make. Insurance adjusters are trained to attack whichever element is weakest. They'll question causation. They'll argue your injuries were pre-existing. They'll suggest you were partly at fault. That's not cynicism; it's just how the system works.
 
 Personal injury claims cover a wide range of situations: car accidents, slip-and-fall incidents, dog bites, defective products, medical malpractice, and workplace injuries (though workers' comp has its own separate track). The CDC's injury data through WISQARS consistently shows that falls and motor vehicle crashes account for the largest share of nonfatal injuries treated in U.S. emergency departments, which means millions of Americans each year are potential claimants, whether they realize it or not.
 
@@ -115,7 +115,7 @@ Compensation in personal injury is divided into two main buckets: **economic dam
 
 Some states also allow **punitive damages** in cases where the defendant's conduct was especially reckless or intentional. These are meant to punish, not just compensate. They're the exception, not the rule.
 
-I've seen clients dramatically underestimate their non-economic damages because they feel strange putting a dollar value on pain. Don't make that mistake. Insurance companies absolutely calculate these amounts, using formulas like the multiplier method (multiplying economic damages by a number, often between 1.5 and 5, based on severity). If you don't understand how they're valuing your claim, you can't negotiate effectively.
+A common mistake is dramatically underestimating non-economic damages because of discomfort putting a dollar value on pain. Don't make that mistake. Insurance companies absolutely calculate these amounts, using formulas like the multiplier method (multiplying economic damages by a number, often between 1.5 and 5, based on severity). If you don't understand how they're valuing your claim, you can't negotiate effectively.
 
 | Type | Examples | How It's Calculated |
 |---|---|---|

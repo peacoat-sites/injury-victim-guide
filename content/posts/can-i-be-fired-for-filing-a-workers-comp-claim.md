@@ -43,13 +43,11 @@ What they'll do instead:
 - Suddenly find that your performance has been "unsatisfactory"
 - Put you on a performance improvement plan right after you return from medical leave
 
-I've seen all of these. The timing is the tell.
+The timing is the tell.
 
 ## Timing Is Your Best Evidence (And Your Biggest Vulnerability)
 
 > **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Courts and administrative agencies look hard at timing when evaluating retaliation claims. If you filed a claim in January and got terminated in February with no prior performance issues documented, that's a suspicious pattern. A jury can see that. Employers know this too, which is why sophisticated HR departments often wait longer, or build a paper trail first.
 
@@ -85,7 +83,6 @@ If you can't afford an attorney, many employment lawyers who handle workers' com
 
 ---
 
-
 ---
 
 The system here genuinely does offer protection. What it doesn't offer is automatic protection. You have to know your rights, move fast, and build your case before the other side builds theirs. That's not cynical, it's just practical. The workers I saw navigate this best were the ones who took the threat seriously from the start, not the ones who assumed good faith would be enough.
@@ -103,7 +100,6 @@ The system here genuinely does offer protection. What it doesn't offer is automa
 - [CDC's injury statistics](https://www.cdc.gov/injury/wisqars/)
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

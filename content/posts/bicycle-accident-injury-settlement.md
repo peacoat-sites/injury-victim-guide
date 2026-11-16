@@ -25,9 +25,9 @@ faqs:
     a: "Almost never. First offers are routinely low, sometimes dramatically so. Insurance companies know that injured people are under financial pressure and that many will accept the first number they hear. I watched this happen repeatedly from the inside. Counter-offer in writing, with documentation supporting your number, and be prepared for at least two or three rounds of negotiation before reaching a fair figure."
 ---
 
-Most cyclists assume that if a driver hits them and it's clearly the driver's fault, a fair settlement will follow naturally. I believed that too, back when I was adjusting claims on the other side of the table. I was wrong, and so is almost everyone who walks into this process without knowing how insurance companies actually think about bicycle accident cases.
+Most cyclists assume that if a driver hits them and it's clearly the driver's fault, a fair settlement will follow naturally. This assumption is often wrong. Insurance companies think about bicycle accident cases differently than cyclists expect.
 
-Let me be direct about something: bicycle injury claims are genuinely different from car accident claims, and not in ways that favor you. I spent 12 years reviewing these files for carriers, and the bias against cyclists is baked into how adjusters are trained to evaluate them. Not maliciously, exactly, but systematically. Adjusters are taught to look for contributory negligence (meaning ways the injured person shared fault) and cyclists make for easy targets. Were you wearing a helmet? Lights? Did you have a bell? Were you in a bike lane or "taking the lane"? I've seen adjusters reduce offers by 20-30% based on the absence of a helmet alone, even in states where helmets aren't legally required for adults.
+Bicycle injury claims differ from car accident claims in ways that typically disadvantage cyclists. Adjusters are trained to look for contributory negligence, and cyclists present easy targets for this scrutiny. Common questions include whether you wore a helmet, had lights, carried a bell, or stayed in a bike lane versus taking the lane. Adjusters often reduce offers by 20-30% based on the absence of a helmet alone, even in states where adult helmets aren't legally required.
 
 Understanding how the other side thinks is the only way to fight back effectively.
 
@@ -37,7 +37,7 @@ Here's where I'll be honest: there's no magic formula, and anyone who quotes you
 
 The standard categories of compensation are medical expenses (past and future), lost wages, reduced earning capacity if your injuries are permanent, property damage to the bike and gear, pain and suffering, and in some states, loss of consortium if a spouse was affected. The tricky one is pain and suffering, because that's where adjusters have the most discretion and where I've seen the biggest variations.
 
-What surprised me, even after years in the industry, was how often cyclists leave property damage on the table. A quality carbon road bike can run $3,500 to $8,000 or more. A helmet that absorbed impact needs to be replaced even if it looks fine. Cycling computers, power meters, custom shoes, Garmin devices, all of that is compensable. Document every item with purchase receipts if you have them, or current replacement cost if you don't. I've seen adjusters offer $200 for a bike that cost $4,500. Push back. Get an independent appraisal if you need to.
+Cyclists often leave property damage on the table. A quality carbon road bike can run $3,500 to $8,000 or more. A helmet that absorbed impact needs to be replaced even if it looks fine. Cycling computers, power meters, custom shoes, Garmin devices, and similar equipment are all compensable. Document every item with purchase receipts if you have them, or current replacement cost if you don't. Adjusters may offer significantly less than actual value. Push back and get an independent appraisal if needed.
 
 The severity and permanence of your injuries will dominate the settlement math. Soft tissue injuries (sprains, road rash, minor fractures) typically settle in a lower range. Traumatic brain injuries, spinal damage, internal injuries, or anything requiring surgery or long-term rehabilitation pull numbers into territory that's genuinely life-changing. I don't want to quote you ranges here because they vary so much by state, by specific injury, and by insurance policy limits, but the [Insurance Information Institute](https://www.iii.org/) publishes data on average liability claim payouts that give you at least a baseline orientation.
 
@@ -55,7 +55,7 @@ The detail that only someone who's processed hundreds of these claims would tell
 
 Start a daily pain and function journal the same day you get home from the hospital or urgent care. Every morning, write two or three sentences: what hurts, what you couldn't do today that you could do before, and your sleep quality. It sounds tedious. It is tedious. But this journal becomes your most persuasive evidence of non-economic damages, and it's something an adjuster genuinely cannot discount the way they can a medical bill.
 
-A couple of practical tools I've seen cyclists use well: there are medical records organizers specifically designed for personal injury situations (you can find injury documentation journals and claim organizers on Amazon; as an Amazon associate this site may earn a commission on purchases). Keeping everything in one physical binder rather than a shoebox of papers changes how seriously adjusters treat you, honestly.
+Medical records organizers designed for personal injury situations can be helpful (you can find injury documentation journals and claim organizers on Amazon; as an Amazon associate this site may earn a commission on purchases). Keeping everything in one physical binder rather than scattered papers presents your claim more professionally to adjusters.
 
 ## How Fault Gets Assigned (And Why It Matters More Than You Think)
 
@@ -87,7 +87,7 @@ One of the most frustrating things about bicycle accident settlements is how lon
 | Negotiation rounds | 1-6 months | Disagreement on fault, damages |
 | Litigation if needed | 1-3 additional years | Court schedules, depositions, expert witnesses |
 
-MMI stands for Maximum Medical Improvement, and it's the most important timeline concept to understand. It's the point where your doctors believe your condition has stabilized. You should not settle before reaching MMI if your injuries are serious, because you can't know what your future medical costs will be. I've seen cyclists settle at 90 days for $18,000, then need surgery six months later that cost $34,000. Once you sign a release, that's it.
+MMI stands for Maximum Medical Improvement, and it's the most important timeline concept to understand. It's the point where your doctors believe your condition has stabilized. You should not settle before reaching MMI if your injuries are serious, because you can't know what your future medical costs will be. Settling too early can leave you liable for later medical expenses. Once you sign a release, you cannot go back for additional compensation.
 
 ## When to Involve an Attorney
 

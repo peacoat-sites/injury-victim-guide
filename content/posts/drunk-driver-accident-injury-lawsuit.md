@@ -42,12 +42,9 @@ You survived the crash. The other driver failed a field sobriety test at the sce
 
 **Misconception: Insurance always pays what you ask.** Many accident victims assume that submitting a claim automatically results in full compensation. However, data reveals a different reality. According to the Insurance Information Institute, insurers deny approximately 10-15% of personal injury claims outright, while underpaying valid claims is far more common. A 2023 study by the American Association for Justice found that initial settlement offers average 40-60% below actual damages in drunk-driving cases. Insurers employ claims adjusters trained in negotiation tactics to minimize payouts, and they have no obligation to offer fair market value on the first, or even subsequent, requests. Without documented evidence of injuries, medical records, and legal representation, claimants typically recover significantly less than entitled.
 
-
 **"Insurance will just pay whatever I ask for"**: Most people assume that because liability is clear in a drunk driver case, the insurer will quickly cut a check for their requested amount. But data tells a different story. According to the Insurance Research Council, insurers deny or underpay claims in roughly 30-40% of cases where liability seems obvious. Even with a drunk driver, where negligence is straightforward, insurers routinely offer 40-60% below actual damages. Why? They're betting injured parties will accept lowball offers rather than litigate. Without documented medical evidence, expert testimony on future care costs, and legal representation, you're negotiating against professionals trained to minimize payouts. The clearer the liability, the more aggressive the lowball tactic becomes.
 
-
 **"Insurance will just pay whatever I ask for"**: Most accident victims believe that because liability is clear in drunk-driver cases, insurers automatically approve full damage claims. But settlement data tells a different story. According to the Insurance Research Council, insurers deny or underpay 40-60% of injury claims in obvious-liability accidents, using tactics like challenging medical necessity or undervaluing [pain-and-suffering damages](/car-accident-pain-and-suffering-claim/). Even with a drunk driver's BAC results in evidence, you'll typically receive 60-75% of your actual damages without legal representation, and that's only if your claim is approved at all. The insurer's job is to minimize payouts, not validate your injuries.
-
 
 Most people assume that once the drunk driver gets convicted, the money follows. That's not how it works.
 
@@ -95,7 +92,7 @@ Why does this matter practically? Because the drunk driver may have minimal insu
 
 Social host liability is a related concept: if someone hosted a party, served alcohol to a visibly intoxicated guest (or a minor), and that person then caused your accident, the host may also bear liability depending on your state's laws.
 
-I've seen cases where the drunk driver had only a $25,000 liability policy, which sounds like a lot until you do the math on a serious spinal injury. The dram shop defendant in the same case carried a $1 million commercial policy. Knowing to look for these additional defendants isn't instinctive. It's one of several reasons having an attorney who handles these cases specifically matters.
+A serious spinal injury can quickly exhaust a $25,000 liability policy. In some cases, a dram shop defendant may carry a $1 million commercial policy. Knowing to look for these additional defendants isn't instinctive. It's one of several reasons having an attorney who handles these cases specifically matters.
 
 ---
 
@@ -135,7 +132,7 @@ If no fair settlement is reached, your case goes before a jury. Drunk driving ca
 
 ## What the Insurance Company Is Actually Doing While You Recover
 
-Let's be honest about something. The adjuster who calls you shortly after the accident is not trying to help you. They're trying to resolve your claim for as little money as possible. That's their job, and they're good at it.
+The adjuster who calls you shortly after the accident is not trying to help you. They're trying to resolve your claim for as little money as possible. That's their job, and they're good at it.
 
 Tactics I watched colleagues use for over a decade:
 
@@ -166,7 +163,6 @@ Getting hit by a drunk driver is a specific kind of injustice. The other person 
 - [on Amazon](https://www.amazon.com/s?k=injury+documentation+journal)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

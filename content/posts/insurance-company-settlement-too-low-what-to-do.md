@@ -33,7 +33,7 @@ So if you're sitting here with an offer that feels insulting, you're in the righ
 
 ## Why the First Offer Is Almost Always Too Low
 As of June 2026, 
-Insurance companies are businesses. Their financial model depends on collecting premiums and minimizing payouts. That's not cynicism, it's just how the math works.
+Insurance companies are businesses. Their financial model depends on collecting premiums and minimizing payouts.
 
 What surprised me, even after years inside the system, was how formulaic the lowballing is. Adjusters are often working from software, most commonly a program called Colossus, that spits out a settlement range based on inputs. If your treating physician isn't in their "preferred" database, if your injury type doesn't match a pattern they recognize, or if your documentation has gaps, the software undervalues your claim before a human even reviews it.
 
@@ -105,7 +105,7 @@ One practical note: if your injuries are serious or your case is complicated, ha
 
 I've talked to people who refused to call an attorney because they assumed it meant a years-long lawsuit. It usually doesn't.
 
-The reality is that most personal injury claims settle before a lawsuit is ever filed. An attorney's involvement often accelerates the process because insurance companies know attorneys mean more scrutiny, better documentation, and the credible threat of litigation.
+Most personal injury claims settle before a lawsuit is ever filed. An attorney's involvement often accelerates the process, as insurers anticipate more scrutiny, better documentation, and the credible threat of litigation.
 
 Attorneys who handle personal injury cases almost universally work on contingency, meaning they take a percentage of your settlement (often 33% if settled pre-suit, sometimes more if it goes to trial) and you pay nothing upfront. That structure matters: a good attorney won't take a case they don't think they can improve.
 
@@ -125,8 +125,6 @@ An initial consultation is almost always free. You're not committing to anything
 
 ## Understanding Bad Faith Insurance Practices
 
-This is a concept most people don't know exists, and it can completely change your leverage.
-
 Insurance companies have a legal duty to handle claims fairly and in good faith. When they don't, that's called "bad faith," and it can expose them to damages beyond just your original claim. Some states allow plaintiffs to recover attorney's fees and even punitive damages in bad faith cases.
 
 Bad faith examples include:
@@ -143,7 +141,7 @@ You can also file a complaint with your state's Department of Insurance. It does
 
 ---
 
-Getting a lowball offer doesn't mean you're stuck with it. It means you're at the beginning of a negotiation, not the end of one. Document everything, know your real numbers, and don't confuse the insurer's first move with their final position. If the gap is large or the case is complicated, a free attorney consultation costs you nothing and might change everything. You have more leverage than that envelope suggested.
+Getting a lowball offer doesn't mean you're stuck with it. It means you're at the beginning of a negotiation, not the end of one. Document everything, know your real numbers, and don't confuse the insurer's first move with their final position. If the gap is large or the case is complicated, a free attorney consultation costs you nothing and might change everything.
 
 ---
 

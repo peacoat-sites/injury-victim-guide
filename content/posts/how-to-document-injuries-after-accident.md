@@ -98,7 +98,7 @@ No single item on this list wins or loses a claim by itself. But the cumulative 
 
 ## Common Mistakes That Hurt Your Claim Later
 
-I've watched people do everything right at the accident scene and then quietly undermine their own case over the following weeks. Here are the mistakes I see most often.
+People often do everything right at the accident scene and then quietly undermine their own case over the following weeks. Common mistakes include the following.
 
 **Posting on social media.** Insurance companies do monitor claimants' social media. A photo of you smiling at a birthday party, or a post about a weekend hike, even if the hike was gentle and painful, can be used to contradict your injury claims. The safest move is to say nothing about the accident or your injuries online until everything is resolved.
 
@@ -125,7 +125,6 @@ The window for good documentation closes faster than most people expect. Records
 - [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

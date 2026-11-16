@@ -86,7 +86,7 @@ Understanding the sequence helps you avoid costly mistakes. Here's a realistic w
 
 **Step 3: Preserve all evidence.** Photograph your car from every angle before repairs. Save every medical bill, every Explanation of Benefits from your health insurer, every pay stub showing missed work. A physical or digital records organizer can be a lifesaver here. (If you want to stay organized from day one, a medical records and insurance claims workbook, like those available on [Amazon](https://www.amazon.com/s?k=insurance+claim+organizer+workbook), can help you track everything in one place. The site may earn a commission from qualifying purchases.)
 
-**Step 4: Reach maximum medical improvement (MMI).** MMI is the point where your doctor says your condition has stabilized and further significant improvement isn't expected. You want to reach MMI before you settle, because once you sign a release, you cannot go back for more money, even if your condition worsens. Settling too early is one of the most common and most costly mistakes I've seen people make.
+**Step 4: Reach maximum medical improvement (MMI).** MMI is the point where your doctor says your condition has stabilized and further significant improvement isn't expected. You want to reach MMI before you settle, because once you sign a release, you cannot go back for more money, even if your condition worsens. Settling too early is one of the most common and most costly mistakes in personal injury claims.
 
 **Step 5: Calculate your full damages.** Add up all past medical bills, projected future medical costs, lost wages, and a reasonable pain and suffering figure. This becomes the basis of your demand letter.
 
@@ -144,7 +144,6 @@ Nobody plans for a car accident. And nobody expects to spend months dealing with
 - [the Insurance Information Institute](https://www.iii.org/)
 - [Amazon](https://www.amazon.com/s?k=insurance+claim+organizer+workbook)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

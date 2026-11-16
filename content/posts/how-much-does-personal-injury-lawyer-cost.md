@@ -36,13 +36,13 @@ I know that sounds too good to be true. Stick with me.
 
 ## The Contingency Fee Model (And Why It Actually Exists)
 
-Personal injury attorneys work on what's called a contingency fee. That means their payment is contingent on you winning or settling your case. No recovery, no fee. It's not charity; it's a calculated business model. Attorneys are betting their time on you.
+Personal injury attorneys work on what's called a contingency fee. That means their payment is contingent on you winning or settling your case. No recovery, no fee. This arrangement aligns the attorney's financial incentive with yours. Attorneys are betting their time on you.
 
 The standard contingency fee runs between 33% and 40% of your total settlement or court award. Current rates as of July 2026 still cluster right around 33.3%, or one-third, for cases that settle before trial. That number climbs if your case goes to litigation, often to 40% or even a bit higher, because the attorney is taking on significantly more work and risk.
 
-Here's where I used to get frustrated watching people make mistakes when I was on the adjuster side: they'd hear "33%" and panic, thinking they'd lose most of their money. That math is wrong. You're calculating percentage of a larger number. If a skilled attorney negotiates a $120,000 settlement where you would have accepted $40,000 on your own (which happened constantly in my adjuster years, more than I'm proud to admit), you net $80,000 after fees. The do-it-yourself path would've put $40,000 in your pocket. The attorney made you an extra $40,000 even after their cut.
+Many people hear "33%" and assume they'll lose most of their settlement. The math works differently. You're taking a percentage of a larger number. For example, if an attorney negotiates a $120,000 settlement instead of the $40,000 you might have accepted on your own, you net $80,000 after the one-third fee. The do-it-yourself path would have put $40,000 in your pocket. The attorney added $40,000 to your recovery even after their cut.
 
-I've seen that exact scenario play out dozens of times. The self-represented claimant walks away thinking they saved money on attorney fees. They didn't.
+This scenario plays out regularly. Self-represented claimants often believe they saved money by avoiding attorney fees, when the opposite is true.
 
 ---
 
@@ -54,8 +54,6 @@ I've seen that exact scenario play out dozens of times. The self-represented cla
 | Option B: Costs deducted first | $100,000 | $31,350 | $5,000 | $63,650 |
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The contingency percentage isn't the only number you need to understand. There are case costs, and this is where things get a little more complicated.
 
@@ -130,7 +128,6 @@ The Insurance Information Institute has noted that one of the biggest sources of
 - Bureau of Justice Statistics, Civil Justice Survey: Aggregated data on personal injury verdicts and plaintiff recovery rates in state courts.
 
 ---
-
 
 ---
 

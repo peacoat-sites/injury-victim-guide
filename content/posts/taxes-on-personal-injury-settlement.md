@@ -64,7 +64,7 @@ The physical injury exclusion has clear edges, and what falls outside those edge
 
 **Lost wages** sit in a gray area that trips people up. Here's the nuance: if your lost wages are part of a broader physical injury settlement, they're generally excluded along with the rest of the damages. But if you receive a separate back-pay award, say from an employment discrimination claim with no physical injury component, that's taxable. The context matters enormously.
 
-**Interest** is always taxable. If your case dragged on and the settlement agreement included pre-judgment or post-judgment interest, that interest is income. I've seen clients surprised by a 1099 they weren't expecting because no one flagged the interest component during settlement negotiations.
+**Interest** is always taxable. If your case dragged on and the settlement agreement included pre-judgment or post-judgment interest, that interest is income. A settlement that includes an interest component without it being flagged during negotiations can result in an unexpected 1099.
 
 ---
 
@@ -82,7 +82,7 @@ This doesn't apply to everyone. Many people don't itemize deductions at all, esp
 
 How a settlement is *documented* and *categorized* in the actual written agreement can influence how the IRS treats the money. A settlement agreement that clearly allocates damages to physical injuries and physical sickness provides documentation that supports the exclusion. A vaguely written agreement that just says "settlement payment" without specifying what it covers leaves room for ambiguity.
 
-Here's what I tell people when they're at the negotiation stage: talk to your attorney about how the settlement is being described in the agreement. Ask directly whether the language supports the tax exclusion. A well-worded settlement that clearly ties the payment to physical injuries can protect you. That's not tax advice, it's smart documentation.
+At the negotiation stage, talk to your attorney about how the settlement is being described in the agreement. Ask directly whether the language supports the tax exclusion. A well-worded settlement that clearly ties the payment to physical injuries can protect you. That's not tax advice, it's smart documentation.
 
 The [Insurance Information Institute](https://www.iii.org/) has noted that settlement structures and their tax implications vary significantly based on claim type, which is exactly why the paperwork around the agreement deserves as much attention as the dollar amount.
 

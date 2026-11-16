@@ -49,7 +49,7 @@ Different types of liens come with wildly different rules, and this is where thi
 
 **Private health insurance:** If your Blue Cross or Aetna policy covered your treatment, there's almost certainly a subrogation clause buried in your policy. Subrogation is just the insurance company's right to recover what it paid out, from your settlement. The good news is that private health insurance liens are often negotiable, especially if your total recovery is limited. The "made whole" doctrine, which exists in many states, says your insurer can't collect its subrogation if doing so would leave you without full compensation for your losses. Whether that doctrine applies in your state and how courts interpret it varies enormously.
 
-**Medicare and Medicaid:** These are different animals entirely. Medicare's right to recover is governed by federal law, the Medicare Secondary Payer Act, and the agency takes it seriously. I've seen settlements delayed for months while parties waited for Medicare to issue its final demand letter. Medicaid operates under state law but is similarly aggressive. You can't simply ignore a Medicare or Medicaid lien, and if your attorney tries to finalize your settlement without addressing it, that's a serious red flag.
+**Medicare and Medicaid:** These are different animals entirely. Medicare's right to recover is governed by federal law, the Medicare Secondary Payer Act, and the agency takes it seriously. Settlements can be delayed for months while parties wait for Medicare to issue its final demand letter. Medicaid operates under state law but is similarly aggressive. Medicare and Medicaid liens can't be ignored, and any attorney who tries to finalize a settlement without addressing them is overlooking a serious problem.
 
 **Medical providers (hospital liens):** In many states, hospitals and other providers can file liens directly against your settlement, separate from any insurance lien. Some states have hospital lien acts that give providers a statutory right to collect from a third-party recovery. These amounts are also negotiable, sometimes dramatically so.
 
@@ -96,7 +96,6 @@ The money you see in a settlement offer and the money you actually receive are t
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
-
 
 *Disclosure: As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

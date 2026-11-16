@@ -31,15 +31,13 @@ Please don't be Dana.
 
 The question of how long you have to claim an injury after a [car accident](/car-accident-injury-claim-denied-what-to-do/) is one I fielded constantly as an adjuster, and now I hear it from the other side of the table. The honest answer is: it depends on where you live, what kind of claim you're filing, and a handful of timing rules that most people have completely wrong. I'm going to untangle all of it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most states give you 2-3 years from the accident date to file a personal injury lawsuit, but deadlines vary from 1-6 years.</li><li style="margin:5px 0">Your insurance claim deadline is often much shorter, sometimes just 30-90 days, and is set by your policy, not state law.</li><li style="margin:5px 0">Injuries that appear weeks or months later (like herniated discs) are still claimable, but documentation timing matters enormously.</li><li style="margin:5px 0">Missing your state's statute of limitations almost always kills your case permanently, with very few exceptions.</li><li style="margin:5px 0">Reporting the accident to your insurer immediately is always the right call, even if you feel fine at the scene.</li></ul></div>
-
 
 ## The Two Deadlines Everyone Confuses
 
-Here's where most people go wrong, and I'll admit I contributed to the confusion when I was on the insurance side. People use "claim" and "lawsuit" interchangeably, but they operate on completely different clocks.
+Most people confuse two separate deadlines that operate on completely different clocks. People use "claim" and "lawsuit" interchangeably, but they operate on completely different clocks.
 
-Your **insurance claim** deadline is set by your policy contract. Read the fine print (I know, I know) and you'll usually find language requiring you to report an accident "promptly" or "within a reasonable time." In practice, most insurers expect notice within 24 to 72 hours, and some policies explicitly state 30 days for [uninsured motorist](/uninsured-motorist-claim-process/) claims. Miss that window and the insurer can deny coverage for late notice, even if your underlying claim is solid. I've seen it happen. It's brutal and it's legal.
+Your **insurance claim** deadline is set by your policy contract. Read the fine print (I know, I know) and you'll usually find language requiring you to report an accident "promptly" or "within a reasonable time." In practice, most insurers expect notice within 24 to 72 hours, and some policies explicitly state 30 days for [uninsured motorist](/uninsured-motorist-claim-process/) claims. Miss that window and the insurer can deny coverage for late notice, even if your underlying claim is solid.
 
 Your **lawsuit deadline**, the statute of limitations, is a completely separate creature. That's the hard legal cutoff for filing a personal injury lawsuit in civil court. These are set by state legislatures, not insurers, and they vary significantly. This is the number people usually mean when they ask "how long do I have?"
 
@@ -47,11 +45,7 @@ Your **lawsuit deadline**, the statute of limitations, is a completely separate 
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, here's a look at the statute of limitations for personal injury claims (car accidents included) across states where this question comes up most frequently. The variation is real and it matters.
-
-
 
 | State | Injury Claim Deadline | Property Damage Deadline | Notes |
 |---|---|---|---|
@@ -126,7 +120,7 @@ See a doctor within 48 to 72 hours, even for a "just in case" check. This create
 
 Photograph everything: all vehicles, the scene, your body (bruising often shows up 24 to 48 hours later), any property damage.
 
-Keep an injury journal. One reader who emailed me last spring mentioned she'd started a simple notebook the week after her crash: date, symptoms, how they affected her day. That journal became a key piece of her pain-and-suffering documentation. Something like the [Accident and Injury Documentation Journal](https://www.amazon.com/s?k=accident+injury+documentation+journal) on Amazon (the site may earn a commission) can keep this organized if a blank notebook feels too unstructured.
+Keep an injury journal. For example, keeping a simple notebook with the date, symptoms, and how they affected your day can become important documentation for pain-and-suffering claims. Something like the [Accident and Injury Documentation Journal](https://www.amazon.com/s?k=accident+injury+documentation+journal) on Amazon (the site may earn a commission) can keep this organized if a blank notebook feels too unstructured.
 
 Talk to a personal injury attorney before you give a recorded statement to the other driver's insurer. Most offer free consultations. That recorded statement is not neutral; it's evidence, and adjusters are trained to ask questions in ways that minimize the insurer's exposure.
 
@@ -139,7 +133,6 @@ Talk to a personal injury attorney before you give a recorded statement to the o
 - American Journal of Emergency Medicine: Research on delayed symptom onset in low-speed vehicle collisions
 
 ---
-
 
 *Photo: [Julien](https://www.pexels.com/@domsson) via Pexels*
 

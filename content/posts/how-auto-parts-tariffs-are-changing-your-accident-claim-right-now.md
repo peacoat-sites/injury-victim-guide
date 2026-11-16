@@ -37,8 +37,6 @@ What this means practically is that a car worth $14,000 with a front-end collisi
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 About 60% of the auto replacement parts used in U.S. repair shops come from Mexico, Canada, and China. That single statistic explains a lot about why your claim is taking longer and costing more. The 25% tariff that hit those imports has driven up the cost of everything from quarter panels to electronic control modules, and repair shops are passing that cost directly into their estimates.
 
 But here's the part that should actually concern you as a claimant: Insurify projects that tariffs could push average full-coverage premiums up by as much as 4% by the end of 2026, with broader industry analysis suggesting an 8% increase directly attributable to tariffs. Insurers are fully aware of this pressure. They know their claims payouts are going up. Their response, historically and predictably, is to fight harder on individual settlements to offset the overall financial hit.
@@ -49,7 +47,7 @@ The regulatory approval process for premium increases typically lags 12 to 18 mo
 
 If your car gets totaled, the insurer owes you the actual cash value, which is what your car was worth the moment before the crash. This sounds straightforward. It isn't.
 
-I've seen insurers use valuation tools that pull comparable vehicle listings from a radius that conveniently includes lower-priced markets, or that apply "condition adjustments" that subtract value in ways that are nearly impossible to verify. Meanwhile, vehicle repair and maintenance costs have climbed 33% since 2021 according to Bureau of Labor Statistics data, and the used car market has been anything but stable. The actual cash value of your specific car, in your specific market, right now, is a number worth fighting for.
+Insurers sometimes use valuation tools that pull comparable vehicle listings from a radius that conveniently includes lower-priced markets, or that apply "condition adjustments" that subtract value in ways that are nearly impossible to verify. Meanwhile, vehicle repair and maintenance costs have climbed 33% since 2021 according to Bureau of Labor Statistics data, and the used car market has been anything but stable. The actual cash value of your specific car, in your specific market, right now, is a number worth fighting for.
 
 What most people don't realize is that you have the right to dispute a total loss valuation. You can hire an independent appraiser, and many states have appraisal clause provisions built into insurance policies specifically for this dispute. Organizations like Total Loss Appraisals have published analysis showing that 2026 market conditions, specifically tariff-driven cost increases and constrained used vehicle inventory, are making accurate valuations more important and more contested than ever.
 

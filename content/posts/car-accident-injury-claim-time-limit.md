@@ -29,7 +29,6 @@ Every year, people walk away from car accidents feeling shaken but relieved they
 
 Here's what you actually need to know.
 
-
 <div class="value-module">
  <div class="vm-head">State-by-State Filing Deadline Reference</div>
  <div class="vm-body">
@@ -47,7 +46,7 @@ It's simple in theory. Complicated in practice.
 
 Each state sets its own deadline, ranging anywhere from one to six years from the date of the accident. Two to three years is what you'll see most often. California: two years. Texas: two years. New York: three. Florida switched from four years to two in March 2023. Whichever state the accident happened in controls the deadline, not where you live.
 
-Here's the thing most people miss: the statute of limitations is for filing a lawsuit, not for filing an insurance claim. Those are two different deadlines. Insurance companies can impose their own reporting deadlines, sometimes as short as 30 days after the accident. Read your policy. Find the section called "Duties After an Accident" or something similar. Miss that deadline and the insurer can deny your claim entirely, even if the lawsuit deadline hasn't passed.
+The statute of limitations is for filing a lawsuit, not for filing an insurance claim. Those are two different deadlines. Insurance companies can impose their own reporting deadlines, sometimes as short as 30 days after the accident. Read your policy. Find the section called "Duties After an Accident" or something similar. Miss that deadline and the insurer can deny your claim entirely, even if the lawsuit deadline hasn't passed.
 
 ## The Discovery Rule: When the Clock Actually Starts
 
@@ -59,7 +58,7 @@ The discovery rule says the statute of limitations begins when you discovered, o
 
 You're rear-ended on a Tuesday. You feel a little sore but drive home. Three months later, you're diagnosed with a herniated disc your doctor directly links to the impact. In some states, your clock might start at diagnosis, not at the accident date. In others, it starts at the accident regardless of when symptoms appeared.
 
-I've seen clients assume they missed their window, consult an attorney anyway, and discover the [discovery rule extended their deadline](/delayed-injury-symptoms-after-car-accident/). I've also seen clients assume the discovery rule protected them when it didn't. The point isn't that the discovery rule will save you. The point is you need an attorney to evaluate your specific situation before you decide the door is closed.
+A client might assume they missed their window, consult an attorney, and discover the [discovery rule extended their deadline](/delayed-injury-symptoms-after-car-accident/). Another might assume the discovery rule protected them when it didn't. The point isn't that the discovery rule will save you. The point is you need an attorney to evaluate your specific situation before you decide the door is closed.
 
 ## Special Rules That Can Shorten or Extend Your Deadline
 
@@ -141,7 +140,6 @@ The window to act after a car accident injury is real, finite, and indifferent t
 - [The CDC's data on injury trends](https://www.cdc.gov/injury/wisqars/)
 - [medical records and claims organizer](https://www.amazon.com/s?k=medical+records+organizer)
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

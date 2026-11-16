@@ -30,7 +30,7 @@ Most articles about dog bite settlements lead with a number. "Average settlement
 
 Here's what actually determines what a dog bite case is worth: the severity of the injury, which state you're in, whether the owner knew the dog was dangerous, your own medical bills and lost wages, and the insurance coverage available to pay. Change any one of those variables and the number shifts dramatically. Change several of them and you're in a different universe entirely.
 
-I spent 12 years adjusting claims for insurance companies. I've seen dog bite cases settle for $3,500 and dog bite cases settle for over a million dollars. The difference wasn't luck. It was documentation, liability clarity, and whether the victim had someone in their corner who understood how the other side values these claims.
+Dog bite cases settle across a wide range, from $3,500 to over a million dollars. The difference isn't luck. It comes down to documentation, liability clarity, and having representation that understands how insurers value these claims.
 
 ---
 
@@ -56,8 +56,6 @@ Insurance companies also look hard at liability. Twelve states follow a "one bit
 
 > **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 A dog bite isn't one kind of injury. It's a category that runs from "painful but minor" to "life-altering."
 
 On the lower end: a single bite, clean puncture, you go to urgent care, get a tetanus shot and maybe a short course of antibiotics, no permanent scarring. That claim might settle for $5,000 to $15,000, and that's reasonable. You were hurt, you were scared, you deserve compensation, but the damages are objectively limited.
@@ -66,7 +64,7 @@ Move up the scale: deep lacerations, surgery to repair tendons or tissue, weeks 
 
 At the serious end: attacks involving multiple bites, facial disfigurement, nerve damage, reconstructive surgery, and psychological trauma like PTSD or severe anxiety about dogs. These cases routinely settle for six figures. When children are involved, settlements are often higher because courts (and juries) respond to the long-term impact of disfigurement on a developing person's life.
 
-The emotional component is real and often undervalued by victims themselves. Post-traumatic stress after a serious dog attack is well-documented. I've seen clients who couldn't take their kids to a park for years afterward, who had panic attacks at the sound of barking. That's compensable. Don't leave it out of your claim.
+The emotional component is real and often undervalued by victims themselves. Post-traumatic stress after a serious dog attack is well-documented. That's compensable. Don't leave it out of your claim.
 
 ---
 
@@ -78,7 +76,7 @@ That last one is underappreciated. Homeowner's insurance and renter's insurance 
 
 What pushes settlements lower: comparative fault (if you were provoking the dog, or you entered a property where the dog was clearly confined, your recovery is reduced or eliminated in some states), gaps in medical treatment, delayed reporting, and poor documentation.
 
-The documentation point deserves more than a passing mention. I've watched legitimate claims get lowballed because the victim didn't photograph their injuries consistently over time. A wound that looks minor in an emergency room photo but two weeks later shows serious infection and tissue damage tells a very different story. Photograph injuries from day one through full healing. Keep every receipt, every medical note, every prescription. Write down how you're feeling each day, how the injury is affecting your sleep, your work, your relationships.
+The documentation point deserves more than a passing mention. Legitimate claims often get lowballed when the victim doesn't photograph injuries consistently over time. A wound that looks minor in an emergency room photo but two weeks later shows serious infection and tissue damage tells a very different story. Photograph injuries from day one through full healing. Keep every receipt, every medical note, every prescription. Write down how you're feeling each day, how the injury is affecting your sleep, your work, your relationships.
 
 If you want a structured way to do this, [injury documentation journals and medical records organizers on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal) can help you stay organized from the start. (The site may earn a commission from purchases made through this link.) It sounds mundane, but this material becomes your evidence.
 
@@ -110,7 +108,6 @@ Facial scarring on a child is typically valued more seriously than the same scar
 
 ---
 
-
 ---
 
 Dog bite settlement amounts aren't random. They're the product of liability law, injury severity, documentation quality, available insurance, and how well you understand what you're worth before you sign anything. The insurance company has professionals working this from day one. You should too.
@@ -128,7 +125,6 @@ Dog bite settlement amounts aren't random. They're the product of liability law,
 - [American Bar Association's public guidance on personal injury claims](https://www.americanbar.org/groups/public_education/)
 - [CDC's injury data](https://www.cdc.gov/injury/wisqars/)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -60,7 +60,7 @@ But here's what people miss when they look up their state's deadline: that gener
 
 Got hit by a city bus? Slipped on a sidewalk that the municipality owns? Injured because of a pothole the county refused to fix? Your deadline to take action might be as short as 60 to 180 days. Not to file a lawsuit. To file a formal written notice of claim with the government agency involved.
 
-Miss that notice-of-claim requirement and you may be permanently barred from suing, even if the general statute of limitations hasn't run yet. I've seen this happen to genuinely injured people who had no idea the rule existed. When you're dealing with any government entity, local, state, or federal, check the notice requirements immediately. This is one situation where waiting even a few weeks to consult an attorney can cost you everything.
+Miss that notice-of-claim requirement and you may be permanently barred from suing, even if the general statute of limitations hasn't run yet. When you're dealing with any government entity, local, state, or federal, check the notice requirements immediately. This is one situation where waiting even a few weeks to consult an attorney can cost you everything.
 
 ### Medical malpractice plays by different rules
 
@@ -72,7 +72,7 @@ If a defective product injured you, you might be dealing with both the statute o
 
 ## The Discovery Rule: When the Clock Actually Starts
 
-Here's where things get genuinely complicated, and where I've seen people make expensive assumptions.
+This is where people often make expensive assumptions.
 
 The general rule is that your statute of limitations starts running on the date of your injury. You get hit by a car on March 1st, your two-year clock starts March 1st. Simple enough.
 
@@ -108,13 +108,13 @@ I want to be honest with you here: there are very, very narrow circumstances whe
 
 The statute of limitations isn't a guideline. It's a wall.
 
-One thing that does NOT stop the clock, by the way, is negotiating with an insurance company. This is a mistake I've watched people make over and over. You get injured, you're talking with the adjuster, things seem to be moving along, and then suddenly the deadline passes while you were waiting to hear back. An insurance company negotiating with you has zero obligation to tell you the deadline is approaching. Filing a claim with an insurance company is completely different from filing a lawsuit in court. Only one of those stops the clock.
+One thing that does NOT stop the clock, by the way, is negotiating with an insurance company. This is a common mistake. For example, you might be negotiating with an adjuster while the deadline quietly approaches. An insurance company negotiating with you has zero obligation to tell you the deadline is approaching. Filing a claim with an insurance company is completely different from filing a lawsuit in court. Only one of those stops the clock.
 
 ## The Practical Timeline: What You Should Actually Do
 
 Most attorneys will tell you not to wait until the last six months before your deadline to seek representation. I'd push it further than that.
 
-The earlier you document your injuries, the stronger your case. Medical records, photos, witness contact information, a written account of how the accident happened and how it's affecting your daily life. A [daily injury journal](https://www.amazon.com/s?k=personal+injury+journal) (Amazon link, this site may earn a small commission) sounds almost bureaucratic when you're in pain, but I've seen it make a real difference in cases where the injured person's credibility was challenged.
+The earlier you document your injuries, the stronger your case. Medical records, photos, witness contact information, a written account of how the accident happened and how it's affecting your daily life. A [daily injury journal](https://www.amazon.com/s?k=personal+injury+journal) (Amazon link, this site may earn a small commission) can strengthen your case if your credibility is later challenged.
 
 Beyond documentation, some types of evidence have a short shelf life. Surveillance camera footage gets overwritten, sometimes within 30 days. Physical evidence at accident scenes gets cleaned up. Witnesses move, forget, become hard to locate. Getting ahead of this means you're not scrambling when the deadline starts looming.
 
@@ -122,7 +122,7 @@ Most personal injury attorneys offer free consultations and can at least tell yo
 
 ---
 
-The statute of limitations feels like a procedural technicality until it's the thing standing between you and any recovery at all. I've watched it happen to people with serious injuries, legitimate claims, and every reason to win. Don't let the calendar make the decision for you.
+The statute of limitations feels like a procedural technicality until it's the thing standing between you and any recovery at all. Don't let the calendar make the decision for you.
 
 ---
 
@@ -137,7 +137,6 @@ The statute of limitations feels like a procedural technicality until it's the t
 - [occupational and environmental injuries](https://www.cdc.gov/injury/wisqars/)
 - [daily injury journal](https://www.amazon.com/s?k=personal+injury+journal)
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

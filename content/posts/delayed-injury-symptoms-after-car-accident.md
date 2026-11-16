@@ -76,7 +76,7 @@ Traumatic brain injury. Spinal cord damage. Internal bleeding. All three can be 
 - Irritability, mood swings, or anxiety that started after the crash
 - Tingling or numbness in your hands or feet
 
-That last group, the emotional and psychological stuff, gets ignored constantly. I've watched clients develop genuine post-traumatic stress disorder after a crash, then spend months thinking they were just "stressed." PTSD and anxiety disorders count as injuries in [personal injury claims](/how-to-file-car-accident-injury-claim/). They're real. They're documented. They're treatable.
+That last group, the emotional and psychological stuff, gets ignored constantly. Many people develop genuine post-traumatic stress disorder after a crash, then spend months thinking they were just "stressed." PTSD and anxiety disorders count as injuries in [personal injury claims](/how-to-file-car-accident-injury-claim/). They're real. They're documented. They're treatable.
 
 ---
 
@@ -144,7 +144,6 @@ Your body delayed the signal. The insurance system moves fast. Those two forces 
 - [American Bar Association](https://www.americanbar.org/groups/public_education/)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

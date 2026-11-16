@@ -32,13 +32,11 @@ Two big verdicts in one month. Two different legal theories. Two different court
 
 > **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Meta has already asked the Los Angeles Superior Court to overturn the K.G.M. verdict or order a new trial. Their primary argument: Section 230 of the Communications Decency Act, a federal law from 1996 that generally shields online platforms from liability for content created by third-party users.
 
 Section 230 has been the tech industry's legal force field for decades. The question courts are wrestling with now is whether it covers algorithmic recommendations, specifically a platform's choice to amplify certain content to certain users, or whether that design decision is the platform's own conduct and therefore outside 230's protection. The K.G.M. jury apparently found the latter. Meta disagrees.
 
-Until appellate courts weigh in, the K.G.M. verdict functions more as settlement leverage than as binding law. It tells platforms what a jury of ordinary people is willing to do. That's powerful. But it's not the same as a final, unappealable ruling.
+Until appellate courts weigh in, the K.G.M. verdict carries weight in settlement negotiations but isn't binding law. A jury verdict shows platforms what ordinary people will hold them accountable for. It matters in practice, though it's not the same as a final, unappealable ruling.
 
 ## What MDL-3047 Means for the 2,893 Pending Claims
 
@@ -68,7 +66,7 @@ Statutes of limitations are real and unforgiving. Most states give you two to th
 
 Documentation now is free; recreating it later is impossible. Medical records, therapy notes, school performance records, screen time data, even old text messages describing a teen's relationship with social media, all of this becomes evidence. Save it.
 
-The K.G.M. verdict and the New Mexico ruling have almost certainly increased settlement pressure on defendants, as Motley Rice noted in their June-July 2026 case update. Platforms settle cases they might lose at trial more readily when they've already lost one at trial. That's not a prediction about your specific case, it's just how litigation economics work.
+The K.G.M. verdict and the New Mexico ruling have almost certainly increased settlement pressure on defendants, as Motley Rice noted in their June-July 2026 case update. Platforms tend to settle cases they might lose at trial more readily after losing one at trial. This reflects basic litigation economics.
 
 ## The Bigger Shift These Verdicts Signal
 

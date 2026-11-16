@@ -27,13 +27,11 @@ faqs:
 
 Twelve years sitting on the other side of this equation, and I still get a little knot in my stomach when someone calls me in a panic because they just had an accident in Florida and their own [insurance company](/insurance-company-settlement-too-low-what-to-do/) is suddenly managing everything. "But the other driver ran the red light," they say. "Why is my insurance paying?" That's no-fault insurance doing exactly what it was designed to do, and most people have no idea what they signed up for until they need it.
 
-Here's the short version: in a no-fault state, your own car insurance pays your [medical bills](/medical-bills-personal-injury-settlement/) and lost wages after a crash, regardless of who caused it. You don't automatically get to sue the at-fault driver. You don't automatically get to tap their liability coverage. Your policy pays first, up to a limit, and then certain rules govern what happens next. It sounds tidy in theory. In practice, I've seen it leave genuinely injured people holding the bag in ways that would make your hair stand up.
+Here's the short version: in a no-fault state, your own car insurance pays your [medical bills](/medical-bills-personal-injury-settlement/) and lost wages after a crash, regardless of who caused it. You don't automatically get to sue the at-fault driver. You don't automatically get to tap their liability coverage. Your policy pays first, up to a limit, and then certain rules govern what happens next. It sounds tidy in theory. In practice, no-fault rules can leave genuinely injured people holding the bag in ways that seem unfair.
 
 The confusion is real, the stakes are high, and there's a lot of bad information floating around. Let me break it down the way I wish someone had when I was still on the other side, processing claims in a state where this gets genuinely messy.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">As of July 2026, 12 U.S. states and Puerto Rico operate under true no-fault car insurance systems.</li><li style="margin:5px 0">Your Personal Injury Protection (PIP) coverage pays your medical bills first, typically $10,000–$50,000 depending on your state.</li><li style="margin:5px 0">In most no-fault states, you can only sue the at-fault driver if your injuries meet a defined "serious injury threshold."</li><li style="margin:5px 0">No-fault does NOT protect the at-fault driver from property damage claims, that part still works the traditional way.</li><li style="margin:5px 0">Michigan currently has the most complex no-fault system in the country, with unlimited medical benefits still available under some policy tiers.</li></ul></div>
-
 
 ## What "No-Fault" Actually Means (and What It Doesn't)
 
@@ -48,8 +46,6 @@ I'll confess something: the first time I handled a PIP claim in Florida, I assum
 ## The 12 States (and Puerto Rico)
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 As of July 2026, the states operating under genuine no-fault systems are: Florida, Michigan, New Jersey, New York, Pennsylvania, Hawaii, Kansas, Kentucky, Massachusetts, Minnesota, North Dakota, and Utah. Puerto Rico also uses a no-fault system.
 
@@ -73,8 +69,6 @@ Here's a comparison of current PIP minimums and key thresholds across the major 
 | Utah | $3,000 | $3,000+ in medical bills OR certain injuries | No |
 
 Michigan deserves special mention. The state overhauled its no-fault law in 2019, and what emerged is genuinely unlike anything else in the country. Drivers now choose a PIP coverage tier: $50,000, $250,000, $500,000, unlimited, or an opt-out if you have qualifying Medicare coverage. The unlimited tier, while still available, costs significantly more in premiums. My honest read: the reform reduced premiums for some drivers but created a situation where the tier you pick could mean the difference between having your catastrophic injury covered for life versus running out of coverage at a critical moment.
-
-
 
 ## The Serious Injury Threshold: This Is Where It Gets Real
 
@@ -115,7 +109,6 @@ Worked example 3: A Georgia driver (traditional fault state) broke her wrist in 
 - State insurance department websites for Florida, New York, Minnesota, and Pennsylvania: Current statutory PIP minimums and threshold definitions, verified July 2026
 
 ---
-
 
 *Photo: [Godisable Jacob](https://www.pexels.com/@godisable-jacob-226636) via Pexels*
 

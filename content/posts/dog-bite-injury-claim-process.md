@@ -29,27 +29,21 @@ Nearly 4.5 million people are bitten by dogs in the United States every year, ac
 
 The dog bite [claim process](/personal-injury-claim-process-step-by-step/) isn't as complicated as most people fear. But it has real landmines, specific windows you can miss, and a handful of moves that will quietly kill your case before you've even started. So I went back through my old casework and talked to people currently going through the process in 2026, and I want to give you the unfiltered version.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Dog bites generate over $1 billion in homeowner insurance claims annually, per Insurance Information Institute data.</li><li style="margin:5px 0">Most states give you 2-3 years to file a personal injury lawsuit (statute of limitations varies).</li><li style="margin:5px 0">Liability rules differ sharply: "strict liability" states vs. "one-bite rule" states change your odds significantly.</li><li style="margin:5px 0">Seeking medical care within 24 hours both protects your health and creates the documentation your claim depends on.</li><li style="margin:5px 0">Never give a recorded statement to the dog owner's insurer without understanding what you're agreeing to.</li></ul></div>
-
 
 ## The Numbers Behind Dog Bite Claims
 
 The Insurance Information Institute currently tracks dog bite and dog-related [injury claims](/social-media-addiction-personal-injury-claims-explained/) as one of the most consistent cost centers in homeowner insurance. As of 2026, the average cost per dog bite claim sits around $64,555, up sharply from figures just five years ago, largely due to rising medical and legal costs. That's not the outlier number. That's the average.
 
-The CDC reports that children between ages 5 and 9 are the highest-risk group, and that most bites happen not from stranger dogs but from animals the victim knows. That detail matters for your claim, by the way, because it changes the emotional dynamic. People feel guilty filing a claim against a neighbor's insurance. I've seen victims delay for weeks because they felt bad. Don't. Homeowner and renter's insurance exists precisely for this.
-
+The CDC reports that children between ages 5 and 9 are the highest-risk group, and that most bites happen not from stranger dogs but from animals the victim knows. That detail matters for your claim, by the way, because it changes the emotional dynamic. Many people feel guilty filing a claim against a neighbor's insurance and delay weeks as a result. But homeowner and renter's insurance exists precisely for this situation. Homeowner and renter's insurance exists precisely for this.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average Dog Bite Claim Payout by State (2025)</div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$78,432</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:92%"></span></span><span class="sc-val">$72,100</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$58,900</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:65%"></span></span><span class="sc-val">$51,200</span></div><div class="sc-row"><span class="sc-label">Ohio</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$44,300</span></div><div class="sc-src">Source: Insurance Information Institute, 2025</div></div>
-
 
 California and New York consistently rank highest in average payout, not because dogs bite harder there, but because those states have strict liability laws and higher underlying medical costs. Ohio's lower average reflects both legal structure and cost of care. More on that legal distinction in a moment.
 
 ## Strict Liability vs. the One-Bite Rule
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where I see people get genuinely blindsided, and I'll be honest, I got this wrong myself early in my adjusting career. I assumed all states worked the same way. They don't.
 
@@ -65,7 +59,7 @@ The first three days after a dog bite are, without exaggeration, the most conseq
 
 1. Get medical care immediately. Dog bites introduce bacteria, including Pasteurella and, in rare cases, rabies exposure risk. But beyond your health: every treatment record is a piece of evidence. The ER intake note, the wound photos the nurse takes, the rabies prophylaxis protocol, all of it becomes documentation. A gap in care is the first thing an adjuster looks for when they want to reduce your settlement offer.
 
-2. Report the bite to animal control. This is the step most people skip. That report creates an official record. It triggers a rabies investigation. And it may uncover prior complaints about the same dog that you didn't know existed. In one case I evaluated years ago, a single animal control report surfaced a complaint from eight months earlier involving the same dog, and that transformed a borderline one-bite-rule case into a clear liability situation.
+2. Report the bite to animal control. This is the step most people skip. That report creates an official record, triggers a rabies investigation, and may uncover prior complaints about the same dog. For example, if a previous complaint exists, it can strengthen liability in a borderline case.
 
 3. Document everything before it heals. I cannot stress this enough. Take photos every single day for at least the first two weeks. The progression of bruising, swelling, and wound healing tells a story that a single snapshot doesn't. Courts and adjusters alike respond to visual evidence. A $19 injury documentation journal (like this [Daily Injury Documentation Log on Amazon](https://www.amazon.com/s?k=injury+documentation+journal), note the site may earn a small commission) can help you track symptoms, medical appointments, and out-of-pocket expenses consistently.
 
@@ -88,7 +82,7 @@ Once you've reported the bite to the owner's insurance company (or hired an atto
 
 The single most important phrase in that table is "after treatment ends." Insurers, and good personal injury attorneys, want to wait until you've reached what's called Maximum Medical Improvement (MMI), meaning your doctors believe you've recovered as much as you're going to. Settling before MMI means you might leave scarring treatment, physical therapy, or psychological counseling costs on the table.
 
-What surprised me when I was adjusting claims was how many people accepted first offers without any counter. The first offer is almost never the final number. It's a starting position.
+Many people accept first settlement offers without countering. The first offer is almost never the final number. It's a starting position.
 
 ## Recorded Statements and Why I'd Be Cautious
 
@@ -121,7 +115,6 @@ The research on average settlements is genuinely mixed and hard to pin down beca
 - [National Canine Research Council](https://nationalcanineresearchcouncil.com/): Bite incident data and behavioral context reporting
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

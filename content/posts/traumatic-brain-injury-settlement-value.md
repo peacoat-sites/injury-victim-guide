@@ -61,7 +61,7 @@ No two TBI cases settle for the same amount, and anyone who gives you a dollar f
 
 **Non-economic damages.** This category varies most wildly and causes the most confusion. Pain and suffering, emotional distress, loss of consortium (which affects your spouse or partner), and loss of enjoyment of life are all real compensable losses. They're also harder to pin to a number. Attorneys often use either a "multiplier" method, multiplying total economic damages by a factor (often between 1.5 and 5), or a "per diem" method, assigning a daily dollar value to your suffering. Neither method is officially endorsed by law, but both are routinely used in negotiations.
 
-**Strength of medical documentation.** I've seen clients with serious injuries lose significant settlement value simply because their records were incomplete or inconsistent. Every gap in treatment, every "patient reports improvement" note that doesn't match reality, every missed appointment becomes a weapon in the hands of a skilled defense attorney.
+**Strength of medical documentation.** Incomplete or inconsistent medical records can significantly reduce settlement value for serious injuries. Defense attorneys will use gaps in treatment, contradictions between notes and actual recovery, and missed appointments to challenge your claim.
 
 **Jurisdiction and jury pool.** The same case can settle for dramatically different amounts in different cities and states. What a jury in rural Alabama is likely to award differs from what a jury in San Francisco might award. Experienced attorneys know their local jury pools, and that knowledge directly affects negotiation strategy.
 

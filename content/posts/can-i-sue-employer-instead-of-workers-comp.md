@@ -25,7 +25,7 @@ faqs:
     a: "Usually yes. Most states give the workers' comp insurer a subrogation lien, meaning they can recover what they paid out from your civil settlement. The exact rules on how much they can take vary significantly by state. In most cases, even after that payback, a successful civil case results in more money than comp alone would have provided."
 ---
 
-Your supervisor told you to "just file the workers' comp claim" the same day you got hurt, and you nodded because you were in pain and didn't know you had other options. I've seen that moment play out hundreds of times, and it's the one I wish I could go back and interrupt.
+A common scenario: someone gets hurt at work and is told to file a workers' comp claim immediately, while still in pain and unaware of other options. This initial choice often happens without full knowledge of what's available.
 
 Here's what most people don't realize: workers' compensation is a trade-off system, not an automatic ceiling on what you can recover. The state built it so that you give up your right to sue your employer in most situations, and in exchange you get guaranteed benefits without having to prove fault. The insurance industry loves that deal. Adjusters are trained to remind you of it constantly. What they're less eager to explain is exactly where that deal has exceptions, and those exceptions can be worth a lot more than a comp claim ever would.
 
@@ -43,8 +43,6 @@ But here's where people give up too soon.
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 **Intentional harm.** If your employer, or a supervisor acting on behalf of the company, intentionally causes your injury, most states will let you sue. And I don't mean negligent, I mean deliberate. Think: an employer who physically assaults you, or who orders you into a situation knowing, with near-certainty, that serious injury will result. California's standard is particularly specific here, requiring that the employer knew injury was "substantially certain" to occur, not just likely. Ohio takes a similar approach. This exception exists in theory in most states, but courts apply it narrowly, so don't assume anger on your employer's part equals intent.
 
 **Fraudulent concealment of a hazard.** This one surprises people. Several states allow a direct lawsuit if your employer actively hid a known occupational hazard from you. The key word is "actively," not just "failed to fix." A documented paper trail where management knew about asbestos exposure and chose not to disclose it, for instance, is different from a company that simply let something slip through inspection.
@@ -58,8 +56,6 @@ But here's where people give up too soon.
 Okay, this is where I want you to slow down and actually read carefully, because this is the path that most workers don't know exists, and it's completely separate from workers' comp.
 
 Even if you can't sue your employer, you can often sue a third party who contributed to your injury. Workers' comp only shields your employer. It does nothing to protect outside contractors, equipment manufacturers, property owners, negligent drivers, or anyone else who played a role in what happened to you.
-
-Worked examples from situations I've seen play out:
 
 **Construction site injury:** Worker falls from scaffolding because a subcontractor installed it incorrectly. Worker files workers' comp through their own employer, receives 60% of weekly wages and medical coverage. Worker also files a third-party negligence lawsuit against the subcontractor. Third-party case settles for $387,000. Workers' comp insurer is reimbursed for what they paid out (that's called subrogation, and yes, it's real, you don't just get to keep both in full), but the worker ends up with significantly more than comp alone would have paid.
 
@@ -91,7 +87,7 @@ The Insurance Information Institute notes that the average workers' comp claim r
 
 ## A Timeline Reality Check
 
-I want to be honest here, because I've watched people make decisions based on the upside without accounting for the grind.
+It's worth considering the full picture, not just the potential upside, when weighing your options.
 
 Workers' comp benefits can start within days or weeks of a claim approval. A civil lawsuit might take two to four years to resolve, sometimes longer if it goes to trial. If you're dealing with a severe injury, that timeline matters enormously for your household finances.
 
@@ -103,7 +99,7 @@ As of July 2026, most states still allow this parallel approach, though the subr
 
 One thing I got wrong early in my career as an adjuster: I assumed workers who pursued civil claims on top of comp were doing something shady, doubling up improperly. That was the industry's framing, and I absorbed it without questioning it.
 
-The actual rule is more nuanced. You can pursue both. You just can't collect full compensation twice for the same expense. The subrogation lien your comp insurer places on your civil recovery makes sure of that. It's not a scam; it's a reimbursement mechanism. The practical effect is that you lose some of your civil recovery to pay back the insurer, but you're still almost always better off financially than if you'd filed comp alone.
+The actual rule is more nuanced. You can pursue both. You just can't collect full compensation twice for the same expense. The subrogation lien your comp insurer places on your civil recovery makes sure of that. This is a reimbursement mechanism, not a penalty. The practical effect is that you lose some of your civil recovery to pay back the insurer, but you're still almost always better off financially than if you'd filed comp alone.
 
 The fraud risk runs the other way, too: misrepresenting your injury to receive comp benefits you're not entitled to. That's a criminal matter. Don't do it, obviously, but I raise it because adjusters are specifically trained to look for inconsistencies, and if you're pursuing a civil claim at the same time, the insurer's lawyers may scrutinize your medical records across both cases.
 
@@ -118,7 +114,6 @@ If you want to track your injury documentation carefully from day one, a structu
 - Cornell Law School Legal Information Institute, "Workers' Compensation": Plain-language explanation of exclusive remedy doctrine and exceptions.
 
 ---
-
 
 ---
 

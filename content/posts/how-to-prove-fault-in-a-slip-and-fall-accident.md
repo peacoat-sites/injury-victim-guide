@@ -31,9 +31,7 @@ That's the gap I want to close here.
 
 I spent 12 years on the other side of these claims, reviewing them for [insurance companies](/how-insurance-companies-handle-injury-claims/). I know exactly what adjusters look for, what makes a file strong, and what makes one easy to deny. The single biggest mistake I watched injury victims make, over and over, was assuming that falling on someone else's property was enough. It isn't. Fault in a slip and fall requires a specific legal showing, and most people don't understand what that actually means until it's too late to gather the evidence.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Fault requires proving the property owner knew (or should have known) about the hazard and failed to fix it.</li><li style="margin:5px 0">You typically have 2-3 years to file, but evidence disappears in days, act within 24-48 hours.</li><li style="margin:5px 0">Photos, incident reports, and witness names are your three non-negotiables at the scene.</li><li style="margin:5px 0">Surveillance footage is often overwritten in 30-72 hours; a written preservation request can save it.</li><li style="margin:5px 0">Comparative fault rules in most states can reduce your recovery even if the owner was negligent.</li></ul></div>
-
 
 ## What "Fault" Actually Means Here
 
@@ -54,8 +52,6 @@ I once reviewed a claim where a woman slipped on a wet floor at a grocery store.
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll be blunt: the first 48 hours after a fall determine whether you have a case. Not the attorney you hire. Not the severity of your injury. The first 48 hours.
 
 **At the scene, in order of priority:**
@@ -70,11 +66,11 @@ Then, and this is the one people consistently miss, send a written request to pr
 
 ## The Surveillance Footage Problem
 
-I want to spend a moment on this because I've seen it tank otherwise strong cases.
+Surveillance footage is critical to personal injury cases.
 
-In my experience, surveillance cameras exist at nearly every commercial property, grocery stores, big box retailers, restaurants, apartment complexes, parking lots. A 2023 report from the Security Industry Association estimated over 70 million surveillance cameras were in operation across the U.S. The footage is almost always relevant. It shows the condition of the area before the fall, the fall itself, how long a hazard was present, and whether employees walked past it.
+Surveillance cameras are standard at commercial properties, grocery stores, big box retailers, restaurants, apartment complexes, and parking lots. A 2023 report from the Security Industry Association estimated over 70 million surveillance cameras were in operation across the U.S. The footage is almost always relevant. It shows the condition of the area before the fall, the fall itself, how long a hazard was present, and whether employees walked past it.
 
-The problem is timing. When I was adjusting claims, we had a standard practice: if a plaintiff didn't formally request footage preservation within 48-72 hours, and our investigation concluded no claim was imminent, the footage would simply cycle out. Legal? Yes. Convenient for us? Absolutely.
+The problem is timing. If a plaintiff does not formally request footage preservation within 48-72 hours, and an insurer's investigation concludes no claim is imminent, the footage may simply cycle out before it can be used as evidence.
 
 You or your attorney need to send a preservation letter immediately. Most personal injury attorneys do this as a matter of course when you hire them in the first week. If you're still deciding whether to pursue a claim, you can send it yourself, there's no law requiring an attorney's signature. Address it to the property owner, the property manager, and their insurance company if you know it. Keep a copy of whatever you send and document when and how it was sent.
 
@@ -82,9 +78,7 @@ You or your attorney need to send a preservation letter immediately. Most person
 
 Most states use one of two comparative fault systems, and which one your state uses matters quite a bit.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Slip &amp; Fall Fault Systems by State (sample)</div><div class="sc-row"><span class="sc-label">Pure Comparative Fault</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">13 states</span></div><div class="sc-row"><span class="sc-label">Modified Comparative (51% bar)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">21 states</span></div><div class="sc-row"><span class="sc-label">Modified Comparative (50% bar)</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">12 states</span></div><div class="sc-row"><span class="sc-label">Contributory Negligence (any fault bars recovery</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">4 states</span></div><div class="sc-src">Source: Nolo Legal Encyclopedia, 2026</div></div>
-
 
 | Fault System | Rule | Example Impact |
 |---|---|---|
@@ -113,7 +107,7 @@ Nolo's personal injury resources have a solid plain-language breakdown of invite
 
 What counts as a "reasonable" inspection schedule? Courts look at the type of business and the nature of the hazard. A grocery store deli section during lunch rush has a different standard than a hotel lobby at 2 a.m. The more foreseeable the hazard in a given context, the more frequently a court expects the property owner to be checking for it.
 
-One thing that surprises people: a "wet floor" sign does not automatically absolve a property owner. If the underlying hazard is one they should have *fixed* rather than just warned about, the sign is partial mitigation at best. I've seen plenty of cases where a wet floor sign was present and the plaintiff still recovered, because the condition had existed for days and a warning doesn't substitute for actually fixing a broken pipe.
+A "wet floor" sign does not automatically shield a property owner from liability. If the underlying hazard is one they should have *fixed* rather than just warned about, the sign is partial mitigation at best. For example, if a broken pipe has leaked for days, a warning sign does not substitute for repair, and a plaintiff may recover despite the sign's presence.
 
 ## Timelines You Can't Ignore
 
@@ -139,7 +133,6 @@ Florida's reduction from four years to two years took effect in 2023 and catches
 - State court comparative fault statutes: Individual state civil codes governing modified vs. pure comparative fault rules (current as of July 2026).
 
 ---
-
 
 ---
 

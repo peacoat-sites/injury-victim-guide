@@ -27,7 +27,7 @@ author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 lastmod: 2026-07-19
 ---
-You filed a police report. You saw a doctor. You kept every receipt. And then life happened, the way it always does, and you put the folder in a drawer and told yourself you'd deal with it soon. Fourteen months later, you pull that folder out and start looking for a lawyer. That's when you hear the words that can hollow out your stomach: "I'm sorry, but the statute of limitations on your case may have already expired." In some states, that means your right to sue is completely gone, no matter how legitimate your claim, no matter how serious your injuries. I've watched this happen to good people who did everything else right. Understanding deadlines before they become a crisis is the single most important thing you can do to protect yourself after an injury.
+You filed a police report. You saw a doctor. You kept every receipt. And then life happened, the way it always does, and you put the folder in a drawer and told yourself you'd deal with it soon. Fourteen months later, you pull that folder out and start looking for a lawyer. That's when you hear the words that can hollow out your stomach: "I'm sorry, but the statute of limitations on your case may have already expired." In some states, that means your right to sue is completely gone, no matter how legitimate your claim, no matter how serious your injuries. Understanding deadlines before they become a crisis is the single most important thing you can do to protect yourself after an injury.
 
 ---
 
@@ -107,7 +107,7 @@ I spent 12 years adjusting claims for insurers. Here's something I know from exp
 
 This isn't paranoia. The [Insurance Information Institute](https://www.iii.org/) openly acknowledges that claim handling timelines and settlement practices vary widely among insurers. Knowing your deadline removes the insurer's most powerful tool: time.
 
-Filing a lawsuit doesn't mean you're going to trial. The vast majority of personal injury cases settle before a courtroom ever gets involved. But having a filed case gives you leverage. It tells the insurer you're serious, and it freezes your legal rights before the deadline can gut them.
+Filing a lawsuit doesn't mean you're going to trial. The vast majority of personal injury cases settle before a courtroom ever gets involved. But having a filed case protects your legal rights. It tells the insurer you're serious, and it freezes your legal rights before the deadline can gut them.
 
 ---
 

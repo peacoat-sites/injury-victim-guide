@@ -35,12 +35,9 @@ I spent 12 years on the other side of that equation, evaluating claims for insur
 
 **"Insurance companies will pay whatever you ask for"**: Most people believe settlement negotiations work like haggling at a flea market, throw out a number and meet somewhere in the middle. But claims data tells a different story. According to the Insurance Research Council, claimants who submit demand letters without supporting documentation receive offers 40% lower than those with comprehensive medical records and expert reports. Even more striking: settlements backed by objective evidence (imaging, specialist reports, wage documentation) average $67,000+ compared to $18,000 for claims relying solely on injury narratives. Insurers use algorithmic settlement models calibrated to specific injury types, they're not responding to your ask, they're calculating their actual liability exposure.
 
-
 **"Insurance companies will match whatever settlement number you request"**: Most people assume that if you ask for $100,000, you'll negotiate down to $75,000. But data from the American Association for Justice shows that 73% of injury claims are settled *below* the claimant's initial demand, with the average reduction sitting at 40-60%. More telling: claims lacking documented evidence of damages settle for 35% less than those with comprehensive medical records and expert testimony. Insurance adjusters use algorithmic valuation tools (like Colossus and Bowman) that calculate settlement ranges based on injury type, jurisdiction, and comparable cases, not your asking price. Going in unprepared doesn't just leave money on the table; it signals weakness that adjusters exploit.
 
-
 **"Insurance companies pay what you ask for"**: Most people believe settlement negotiations work like haggling at a flea market, throw out a number and insurance will meet you somewhere in the middle. But claims data tells a different story. According to the Insurance Research Council, claimants without legal representation receive settlements 3.5x lower than those with attorneys, and insurers reject or undervalue 40% of initial demands regardless of merit. The real determinant isn't your ask, it's documented evidence. Medical records, wage loss documentation, and expert testimony create the actual ceiling for settlement value. Insurance adjusters use proprietary algorithms tied to comparable cases, not goodwill. Asking for $500,000 without supporting evidence gets you the same response as asking for $50,000: a lowball counteroffer based on what they can defend in court.
-
 
 Not all injuries are created equal in the eyes of an insurance adjuster. Soft tissue injuries like sprains and strains get routinely discounted because they don't show up on imaging and are easier to dispute. Fractures, disc herniations, torn ligaments, and traumatic brain injuries are harder to argue with, they produce objective, measurable findings on X-rays, MRIs, and CT scans.
 
@@ -56,7 +53,7 @@ If you've suffered specific spinal injuries in a crash, you can get a clearer pi
 
 > **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-In my experience, the single most controllable factor separating high-value settlements from low ones is documentation. Not the injury itself. The paper trail.
+The single most controllable factor separating high-value settlements from low ones is documentation. Not the injury itself. The paper trail.
 
 Here's what I mean. An adjuster doesn't feel your pain. They read a file. If that file contains thorough ER records, follow-up visit notes, physical therapy discharge summaries, imaging reports, prescription records, and a detailed journal of how your injuries affected your daily life, you're presenting a story they can't easily dismiss. If the file contains one ER visit and two physical therapy sessions that stopped after two weeks, you're giving them everything they need to argue you weren't seriously hurt.
 
@@ -101,12 +98,12 @@ The Insurance Information Institute notes that liability coverage is the most co
 
 This is the part most people don't want to hear, but it's true: how you handle the claim procedurally affects the outcome significantly.
 
-People who accept the first offer from an adjuster almost always leave money on the table. The first offer is a starting point, not a final number. Adjusters have authority to go higher. That's not speculation; it's how the process is designed. The American Bar Association's guidance on working with attorneys in personal injury matters consistently emphasizes that represented claimants typically recover more than unrepresented ones, even after attorney fees.
+Accepting the first offer from an adjuster often means leaving money on the table. The first offer is a starting point, not a final number. Adjusters have authority to go higher. That's not speculation; it's how the process is designed. The American Bar Association's guidance on working with attorneys in personal injury matters consistently emphasizes that represented claimants typically recover more than unrepresented ones, even after attorney fees.
 
 A few procedural factors that increase settlement value:
 
 1. **Waiting until maximum medical improvement (MMI)**: Don't settle before your doctor confirms your condition has stabilized. Settling early means you're guessing at future medical needs.
-2. **Sending a demand letter with full documentation attached**: A detailed demand package forces the adjuster to justify any low counteroffer in writing, which creates leverage.
+2. **Sending a demand letter with full documentation attached**: A detailed demand package requires the adjuster to justify any low counteroffer in writing.
 3. **Understanding the statute of limitations**: Missing your state's filing deadline eliminates your claim entirely. Know the clock.
 4. **Having legal representation for serious injuries**: Attorney representation correlates with higher outcomes in significant injury cases. The contingency fee structure means you pay nothing upfront.
 

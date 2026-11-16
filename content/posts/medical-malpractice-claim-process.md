@@ -40,7 +40,7 @@ All four of these elements have to exist together:
 - That breach caused the injury (causation)
 - The patient suffered measurable damages
 
-What shocked me when I was adjusting claims was how often causation collapsed cases that looked bulletproof on paper. A surgeon nicks the wrong vessel. Clear error. But if the patient needed a second surgery anyway, or if their recovery trajectory stayed the same, the causation argument gets murky fast. Insurance defense teams know exactly where these pressure points are.
+Causation often collapses cases that looked bulletproof on paper. A surgeon nicks the wrong vessel. Clear error. But if the patient needed a second surgery anyway, or if their recovery trajectory stayed the same, the causation argument gets murky fast. Insurance defense teams know exactly where these pressure points are.
 
 Expert witnesses define the standard of care itself, which is why every legitimate malpractice case requires at least one medical expert, sometimes several. That costs money, usually thousands of dollars, before you've filed anything. Most malpractice attorneys work on contingency, taking a percentage of any recovery (typically 33 to 40 percent) instead of hourly fees, partly because of this upfront investment.
 
@@ -52,9 +52,9 @@ Before anything else happens, you need your complete medical records. Not just t
 
 Request everything in writing, certified mail if you can. Keep a copy of the request. The facility may charge a per-page copying fee, it varies by state law but usually runs between $0.25 and $1.00 per page. For a complex hospitalization, you could be looking at hundreds of pages, so budget accordingly.
 
-A reader emailed me a few months ago frustrated because a hospital sent her a "summary" instead of the full chart. That's not acceptable. You want the complete chart, and you can be explicit about that in your request letter. [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) have solid template language if you're not sure how to phrase it.
+Hospitals sometimes send a "summary" instead of the full chart. That's not acceptable. You want the complete chart, and you can be explicit about that in your request letter. [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) have solid template language if you're not sure how to phrase it.
 
-Once you have the records, keep them organized. I've seen cases where documentation was the single deciding factor in whether an attorney agreed to take it. If you're dealing with something complex, a dedicated medical records binder or case management workbook is worth the investment. (Full disclosure: links to helpful organizers on this site may earn a commission.)
+Once you have the records, keep them organized. Documentation can be the deciding factor in whether an attorney agrees to take a case. If you're dealing with something complex, a dedicated medical records binder or case management workbook is worth the investment. (Full disclosure: links to helpful organizers on this site may earn a commission.)
 
 ## Finding an Attorney, and What to Expect When You Do
 
@@ -105,7 +105,6 @@ The process is hard. I won't pretend otherwise. But knowing what you're walking 
 - [American Bar Association's public education resources](https://www.americanbar.org/groups/public_education/)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

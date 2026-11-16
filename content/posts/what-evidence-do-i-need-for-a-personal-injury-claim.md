@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 If you're reading this, you probably just went through something scary. Maybe a few days ago, maybe a few weeks. You're dealing with pain, medical appointments, missed work, and now someone's telling you that you need to gather "evidence" for your claim, and you have no idea where to start or what that even means in practice.
 
-I've been on both sides of this. Twelve years as an insurance adjuster, watching claims come across my desk. I know exactly what makes an adjuster take a claim seriously and what makes them put it in the "low value" pile before they've even read the whole file. The difference, almost every single time, comes down to evidence. Not the severity of the injury. The documentation.
+What makes an adjuster take a claim seriously versus put it in the "low value" pile before reading the whole file? The difference, almost every single time, comes down to evidence. Not the severity of the injury. The documentation.
 
 So let me walk you through this the way I would if you were sitting across from me right now.
 
@@ -39,7 +39,7 @@ But here's what I tell people who call me after an accident: the first 48 hours 
 
 If you're physically able to do any of the following at the scene, do them:
 
-[Take photographs of everything](/accident-scene-photos-what-to-take/). Your injuries (even if they don't look bad yet), the vehicles involved, the road conditions, any debris, signage, lighting, the other driver's license plate and insurance card. More is always better. I've seen claims fall apart because the only photo a person had was a blurry shot of a dented bumper that showed nothing about how severe the collision was.
+[Take photographs of everything](/accident-scene-photos-what-to-take/). Your injuries (even if they don't look bad yet), the vehicles involved, the road conditions, any debris, signage, lighting, the other driver's license plate and insurance card. More is always better. Claims can fall apart when the only photo is a blurry shot of a dented bumper that shows nothing about how severe the collision was.
 
 Get witness contact information before you leave. Full name, phone number, email if possible. Don't just hope the police get it. Get it yourself.
 
@@ -51,7 +51,7 @@ Then go to the doctor. Even if you think you're fine. "I felt okay so I didn't s
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-You might be wondering why medical documentation matters so much if the accident was clearly the other person's fault. Here's the thing: fault and damages are two separate questions. Even if liability (meaning who caused the accident) is completely clear, the insurance company still has to evaluate how much your injuries are worth. Medical records are how they do that.
+You might be wondering why medical documentation matters so much if the accident was clearly the other person's fault. Fault and damages are two separate questions. Even if liability (meaning who caused the accident) is completely clear, the insurance company still has to evaluate how much your injuries are worth. Medical records are how they do that.
 
 What you want is a paper trail that connects the accident to your injuries and tracks your recovery over time.
 
@@ -95,7 +95,7 @@ One thing [Nolo's personal injury resources](https://www.nolo.com/legal-encyclop
 
 Adjusters are trained to look for gaps. Gaps in treatment, gaps in documentation, gaps between what you claim and what the records show. I'm not saying this to scare you. I'm saying it because knowing this helps you avoid the mistakes that shrink settlements.
 
-Social media posts are evidence too, and not in your favor. I cannot tell you how many claims I saw undercut by the claimant posting a photo of themselves at a family barbecue two weeks after claiming they couldn't walk without pain. Insurance companies look. Defense attorneys look. Even if it looks innocent to you, a photo can be taken out of context in ways you'd never anticipate. Adjust your privacy settings and, honestly, just put social media down while your claim is active.
+Social media posts are evidence too, and not in your favor. Insurance companies and defense attorneys look for social media posts that contradict injury claims. A photo of yourself at a family gathering weeks after claiming you couldn't walk without pain can undercut your case, even if it seems innocent to you. Insurance companies look. Defense attorneys look. Even if it looks innocent to you, a photo can be taken out of context in ways you'd never anticipate. Adjust your privacy settings and, honestly, just put social media down while your claim is active.
 
 Recorded statements to the opposing insurance company are another land mine. You're generally not legally required to give a recorded statement to the other party's insurer. The [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on working with attorneys is worth reading before you agree to anything with the other side. Politely decline until you've spoken with a personal injury attorney, most of whom offer free consultations.
 
@@ -116,7 +116,6 @@ Start today. Write down what happened. Organize your medical records. Keep your 
 - [this one](https://www.amazon.com/s?k=injury+documentation+journal+pain+diary)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

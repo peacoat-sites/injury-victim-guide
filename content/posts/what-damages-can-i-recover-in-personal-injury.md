@@ -26,7 +26,7 @@ author_bio: "Jennifer Harris worked as an insurance claims adjuster before movin
 
 lastmod: 2026-07-08
 ---
-You've just left the emergency room with a fractured wrist, a prescription for pain medication, and a bill for $4,200. The driver who ran the red light has insurance. So now what? Most people in that moment have one burning question: what can I actually get paid for? The answer is almost always broader than they expect, and I've watched countless people leave money on the table simply because they didn't know what to ask for.
+You've just left the emergency room with a fractured wrist, a prescription for pain medication, and a bill for $4,200. The driver who ran the red light has insurance. So now what? Most people in that moment have one burning question: what can I actually get paid for? The answer is almost always broader than they expect, Many people leave money on the table simply because they didn't know what to ask for.
 
 ## The Two Big Buckets: Economic and Non-Economic Damages
 
@@ -106,7 +106,7 @@ Good documentation doesn't happen automatically. You have to build it intentiona
 
 2. **Request copies of all medical records and bills.** Don't wait for your attorney to do this. Get in the habit of collecting everything yourself.
 
-3. **Keep a daily injury journal.** Write a few sentences every day about your pain level, what activities you couldn't do, how your sleep was affected, and how you felt emotionally. Nolo's personal injury resources specifically highlight the value of a pain diary in building non-economic damage claims. I've seen firsthand how powerfully a detailed journal holds up in negotiations.
+3. **Keep a daily injury journal.** Write a few sentences every day about your pain level, what activities you couldn't do, how your sleep was affected, and how you felt emotionally. Nolo's personal injury resources specifically highlight the value of a pain diary in building non-economic damage claims. A detailed journal can be powerful in negotiations.
 
 4. **Document all out-of-pocket expenses.** Gas for medical appointments, parking fees, over-the-counter medications, home modifications, hired help for tasks you can't do yourself. Keep receipts.
 
@@ -129,7 +129,6 @@ Getting hurt because of someone else's negligence is genuinely disorienting. The
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
 - [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

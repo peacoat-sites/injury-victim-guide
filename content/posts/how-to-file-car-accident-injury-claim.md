@@ -64,7 +64,7 @@ This surprises a lot of people: you may need to file with multiple insurance com
 
 Here's the unglamorous truth about personal injury claims: the side with better paperwork usually wins. The insurance company has a trained team organizing their evidence against your claim. You need to match that organization.
 
-Learning [how to document injuries after an accident](/how-to-document-injuries-after-accident/) is genuinely one of the highest-leverage things you can do for your case. A dedicated injury documentation journal, where you record your pain levels, missed activities, sleep disruption, and emotional state daily, gives your attorney and the adjuster a vivid picture of how the injury affected your life. Vague statements like "my back hurt for a few months" are worth far less than a journal showing 47 consecutive days of rated pain, missed work, and cancelled family commitments. A physical or digital journal kept from day one is a small effort with a potentially significant payoff. (You can find injury documentation journals and medical records organizers on Amazon that are specifically designed for this purpose; this site may earn a small commission on purchases.)
+Learning [how to document injuries after an accident](/how-to-document-injuries-after-accident/) strengthens your case. A dedicated injury documentation journal, where you record your pain levels, missed activities, sleep disruption, and emotional state daily, gives your attorney and the adjuster a vivid picture of how the injury affected your life. Vague statements like "my back hurt for a few months" are worth far less than a journal showing 47 consecutive days of rated pain, missed work, and cancelled family commitments. A physical or digital journal kept from day one is a small effort with a potentially significant payoff. (You can find injury documentation journals and medical records organizers on Amazon that are specifically designed for this purpose; this site may earn a small commission on purchases.)
 
 **What to gather and keep:**
 
@@ -131,7 +131,6 @@ The car accident injury claim process can feel overwhelming when you're also try
 - [nolo.com](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -59,7 +59,7 @@ If you're trying to understand why one soft tissue claim settles for $15,000 and
 
 Adjusters don't pull numbers from thin air. They use software and internal guidelines to generate initial offers. The most widely known system is Colossus, a claims evaluation program used by many large carriers. It spits out a recommended range based on diagnosis codes, treatment duration, and medical costs.
 
-Here's the catch: Colossus rewards what it can quantify and ignores what it can't. It might capture your $3,200 in physical therapy bills but have no good way to value the fact that you can no longer coach your daughter's soccer team or sleep through the night.
+Colossus rewards what it can quantify and ignores what it can't. It might capture your $3,200 in physical therapy bills but have no good way to value the fact that you can no longer coach your daughter's soccer team or sleep through the night.
 
 Settlement components break down like this. **Special damages** are your economic losses: medical bills, future medical costs, lost wages, transportation to appointments. **General damages** are your non-economic losses: [pain and suffering](/how-is-pain-and-suffering-calculated-in-a-settlement/), emotional distress, loss of enjoyment of life, and loss of consortium.
 
@@ -112,7 +112,6 @@ The honest truth about soft tissue injury settlements is that there's no univers
 - [*Personal Injury Journal* on Amazon](https://www.amazon.com/s?k=personal+injury+journal)
 - [Keeping It Together Medical Organizer](https://www.amazon.com/s?k=medical+records+organizer)
 - [American Bar Association's public education resources](https://www.americanbar.org/groups/public_education/)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

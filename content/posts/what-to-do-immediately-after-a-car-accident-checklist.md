@@ -25,7 +25,7 @@ faqs:
     a: "It genuinely varies: straightforward property damage claims can close in 2-6 weeks. Injury claims involving ongoing medical treatment shouldn't be settled until you've reached 'maximum medical improvement,' which could take months. Claims that go to litigation can take 1-3 years. Pressure to settle quickly is almost always in the insurer's interest, not yours."
 ---
 
-Sixty percent of drivers involved in car accidents can't accurately recall what they did in the first ten minutes afterward. That figure comes from a survey conducted by the Insurance Research Council, and I'll be honest: when I first read it, I thought it was an exaggeration. Then I remembered my own fender-bender on I-94 outside of Gary, Indiana. I sat in my car for a solid three minutes just... staring at the other driver's bumper, completely blank. And I was someone who had spent over a decade processing these exact claims for a living.
+Sixty percent of drivers involved in car accidents can't accurately recall what they did in the first ten minutes afterward. That figure comes from a survey conducted by the Insurance Research Council. The shock and disorientation that follows impact can make it hard to recall immediate actions, even for people experienced with accident claims.
 
 The first minutes after a crash are when you make or break your ability to protect yourself financially and legally, and most advice on the internet treats this like a simple twelve-step list you'll magically remember while your airbag is still deflating. That's not how it works. What actually helps is understanding *why* each action matters, not just that you're supposed to do it.
 
@@ -35,7 +35,7 @@ Adrenaline is not your friend here. It makes you feel fine when you might not be
 
 So the first thing: before you touch the door handle, take a breath and do a quick body scan. Move your neck slowly. Check your passengers. You're not looking for gushing wounds; you're checking whether anyone needs emergency help before you even think about exchanging insurance cards.
 
-If the crash was serious, call 911 immediately. If it was minor and everyone seems physically fine, your next move is to get the vehicles out of active traffic lanes if they're drivable. California, Texas, and Florida all have "move over" laws requiring drivers to clear the roadway when it's safe to do so. In my experience reviewing claims, the accidents that turned into two accidents (because of a follow-on rear-end) were almost always the ones where people left drivable cars sitting in the travel lane.
+If the crash was serious, call 911 immediately. If it was minor and everyone seems physically fine, your next move is to get the vehicles out of active traffic lanes if they're drivable. California, Texas, and Florida all have "move over" laws requiring drivers to clear the roadway when it's safe to do so. Leaving a drivable car in the travel lane significantly increases the risk of a secondary collision.
 
 Turn on your hazard lights. This sounds obvious. It isn't obvious when you're shaken.
 
@@ -43,9 +43,7 @@ Turn on your hazard lights. This sounds obvious. It isn't obvious when you're sh
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Here's what surprised me when I switched from the adjuster's desk to the advocacy side: how aggressively insurance companies use the first 24 hours against claimants. Skid marks fade. Witnesses leave. Memories shift. The adjuster assigned to your file is going to get a recorded statement from you as soon as possible, and they are trained to use casual, sympathetic conversation to get you to say things that minimize your claim. I watched this happen hundreds of times. I was the person doing it.
+Insurance companies prioritize the first 24 hours after an accident. Skid marks fade. Witnesses leave. Memories shift. The adjuster assigned to your file will request a recorded statement quickly. They are trained to use casual, sympathetic conversation to gather details that may minimize your claim.
 
 Your job at the scene is to document everything, not to figure out who's at fault. That's for later.
 
@@ -74,7 +72,7 @@ If there are witnesses, get their contact information before they leave. In my y
 
 ## The Timeline That Actually Matters
 
-One thing I never saw laid out clearly when I was an adjuster: the deadlines stack up fast, and missing them has real consequences. Here's a comparison of common post-accident actions and the windows you're working with.
+Deadlines stack up fast after an accident, and missing them has real consequences. Here's a comparison of common post-accident actions and the windows you're working with.
 
 | Action | Recommended Timing | Why It Matters |
 |---|---|---|
@@ -98,9 +96,7 @@ The medical evaluation piece is where I see people hurt themselves most often. T
 
 The pattern here isn't subtle.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Share of car accident claims with documentation gaps, by outcome</div><div class="sc-row"><span class="sc-label">Fully documented claims settled favorably</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">71%</span></div><div class="sc-row"><span class="sc-label">Partially documented claims settled favorably</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">44%</span></div><div class="sc-row"><span class="sc-label">Undocumented claims settled favorably</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">19%</span></div><div class="sc-src">Source: Insurance Research Council, 2024 Claims Satisfaction Study</div></div>
-
 
 ## After You Leave the Scene
 
@@ -125,7 +121,6 @@ One thing I genuinely didn't understand until I was on the advocacy side: you do
 - *Journal of Forensic Sciences* (2021): Study on photographic evidence quality in accident reconstruction
 
 ---
-
 
 ---
 

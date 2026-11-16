@@ -55,7 +55,7 @@ Wrongful death claims allow recovery in two broad buckets: economic losses and n
 
 Economic losses are the concrete ones. They include medical bills incurred before death (if the person survived for some period), funeral and burial costs, lost income and future earnings the deceased would have provided to the family, and the value of services the deceased provided to the household. That last one sounds cold, but it's real: a stay-at-home parent who provided childcare and household management provided something with genuine economic value. Courts recognize this.
 
-Non-economic losses are trickier. Loss of companionship, loss of guidance for children, emotional pain and suffering of the survivors. Some states allow recovery for the grief and mental anguish of surviving family members directly. Others limit this significantly. A handful of states cap non-economic damages in wrongful death cases, which is one of the more quietly consequential things I've seen families not know about until it's too late.
+Non-economic losses are trickier. Loss of companionship, loss of guidance for children, emotional pain and suffering of the survivors. Some states allow recovery for the grief and mental anguish of surviving family members directly. Others limit this significantly. A handful of states cap non-economic damages in wrongful death cases, which families often don't know about until after the deadline has passed.
 
 Punitive damages, money designed to punish especially bad behavior rather than just compensate you, are allowed in some states when the conduct was particularly egregious, but they're far from automatic.
 
@@ -63,7 +63,7 @@ One thing [Nolo's personal injury resources](https://www.nolo.com/legal-encyclop
 
 ## The Timeline: Shorter Than You Think
 
-Statute of limitations. That's the legal deadline for filing a lawsuit, and in wrongful death cases it ranges from one year to three years depending on the state. California gives you two years from the date of death. Texas gives you two years. Some states give you only one. I've seen families lose valid claims entirely because they waited too long, usually because they were grieving and didn't realize the clock was running.
+Statute of limitations. That's the legal deadline for filing a lawsuit, and in wrongful death cases it ranges from one year to three years depending on the state. California gives you two years from the date of death. Texas gives you two years. Some states give you only one. Families sometimes lose valid claims entirely by waiting too long, often because grief delays action and the deadline goes unnoticed.
 
 There are some exceptions. The clock might pause (lawyers call this "tolling") if a beneficiary is a minor, or if the death was caused by a government entity, which actually shortens the deadline in many states and adds notice requirements. But counting on an exception is a bad strategy. The general rule is: the sooner you consult with an attorney, the better preserved your options are.
 
@@ -106,7 +106,6 @@ Grief and legal claims make a brutal combination. You shouldn't have to learn ci
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

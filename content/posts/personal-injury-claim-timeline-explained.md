@@ -25,15 +25,13 @@ faqs:
     a: "Yes, and honestly it's worth doing. Documenting your symptoms, medical appointments, expenses, and missed work days from day one significantly strengthens your claim. There are medical records organizers and injury documentation journals available on Amazon (note: this site may earn a commission on qualifying purchases) that make this process much less chaotic than trying to reconstruct it from memory months later."
 ---
 
-Most people who file a [personal injury claim](/police-report-personal-injury-claim/) assume the whole thing wraps up in a few weeks. The actual median time from incident to settlement is closer to 12 to 18 months, and I've watched cases drag past three years when litigation got involved. That gap between expectation and reality is where a lot of people make their worst decisions, usually by accepting a lowball offer too early just to be done with it.
+Most people who file a [personal injury claim](/police-report-personal-injury-claim/) assume the whole thing wraps up in a few weeks. The actual median time from incident to settlement is closer to 12 to 18 months, with cases often extending past three years when litigation gets involved. That gap between expectation and reality is where a lot of people make their worst decisions, usually by accepting a lowball offer too early just to be done with it.
 
 I'll be honest: when I was still working as an adjuster, I knew exactly how much that impatience was worth to my employer. We had a phrase for it internally that I'm [not going](/neck-pain-after-car-accident-not-going-away/) to repeat here, but the concept was simple. The longer a claimant goes without income and without understanding what's happening, the faster they'll sign a release. Understanding the timeline doesn't just satisfy curiosity. It protects your money.
 
-What surprised me when I started researching the data behind settlement timelines was how much the *type* of injury drives duration more than almost any other factor, including attorney involvement. Let me show you what I found.
-
+Research on settlement timelines shows that the *type* of injury drives duration more than almost any other factor, including attorney involvement.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most personal injury claims take 12-18 months; litigation pushes that to 2-3+ years.</li><li style="margin:5px 0">The single biggest timeline driver is reaching "maximum medical improvement" (MMI), not paperwork.</li><li style="margin:5px 0">Accepting a settlement before MMI is one of the most common and costly mistakes claimants make.</li><li style="margin:5px 0">Statute of limitations in most states is 2-3 years, but some are as short as 1 year (e.g., Tennessee).</li><li style="margin:5px 0">Represented claimants receive, on average, 3.5x more in settlement than unrepresented ones, per the Insurance Research Council.</li></ul></div>
-
 
 ## Why MMI Is the Number That Actually Controls Everything
 
@@ -43,13 +41,11 @@ I spent years on the other side of this. When a claimant settled before MMI, we'
 
 The practical consequence is that your own timeline should be built around your treatment arc, not the insurance company's preferred pace.
 
-**Scenario:** A reader (I'll call her Diane, a warehouse worker from Columbus) rear-ended at a stoplight, soft tissue injuries, missed six weeks of work. Her insurer called with a $4,200 offer at week three. → She waited for her physical therapy to conclude and reached MMI at week eleven. → Her attorney negotiated a $19,400 settlement covering lost wages, therapy costs, and a pain-and-suffering component. Same facts. Completely different outcome because of timing.
+**Scenario:** Someone with soft tissue injuries from a rear-end collision at a stoplight, who missed six weeks of work, might receive a $4,200 offer at week three. Waiting for physical therapy to conclude and reaching maximum medical improvement at week eleven allowed an attorney to negotiate a $19,400 settlement covering lost wages, therapy costs, and a pain-and-suffering component. Same facts. Completely different outcome because of timing.
 
 ## The Phase-by-Phase Breakdown
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where I want to give you something genuinely concrete. The timeline isn't one monolithic thing. It's a sequence of phases, each with its own clock.
 
@@ -63,7 +59,7 @@ Here's where I want to give you something genuinely concrete. The timeline isn't
 | Filing suit (if no agreement) | Adds 12 to 36 months | Discovery, depositions, potential trial or late settlement |
 | Payment after settlement | 4 to 6 weeks | Release signed, liens resolved, disbursement |
 
-The phase most people don't anticipate is lien resolution after settlement. If Medicare, Medicaid, or a private health insurer paid any of your medical bills, they have a legal right to reimbursement from your settlement (called a subrogation lien). I've seen this process add six weeks to cases where people thought they were days from getting a check. It's not optional, and an attorney negotiating that lien down is often worth more than their fee on the main case.
+The phase most people don't anticipate is lien resolution after settlement. If Medicare, Medicaid, or a private health insurer paid any of your medical bills, they have a legal right to reimbursement from your settlement (called a subrogation lien). This process often adds six weeks to cases where people thought they were days from getting a check. It's not optional, and an attorney negotiating that lien down is often worth more than their fee on the main case.
 
 ## What the Data Actually Says About Timelines
 
@@ -71,9 +67,7 @@ The phase most people don't anticipate is lien resolution after settlement. If M
 
 The research on case duration is more mixed. A 2023 analysis by RAND's Institute for Civil Justice found median time-to-resolution for auto injury claims (the most common personal injury category) of roughly 13.4 months for settled cases and 31.7 months for litigated ones. Complex cases involving traumatic brain injuries or spinal injuries routinely exceed those averages.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Median personal injury timeline by case type (months)</div><div class="sc-row"><span class="sc-label">Minor soft tissue (settled)</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">8 months</span></div><div class="sc-row"><span class="sc-label">Moderate injury (settled)</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">14 months</span></div><div class="sc-row"><span class="sc-label">Severe/permanent injury (settled)</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">22 months</span></div><div class="sc-row"><span class="sc-label">Any injury (litigated)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">32 months</span></div><div class="sc-src">Source: RAND Institute for Civil Justice, 2023</div></div>
-
 
 What this means practically: if your injury is relatively contained and you have good documentation, you're likely looking at something under a year. If your injuries are serious enough that you'll be treating for many months, you should expect to be in this process for at least 18 months, and possibly much longer. That's not pessimism. That's the shape of the data.
 
@@ -98,7 +92,6 @@ I made the mistake once of assuming a client had more time than she did because 
 - [Uniform Law Commission: State Tort Reform Statutes](https://www.uniformlaws.org/) -- comparative state-by-state statute of limitations and tort reform summaries
 
 ---
-
 
 *Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
 

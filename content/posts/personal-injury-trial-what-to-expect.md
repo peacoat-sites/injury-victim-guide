@@ -29,23 +29,19 @@ Only about 4% of [personal injury cases](/what-percentage-of-personal-injury-cas
 
 That number stopped me cold the first time I saw it cited in trial data. I'd spent over a decade on the other side of the table as an [insurance adjuster](/what-to-say-to-an-insurance-adjuster-after-an-accident/), watching claims get settled, negotiated, lowballed, and occasionally dragged into litigation. And even I had underestimated how rare an actual trial is. The American Bar Foundation has tracked this pattern for years: the civil trial rate has declined dramatically since the 1980s, and personal injury cases are no exception. Most settle. Many settle late, right on the courthouse steps, after months or years of posturing.
 
-But here's the thing: knowing what a trial looks like, even if you never have one, changes everything about how you handle your case from day one. The [insurance company](/should-i-give-a-recorded-statement-to-the-insurance-company/) sitting across from you has watched thousands of cases go to trial. If you don't understand the process at all, that's a real disadvantage, and I've seen it cost injured people money they deserved.
-
+Knowing what a trial looks like, even if you never have one, changes how you handle your case from day one. The [insurance company](/should-i-give-a-recorded-statement-to-the-insurance-company/) sitting across from you has watched thousands of cases go to trial. Not understanding the process puts you at a disadvantage in settlement negotiations.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Only ~4% of personal injury cases reach a jury verdict; most settle before or during trial.</li><li style="margin:5px 0">Trials typically last 3–7 days for standard injury cases; complex cases can run 3–4 weeks.</li><li style="margin:5px 0">Jury selection (voir dire) is often where cases are quietly won or lost, don't underestimate it.</li><li style="margin:5px 0">Medical records and documentation quality directly affect jury credibility and damage awards.</li><li style="margin:5px 0">Defendants often make their best settlement offer after trial begins, not before.</li></ul></div>
-
 
 ## Why Trials Actually Happen
 
 Most cases settle because both sides are rational actors weighing risk. Settlement is predictable. A jury is not. So when a case does go to trial, it usually means one of a few things: the liability is genuinely disputed (meaning the other side thinks they can win on fault), the damages are enormous and the insurer is unwilling to pay fair value, or someone is being unreasonable, sometimes the plaintiff, honestly, but more often the insurance carrier.
 
-I've seen carriers lowball a legitimate claim for two solid years, then scramble to settle on the morning of day one. That's not an accident. That's a strategy. They're betting you'll crack under the financial and emotional pressure of going all the way. Knowing that, your attorney's willingness to actually try cases is one of the most important things to evaluate when choosing representation. The [Insurance Information Institute](https://www.iii.org/) has published data showing that insurers track plaintiff attorneys' trial rates internally. An attorney who almost never goes to trial has less leverage than one who does it regularly. That's not my opinion; it's how the other side operates.
+Carriers sometimes lowball legitimate claims for extended periods, then scramble to settle as trial approaches. This is deliberate strategy. They're betting you'll crack under the financial and emotional pressure of going all the way. Your attorney's willingness to actually try cases is one of the most important things to evaluate when choosing representation. The [Insurance Information Institute](https://www.iii.org/) has published data showing that insurers track plaintiff attorneys' trial rates internally. An attorney who almost never goes to trial has less leverage than one who does it regularly.
 
 ## The Timeline: What You're Actually Signing Up For
 
 > **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 People ask me all the time how long a trial takes. Here's the honest answer: it depends on variables that are genuinely hard to predict.
 
@@ -81,13 +77,11 @@ Cross-examination by the defense attorney follows your direct testimony. This is
 
 After both sides present their evidence, closing arguments happen. Then the jury deliberates. In civil cases, most states don't require a unanimous verdict. Many require only 9 of 12 jurors to agree, which is meaningfully different from criminal law.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Where Personal Injury Cases Resolve (% of Filed Cases)</div><div class="sc-row"><span class="sc-label">Settle pre-trial</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">67%</span></div><div class="sc-row"><span class="sc-label">Dismiss/Summary Judgment</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">26%</span></div><div class="sc-row"><span class="sc-label">Jury Verdict</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">4%</span></div><div class="sc-row"><span class="sc-label">Bench Trial</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">2%</span></div><div class="sc-row"><span class="sc-label">Other/Arbitration</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">1%</span></div><div class="sc-src">Source: National Center for State Courts Civil Justice Survey</div></div>
-
 
 ## What the Defense Is Actually Doing
 
-I want to be direct about this because I lived it. When I was an adjuster, our defense strategy in any litigated case started with three things: find gaps in the medical treatment timeline, identify any prior injuries or conditions, and assess how sympathetic the plaintiff would be to a jury. That last one sounds cynical. It is. But it's also honest.
+Defense strategies in litigated cases typically focus on three things: gaps in the medical treatment timeline, prior injuries or conditions, and how sympathetic the plaintiff would be to a jury. That last factor matters because jurors decide cases, not adjusters.
 
 Gaps in treatment are a major target. If you were injured in March and didn't see a doctor until May, the defense will argue you weren't really hurt. It doesn't matter that you didn't have insurance, or that you were working two jobs and couldn't take time off. The gap is the gap, and they'll use it.
 
@@ -112,7 +106,6 @@ What the research does show: a 2022 analysis by Jury Verdict Research found that
 - [Nolo Legal Encyclopedia, Personal Injury](https://www.nolo.com/legal-encyclopedia/personal-injury): Plain-language breakdowns of trial procedures, evidence rules, and witness preparation.
 
 ---
-
 
 *Photo: [khezez  | خزاز](https://www.pexels.com/@khezez) via Pexels*
 

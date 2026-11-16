@@ -27,11 +27,11 @@ faqs:
 
 One in five. That's the share of all U.S. worker fatalities that happen in construction, according to OSHA's most recent data, even though construction workers represent only about 6% of the total workforce. If you're reading this because you or someone you love got hurt on a job site, that number probably doesn't surprise you. What might surprise you is how many injured workers walk away with far less than they're owed, not because their case was weak, but because they didn't understand what they were actually dealing with.
 
-I spent 12 years on the insurance side of these claims. I sat in the room where adjusters strategized about how to minimize payouts. I know the playbook. And when I switched sides, the single most consistent thing I saw was injured workers accepting workers' comp checks and not realizing they might have had a much stronger third-party lawsuit running alongside it. So let me explain all of this like I would over coffee, because you deserve to understand the full picture before you make any decisions.
+A common pattern emerges in workers' compensation claims: injured workers accept workers' comp checks without realizing they might have a much stronger third-party lawsuit running alongside it. Understanding the full picture before making any decisions is essential.
 
 ## Construction Accidents Aren't Like Other Workplace Injuries
 
-Here's where most people get it wrong, and honestly, I got it wrong myself when I first started in this field. You hear "workplace injury" and you immediately think "workers' compensation." File a claim, get some medical bills covered, collect partial wages while you recover, done. That's the whole menu, right?
+Many people hear "workplace injury" and assume workers' compensation is the only option. File a claim, get some medical bills covered, collect partial wages while you recover, done. But that's not the full menu.
 
 Wrong. In construction, the menu is much bigger.
 
@@ -44,8 +44,6 @@ The Bureau of Labor Statistics reported that in 2023 there were 1,075 constructi
 ## Who Can Actually Be Sued
 
 > **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the question I get asked most often, usually with some skepticism attached: "But the guy who dropped the load wasn't trying to hurt me, so how can I sue anyone?"
 
@@ -79,9 +77,7 @@ Here's a comparison of statutes of limitations and notice requirements in severa
 
 New York deserves special mention. Its Labor Law §240, sometimes called the "Scaffold Law," holds general contractors and property owners strictly liable for elevation-related injuries, meaning fault doesn't have to be proven the same way. If you're in New York and you fell from a height, your case may be significantly stronger than in other states.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Fatal Construction Injuries by Cause (2023)</div><div class="sc-row"><span class="sc-label">Falls</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">395 fataliti</span></div><div class="sc-row"><span class="sc-label">Struck by Object</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">187 fataliti</span></div><div class="sc-row"><span class="sc-label">Electrocution</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">82 fataliti</span></div><div class="sc-row"><span class="sc-label">Caught In/Between</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">55 fataliti</span></div><div class="sc-row"><span class="sc-label">Other</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">356 fataliti</span></div><div class="sc-src">Source: Bureau of Labor Statistics, Census of Fatal Occupational Injuries 2023</div></div>
-
 
 Falls are not just the leading cause statistically. They're also often the most legally actionable, because OSHA has extensive, specific fall protection standards that were either met or they weren't. When a worker falls on a job site and fall protection wasn't in place, that regulatory violation creates a strong foundation for a negligence argument.
 
@@ -93,11 +89,11 @@ The most important thing you can do in the days immediately after a serious cons
 
 If you're physically able, photograph the scene immediately. The exact spot where you fell, the equipment involved, any missing guardrails, any warning signs (or the absence of them). Get the names and phone numbers of witnesses, including people who didn't see the accident itself but knew about a hazardous condition beforehand.
 
-An attorney in a serious case can send what's called a "spoliation letter" (a legal notice demanding that all relevant evidence be preserved and not destroyed) to the general contractor and other parties. This letter should go out within days, not weeks. I've seen cases where critical video footage was already gone by the time the letter arrived.
+An attorney in a serious case can send what's called a "spoliation letter" (a legal notice demanding that all relevant evidence be preserved and not destroyed) to the general contractor and other parties. This letter should go out within days, not weeks. Critical evidence like video footage can be lost if the letter arrives too late.
 
 Your medical records from day one are also your story. The initial emergency room notes, the diagnosis, the mechanism of injury as you described it, all of that becomes the foundation of your damages claim. Don't downplay your symptoms. Don't say "I'm fine" to a nurse if you're not fine.
 
-If you want something practical to help you stay organized during this process, [this personal injury documentation journal on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal) can be genuinely useful for tracking medical appointments, symptoms, and expenses (the site may earn a commission on purchases through that link). It sounds small, but organized records have made a measurable difference in cases I've watched go through litigation.
+If you want something practical to help you stay organized during this process, [this personal injury documentation journal on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal) can be genuinely useful for tracking medical appointments, symptoms, and expenses (the site may earn a commission on purchases through that link). Organized records can make a measurable difference in litigation.
 
 ## What Damages Actually Look Like
 
@@ -120,7 +116,6 @@ One more scenario worth walking through: a concrete form laborer in Illinois was
 - Liberty Mutual Workplace Safety Index (2022): Annual industry report estimating direct costs of serious workplace injuries across U.S. industries
 
 ---
-
 
 ---
 

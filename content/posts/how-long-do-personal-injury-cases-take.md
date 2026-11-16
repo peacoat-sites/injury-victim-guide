@@ -98,7 +98,7 @@ Don't assume the negotiation process "pauses" the clock. It doesn't. If the insu
 
 ## What Actually Slows Cases Down (and What You Can Do About It)
 
-In my experience, the cases that drag on unnecessarily share a few common patterns. Recognizing them can help you avoid adding months to your own timeline.
+Cases that drag on unnecessarily often share a few common patterns. Recognizing them can help you avoid adding months to your own timeline.
 
 **Incomplete documentation.** Missing medical records, gaps in treatment, lost receipts for out-of-pocket expenses, insurers use these gaps to dispute damages. Keeping an organized injury journal from day one makes a real difference. Logging your symptoms, limitations, missed events, and conversations with medical providers creates a contemporaneous record that's hard to dismiss. *(This site may earn a commission on relevant products like injury documentation journals available on Amazon.)*
 
@@ -139,7 +139,6 @@ There's no shortcut to making a personal injury case resolve faster than the fac
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

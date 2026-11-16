@@ -53,7 +53,7 @@ Let me walk you through what was actually going through my head during a recorde
 
 **Speed and certainty.** Fast, certain answers feel rehearsed or defensive. Slow, uncertain answers create openings to argue your memory is faulty. There's no perfect speed, but measured and calm beats rushed. Take your time. Think before you answer.
 
-**Inconsistencies about injury onset.** This was the big one. I'd ask something like, "How were you feeling right after the accident?" And the claimant would say, "A little sore, but I thought I was okay." That phrase, "I thought I was okay," was gold for minimizing a soft-tissue injury claim. The argument becomes: you felt fine at the scene, so how serious could this really be? The reality is that adrenaline masks pain. Whiplash symptoms routinely show up 24 to 72 hours after a crash. But once you've said "I thought I was okay" on tape, that's in the file forever.
+**Inconsistencies about injury onset.** A common pitfall occurs when someone says they felt "a little sore, but I thought I was okay" right after an accident. That phrase can be used to minimize a soft-tissue injury claim. The argument becomes: you felt fine at the scene, so how serious could this really be? Adrenaline masks pain. Whiplash symptoms routinely show up 24 to 72 hours after a crash. But once you've said "I thought I was okay" on tape, that's in the file forever.
 
 **Comparative fault language.** Adjusters will ask questions like "Were you watching the road?" or "Did you have time to react?" These aren't casual. They're designed to get you to say something that assigns partial fault to you, which in comparative negligence states directly reduces your compensation percentage.
 

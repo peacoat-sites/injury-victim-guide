@@ -25,7 +25,7 @@ author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 lastmod: 2026-07-08
 ---
-You're walking home from the grocery store, bags cutting into your fingers, crossing at a marked crosswalk with the walk signal. A driver runs the light, clips you, and suddenly the pavement is coming up fast. They get out, apologizes, says their insurance will "take care of everything." Three weeks later: fractured ankle, medical bills piling up, an insurance adjuster on the phone offering $1,800 to sign away all your rights. This happens thousands of times every year, and I've seen it from both sides.
+For example, suppose you're hit by a driver while crossing legally at a marked crosswalk. The driver apologizes and suggests their insurance will cover everything. Three weeks later you have a fractured ankle, mounting medical bills, and an insurance adjuster offering $1,800 to sign away all your rights. This scenario plays out thousands of times every year.
 
 Pedestrians hit by vehicles face longer recoveries and more complex legal battles than passengers in cars. The CDC's data is consistent on this. Yet most people have no idea what their claim is worth, what mistakes tank a case in the first 72 hours, or how insurance companies actually think. Let me explain what you need to know.
 
@@ -43,7 +43,7 @@ Then there's comparative fault. Adjusters are trained to find reasons you share 
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-I've watched solid cases get damaged, sometimes permanently, by what happens in the first three days. Here's what to actually do.
+Solid cases often get damaged, sometimes permanently, by missteps in the first three days.
 
 **Get medical care, even if you feel fine.** Adrenaline hides pain. A soft tissue neck injury or slow intracranial bleed can feel like nothing until it's serious. Seeing a doctor creates a medical record linking your injuries to the accident. A gap between the accident and your first doctor visit gives insurers ammunition: your injuries happened elsewhere, or they weren't serious.
 
@@ -110,7 +110,6 @@ Getting hit by a car is terrifying, and what comes next can feel just as overwhe
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
 - [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

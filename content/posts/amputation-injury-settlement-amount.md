@@ -33,7 +33,6 @@ I spent 12 years as an adjuster before I switched sides. I've sat in rooms where
 
 So let me tell you what actually shapes an amputation settlement, what the insurance company already knows that you probably don't, and where the real money gets left on the table.
 
-
 <div class="value-module">
  <div class="vm-head">Amputation Settlement Value Factors Matrix</div>
  <div class="vm-body">
@@ -47,9 +46,7 @@ So let me tell you what actually shapes an amputation settlement, what the insur
 
 **"Insurance companies will just pay whatever you claim"**: Most people assume that if they demand $500,000 for an amputation injury, insurers will negotiate down to maybe $400,000. But data from the American Association for Justice shows that [without legal representation](/traumatic-brain-injury-claim-guide/), claimants receive settlements 3.5x lower than those with attorneys. The Insurance Information Institute reports that insurers deny or underpay amputation claims in roughly 40% of cases, not because the injuries aren't real, but because claimants fail to document lost earning capacity, lifetime medical needs, and prosthetic replacement costs (which can total $500,000+ over a lifetime). An insurer's opening offer typically covers only medical bills, ignoring future complications. You're not negotiating from strength; you're starting from a position of incomplete information.
 
-
 **"Insurance companies pay whatever you ask for amputation cases"**: Most people assume that once they file an amputation claim, insurers automatically match their settlement demand. Reality is sharply different. According to the American Association for Justice, insurers deny or underpay catastrophic injury claims at rates between 30-40%, with amputation cases averaging initial offers 40-60% below documented damages. The Insurance Research Council found that claimants without legal representation receive settlements averaging $89,000 for major limb loss, while represented claimants secure $340,000+, a 282% difference. Insurers use documented medical protocols and actuarial tables to cap payouts, not your request amount.
-
 
 You'll find articles claiming amputation settlements average anywhere from $500,000 to over $2 million. Those ranges aren't wrong. They're just nearly useless for your situation.
 
@@ -87,7 +84,7 @@ Get a dedicated system to document all of this from the start. A medical records
 
 The insurance company is not waiting on the same information you are.
 
-Their team is actively building a file designed to reduce their exposure. They're monitoring your social media. One photo of you standing at a wedding, smiling, can be pulled out of context and used to challenge how severe your psychological suffering actually is. I've watched this play out. Lock everything down on social media. It's not optional.
+Their team is actively building a file designed to reduce their exposure. They're monitoring your social media. One photo of you standing at a wedding, smiling, can be pulled out of context and used to challenge how severe your psychological suffering actually is. Lock everything down on social media. You should lock everything down on social media.
 
 They're also likely having their own medical experts review your records to argue your future care costs are lower than projected, your pain is manageable, or that some of your current limitations stem from pre-existing conditions rather than the accident. This is standard practice at large casualty insurers, and the [Insurance Information Institute](https://www.iii.org/) openly documents the claims investigation process that drives it.
 
@@ -122,7 +119,6 @@ Here's what I want you to take away from all of this: amputation claims aren't s
 - [Insurance Information Institute](https://www.iii.org/)
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

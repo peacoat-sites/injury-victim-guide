@@ -16,25 +16,21 @@ affiliate_disclosure: true
 
 Something shifted on August 4, 2026, and if you or someone you love is caught up in the Camp Lejeune water contamination litigation, you need to know about it. Federal judges overseeing this massive case announced they're pushing both the government and plaintiffs' attorneys to produce a mass settlement plan by October 2026. That's a hard deadline, and it came after three full years of hearings, procedural maneuvering, and zero, not one, actual trials. For the 400,000-plus people who filed claims, many of them aging veterans now fighting cancer or other serious illness, this moment matters more than anything that's happened since Congress passed the Camp Lejeune Justice Act back in 2022.
 
-I spent over a decade as an [insurance adjuster](/insurance-adjuster-tactics-to-watch-out-for/) before I switched sides. I've seen exactly how delay works as a weapon. When a defendant knows that claimants are getting older and sicker, there's a cold financial logic to slow-walking the process, and plaintiffs' advocates are now saying that out loud publicly. According to NPR's August 4 report, one advocate specifically accused the Department of Justice of deliberately dragging proceedings out to exploit claimants' advancing age and deteriorating health as leverage for lower payouts. Whether you believe that's intentional strategy or just bureaucratic inertia, the effect on real people is the same.
+I spent over a decade as an [insurance adjuster](/insurance-adjuster-tactics-to-watch-out-for/) before I switched sides. I've seen exactly how delay works as a weapon. When a defendant knows that claimants are getting older and sicker, there's a cold financial logic to slow-walking the process, and plaintiffs' advocates are now saying that out loud publicly. According to NPR's August 4 report, an advocate accused the Department of Justice of deliberately dragging proceedings out to lower payouts by exploiting claimants' advancing age and deteriorating health. Whether you believe that's intentional strategy or just bureaucratic inertia, the effect on real people is the same.
 
 As of July 10, 2026, the Navy holds approximately 408,500 de-duplicated administrative claims, while 3,756 lawsuits have actually been filed in the Eastern District of North Carolina, according to the Lawsuit Information Center's August 2026 update. Those numbers tell a story. Massive interest, very little resolution. If you're one of those claimants, here's what you actually need to understand [right now](/how-georgias-tort-reform-law-is-changing-injury-claims-right-now/).
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Federal judges set an October 2026 deadline for a mass settlement plan after 3 years and zero trials.</li><li style="margin:5px 0">408,500 administrative claims have been filed; only 11,250 meet the 3-document minimum for evaluation.</li><li style="margin:5px 0">The DOJ is challenging expert causation testimony in Track 1 leukemia and non-Hodgkin lymphoma cases.</li><li style="margin:5px 0">Documentation gaps are the single biggest barrier keeping most claimants from moving forward.</li><li style="margin:5px 0">Aging and illness among claimants are being cited as leverage the government may be exploiting for lower offers.</li></ul></div>
-
 
 ## Why October 2026 Is a Real Turning Point, Not Just a Headline
 
-Three years is a long time to wait with no trials and no settlements. What's different now is that the judges themselves are pushing for resolution. That's not the parties agreeing to speed up, that's the court applying pressure from the bench. When judges start setting timelines for mass settlement frameworks, that typically signals they've grown impatient with the pace and want to move toward closure. It doesn't guarantee a settlement happens in October. It means both sides now have a deadline they can't easily ignore.
+Three years is a long time to wait with no trials and no settlements. Judges are now pushing for resolution. This represents the court applying pressure from the bench rather than voluntary agreement between parties. When judges set timelines for mass settlement frameworks, it signals impatience with the current pace and a push toward closure. It doesn't guarantee a settlement happens in October. It means both sides now have a deadline they can't easily ignore.
 
 What most people don't realize is how unusual it is for a case this size to have gone this long without a single bellwether trial. Bellwether trials are test cases, small sets of representative lawsuits that go to trial first to give both sides a sense of how juries will respond to the evidence. They're basically a pricing mechanism for mass settlements. In this litigation, Track 1 is focused on leukemia and non-Hodgkin lymphoma cases tied to toxic water exposure at Camp Lejeune between 1953 and 1987. The government has been fighting hard to limit or exclude plaintiff expert testimony on causation, which is the link between the contaminated water and those specific cancers. That fight over expert testimony has been a significant source of delay.
 
 ## The Documentation Problem Is Worse Than You Think
 
 > **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the number that should alarm you. Of the 408,500 administrative claims on file with the Navy, only about 11,250 contain the minimum three supporting documents required for evaluation under the Elective Option settlement framework. That's roughly 2.7 percent of all claimants who are even positioned to be considered under that pathway right now.
 
@@ -47,7 +43,7 @@ The Elective Option is one route to compensation that doesn't require going to f
 | Claims with minimum 3 docs for Elective Option | ~11,250 |
 | Claims missing documentation (estimated) | ~397,250 |
 
-I've seen people sit on incomplete files for months because they assumed their attorney was handling the records gathering. Sometimes they are. Sometimes the records are lost or destroyed, especially for service that goes back to the 1950s and 60s. If you have a claim pending, the single most useful thing you can do right now is confirm with your attorney exactly which documents are on file and which are still missing.
+Claimants sometimes assume their attorney is handling records gathering without confirming. Records may be lost or destroyed, especially for service dating back to the 1950s and 60s. If you have a claim pending, the single most useful thing you can do right now is confirm with your attorney exactly which documents are on file and which are still missing.
 
 ## What the Government's Legal Strategy Means for Your Claim
 

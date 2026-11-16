@@ -46,10 +46,9 @@ What I can do is walk you through what actually moves these numbers, what the in
 
 **"Insurance companies pay whatever you claim for [soft tissue injuries](/soft-tissue-injury-settlement-amounts/)"**: Most people assume that if they file a claim, they'll receive their requested amount. But data from the Insurance Information Institute shows that insurers deny or reduce soft tissue injury claims in approximately 40-60% of cases, particularly for whiplash and minor sprains. The average soft tissue claim is reduced by 30-50% from initial demands, with insurers citing insufficient medical documentation, gaps in treatment, or pre-existing conditions. Without imaging evidence (which soft tissue injuries rarely show) or consistent medical records, your claim becomes vulnerable to substantial reductions before it ever reaches settlement.
 
-
 Insurance adjusters love the phrase "soft tissue." It's a polite way of saying: no broken bones visible on your X-ray, so prepare to fight for every dollar.
 
-Soft tissue includes muscles, tendons, and ligaments. Whiplash is the most common diagnosis after a rear-end collision, but this category also covers sprains, strains, contusions, and rotator cuff tears. What surprised me when I was adjusting claims was how often a case that started as "simple whiplash" turned into something significantly more serious once the full diagnostic picture came in. An MRI catches things an X-ray misses entirely. That distinction alone can shift a claim's value dramatically.
+Soft tissue includes muscles, tendons, and ligaments. Whiplash is the most common diagnosis after a rear-end collision, but this category also covers sprains, strains, contusions, and rotator cuff tears. A case that starts as "simple whiplash" often turns into something significantly more serious once the full diagnostic picture comes in. An MRI catches things an X-ray misses entirely. That distinction alone can shift a claim's value dramatically.
 
 Here's why the label matters practically: insurance companies have internal software (Colossus is the most well-known, though carriers use various proprietary systems) that scores injury claims partly based on diagnosis codes. "Cervical sprain/strain" generates a lower score than "cervical disc herniation with radiculopathy" even if the person's daily pain experience is similar. Your treating physician's documentation language has real dollar consequences.
 
@@ -65,7 +64,7 @@ For pure soft tissue with no objective imaging findings, you're often looking at
 
 Three variables do more work than any others:
 
-**1. How much coverage exists.** A defendant with a 25/50 minimum policy caps your recovery regardless of how serious your injuries are. I've seen genuinely injured people walk away with $25,000 because that's all the at-fault driver carried. Policy limits are a ceiling, not a target.
+**1. How much coverage exists.** A defendant with a 25/50 minimum policy caps your recovery regardless of how serious your injuries are. An injured person may recover only $25,000 if that's the limit of the at-fault driver's policy. Policy limits are a ceiling, not a target.
 
 **2. Whether liability is clean.** Comparative fault states (most of the country) will reduce your recovery by your percentage of fault. If an adjuster can argue you were 20% responsible, a $50,000 claim becomes $40,000 by default.
 
@@ -75,7 +74,7 @@ Three variables do more work than any others:
 
 ## Documentation: The Thing That Actually Determines Your Number
 
-The gap between what an injury costs someone in pain, missed work, and altered daily life, and what they actually receive in settlement often comes down to the paper trail. Adjusters aren't heartless (most of them), but they're trained to look for gaps. A two-week gap between the accident and your first doctor visit gets labeled "gap in treatment" and used to argue your injuries weren't serious or weren't caused by the crash. I've seen claims reduced by 40% in initial offers because of a treatment gap the injured person didn't even realize was happening.
+The gap between what an injury costs someone in pain, missed work, and altered daily life, and what they actually receive in settlement often comes down to the paper trail. Adjusters aren't heartless (most of them), but they're trained to look for gaps. A two-week gap between the accident and your first doctor visit gets labeled "gap in treatment" and used to argue your injuries weren't serious or weren't caused by the crash. Claims can be reduced by 40% in initial offers because of a treatment gap, which the injured person may not have realized was occurring.
 
 What you should be doing from day one:
 
@@ -91,7 +90,7 @@ What you should be doing from day one:
 
 ## How Adjusters Calculate What They'll Offer
 
-Most people have no idea this process exists. When I was adjusting, we used multipliers. Take your total "special damages" (medical bills plus lost wages, together called "specials") and multiply by somewhere between 1.5 and 5 depending on injury severity, then add the specials back. So $10,000 in medical bills with a moderate whiplash injury might produce a starting valuation of $25,000 to $35,000 before any negotiation.
+Most people have no idea this process exists. Adjusters typically use multipliers. Take your total "special damages" (medical bills plus lost wages, together called "specials") and multiply by somewhere between 1.5 and 5 depending on injury severity, then add the specials back. So $10,000 in medical bills with a moderate whiplash injury might produce a starting valuation of $25,000 to $35,000 before any negotiation.
 
 Software systems have largely replaced pure multiplier math at big carriers, but the logic is similar. What moves the multiplier up: ongoing symptoms, multiple treatment types (ER plus imaging plus physical therapy plus specialist), lost wages, visible impact on daily activities, and a credible, consistent medical narrative. What moves it down: gaps in treatment, pre-existing conditions in the same body region, inconsistent symptom reporting, and fast settlement.
 

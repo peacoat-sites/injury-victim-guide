@@ -50,8 +50,6 @@ Specificity changes the tone of the entire negotiation.
 
 > **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The adjuster's goal is to close your file cheaply and quickly. Your goal is to make "quickly" impossible without "fairly." The way you do that is with a demand package that's so complete and well-organized that disputing it requires actual effort.
 
 What goes in a strong demand package:
@@ -73,9 +71,9 @@ Two tactics that I watched work consistently from the adjuster side, and that mo
 
 **The non-response period.** After you send your demand package, stop communicating for a set period. Ten to fourteen business days. No follow-up calls to check in, no emails asking if they received it. The adjuster is counting on your anxiety to produce a phone call where they can talk you down. Don't give them the call. Let the silence work.
 
-When the adjuster does reach out, they're usually moving. That's your leverage moment.
+When the adjuster reaches out, they're usually moving. That's when you have the most negotiating power.
 
-**The representation letter.** Even if you don't have an attorney yet, consulting with one and having them send a letter of representation to the insurance company changes the math dramatically. Why? Because the moment an attorney is involved, the adjuster's supervisor gets involved, the file gets a different reserve, and the company knows the case has litigation risk priced into it. The [Insurance Information Institute](https://www.iii.org/) has published data showing that represented claimants, on average, receive significantly higher settlements than unrepresented ones, even after attorney fees. I've seen that pattern play out hundreds of times personally.
+**The representation letter.** Even if you don't have an attorney yet, consulting with one and having them send a letter of representation to the insurance company changes the math dramatically. Because the moment an attorney is involved, the adjuster's supervisor gets involved, the file gets a different reserve, and the company knows the case has litigation risk priced into it. The [Insurance Information Institute](https://www.iii.org/) has published data showing that represented claimants, on average, receive significantly higher settlements than unrepresented ones, even after attorney fees.
 
 You don't have to commit to hiring an attorney. Most personal injury attorneys offer free consultations. But getting a demand letter sent on letterhead is often worth every penny of the fee.
 
@@ -95,7 +93,7 @@ This is where a daily injury journal becomes one of the most underrated tools av
 
 ## Three Scenarios, Three Outcomes
 
-Because theory only takes you so far, here are three patterns I've seen play out repeatedly, with real numbers drawn from industry experience:
+Here are three patterns that emerge from industry data, with real numbers:
 
 **Scenario 1 (soft tissue, quick settlement):** Rear-end collision, $8,000 in medical bills, no lost wages. Claimant accepts first offer of $12,500 without counter. Adjuster's reserve: $22,000. → Claimant left roughly $9,500 on the table.
 
@@ -125,7 +123,6 @@ The complexity compounds fast in those situations, and "getting more" very quick
 - Jury Verdict Research (current data compilations): Industry database tracking actual verdict and settlement values by injury type and geography, used by attorneys and insurers alike to benchmark claims.
 
 ---
-
 
 ---
 

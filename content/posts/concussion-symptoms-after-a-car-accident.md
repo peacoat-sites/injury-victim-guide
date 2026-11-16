@@ -25,7 +25,7 @@ faqs:
     a: "Yes, it very likely is. Emotional dysregulation, including irritability, anxiety, tearfulness, and depression, is a recognized and documented symptom of concussion and post-concussion syndrome. It results from the same neurochemical disruption that causes physical symptoms. It is not a sign of weakness or psychological fragility, and it should be reported to your doctor and documented just like your headaches."
 ---
 
-Roughly 3.8 million people experience a sports- or recreation-related concussion every year in the United States, according to the CDC, but that number almost certainly undercounts the real figure because car accident concussions get tallied separately, and many never get reported at all. Here's the number that stopped me cold when I first came across it in my adjuster days: studies published in the journal *Brain Injury* suggest that up to 50% of people who sustain a mild traumatic brain injury (mTBI) in a motor vehicle collision are discharged from the emergency room without ever receiving a formal concussion diagnosis. Half. They go home with a headache, assume they're fine, and have no idea why they feel strange for the next three weeks.
+Roughly 3.8 million people experience a sports- or recreation-related concussion every year in the United States, according to the CDC, but that number almost certainly undercounts the real figure because car accident concussions get tallied separately, and many never get reported at all. Research published in the journal *Brain Injury* indicates that up to 50% of people who sustain a mild traumatic brain injury (mTBI) in a motor vehicle collision are discharged from the emergency room without ever receiving a formal concussion diagnosis. Many go home with a headache, assume they're fine, and don't understand why they feel strange for the next three weeks.
 
 I made this mistake myself, in a way. Not personally as a crash victim, but professionally: I once reviewed a claim file for a woman in Phoenix who had rear-ended a truck at around 35 mph. The ER notes said "no loss of consciousness," the CT scan was normal, and I flagged the file for a low settlement offer because there was "no objective evidence of brain injury." I was wrong. Normal CT scans are completely consistent with concussion. The injury is functional, not structural, and standard imaging almost never shows it. I cringe thinking about how many files I processed that way before I understood what I was actually looking at.
 
@@ -40,8 +40,6 @@ Standard CT scans and MRIs detect structural damage: bleeding, swelling, torn ti
 ## The Symptoms: What to Watch For, and When They Show Up
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where things get genuinely complicated, and where I see people get blindsided. Concussion symptoms after a car accident don't always announce themselves immediately. The adrenaline response during and after a crash is powerful enough to mask a lot. I've read hundreds of statements from crash victims who said they "felt fine at the scene" and then woke up the next morning feeling like they'd been hit by a second truck.
 
@@ -60,9 +58,7 @@ The physical symptoms tend to come first and feel the most obvious. But what mos
 
 Pay particular attention to these red flags that require immediate emergency care: a headache that dramatically worsens after it seemed to stabilize, repeated vomiting, one pupil larger than the other, slurred speech, seizures, inability to recognize people or places, or losing consciousness. Those can indicate a more serious bleed that initial imaging might have missed on timing. Get back to an ER immediately.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Concussion symptom onset after car accident (% reporting by day)</div><div class="sc-row"><span class="sc-label">Day 1</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">78%</span></div><div class="sc-row"><span class="sc-label">Day 2-3</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">52%</span></div><div class="sc-row"><span class="sc-label">Day 4-7</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">34%</span></div><div class="sc-row"><span class="sc-label">Day 8-14</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">Day 15+</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">12%</span></div><div class="sc-src">Source: Brain Injury journal, mTBI studies composite</div></div>
-
 
 The drop-off in that chart is real, but the tail is where the serious cases hide. If you're still symptomatic at two weeks, you need a specialist, not a "wait and see."
 
@@ -103,7 +99,6 @@ Result: Returned to full duty at week 14. Because every rehabilitation session w
 - [Insurance Information Institute (iii.org)](https://www.iii.org/): Industry data on auto insurance claims, injury documentation, and settlement patterns.
 
 ---
-
 
 ---
 

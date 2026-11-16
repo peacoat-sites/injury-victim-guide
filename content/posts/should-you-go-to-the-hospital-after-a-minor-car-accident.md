@@ -31,9 +31,7 @@ I spent twelve years on the other side of this equation, reviewing claims for [i
 
 That question isn't curiosity. It's strategy.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Symptoms from whiplash and soft-tissue injuries can take 24-72 hours to appear; feeling fine immediately means very little.</li><li style="margin:5px 0">Delaying medical care even 3-5 days can seriously weaken an injury claim, regardless of fault.</li><li style="margin:5px 0">An ER visit documents injuries at the time of the accident, creating a medical record the insurer cannot easily dismiss.</li><li style="margin:5px 0">"Minor" accidents at speeds as low as 5-10 mph can cause whiplash and spinal injuries.</li><li style="margin:5px 0">You do not need to feel severe pain to go to the hospital; go anyway, describe all symptoms honestly, even vague ones.</li></ul></div>
-
 
 ## The "I Feel Fine" Problem
 
@@ -46,8 +44,6 @@ A 2021 analysis published in *Injury Epidemiology* found that a significant port
 ## What "Minor" Actually Means (And What It Doesn't)
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Five miles per hour sounds trivial. You probably drive faster than that in a parking lot. But biomechanical research out of the University of North Carolina shows that rear-end impacts at speeds between 5 and 10 mph generate enough force to cause cervical spine injury, the kind that shows up as a dull ache at first and a neurology referral six months later.
 
@@ -65,13 +61,13 @@ Going to the hospital after a minor accident isn't just about getting checked ou
 
 Three weeks later, when the adjuster asks why you didn't seek immediate care, you have an answer. You did.
 
-The alternative scenario plays out like this, and I've watched it happen too many times: you skip the ER, you wake up two days later with a pounding headache and a stiff neck, you see a chiropractor, and now there's a 48-hour gap between the accident and any medical documentation. The adjuster notes the gap. The defense attorney notes the gap. The gap becomes the story.
+The alternative scenario plays out like this: you skip the ER, wake up two days later with a pounding headache and a stiff neck, see a chiropractor, and now there's a 48-hour gap between the accident and any medical documentation. The adjuster notes the gap. The defense attorney notes the gap. The gap becomes the story.
 
 If you're managing documentation on your own while waiting for an appointment, something like an injury documentation journal (you can find dedicated options on Amazon, and yes, the site may earn a commission on purchases made through links) can be genuinely useful for tracking symptom progression, dates, and details while they're fresh.
 
 ## Should You Call 911, Go to the ER, or See Your Doctor?
 
-Honestly, this depends on what's happening in the moment, and I'll give you the real breakdown:
+This depends on what's happening in the moment, and I'll give you the real breakdown:
 
 | Situation | Recommended Step | Why It Matters |
 |---|---|---|
@@ -92,7 +88,7 @@ When you arrive at the ER or urgent care after a car accident, tell them clearly
 
 Then describe every symptom you're experiencing, including the vague, uncertain ones. Don't self-edit because something "doesn't feel serious enough." Say: "I have mild stiffness in my neck," or "I feel slightly foggy," or "my lower back has a dull ache." All of it goes in the chart. All of it counts.
 
-Here's what I've seen trip people up, and I made this exact mistake myself early in my career when I thought I understood both sides of this: people downplay symptoms in the ER because they're worried about seeming dramatic. The adjuster later uses the minimal ER documentation to argue minimal injury. You reported "minor discomfort" in the ER, so the claim for three months of physical therapy seems suspicious. Tell the full truth, even the "minor" parts.
+A common mistake is downplaying symptoms in the ER because of worry about seeming dramatic. The adjuster later uses the minimal ER documentation to argue minimal injury. You reported "minor discomfort" in the ER, so the claim for three months of physical therapy seems suspicious. Tell the full truth, even the "minor" parts.
 
 Also, get the records. You're entitled to them. Ask before you leave how to request copies. Some hospitals now have patient portals that make this easy; others still require a written request and a wait of up to 30 days.
 
@@ -121,7 +117,6 @@ The pattern is not subtle.
 - Insurance Research Council (IRC): Ongoing industry data on bodily injury claim patterns and treatment documentation.
 
 ---
-
 
 ---
 

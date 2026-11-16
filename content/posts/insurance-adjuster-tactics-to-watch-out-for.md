@@ -49,17 +49,15 @@ Early settlement offers arrive before you reach what doctors call Maximum Medica
 
 The Insurance Information Institute is clear: settlements need to cover current losses and anticipated future ones. When an adjuster offers $4,500 two weeks post-accident, they're betting you don't know what your case is worth. They're usually right.
 
-Sign a release and accept money? That's it. You can't come back six months later saying "actually I need surgery." I've watched this destroy people.
+Sign a release and accept money? That's it. You can't come back six months later saying "actually I need surgery." This provision destroys claims.
 
 Don't sign anything with a release clause until you fully understand your injuries. Period.
 
 ## Minimizing Your Injuries (In Very Specific Ways)
 
-This one infuriated me even when I was the one doing it.
-
 Adjusters get trained to separate "subjective complaints" from "objective findings." You said you hurt. A scan showed a herniated disc. In claim evaluations, subjective carries less weight. So chronic pain, headaches, soft tissue damage that doesn't light up on imaging? Those get labeled "subjective only" and valued lower.
 
-It's rooted in legitimate medicine. But it gets weaponized constantly. I've watched adjusters describe whiplash injuries that put people out of work for three months as "minor soft tissue" because the MRI looked clean. The CDC's injury data shows soft tissue injuries account for a huge portion of accident injuries. They're real. They hurt. They cost money. But calling something "soft tissue" in insurance language usually means: "we're fighting you on this."
+It's rooted in legitimate medicine. But it gets weaponized constantly. Adjusters often describe whiplash injuries that disable someone for three months as "minor soft tissue" because the MRI looked clean. The CDC's injury data shows soft tissue injuries account for a huge portion of accident injuries. They're real. They hurt. They cost money. But calling something "soft tissue" in insurance language usually means: "we're fighting you on this."
 
 Keep a detailed daily pain journal. I know it sounds annoying, but written records of how your injury affects your sleep, work, your ability to care for your kids, changes the narrative from "subjective" to documented. [Structured injury documentation journals](https://www.amazon.com/s?k=injury+journal+pain+diary) exist for exactly this (note: this site may earn a commission on qualifying purchases). A $10 notebook can be worth thousands at negotiation time.
 
@@ -77,7 +75,7 @@ Keep calls brief. Stick to facts. Don't guess about your feelings or recovery ti
 
 If your claim is substantial, assume you might be watched. Practically, not paranoidly.
 
-Insurance companies hire surveillance investigators on claims over certain dollar amounts. Claim you can't work due to back pain, get photographed moving furniture at a garage sale, and that video shows up at the worst moment. I've seen it happen.
+Insurance companies hire surveillance investigators on claims over certain dollar amounts. For example, if you claim you can't work due to back pain and get photographed moving furniture at a garage sale, that video can appear at a critical moment in settlement negotiations.
 
 Social media is cheaper and easier than hiring someone to follow you. Companies use it constantly. Post one beach photo on Instagram while you're hurting, and it gets cropped, decontextualized, presented as proof your injuries aren't serious. A 2019 litigation survey found that over 80% of defense attorneys used social media evidence in cases. That number's only climbed.
 

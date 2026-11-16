@@ -34,13 +34,13 @@ So if you're here because something happened, you're hurt, the bills are piling 
 
 ## What "Near Me" Actually Means (and When It Doesn't Matter)
 
-Here's the thing I had to unlearn when I switched sides: geography matters less than most people assume, but it's not completely irrelevant. Let me explain both halves of that.
+Geography matters less than most people assume, but it's not completely irrelevant. Let me explain both halves of that.
 
 For cases that go to trial, you want an attorney licensed in your state and ideally familiar with the local court system. Judges have personalities. Courtrooms have cultures. A lawyer who regularly appears in the 4th Judicial Circuit in Florida is going to have better instincts about what a local jury responds to than someone flying in from out of state. That's real, and worth factoring in.
 
 But here's the part most people don't hear: the overwhelming majority of personal injury cases, somewhere around 95% by most estimates, settle before trial. Which means your lawyer's job is mostly negotiation, not litigation. And for negotiation? What matters is their track record with cases like yours, how aggressively they pursue documentation, and how well they understand medical damages. None of that requires them to be two miles from your house.
 
-I've seen people in rural areas default to the one lawyer in their county who does "a little of everything." Family law, real estate closings, DUIs, and oh sure, some personal injury too. That's not the person you want going up against a full-time insurance defense team. Nolo's personal injury resources make this exact point: specialization in PI law matters enormously because the field has its own nuances around damages, liability standards, and settlement strategy that general practitioners don't live in every day.
+People in rural areas often default to the one lawyer in their county who does "a little of everything." Family law, real estate closings, DUIs, and oh sure, some personal injury too. That's not the person you want going up against a full-time insurance defense team. Nolo's personal injury resources make this exact point: specialization in PI law matters enormously because the field has its own nuances around damages, liability standards, and settlement strategy that general practitioners don't live in every day.
 
 The sweet spot? An attorney who handles personal injury cases specifically, is licensed in your state, and has some presence in your region. You don't need them next door. You need them competent.
 
@@ -49,8 +49,6 @@ The sweet spot? An attorney who handles personal injury cases specifically, is l
 ## The Contingency Fee System: What It Actually Means for You
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Personal injury lawyers almost universally work on contingency. You pay nothing upfront; they take a percentage of your recovery, typically 33% if the case settles before trial and often 40% or more if it goes to litigation. This is actually a good system for injury victims, and I say that as someone who used to sit on the insurance side watching it work.
 
@@ -66,7 +64,7 @@ Third, "[no win, no fee](/personal-injury-attorney-free-consultation-what-to-exp
 
 ## How to Actually Evaluate a Personal Injury Lawyer
 
-This is where I'll be honest about something I got wrong for a long time. When I first started helping injury victims after leaving the insurance industry, I thought bar ratings and Martindale-Hubbell scores were the most reliable signals. I still look at them, but I've learned they're more of a floor than a ceiling. A lawyer can have stellar ratings and still be someone who settles everything fast and cheap because they've got a high-volume practice.
+Bar ratings and Martindale-Hubbell scores are useful as a floor, not a ceiling. A lawyer can have stellar ratings and still be someone who settles everything fast and cheap because they've got a high-volume practice.
 
 Here's what I actually look for now, and what I tell people when they ask:
 
@@ -78,7 +76,7 @@ Here's what I actually look for now, and what I tell people when they ask:
 
 **Look at Google and Avvo reviews with specific eyes.** Don't just count stars. Read for patterns. Do multiple reviewers mention poor communication? That's a red flag that tends to be structural, not a one-off. Do reviewers mention the attorney called them personally, explained things clearly, went to trial? Those specifics tell you something.
 
-**Meet with at least three attorneys before deciding.** Every consultation is free. I've watched people sign with the first firm they talked to because they were overwhelmed and just wanted the thing handled. That impulse is understandable. It's also how you end up with a lawyer who doesn't return your calls for months.
+**Meet with at least three attorneys before deciding.** Every consultation is free. Many people sign with the first firm they consult because they're overwhelmed and just want the matter handled. That impulse is understandable. It's also how you end up with a lawyer who doesn't return your calls for months.
 
 ---
 
@@ -106,8 +104,6 @@ I worked with a reader in late 2025 (she found me through a forum and reached ou
 
 ## The Red Flags I'd Walk Away From
 
-I'll be blunt here. These aren't opinions; they're patterns I've seen damage outcomes repeatedly.
-
 Guarantees of any outcome. No ethical attorney promises a result. Period.
 
 Pressure to sign at the first meeting. A good lawyer wants you to feel confident in your choice. They'll give you time.
@@ -122,7 +118,7 @@ The Insurance Information Institute notes that unrepresented claimants often acc
 
 ---
 
-If you want to stay organized through this process, a medical records and injury documentation journal can be genuinely useful for tracking appointments, symptoms, and communications. There are a few solid options on Amazon in the $15-$20 range (the site may earn a commission if you purchase through a link). I'm not here to tell you that buying a notebook changes your case. But I've watched people lose credibility in depositions because they couldn't remember basic dates, and a contemporaneous record you kept yourself is powerful evidence.
+If you want to stay organized through this process, a medical records and injury documentation journal can be genuinely useful for tracking appointments, symptoms, and communications. There are a few solid options on Amazon in the $15-$20 range (the site may earn a commission if you purchase through a link). I'm not here to tell you that buying a notebook changes your case. A contemporaneous record you kept yourself is powerful evidence if basic dates are questioned in depositions.
 
 The right attorney is out there. The search just requires a little more deliberateness than most people give it.
 
@@ -137,7 +133,6 @@ The right attorney is out there. The search just requires a little more delibera
 - Martindale-Hubbell / Avvo Attorney Ratings: Peer and client review systems used to assess attorney reputation and disciplinary history.
 
 ---
-
 
 ---
 

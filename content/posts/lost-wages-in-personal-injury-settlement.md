@@ -75,7 +75,7 @@ Sounds reasonable. Here's where it breaks down.
 
 ## Step-by-Step: How to Document Lost Wages the Right Way
 
-Documentation wins claims. I've watched good cases collapse because the victim couldn't produce the paperwork. Start this now, right after your accident.
+Documentation wins claims. Good cases can collapse when the victim can't produce the paperwork. Start this now, right after your accident.
 
 **Step 1: Get a letter from your employer.**
 
@@ -158,7 +158,6 @@ Lost wages aren't just numbers on a spreadsheet. They're your rent, your groceri
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
 - [Tara Winstead](https://www.pexels.com/@tara-winstead)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

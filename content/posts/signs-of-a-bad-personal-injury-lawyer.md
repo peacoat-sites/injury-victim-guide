@@ -31,9 +31,7 @@ I spent twelve years on the other side of these cases. As an [insurance adjuster
 
 Most articles on this topic hand you a generic checklist and call it a day. This one is going to be more specific than that, because the warning signs I watched play out from the claims side are different from what you'll read on a law school blog.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">42% of legal malpractice claims involve personal injury cases, per the American Bar Association</li><li style="margin:5px 0">Missing a statute of limitations deadline is the single most common malpractice error in PI cases</li><li style="margin:5px 0">A lawyer who never returns calls is a genuine red flag, not just bad customer service</li><li style="margin:5px 0">Guaranteed outcome promises are an ethics violation, full stop</li><li style="margin:5px 0">Switching lawyers mid-case is possible and sometimes necessary, don't let sunk cost stop you</li></ul></div>
-
 
 ## They Promise You a Number Before Seeing Your Records
 
@@ -43,13 +41,11 @@ Good attorneys don't promise outcomes. They can't. According to the American Bar
 
 What they *can* do is explain how cases like yours have resolved historically, discuss factors that affect value, and be honest that they don't know yet. That's competence. The other thing is salesmanship.
 
-I thought for a long time that this was mainly a concern with TV-advertiser volume shops. It's not. I've seen solo practitioners do this too, usually because they need the case and they're willing to oversell to get the retainer signed.
+This problem occurs across all firm sizes. Solo practitioners are just as likely to miss deadlines, often because they need the case and are willing to oversell to get the retainer signed.
 
 ## The Communication Pattern Tells You Everything
 
 > **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's something only someone who's been inside the process would think to mention: watch how long it takes to reach the lawyer's office *before* you sign. Call as a prospective client. Note the response time. Note whether you speak to the attorney or always an intake specialist. Note how specific their answers are.
 
@@ -84,9 +80,7 @@ The MMI point deserves more space. Maximum Medical Improvement is the point at w
 
 I used to see this from the adjuster side constantly. We'd make an early offer specifically hoping the plaintiff's lawyer would take it before the full picture emerged. When they did, it was a good day for us.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Top reasons for attorney discipline (PI-related complaints)</div><div class="sc-row"><span class="sc-label">Failure to communicate</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">30%</span></div><div class="sc-row"><span class="sc-label">Missed deadlines</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">24%</span></div><div class="sc-row"><span class="sc-label">Failure to return client funds</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">19%</span></div><div class="sc-row"><span class="sc-label">Inadequate case management</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">15%</span></div><div class="sc-row"><span class="sc-label">Misrepresentation</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">12%</span></div><div class="sc-src">Source: State Bar of California 2025 Discipline Report</div></div>
-
 
 ## The Deadline Problem Is Worse Than You Think
 
@@ -121,7 +115,6 @@ For people who want to track their own documentation independently, a personal i
 - [CDC WISQARS Injury Data](https://www.cdc.gov/injury/wisqars/): National injury statistics used to contextualize injury frequency and documentation standards.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

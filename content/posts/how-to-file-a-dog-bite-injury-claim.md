@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most articles about dog bite claims spend three paragraphs telling you dogs bite millions of people every year, then give you a generic checklist you could've found anywhere. Let me skip that and tell you what those articles consistently get wrong: the clock is already ticking, the insurance company already has a playbook, and the decisions you make in the first 72 hours matter more than anything you'll do later.
 
-I spent 12 years adjusting claims before I switched sides. I've seen exactly how insurers document these cases, how they look for gaps in your timeline, and how they use your own words against you. Here's what you actually need to know.
+Insurers document dog bite cases carefully, looking for gaps in timelines and inconsistencies in statements. Understanding how these cases are evaluated can help you protect yourself.
 
 ---
 
@@ -55,8 +55,6 @@ One more thing on documentation: if you want a structured way to track medical v
 ## Understanding Who Pays and Under What Theory
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where I see people get it wrong even when they've done everything else right: they assume they need to prove the dog owner was careless. In a lot of states, you don't.
 
@@ -96,7 +94,7 @@ Dog bite claims have two main damage categories: **economic damages** (medical b
 
 Soft tissue bites that heal cleanly with a few hundred dollars in urgent care bills are going to settle for multiples of the medical bills, but that multiplier is modest because there's limited documentation of suffering. Severe bites with nerve damage, tendon injury, significant scarring, or facial wounds are a different calculus entirely because the non-economic damages are substantial and documented.
 
-Three real scenarios, based on what I've seen across hundreds of claims:
+Common scenarios in dog bite cases include:
 
 **Scenario 1:** Child, 8 years old, bitten on the forearm during a neighborhood playdate. Clean puncture wounds, one ER visit ($1,400), no infection. Parents photographed the wound over two weeks as it healed. Claim filed under owner's homeowner's policy.
 Action taken: Sent a demand letter at 12 weeks with photos, medical records, and a brief summary of the child's fear response.
@@ -142,7 +140,6 @@ The contingency structure means an attorney self-selects: they only take cases t
 - [Nolo - Personal Injury Law Resources](https://www.nolo.com/legal-encyclopedia/personal-injury): Plain-language explanations of damages, contingency fees, and the claims process
 
 ---
-
 
 ---
 

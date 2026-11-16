@@ -29,7 +29,7 @@ You're walking through the produce section, basket in hand, thinking about what 
 
 It is. And the way you handle the next 72 hours matters enormously.
 
-I spent 12 years on the other side of these cases, evaluating claims for insurers. I've seen legitimate injuries get dismissed because the victim didn't know what to do at the scene. I've also seen grocery chains pay fair settlements because an injured shopper did three simple things right. This article is about making sure you're in the second group.
+Legitimate injuries often get dismissed because victims don't know what to do at the scene, while injured shoppers who take three straightforward steps tend to receive fair settlements. This article covers those steps.
 
 ---
 
@@ -112,7 +112,7 @@ Consult one before you accept any settlement offer. Almost all personal injury a
 
 Personal injury attorneys typically work on contingency. They don't get paid unless you recover money. Their fee is a percentage of the settlement or verdict, usually somewhere in the range of 33% to 40%, though that varies by case complexity and state. You pay nothing upfront.
 
-Most people don't realize that having an attorney often results in a larger net recovery even after that fee, because experienced attorneys know how to value a claim properly and how to push back on lowball offers. I've seen unrepresented claimants accept settlements for a fraction of what their case was worth simply because they didn't know what fair looked like.
+Most people don't realize that having an attorney often results in a larger net recovery even after that fee, because experienced attorneys know how to value a claim properly and how to push back on lowball offers. Unrepresented claimants often accept settlements for a fraction of what their case is worth simply because they don't know what fair looks like.
 
 Not every slip and fall warrants litigation. If your injuries were minor, treated with a single visit and over-the-counter medication, and you recovered fully within a few weeks, a direct settlement with the insurer may be entirely reasonable. The calculus changes significantly if you're dealing with a fracture, soft tissue injury requiring physical therapy, surgery, or lost time from work.
 
@@ -135,7 +135,6 @@ The floor of a grocery store is not where anyone expects their day to change. Bu
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
 - [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

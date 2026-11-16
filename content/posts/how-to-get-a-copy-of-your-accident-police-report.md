@@ -27,27 +27,23 @@ faqs:
 
 Most people have never tried to get a police report before their accident. Then suddenly they need one, they have no idea where to start, and meanwhile the [insurance company](/why-insurance-company-denied-my-injury-claim/) is already calling.
 
-I've been on both sides of that phone call. Twelve years as an adjuster meant I was often working with police reports before the claimant even knew they could request one. That asymmetry bothered me then. It bothers me more now. So let me walk you through exactly how this works, what it costs, how long it takes, and what to [watch out](/insurance-adjuster-tactics-to-watch-out-for/) for.
+Insurance adjusters often have access to police reports before claimants do, creating an information imbalance that affects how claims are evaluated. This guide covers how police reports work, what they cost, how long they take to obtain, and what to [watch out](/insurance-adjuster-tactics-to-watch-out-for/) for.
 
 The good news: getting your accident report is almost always straightforward. The frustrating news: the process varies by jurisdiction in ways that aren't obvious, and the delays can catch people off guard if they don't know to expect them.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Police reports typically aren't available for 3-10 business days after an accident; requesting too early wastes a trip.</li><li style="margin:5px 0">Cost ranges from free to around $25 depending on your state and how you request it.</li><li style="margin:5px 0">You can usually request online, by mail, or in person, online is fastest in most jurisdictions as of 2026.</li><li style="margin:5px 0">Your name, date of birth, accident date, and report/case number (if you have it) are the four things every request needs.</li><li style="margin:5px 0">If the report contains errors, you have a right to submit a supplemental statement in most states.</li></ul></div>
-
 
 ## Why You Need It (and Why the Clock Matters)
 
-Here's something I got wrong myself for a while when I was new to adjusting: I assumed the [police report](/police-report-personal-injury-claim/) was just a formality, a piece of paper you file and forget. Actually, it's often the foundational document your entire claim is built on. The officer's narrative, the diagram, the listed witnesses, the contributing factors box, insurers treat that report as close to objective truth, even when it isn't.
+A common mistake is treating the [police report](/police-report-personal-injury-claim/) as mere paperwork. It's often the foundational document your entire claim is built on. The officer's narrative, the diagram, the listed witnesses, the contributing factors box, insurers treat that report as close to objective truth, even when it isn't.
 
 More practically, your state's statute of limitations (the legal deadline to file a personal injury lawsuit) doesn't pause while you're waiting on paperwork. In most states that window is two years from the accident date, though it varies. The report helps establish facts early, while memories are fresh and evidence is intact. Getting it promptly isn't paranoia, it's just smart.
 
-One thing I always tell people: don't assume the report will be favorable just because the other driver was clearly at fault. Officers are human. I've seen reports that listed a stop sign violation in the wrong direction, that named the wrong driver as the primary unit, that omitted a witness entirely. Read it carefully the moment you get it.
+Don't assume the report will be favorable just because the other driver was clearly at fault. Officers are human, and police reports can contain errors - a stop sign violation listed in the wrong direction, the wrong driver named as the primary unit, or witnesses omitted entirely. Read it carefully the moment you get it.
 
 ## Where to Actually Get the Report
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where people lose time, because there's no single national system. In the U.S., police reports are held by whichever agency responded to your crash. That might be:
 
@@ -111,7 +107,6 @@ For keeping all your documentation organized through this process, a physical cl
 - [Nolo Personal Injury Legal Encyclopedia](https://www.nolo.com/legal-encyclopedia/personal-injury): Plain-language explanations of documentation, statutes of limitations, and claims processes by state.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

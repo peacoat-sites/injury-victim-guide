@@ -18,13 +18,9 @@ Something most people assumed was basically settled legal wisdom turned out to b
 
 If you have a teenager who spent years on Instagram, TikTok, or YouTube and developed depression, an eating disorder, anxiety, or similar mental health conditions, you need to understand what's happening [right now](/how-auto-parts-tariffs-are-changing-your-accident-claim-right-now/). The second federal bellwether trial in this massive litigation is scheduled to begin August 18, 2026 in Oakland. TikTok quietly settled with a plaintiff in July 2026, just weeks before that trial. Attorneys general from more than 41 states are pressing forward with their own actions. This is the most active stretch of social media injury litigation we've seen, and the outcomes this summer could determine whether thousands of families ever see a day in court.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A California jury awarded $6 million (including $3M punitive) to a teen social media addiction victim on March 25, 2026.</li><li style="margin:5px 0">A judge upheld that verdict June 25, 2026, rejecting Meta's Section 230 shield argument.</li><li style="margin:5px 0">Over 2,893 individual personal injury claims are pending in federal MDL-3047 as of July 2026.</li><li style="margin:5px 0">A second federal bellwether trial begins August 18, 2026 in Oakland.</li><li style="margin:5px 0">TikTok settled confidentially with one plaintiff in July 2026, just before that trial.</li></ul></div>
 
-
 ## What the Kaley Verdict Actually Proved
-
-I'll be honest, when I first read the details of the March 2026 verdict, I expected it to get overturned quickly. These cases have been dismissed before on procedural grounds. But the June 25 ruling changed my read entirely.
 
 The jury found that both Meta's Instagram and YouTube were liable for Kaley's depression, body dysmorphia, and related mental health injuries she suffered while using those platforms as a minor. The $6 million award included $3 million in punitive damages, which courts reserve for conduct they consider particularly blameworthy, not just negligence. When a jury goes punitive, they're saying the company knew and didn't care.
 
@@ -33,8 +29,6 @@ What surprised me was the specific theory that survived. Plaintiffs argued the p
 ## The Scale of This Litigation Is Hard to Overstate
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 As of July 2026, more than 2,893 individual [personal injury claims](/what-is-the-statute-of-limitations-for-personal-injury-claims/) are consolidated in federal MDL-3047 (formally titled *In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation*) in the Northern District of California, according to Sokolove Law's July 2026 case tracker. There are also nearly 800 separate lawsuits from school districts and attorney general actions from over 41 states.
 
@@ -61,7 +55,7 @@ Age at the time of use matters. These cases center on minors, teenagers whose de
 
 ## What the August Trial Could Change
 
-The bellwether trial structure in MDL-3047 is worth understanding. Bellwether trials, a term borrowed from shepherding, basically means test cases chosen to represent the broader pool. Courts and parties use the outcomes to gauge how juries respond to the evidence and to calibrate settlement negotiations. A second plaintiff win in August could trigger a wave of settlements across the nearly 3,000 pending claims. A defense win would give platforms ammunition to push for lower settlements or further litigation.
+The bellwether trial structure in MDL-3047 matters. Bellwether trials are test cases chosen to represent the broader pool. The outcomes signal how juries respond to the evidence and shape settlement negotiations. A second plaintiff win in August could trigger a wave of settlements across the nearly 3,000 pending claims. A defense win would give platforms ammunition to push for lower settlements or further litigation.
 
 TikTok's confidential settlement in July, right before the trial, follows the classic playbook of a defendant who wants to avoid another public loss on record. The Verus LLC litigation timeline documents this pattern going back through the MDL's development: early defense confidence, then increasing settlement activity as trial dates approach.
 

@@ -37,7 +37,7 @@ Start by checking yourself and your passengers for obvious injuries without movi
 
 If you can move safely, get out of traffic. Turn on your hazard lights. Set up flares or reflective triangles if you have them.
 
-Call 911 even if the accident seems minor. A police report is foundational. Without it, it's your word against the other driver's, and insurance companies know exactly how to exploit that gap. I've seen adjusters use the absence of a police report to cut settlement offers by 50% or more.
+Call 911 even if the accident seems minor. A police report is foundational. Without it, it's your word against the other driver's, and insurance companies know exactly how to exploit that gap. Insurance adjusters commonly use the absence of a police report to justify cutting settlement offers significantly.
 
 While you wait, document everything. Take photos of both vehicles from multiple angles, the position of the cars before they're moved, any skid marks, road conditions, traffic signals. Your phone's timestamp and GPS metadata are quietly building your evidence record every time you snap a picture.
 
@@ -63,7 +63,7 @@ Do not apologize. Even a casual "I'm sorry, I didn't see you coming" can be char
 
 Go to the emergency room or urgent care the same day if possible. If you can't do same-day, get there within 24 to 48 hours at the absolute latest.
 
-Delay creates two problems. First, some injuries get worse. Whiplash, herniated discs, and concussions can seem mild for days before becoming debilitating. Second, the insurance company will argue your injuries weren't caused by the accident because you didn't seek treatment right away. I've watched adjusters write internal notes that said something like "claimant waited 10 days, likely pre-existing or unrelated." That note influences every subsequent offer.
+Delay creates two problems. First, some injuries get worse. Whiplash, herniated discs, and concussions can seem mild for days before becoming debilitating. Second, the insurance company will argue your injuries weren't caused by the accident because you didn't seek treatment right away. Adjusters often document delays in treatment as evidence that injuries are pre-existing or unrelated to the accident, and such notations can influence all subsequent settlement discussions.
 
 Tell your doctor specifically that you were in a car accident, what your symptoms are, and where your pain is located. Be thorough. If you have a headache, say so. If your lower back is stiff, say so. Anything not documented in that initial visit doesn't officially exist from the insurance company's perspective.
 
@@ -146,7 +146,6 @@ The days after a car accident injury are overwhelming, and it's easy to make dec
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

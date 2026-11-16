@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people spend more time researching a new refrigerator than they do choosing the lawyer who might be the single biggest factor in whether they recover $18,000 or $180,000 after a serious injury. I've watched that play out, from the other side of the table, more times than I care to count.
+Most people spend more time researching a new refrigerator than they do choosing the lawyer who might be the single biggest factor in whether they recover $18,000 or $180,000 after a serious injury.
 
 Twelve years as an insurance adjuster gave me a front-row seat to something the industry doesn't advertise: adjusters absolutely know which attorneys will push back hard and which ones will fold. We had informal reputations for them. "That firm settles fast." "That guy goes to trial." Those reputations shaped how seriously we took a claim before the first offer even left our desks. The attorney you choose sends a signal before a single word is said in negotiation. So picking the wrong one isn't just an inconvenience. It's a financial decision with potentially enormous consequences.
 
@@ -34,19 +34,17 @@ Here's what I think most advice on this gets wrong: it focuses on credentials an
 
 ## The Credential Trap (and What to Look For Instead)
 
-Board certification, Martindale-Hubbell ratings, Super Lawyers badges. None of that is meaningless, but I'll be honest: I've seen plaintiffs get fantastic results with a well-prepared solo practitioner running a low-key practice in a strip mall, and I've seen big-name firms with gleaming websites produce mediocre outcomes because a first-year associate quietly handled the file.
+Board certification, Martindale-Hubbell ratings, Super Lawyers badges. These credentials matter, but outcomes don't correlate neatly with them. A well-prepared solo practitioner in a modest office may achieve strong results, while a large firm with a polished website might produce mediocre outcomes if junior staff handle your file.
 
-What actually correlates with outcomes, in my experience, is whether the attorney has a credible trial history in your specific type of case. Not personal injury broadly. Your type. A lawyer who has tried 40 car accident cases involving soft-tissue injuries is a different animal than one who primarily handles slip-and-falls or medical malpractice. The defense side absolutely researches this. Nolo's personal injury resources make the same point, noting that trial experience is the most important factor adjusters and defense lawyers use to assess whether a plaintiff's attorney is likely to follow through on litigation threats.
+What correlates with outcomes is whether the attorney has a credible trial history in your specific type of case. Not personal injury broadly. Your type. A lawyer who has tried 40 car accident cases involving soft-tissue injuries is a different animal than one who primarily handles slip-and-falls or medical malpractice. The defense side absolutely researches this. Nolo's personal injury resources make the same point, noting that trial experience is the most important factor adjusters and defense lawyers use to assess whether a plaintiff's attorney is likely to follow through on litigation threats.
 
 Ask directly: "How many cases like mine have you taken to verdict in the last three years?" If they pivot to settlements only, press again. A lawyer who genuinely goes to trial will tell you specific numbers without hesitation. Vagueness here is informative.
 
-What surprised me when I started working on the consumer side was how many attorneys quietly settle everything regardless of case strength, simply because litigation is expensive and time-consuming for the firm. A 33% contingency fee on a quick $45,000 settlement takes maybe 40 hours of work. Taking the same case to trial might take 400 hours. The math isn't subtle. This doesn't make settlement-focused attorneys bad, but you should know what you're hiring.
+Many attorneys quietly settle everything regardless of case strength, simply because litigation is expensive and time-consuming for the firm. A 33% contingency fee on a quick $45,000 settlement takes maybe 40 hours of work. Taking the same case to trial might take 400 hours. The math isn't subtle. This doesn't make settlement-focused attorneys bad, but you should know what you're hiring.
 
 ## The Consultation Is a Two-Way Interview
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Most people walk into a [free consultation](/personal-injury-attorney-free-consultation-what-to-expect/) feeling like they're applying for a job. Flip that dynamic.
 
@@ -54,7 +52,7 @@ You're evaluating whether this person is the right fit for something that might 
 
 During consultations, I tell people to pay attention to a few specific things:
 
-Does the attorney give you a realistic picture of weaknesses in your case, or do they only sell you on the upside? An attorney who spots the problems early and tells you honestly is worth more than one who promises the moon to sign you up. I've seen cases fall apart at deposition because a lawyer never addressed an obvious liability issue that the defense exploited.
+Does the attorney give you a realistic picture of weaknesses in your case, or do they only sell you on the upside? An attorney who spots the problems early and tells you honestly is worth more than one who promises the moon to sign you up. Cases often fall apart at deposition when a lawyer hasn't addressed obvious liability issues that the defense can exploit.
 
 Do they explain their fee structure completely? [Standard contingency fees run 33%](/what-percentage-do-personal-injury-lawyers-take-2026/) if settled before trial and often 40% or more if it goes to verdict. Some contracts also charge case expenses back to the client off the top before the fee percentage is applied. That distinction matters enormously. On a $100,000 settlement with $20,000 in case expenses, "expenses off the top before fee" versus "expenses after fee" changes your take-home by several thousand dollars. Ask for the math in writing.
 
@@ -90,8 +88,6 @@ Vague answers about case expenses. Some firms front litigation costs (deposition
 
 No clear communication plan. Ask: "How often will I hear from you, and who will I actually be talking to?" A good attorney or their staff should be able to give you a concrete answer. "We'll update you when there's news" is not a communication plan.
 
-Worked examples from the kinds of situations I've seen play out:
-
 Client with a rear-end collision and documented herniated disc signs with a high-volume settlement firm → case settled in four months for $42,000 → client later learns comparable cases in the same jurisdiction regularly settle for $70,000-$90,000 with more thorough medical documentation and negotiation.
 
 Client with a disputed-liability premises liability case (wet floor, no warning signs) hires a solo practitioner with seven documented jury verdicts in premises cases → carrier initially offers $28,000 → after 14 months and a mediation breakdown, case settles for $127,000 three weeks before trial date.
@@ -118,7 +114,6 @@ For organizing your own medical records and documentation before consultations, 
 - National Center for State Courts: Data on civil case disposition times and trial rates across jurisdictions.
 
 ---
-
 
 ---
 

@@ -35,13 +35,11 @@ On June 2, 2026, Judge Marston held what's called a Science Day for the NAION li
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 What most people don't realize is that the legal question in these cases isn't just whether you got hurt. It's whether Novo Nordisk knew, or should have known, about these risks and adequately warned patients and doctors. That's called a [failure-to-warn claim](/when-ai-handles-your-injury-claim-your-new-rights-in-2026/), and the science behind it has gotten significantly stronger in the past year.
 
 In June 2025, the European Medicines Agency concluded that semaglutide, the active ingredient in both Ozempic and Wegovy, doubles a patient's risk of developing NAION. That finding from a major regulatory body in the European Union carries real weight in American courtrooms. Plaintiffs' attorneys are leaning on it hard, and understandably so. If regulators across the Atlantic identified a doubled risk, the argument becomes: what did Novo Nordisk know, when did they know it, and why didn't American patients get a clearer warning?
 
-The gastroparesis cases rest on similar logic. Plaintiffs argue the company knew about the drug's effects on gastric motility (how fast food moves through your digestive system) and didn't adequately communicate the severity of those risks to prescribing physicians or patients. I've seen cases where the gap between what a company's internal data shows and what ends up on a warning label is the entire lawsuit. That's the territory this litigation is in.
+The gastroparesis cases rest on similar logic. Plaintiffs argue the company knew about the drug's effects on gastric motility (how fast food moves through your digestive system) and didn't adequately communicate the severity of those risks to prescribing physicians or patients. Often, the gap between what a company's internal data shows and what ends up on a warning label is the entire lawsuit. That's the territory this litigation is in.
 
 ## What "Bellwether Trials" Mean for You Practically
 
@@ -53,7 +51,7 @@ No global settlement has been reached as of June 2026. But mass tort attorneys t
 
 ## Who Actually Qualifies and What You Need to Document
 
-I want to be straightforward with you here because I've watched people assume they don't qualify when they might, and I've also watched people overestimate their claims. General eligibility for these cases typically requires that you took Ozempic, Wegovy, or another GLP-1 receptor agonist and suffered a documented, diagnosed injury, specifically gastroparesis or NAION. Not general nausea. Not weight fluctuations. A formal diagnosis, documented in your medical records.
+A common mistake is assuming you don't qualify when you might, or conversely, overestimating what a claim is worth. General eligibility for these cases typically requires that you took Ozempic, Wegovy, or another GLP-1 receptor agonist and suffered a documented, diagnosed injury, specifically gastroparesis or NAION. Not general nausea. Not weight fluctuations. A formal diagnosis, documented in your medical records.
 
 The documentation piece is everything. Courts and, eventually, settlement administrators will look at your prescription history (pharmacy records work), your medical records showing diagnosis and treatment, records of hospitalization if applicable, and any record of you or your doctor reporting the adverse event. If you haven't already, request your complete medical records from every provider who treated your injury. Get your pharmacy records. Hold onto everything.
 

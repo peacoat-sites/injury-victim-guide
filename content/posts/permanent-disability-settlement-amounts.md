@@ -31,9 +31,7 @@ You're 38, a plumber who's spent 15 years building a business. A distracted driv
 
 **Misconception**: Insurance companies always pay the full settlement amount you request. But the data shows insurers deny or reduce claims in approximately 30-40% of permanent disability cases. According to the National Association of Insurance Commissioners, the average settlement payout is typically 60-70% of the initial claim amount. Factors like insufficient medical documentation, pre-existing conditions, and dispute over disability classification consistently lead to lower awards than claimants anticipate, regardless of their initial demands.
 
-
 **"Insurance companies will pay whatever settlement amount you request"**: Most people assume that if they ask for $500,000, they'll negotiate down to $350,000 and call it a win. But the data tells a different story. According to the Insurance Research Council, the average permanent disability settlement is rejected or substantially lowered in 63% of initial claims, not because insurers are being generous with counteroffers, but because claimants dramatically overestimate their case value. The median award across all permanent disability cases hovers between $50,000-$150,000, yet initial demands average 2.3x higher. Insurers don't negotiate from your anchor; they build from medical evidence, wage loss calculations, and comparable verdicts. Starting with an inflated number doesn't expand the negotiating window, it signals inexperience and often kills settlement momentum before real dialogue begins.
-
 
 Permanent disability sounds straightforward, but the term covers a surprisingly wide range of situations. The legal system splits it into two categories: permanent total disability (PTD) and permanent partial disability (PPD).
 
@@ -41,7 +39,7 @@ Permanent total disability means you can't perform any substantial gainful emplo
 
 Permanent partial disability means you have a lasting impairment but can still work in some capacity. The plumber with the crushed hand might qualify here. He can probably do desk work. He can walk. But his earning capacity in the trade he spent 15 years mastering is gone. That distinction matters enormously when calculating settlement value.
 
-There's also "maximum medical improvement," or MMI. This is the point where your doctor determines your condition has stabilized and further treatment won't produce significant improvement. You shouldn't settle any permanent disability claim before reaching MMI. I've seen clients accept offers while still in active treatment, only to discover their condition was worse than anyone realized. Once you sign a release, the door closes. MMI is your anchor point.
+There's also "maximum medical improvement," or MMI. This is the point where your doctor determines your condition has stabilized and further treatment won't produce significant improvement. You shouldn't settle any permanent disability claim before reaching MMI. Accepting an offer while still in active treatment risks discovering later that the condition was worse than anticipated. Once you sign a release, the door closes. MMI is your anchor point.
 
 Disability ratings come next. A physician, often a specialist, assigns a percentage reflecting how much function you've lost compared to a "whole person." A 20% whole-body impairment rating means something completely different from a 60% rating, and those numbers directly feed into how adjusters and courts calculate settlement value.
 
@@ -125,7 +123,6 @@ Permanent disability changes your life in ways that ripple out for decades. The 
 - [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/)
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

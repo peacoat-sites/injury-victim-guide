@@ -27,19 +27,17 @@ faqs:
 
 Most articles about dog bite laws spend three paragraphs explaining that "laws vary by state" and then give you a list so vague it's useless. You already knew laws vary by state. What you actually need to know is *which rules apply to your situation*, because the [difference between](/difference-between-bodily-injury-and-personal-injury-claim/) one legal theory and another can be the difference between a full settlement and walking away with nothing.
 
-I learned this the hard way, no, actually, let me rephrase that. I watched other people learn it the hard way, repeatedly, for over a decade. When I was on the insurance side, I can't count how many legitimate bite claims got denied or drastically reduced because the victim didn't understand the legal framework governing their state. The adjuster knew. The victim didn't. That asymmetry is exactly the problem I want to fix here.
+Many legitimate bite claims get denied or drastically reduced because victims don't understand the legal framework governing their state. The adjuster typically knows the rules; the victim often doesn't. That asymmetry creates a real disadvantage.
 
 The single biggest misconception I see repeated everywhere: that there's some unified "[dog bite](/how-to-file-a-dog-bite-injury-claim/) law" in the United States. There isn't. There are at least three distinct legal theories operating across 50 states, and knowing which one applies where you got hurt changes everything about how you build your case.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">35+ states have strict liability dog bite statutes, the owner is liable even if the dog never bit before.</li><li style="margin:5px 0">"One bite rule" states (roughly 15, including Virginia and Texas) require proof the owner knew the dog was dangerous.</li><li style="margin:5px 0">Negligence claims are available almost everywhere as a fallback, but they're harder to win.</li><li style="margin:5px 0">Contributory negligence laws in a handful of states (including Maryland and Alabama) can completely bar your recovery if you were even 1% at fault.</li><li style="margin:5px 0">Statutes of limitations range from 1 year (Kentucky) to 6 years (Maine) -- missing the deadline ends your case, full stop.</li></ul></div>
-
 
 ## The Three Legal Frameworks, and Why They Matter More Than You Think
 
 **Strict liability** is the most victim-friendly rule. Under strict liability statutes, if a dog bites you and you were lawfully present, the owner is liable. Period. No need to prove the dog had bitten before, no need to prove the owner was careless. California (Civil Code § 3342), Illinois, New Jersey, Michigan, and most of the Midwest and Northeast operate this way. Strict liability states tend to produce faster settlements because there's less to argue about.
 
-**The one bite rule** -- sometimes called the "scienter" rule, is the opposite. In states like Virginia, Texas, and (with some nuance) Nevada, you have to show the owner had prior knowledge that their specific dog was dangerous. That knowledge can come from a prior bite, from the dog's aggressive behavior, even from the breed in some circumstances. When I was adjusting claims in the Southeast, this rule was a gift for the defense. Owners routinely said "he's never done that before" and, legally, that mattered. A lot.
+**The one bite rule** -- sometimes called the "scienter" rule, is the opposite. In states like Virginia, Texas, and (with some nuance) Nevada, you have to show the owner had prior knowledge that their specific dog was dangerous. That knowledge can come from a prior bite, from the dog's aggressive behavior, even from the breed in some circumstances. Under this rule, owners can successfully claim "he's never done that before" - and legally, that defense often holds. It matters considerably.
 
 **Negligence** as a theory overlaps with both. You're arguing the owner failed to exercise reasonable care: didn't leash the dog, left a gate open, ignored known aggressive tendencies. Negligence claims are available in virtually every state even when strict liability doesn't apply, but they require more evidence, more legwork, and often more litigation time.
 
@@ -48,8 +46,6 @@ Here's the part most articles skip: many states layer these theories on top of e
 ## State-by-State: The Legal Landscape in a Table
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Current as of August 2026, this is the most useful breakdown I can give you without writing a 40-page document. I've focused on the states that handle this the most unusually or see the highest bite claim volume:
 
@@ -74,7 +70,7 @@ New York deserves a special callout because its "mixed" system confuses people (
 
 ## Defenses Owners Raise (and Which Ones Actually Work)
 
-Provocation is the most common defense in strict liability states, because it's often the only one available. "The victim provoked the dog" comes up in almost every contested claim. When I was adjusting, I'd look for anything: did the victim reach into the dog's space, make sudden movements, startle the animal? Even innocent behavior can be characterized as provocation by a creative defense attorney.
+Provocation is the most common defense in strict liability states, because it's often the only one available. "The victim provoked the dog" comes up in almost every contested claim. Defense attorneys will look for anything: did the victim reach into the dog's space, make sudden movements, startle the animal? Even innocent behavior can be characterized as provocation by a creative defense attorney.
 
 Trespassing is the other big one. Most strict liability statutes only protect people who are lawfully present. Delivery drivers, mail carriers, invited guests: covered. Someone hopping a fence? Probably not. There's a carve-out in many states for children under a certain age, recognizing that a six-year-old who wanders into a yard may not appreciate the concept of trespassing.
 
@@ -82,15 +78,13 @@ Comparative versus contributory negligence matters enormously here. In states us
 
 ## What to Do in the First 48 Hours
 
-This is where I've seen the most preventable mistakes, so I'm going to be direct about the sequence that matters.
-
 First: get medical attention immediately, even if the wound seems minor. Dog bites carry significant infection risk, the CDC's injury data consistently shows dog bites generate serious secondary infections at rates most people don't expect. Medical documentation that starts at hour one is worth far more than records that begin two days later when an infection develops.
 
 Second: photograph everything. The wound, the location, the dog if possible, any torn clothing. Your phone timestamp is evidence.
 
 Third: identify the dog and owner. Get a name, address, and if possible, proof of the dog's vaccination status. Rabies protocol varies by jurisdiction but can involve a public health hold on the animal.
 
-Fourth: report to animal control. This creates an official record. In one-bite-rule states, that record becomes part of establishing what the owner knew and when. I've seen cases hinge on whether a prior animal control complaint existed.
+Fourth: report to animal control. This creates an official record. In one-bite-rule states, that record becomes part of establishing what the owner knew and when. Cases often hinge on whether a prior animal control complaint existed.
 
 Fifth: write down everything you remember while it's fresh. [A dedicated injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) (disclosure: the site may earn a commission from qualifying purchases) sounds fussy but becomes genuinely useful when you're reconstructing events six months later in a deposition.
 
@@ -113,7 +107,6 @@ This matters because tenants are sometimes uninsured or judgment-proof, meaning 
 - [State statute repositories via Justia](https://law.justia.com/): Current text of dog bite statutes by state
 
 ---
-
 
 *Photo: [Stephanie Allen](https://www.pexels.com/@stephanie-allen-2464226) via Pexels*
 

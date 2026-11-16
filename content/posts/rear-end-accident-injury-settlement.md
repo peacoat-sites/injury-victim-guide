@@ -62,7 +62,7 @@ Settlement value in any personal injury claim comes down to damages, the legal t
 
 The gap between a small settlement and a meaningful one almost always lives in the non-economic column. Adjusters minimize these because they can. They have no receipts to argue against.
 
-One thing I've seen derail claims repeatedly: gaps in medical treatment. If you stopped going to physical therapy for three weeks because life got busy, the adjuster will argue your injuries weren't serious enough to maintain consistent care. Continuity of treatment is documentation. Document everything.
+Gaps in medical treatment can derail claims. If you stop going to physical therapy for several weeks, the adjuster may argue your injuries weren't serious enough to maintain consistent care. Continuity of treatment is documentation. Document everything.
 
 ## What Actually Determines the Settlement Amount
 
@@ -78,7 +78,7 @@ There's no universal formula, but these factors carry the most weight.
 
 **Your own UM/UIM coverage.** If you have it, it can step in when the at-fault driver's policy isn't enough. Check your declarations page tonight if you haven't.
 
-**The quality of your documentation.** Organized medical records, consistent treatment, a contemporaneous injury journal, photographs, witness statements: these aren't just paperwork. They're leverage.
+**The quality of your documentation.** Organized medical records, consistent treatment, a contemporaneous injury journal, photographs, witness statements: these aren't just paperwork. They support your claim.
 
 ## A Step-by-Step Guide to Protecting Your Settlement Value
 
@@ -139,7 +139,6 @@ The driver who rear-ended you set off a chain of consequences they probably didn
 - [medical records and claims organizer](https://www.amazon.com/s?k=medical+records+organizer)
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -27,7 +27,7 @@ faqs:
 
 Most people picture a big check arriving in the mail a few [weeks after](/back-pain-weeks-after-a-car-accident/) they sign some papers. I used to watch claimants wait by the mailbox, genuinely confused about why the money hadn't shown up yet, and I never blamed them. Nobody explains this stuff clearly until something goes wrong.
 
-Here's what actually happens: settlement money moves through a specific sequence of hands before a dollar reaches you, and the gap between "we settled" and "I have cash" is almost always longer than anyone warned you it would be. I've seen that gap run anywhere from three weeks to four months. The reasons why vary more than most people realize.
+Settlement money moves through a specific sequence of hands before a dollar reaches you, and the gap between "we settled" and "I have cash" is almost always longer than expected. That gap typically runs anywhere from three weeks to four months. The reasons why vary more than most people realize.
 
 The good news is the process is predictable once you understand it. And knowing it protects you from being misled about where your money is.
 
@@ -47,11 +47,11 @@ This is the part nobody expects and then gets annoyed by. Your attorney is legal
 
 Think of your gross settlement as a pie. Several people have slices already spoken for before you eat.
 
-**Attorney fees** come first. If you hired a personal injury attorney on a contingency fee basis (which is how almost everyone does it), they typically take 33% if the case settled before a lawsuit was filed, or 40% if it went into litigation. Some attorneys charge a flat third across the board. Get this percentage in writing before you sign anything with them, because I've seen people genuinely surprised by a 40% deduction when they assumed it was a third.
+**Attorney fees** come first. If you hired a personal injury attorney on a contingency fee basis (which is how almost everyone does it), they typically take 33% if the case settled before a lawsuit was filed, or 40% if it went into litigation. Some attorneys charge a flat third across the board. Get this percentage in writing before you sign anything with them, because without it in writing you could be genuinely surprised by a 40% deduction when you assumed it was a third.
 
-**Case costs** come next. These are the out-of-pocket expenses your attorney paid while building your case: filing fees, deposition transcripts, expert witness fees, medical records requests. A moderately complex case can rack up $3,000 to $12,000 in costs without anyone blinking. In my experience reviewing case files, clients rarely see an itemized cost list until disbursement day, which is too late to ask questions. Ask for a running cost statement early.
+**Case costs** come next. These are the out-of-pocket expenses your attorney paid while building your case: filing fees, deposition transcripts, expert witness fees, medical records requests. A moderately complex case can rack up $3,000 to $12,000 in costs without anyone blinking. Clients rarely see an itemized cost list until disbursement day, which is too late to ask questions. Ask for a running cost statement early.
 
-**Medical liens** are the part that genuinely shocks people. If your health insurance, Medicare, Medicaid, or a hospital paid for your treatment, they may have a legal right to be reimbursed from your settlement. This is called a lien (or subrogation claim), and it's not optional. I've watched people receive $28,000 less than they expected because a hospital lien nobody mentioned clearly was sitting on the file.
+**Medical liens** are the part that genuinely shocks people. If your health insurance, Medicare, Medicaid, or a hospital paid for your treatment, they may have a legal right to be reimbursed from your settlement. This is called a lien (or subrogation claim), and it's not optional. A hospital lien sitting on the file without being mentioned can reduce your settlement by tens of thousands of dollars.
 
 Here's a rough breakdown of how settlement money typically flows:
 

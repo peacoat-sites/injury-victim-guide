@@ -37,7 +37,7 @@ Every personal injury case starts with the same framework. Damages (just the leg
 
 A third category, **punitive damages**, exists in cases where the defendant's behavior was especially reckless or malicious (like a drunk driver who blew a 0.19 blood alcohol level). Don't count on punitive damages as a baseline. They're relatively rare.
 
-Getting the economic side right requires paperwork discipline. I've seen clients leave tens of thousands of dollars on the table simply because they didn't keep a log of every appointment, every Uber to the doctor, every over-the-counter medication they bought. A simple injury journal or a [medical records and claim organizer](https://www.amazon.com/s?k=medical+records+organizer) (note: this site may earn a commission from qualifying purchases) can be the difference between a number backed by evidence and a number you pulled from thin air.
+Getting the economic side right requires paperwork discipline. Failing to keep a log of every appointment, every Uber to the doctor, and every over-the-counter medication can cost thousands of dollars in lost compensation. A simple injury journal or a [medical records and claim organizer](https://www.amazon.com/s?k=medical+records+organizer) (note: this site may earn a commission from qualifying purchases) can be the difference between a number backed by evidence and a number you pulled from thin air.
 
 ---
 
@@ -137,7 +137,6 @@ You deserve to make decisions about your case with clear eyes, not under pressur
 - [Insurance Information Institute](https://www.iii.org/)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

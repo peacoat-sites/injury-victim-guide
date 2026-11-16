@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 You're probably reading this because something has already gone wrong. Maybe you got hurt in a car accident last week, or you slipped at a business two months ago, and now there's an insurance adjuster calling you every few days with questions that feel oddly pointed. You're wondering if you should call back. You're wondering if you already said something you shouldn't have. You're wondering whether the offer they mentioned, the one that sounded almost reasonable, is actually what your situation is worth.
 
-I've been on both sides of this. Twelve years as an adjuster meant I spent every day handling exactly these calls, evaluating exactly these claims, and yes, sometimes making exactly these lowball offers. I want to be honest with you about what I saw, because most of what gets written about this topic is either too vague to help or too cynical to be fair.
+Adjusters handle these calls every day, evaluating claims and sometimes making lowball offers. Most writing on this topic is either too vague to help or too cynical to be fair.
 
 The truth is somewhere in the middle, and it matters that you understand it.
 
@@ -51,8 +51,6 @@ I watched it happen hundreds of times. A claimant would say something like "I wa
 ## The Evaluation Process (And How They're Sizing You Up)
 
 > **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Once the basic facts are established, the adjuster begins building what's called a reserve, an internal estimate of what the claim will likely cost to settle. This isn't shared with you. It's used internally to manage the company's financial exposure, and it directly influences what settlement range they'll be authorized to offer.
 
@@ -98,7 +96,6 @@ You might be wondering at what point you need an attorney versus handling this y
 
 ---
 
-
 ---
 
 There's a lot that happens inside an insurance claim that claimants never get to see. I spent over a decade on the inside of that process, and I came out of it believing that most injury victims are at a real informational disadvantage from the very first phone call. That's not a conspiracy. It's just what happens when one side does this every day and the other side is doing it for the first and hopefully only time in their life.
@@ -120,7 +117,6 @@ That's exactly what you should be.
 - [The CDC's injury data](https://www.cdc.gov/injury/wisqars/)
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

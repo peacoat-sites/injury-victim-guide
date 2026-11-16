@@ -29,7 +29,7 @@ You were just trying to get from point A to point B. Maybe it was a grocery stor
 
 ## What You're Probably Feeling Right Now (And Why It Matters Legally)
 
-You're probably asking yourself whether you even have a case. Was I watching where I was going? Should I have seen the wet floor sign? Those questions are completely natural, and I've heard them from almost every person I've worked with. But here's what matters: the fact that you slipped doesn't automatically mean it was your fault. It also doesn't automatically mean someone else is liable. The truth is somewhere in between, and it depends on specific facts that are worth understanding before you do anything else.
+You're probably asking yourself whether you even have a case. Was I watching where I was going? Should I have seen the wet floor sign? Those questions are completely natural. The fact that you slipped doesn't automatically mean it was your fault. It also doesn't automatically mean someone else is liable. The truth is somewhere in between, and it depends on specific facts that are worth understanding before you do anything else.
 
 The legal framework here is called **[premises liability](/property-owner-liability-slip-and-fall/)**. It means that property owners and businesses have a legal duty to keep their spaces reasonably safe for people who visit. "Reasonably safe" is doing a lot of work in that sentence. It doesn't mean perfectly safe. It means the owner knew about a dangerous condition, or should have known about it, and failed to fix it or warn you in a reasonable amount of time.
 
@@ -43,7 +43,7 @@ The actions you take immediately after a slip and fall can make or break a futur
 
 **Step 1: Get medical attention, even if you feel "okay."**
 
-Adrenaline masks pain. I've seen clients walk away from a fall feeling stiff but fine, only to discover a spinal compression injury three days later. Go to urgent care or an emergency room. Tell them exactly what happened and where you fell. This creates a medical record that connects your injury to the incident.
+Adrenaline masks pain. It's common for someone to walk away from a fall feeling stiff but fine, only to discover a spinal compression injury three days later. Go to urgent care or an emergency room. Tell them exactly what happened and where you fell. This creates a medical record that connects your injury to the incident.
 
 **Step 2: Report the accident to the business or property owner.**
 
@@ -78,7 +78,7 @@ One concept worth understanding is **[comparative negligence](/how-to-prove-slip
 
 At some point, you're going to hear from an insurance adjuster. I was one for 12 years, so I want to be honest with you about how this process works.
 
-The adjuster's job is not to make sure you get what you deserve. Their job is to close claims efficiently, which often means minimizing what the insurance company pays out. That's not me being cynical; that's the business model. The American Bar Association's guidance on dealing with insurance companies after an injury is clear: you are not required to give a recorded statement, and you should be cautious about doing so before you fully understand your injuries and your rights.
+The adjuster's job is not to make sure you get what you deserve. Their job is to close claims efficiently, which often means minimizing what the insurance company pays out. The American Bar Association's guidance on dealing with insurance companies after an injury is clear: you are not required to give a recorded statement, and you should be cautious about doing so before you fully understand your injuries and your rights.
 
 A few things to keep in mind:
 
@@ -113,7 +113,6 @@ What you do in the hours and days after a wet floor fall quietly shapes everythi
 - [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
 - [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -56,15 +56,13 @@ Damages in malpractice cases break into two buckets: economic and non-economic. 
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the piece that genuinely surprises most people when they first hear it: many states cap non-economic damages in medical malpractice cases. Not total damages. Specifically non-economic damages. And those caps can gut a settlement in ways that feel fundamentally unfair.
 
 California's cap under MICRA (the Medical Injury Compensation Reform Act) was stuck at $250,000 for non-economic damages for *decades*. It was finally adjusted in 2022 (effective over a phase-in period), raising it toward $350,000 for most cases. But for years, a patient who suffered genuine, life-altering harm with well-documented pain and suffering could only recover $250,000 on that portion of their claim, no matter what a jury thought the case was worth.
 
 Other states have their own versions of this. Texas caps non-economic damages at $250,000 against physicians and an additional cap structure for hospitals. Florida has had repeated legislative fights over its cap (it was struck down as unconstitutional for wrongful death cases in certain circumstances). Some states have no cap at all. The state where the malpractice occurred isn't a footnote in your case. It's one of the most consequential facts in the whole file.
 
-I've seen cases where a victim's attorney moved aggressively on economic damages precisely because non-economic damages were capped in that state. A good life care planner who documents every future medical need, every medication, every piece of adaptive equipment, every aide hour over a 40-year life expectancy can build an economic damages case that a cap doesn't touch. That's not a trick; that's competent lawyering.
+When non-economic damages are capped in a state, a victim's attorney may move aggressively on economic damages instead. A good life care planner who documents every future medical need, every medication, every piece of adaptive equipment, every aide hour over a 40-year life expectancy can build an economic damages case that a cap doesn't touch.
 
 The [American Bar Association's guidance on medical malpractice](https://www.americanbar.org/groups/public_education/) consistently reinforces that jurisdiction matters enormously in these cases, and that prospective clients need attorneys who practice in that specific state.
 
@@ -76,9 +74,9 @@ About 93 to 95 percent of medical malpractice cases that result in any recovery 
 
 It's not because insurance companies are generous. It's because trials are expensive, slow, and unpredictable on both sides. A defense that expects to win still faces the cost of expert witnesses (often $500 to $1,000 per hour), months of attorney time, and the possibility that a sympathetic jury decides the doctor made a catastrophic mistake. Insurers do math. When their own internal assessment puts liability at, say, 60/40 in favor of the defense, they calculate expected value and settle at a number below what they think a jury might award, discounted for the plaintiff's own litigation risk.
 
-What this means practically: the strength of the liability case is not the only thing driving the settlement offer. The plaintiff's financial position matters. The attorney's reputation matters. Whether there's a trial date on the calendar matters (cases that get close to trial often settle higher or faster, because everyone's preparation costs escalate). I've watched offers jump significantly in the 30 days before trial, not because new evidence emerged, but because the reality of trial costs became concrete.
+What this means practically: the strength of the liability case is not the only thing driving the settlement offer. The plaintiff's financial position matters. The attorney's reputation matters. Whether there's a trial date on the calendar matters (cases that get close to trial often settle higher or faster, because everyone's preparation costs escalate). Offers often jump significantly in the 30 days before trial, not because new evidence emerged, but because the reality of trial costs becomes concrete.
 
-The insurer is also watching for desperation signals. A family that's overwhelmed, buried in medical bills, and communicating financial stress is more likely to accept an early, lower offer. This is not cynical speculation; it's documented behavior in the claims world. [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) address this dynamic and explicitly advise injured parties not to settle before they've reached "maximum medical improvement" (MMI), the point where doctors can accurately project future medical needs.
+The insurer is also watching for desperation signals. A family that's overwhelmed, buried in medical bills, and communicating financial stress is more likely to accept an early, lower offer. This is documented behavior in the claims world. [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) address this dynamic and explicitly advise injured parties not to settle before they've reached "maximum medical improvement" (MMI), the point where doctors can accurately project future medical needs.
 
 ---
 
@@ -110,10 +108,9 @@ Rather than a vague list, let me tell you what I've actually watched affect numb
 
 ---
 
-
 ---
 
-The honest truth is that medical malpractice settlement amounts are less about justice and more about leverage, documentation, jurisdiction, and the willingness of both sides to bear uncertainty. That sounds cold, but understanding it actually helps victims position their cases better. You can't change the law in your state, but you can make sure your damages are thoroughly documented, you're not communicating desperation to the other side, and the attorney you hire has actually tried malpractice cases in your jurisdiction before. Those three things, more than anything else, are what I'd focus on.
+Medical malpractice settlement amounts are driven more by leverage, documentation, jurisdiction, and the willingness of both sides to bear uncertainty than by abstract notions of justice. That sounds cold, but understanding it actually helps victims position their cases better. You can't change the law in your state, but you can make sure your damages are thoroughly documented, you're not communicating desperation to the other side, and the attorney you hire has actually tried malpractice cases in your jurisdiction before. Those three things, more than anything else, are what I'd focus on.
 
 ---
 
@@ -128,7 +125,6 @@ The honest truth is that medical malpractice settlement amounts are less about j
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [personal health tracker](https://www.amazon.com/s?k=medical+journal+health+tracker)
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

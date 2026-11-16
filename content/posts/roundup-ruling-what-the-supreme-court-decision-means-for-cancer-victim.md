@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 Most people assumed the Roundup cancer lawsuits were basically over, that Bayer had already paid up and victims had gotten their day in court. What happened on June 25, 2026 is almost the opposite of that story. The Supreme Court handed down a 7-2 ruling in *Monsanto v. Durnell* that could effectively erase the legal foundation of tens of thousands of active cancer claims, and the people most affected are scrambling right now to understand what it actually means for them.
 
-I'll be honest: when I first read the decision, I expected another incremental ruling. This wasn't that.
+This wasn't that.
 
 ## What the Court Actually Decided (And What That Means in Plain English)
 
@@ -29,8 +29,6 @@ As NPR reported on June 25, the ruling effectively backs Monsanto's long-standin
 ## The Scale of What's at Stake
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Roughly 180,000 Roundup lawsuits have been filed over the years. About 60,000 remain active. The vast majority of those are built around failure-to-warn theories, the exact theory the Court just shut down. Mass dismissals are expected. That's not a hypothetical.
 
@@ -54,9 +52,7 @@ The distinction between "the warning was wrong" and "the product itself was defe
 
 Separate from the Supreme Court case, Bayer proposed a $7.25 billion settlement in February 2026 to cover current and future Roundup claims. It is still pending judicial approval as of this writing, and it's facing real pushback. Some plaintiff law firms have objected to the terms as inadequate, particularly given how many claimants are involved and the severity of non-Hodgkin's lymphoma diagnoses.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Roundup Lawsuit Totals</div><div class="sc-row"><span class="sc-label">Total ever filed</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">180,000 cases</span></div><div class="sc-row"><span class="sc-label">Still active</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">60,000 cases</span></div><div class="sc-row"><span class="sc-label">Expected dismissals (failure-to-warn)</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">45,000 cases</span></div><div class="sc-src">Source: ConsumerNotice.org, June–July 2026</div></div>
-
 
 For people with active claims, the settlement program may now represent a more realistic path than continued litigation, especially if their cases were built primarily on warning-label arguments. But accepting a settlement almost always means releasing future claims, and the adequacy question is genuinely unresolved. The New Lede reported on June 25 that the ruling is expected to significantly increase pressure on plaintiffs to accept whatever settlement terms Bayer offers, which, from a negotiating standpoint, is exactly what Bayer wanted.
 

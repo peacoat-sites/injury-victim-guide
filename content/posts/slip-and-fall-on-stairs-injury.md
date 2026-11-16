@@ -35,7 +35,7 @@ So let's talk about what a stair fall injury case really looks like, from the mo
 
 ## What You're Dealing With Physically (And Why It Matters for Your Case)
 
-Stair falls produce some of the most complicated injury patterns in personal injury law. The falls don't have to be dramatic either. Some of the worst injuries I've seen came from people who only fell two or three steps. Your body doesn't absorb that kind of uncontrolled momentum well, especially when you're grabbing for a railing that isn't stable.
+Stair falls produce some of the most complicated injury patterns in personal injury law. The falls don't have to be dramatic either. Even falls of two or three steps can produce severe injuries. Your body doesn't absorb that kind of uncontrolled momentum well, especially when you're grabbing for a railing that isn't stable.
 
 You're looking at fractures of the wrist, hip, and ankle (your hands go out automatically), spinal compression fractures, traumatic brain injuries from hitting your head on a step edge or the floor below, and soft tissue injuries that won't show up on an X-ray but will keep you out of work for months. Older adults take the worst of it. Hip fractures are the CDC's leading cause of injury death in people 65 and older. You can find [those injury statistics at CDC WISQARS](https://www.cdc.gov/injury/wisqars/) if you want the actual numbers.
 
@@ -51,7 +51,7 @@ Property owners have a legal duty to maintain reasonably safe conditions for peo
 
 To have a viable claim, you generally need to show four things: the property owner controlled the staircase, there was a hazardous condition, the owner knew (or should have known) about it, and that condition caused your fall and injuries. That third element, the knowledge piece, is where cases often fall apart.
 
-What counts as a hazardous condition on stairs? More than just a broken step. Loose or missing handrails. Uneven riser heights, the International Residential Code specifies that risers shouldn't vary by more than 3/8 of an inch in a single stairway. A worn carpet edge that catches a foot. No non-slip nosing on wooden stairs. Inadequate lighting. I've seen cases built around each of these.
+What counts as a hazardous condition on stairs? More than just a broken step. Loose or missing handrails. Uneven riser heights, the International Residential Code specifies that risers shouldn't vary by more than 3/8 of an inch in a single stairway. A worn carpet edge that catches a foot. No non-slip nosing on wooden stairs. Inadequate lighting.
 
 The ownership question gets complicated in apartment buildings, rental properties, commercial spaces, and anywhere that involves multiple parties. Fell on the stairs of a rental unit? Your landlord may be liable. Happened in a retail store? The property owner and the business operating inside might both carry exposure. Government-owned building like a courthouse or post office? You're dealing with a different legal process entirely, usually with shorter deadlines than standard civil claims.
 
@@ -67,7 +67,7 @@ Property owners and their insurers move fast after a serious fall. Stairs get re
 
 The day of the fall, if you're physically able, you need to document everything. Photographs of the exact step where you fell, the handrail, the lighting conditions, your shoes, any visible wet spots or damage. Video is even better. Get the names of anyone who witnessed the fall. File a written incident report with the property owner or manager and keep a copy.
 
-After that, write down what happened in as much detail as you can remember: what time it was, what you were wearing, where you were going, what you felt underfoot, whether you grabbed for the railing and what happened when you did. Memory degrades fast, especially under stress. I've seen people who fell on a Monday and by Friday couldn't remember basic details that turned out to matter.
+After that, write down what happened in as much detail as you can remember: what time it was, what you were wearing, where you were going, what you felt underfoot, whether you grabbed for the railing and what happened when you did. Memory degrades fast, especially under stress, so details recorded days after a fall may be incomplete or inaccurate.
 
 If you're thinking about bringing a claim, an attorney can send what's called a [spoliation letter](/slip-and-fall-injury-claim-process/), which is a formal legal notice demanding that the property owner preserve all evidence related to your fall. That can prevent the convenient repair problem. But that letter needs to go out quickly.
 
@@ -118,7 +118,6 @@ Stair fall cases are winnable, but they require you to move quickly, document ev
 - [injury documentation workbook on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

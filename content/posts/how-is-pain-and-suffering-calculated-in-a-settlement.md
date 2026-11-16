@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most articles about pain and suffering calculations lead with the multiplier method, explain it badly, and leave you no better off than when you started. Let me fix that.
 
-Here's what those articles skip: the multiplier method isn't a formula. It's a negotiating starting point, and insurance adjusters know it far better than most claimants do. I spent 12 years on the other side of that table. I've watched adjusters use the multiplier when it benefits the company and quietly ignore it when it doesn't. Understanding how the math actually works, and when it gets thrown out entirely, is the difference between leaving money on the table and walking away with a fair number.
+Here's what those articles skip: the multiplier method isn't a formula. It's a negotiating starting point, and insurance adjusters know it far better than most claimants do. Adjusters tend to apply it when it benefits the company and overlook it when it doesn't. Understanding how the math actually works, and when it gets thrown out entirely, is the difference between leaving money on the table and walking away with a fair number.
 
 ---
 
@@ -50,9 +50,7 @@ Honest take: neither method is binding on anyone. They're frameworks. As [the In
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-This is where most claimants get it wrong. I thought for years, back when I was first adjusting claims, that the multiplier was driven primarily by injury severity. It is, but not in the way people assume.
+This is where most claimants get it wrong. A common assumption is that the multiplier is driven primarily by injury severity. It is, but not in the way people assume.
 
 What actually drives a high multiplier isn't just how bad you got hurt. It's how well you can *document* how bad you got hurt.
 
@@ -60,7 +58,7 @@ An adjuster sitting across from a $40,000 medical bill with no narrative, no psy
 
 I keep recommending the same thing to people I talk with: start documenting pain the same week you get hurt. Not for a lawyer. For yourself. A journal with daily entries is discoverable evidence, and it's also the most credible pain documentation that exists because you wrote it in real time, not six months later.
 
-(A reader who came to me in April 2026 after a rear-end accident told me her attorney had her start a pain journal three months post-accident. That's late. Start immediately.)
+(A pain journal should be started immediately after injury, not months later.)
 
 If you want a structured tool for this, there are injury documentation journals on Amazon specifically designed for personal injury cases. [Something like this personal injury log](https://www.amazon.com/s?k=personal+injury+documentation+journal) can keep your notes organized and admissible. Heads up: this site may earn a small commission if you purchase through that link.
 
@@ -115,7 +113,6 @@ The catch: Colossus scores are only as good as the data fed into it. If your med
 - Rikard & Protopapas, "Understanding Colossus and Insurance Claim Valuation Software" (2009, updated editions): Widely cited analysis of algorithmic settlement tools used by major carriers
 
 ---
-
 
 ---
 

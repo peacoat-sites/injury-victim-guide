@@ -27,8 +27,7 @@ lastmod: 2026-07-08
 ---
 You're sitting in the hospital waiting room, ice pack on your knee, replaying the moment the grocery store floor sent you sliding across the tile. Or maybe you're home three days after a car accident, realizing the soreness isn't fading like you expected. Either way, the same question keeps circling: *do I actually have a case, or am I just wasting everyone's time?*
 
-Here's the thing. In my 12 years adjusting claims before I switched sides, I watched people walk away from valid cases because they assumed they didn't qualify. I also watched people pursue cases that were never going anywhere. The difference usually came down to four basic legal elements most people have never heard of. Understanding them takes about ten minutes and can genuinely change what happens next for you.
-
+A common mistake is walking away from valid cases due to wrong assumptions about eligibility, while others pursue cases that have no merit. The difference usually comes down to four basic legal elements most people have never heard of. Understanding them takes about ten minutes and can genuinely change what happens next for you.
 
 <div class="value-module">
  <div class="vm-head">Personal Injury Case Self-Assessment Checklist</div>
@@ -94,7 +93,7 @@ Most states give you two to three years from the date of injury for general pers
 - The **discovery rule** can sometimes pause the clock in cases where the injury wasn't immediately apparent, like certain toxic exposure or medical device cases.
 - Injuries to **minors** are handled differently in most states, often giving the child time to file after reaching adulthood.
 
-Don't assume you have years to decide. I've seen people genuinely lose valid claims simply because they waited too long to talk to an attorney. The American Bar Association's public education resources recommend consulting with a lawyer well before any deadline, because the paperwork involved in litigation takes time.
+Don't assume you have years to decide. People can lose valid claims by waiting too long to talk to an attorney. The American Bar Association's public education resources recommend consulting with a lawyer well before any deadline, because the paperwork involved in litigation takes time.
 
 ---
 
@@ -108,7 +107,7 @@ If you're in the early days after an injury, here's a concrete sequence that can
 
 **Step 3: Report the incident.** File a police report for any car accident. Report a slip and fall to the property manager or store supervisor and ask for a written copy of the incident report.
 
-**Step 4: Keep a detailed journal.** Start the day of the injury and write down how you feel, what you can't do that you normally could, every appointment, every medication, and every way the injury is affecting your daily life. I've seen juries respond powerfully to specific, dated journals. If you want a structured way to do this, a [personal injury documentation journal](https://www.amazon.com/s?k=personal+injury+journal) can help you stay organized (note: this site may earn a commission on purchases).
+**Step 4: Keep a detailed journal.** Start the day of the injury and write down how you feel, what you can't do that you normally could, every appointment, every medication, and every way the injury is affecting your daily life. Juries often respond well to specific, dated journals. If you want a structured way to do this, a [personal injury documentation journal](https://www.amazon.com/s?k=personal+injury+journal) can help you stay organized (note: this site may earn a commission on purchases).
 
 **Step 5: Preserve all records.** Medical bills, treatment summaries, prescriptions, and correspondence with insurance companies. A [medical records organizer](https://www.amazon.com/s?k=medical+records+organizer) keeps everything in one place and makes you look credible when you're ready to present your claim (note: this site may earn a commission).
 

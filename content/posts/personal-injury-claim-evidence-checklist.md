@@ -29,7 +29,7 @@ Most evidence checklists for personal injury claims read like they were written 
 
 Here's what actually matters, from someone who spent over a decade deciding which claims got paid and which ones quietly died: the difference between a strong claim and a weak one almost never comes down to whether you were hurt. It comes down to what you can *prove*, and how fast you moved to preserve that proof.
 
-Insurance companies have a playbook. Evidence fades, witnesses forget, and the longer a claimant waits to document things, the easier it is to minimize the payout. I've watched it happen hundreds of times. So let's talk about what you actually need, in the order it actually matters.
+Insurance companies have a playbook. Evidence fades, witnesses forget, and the longer a claimant waits to document things, the easier it is to minimize the payout. So let's talk about what you actually need, in the order it actually matters.
 
 ## The First 48 Hours Are Not Recoverable
 As of June 2026, 
@@ -53,7 +53,7 @@ About that police report: call the cops, get a report, and grab the report numbe
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-I've seen six-figure injury claims fall apart because the claimant waited four days to see a doctor. Not four weeks. Four days. The defense attorney's argument essentially wrote itself: "If you were truly injured, why didn't you seek treatment immediately?"
+Six-figure injury claims often fall apart when a claimant waits even four days to see a doctor. A defense attorney will argue that delayed treatment suggests the injury wasn't serious.
 
 Go to the ER or urgent care the same day if at all possible. If your injuries are internal or soft-tissue (whiplash, for instance), you may not feel the full extent until 24-48 hours later. Document the symptoms you have now and go back when more appear.
 
@@ -116,7 +116,6 @@ The honest truth about evidence is that it's most valuable when it's collected r
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

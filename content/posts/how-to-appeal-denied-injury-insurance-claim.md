@@ -36,7 +36,7 @@ So let's talk about how to actually do this.
 
 ## Why Denials Happen (and Why Many Are Wrong)
 
-Here's something the industry doesn't advertise: a meaningful percentage of denied injury claims get reversed on appeal. The exact number varies by insurer and claim type, but internal industry data I've seen puts it somewhere in the range of 30 to 50 percent for well-documented appeals. That number surprised even me when I first encountered it.
+A meaningful percentage of denied injury claims get reversed on appeal. The exact number varies by insurer and claim type, but well-documented appeals see reversal rates in the range of 30 to 50 percent.
 
 Denials fall into a few broad categories. The most common ones I saw were: coverage disputes (the insurer argues your injury doesn't fall under your policy), causation disputes (they say your injury predates the accident or wasn't caused by it), documentation gaps (not enough medical evidence connecting injury to incident), procedural issues (missed deadlines, wrong forms), and policy exclusions being applied aggressively, sometimes incorrectly.
 
@@ -49,8 +49,6 @@ You might be wondering whether your specific denial reason matters for how you a
 ## Read Your Policy Before You Do Anything Else
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I know. Nobody wants to read their insurance policy. But before you draft a single word of your appeal, you need to find two things in that document: the definition of covered injuries or occurrences, and the appeals procedure section.
 
@@ -130,7 +128,6 @@ A warehouse worker injured by a defective piece of equipment filed only a worker
 - [Insurance Information Institute](https://www.iii.org/): Industry data on claims practices, denial rates, and consumer rights.
 
 ---
-
 
 ---
 

@@ -90,7 +90,7 @@ If your case is in that 5%, here's a realistic picture of what you're looking at
 
 Jury selection, opening statements, witness testimony, cross-examination, closing arguments, jury deliberation, the whole production. For a moderate personal injury case, that might take 3-5 days. A complex catastrophic injury or wrongful death trial can run 2-3 weeks.
 
-Verdicts are genuinely unpredictable. [The CDC's injury and violence cost data](https://www.cdc.gov/injury/wisqars/) gives a sense of the national scope of injury costs, but how a jury values your specific case depends on factors no one can fully control: the demographics of the jury pool, which witnesses were most believable, whether the defense expert came across as a hired gun, whether a juror had a bad experience with a personal injury plaintiff in their own past. I've seen clear-liability cases with catastrophic injuries get surprisingly modest verdicts. I've seen cases the defense felt confident about turn into large verdicts because the defendant's witnesses were insufferably arrogant on the stand.
+Verdicts are genuinely unpredictable. [The CDC's injury and violence cost data](https://www.cdc.gov/injury/wisqars/) gives a sense of the national scope of injury costs, but how a jury values your specific case depends on factors no one can fully control: the demographics of the jury pool, which witnesses were most believable, whether the defense expert came across as a hired gun, whether a juror had a bad experience with a personal injury plaintiff in their own past. Clear-liability cases with catastrophic injuries sometimes yield modest verdicts. Cases the defense felt confident about can turn into large verdicts when the defendant's witnesses come across as arrogant on the stand.
 
 Winning at trial doesn't always mean getting more than the last offer. Some states have rules about offers of judgment that shift attorney fee liability if you don't beat the settlement offer at trial. Your attorney should walk you through this before you reject a final offer.
 
@@ -133,7 +133,6 @@ The 5% statistic isn't discouraging. It's clarifying. Your case will most likely
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [this personal injury documentation journal on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal)
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

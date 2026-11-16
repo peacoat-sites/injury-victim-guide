@@ -61,7 +61,7 @@ Supermarkets and big-box grocery chains are experienced defendants. They have na
 
 This cuts both ways. They settle regularly because fighting everything to trial is expensive and they know it. But they also lowball early offers aggressively because a meaningful percentage of claimants accept the first number when they're scared, in pain, and getting calls from an adjuster who sounds helpful and sympathetic.
 
-That first call from the store's insurance company is not a friendly check-in. It's an evidence-gathering conversation. Anything you say gets noted in the claim file. I've seen initial recorded statements used to undermine cases that should have settled for six figures. Don't give one without an attorney.
+That first call from the store's insurance company is not a friendly check-in. It's an evidence-gathering conversation. Anything you say gets noted in the claim file. Initial recorded statements can be used to undermine cases that should have settled for significant amounts. Don't give one without an attorney.
 
 The CDC's injury data consistently shows that falls are among the leading causes of non-fatal injuries requiring emergency care. Insurers handling grocery store claims have deep actuarial experience. They know what juries in your county typically award. They price offers accordingly.
 
@@ -71,7 +71,7 @@ Certain case facts reliably move settlements toward the upper end of the range:
 
 **Permanent injury or disability.** A shoulder that required surgical repair with documented long-term limitations is worth multiples of the same initial diagnosis that resolved fully.
 
-**Strong liability evidence.** Surveillance footage showing the spill sitting unaddressed for 30 minutes while employees walk past is devastating to a defense. If that footage exists, your leverage is real.
+**Strong liability evidence.** Surveillance footage showing the spill sitting unaddressed for 30 minutes while employees walk past is devastating to a defense. If that footage exists, it substantially strengthens your position.
 
 **High medical bills.** More isn't always better (inflated bills without corresponding treatment get scrutinized), but genuine treatment costs anchor the economic damages number.
 
@@ -108,7 +108,6 @@ The grocery store's insurer is prepared. Being prepared yourself is the only rea
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
 - [Helin Gezer](https://www.pexels.com/@helin-gezer-903013644)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

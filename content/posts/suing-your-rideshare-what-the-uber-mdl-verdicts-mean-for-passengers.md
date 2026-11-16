@@ -32,15 +32,13 @@ What most people don't realize is how much the "independent contractor" argument
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The verdict that got less attention but may have the longest reach came not from a jury but from Judge Charles Breyer himself. On April 10, 2026, Judge Breyer ruled that Uber qualifies as a "common carrier" under North Carolina law.
 
 Here's why that matters. A common carrier, think airlines, buses, taxis, has a heightened, non-delegable duty of care to passengers. "Non-delegable" is the key phrase. It means Uber can't hand that responsibility off to a driver and walk away clean. If a passenger is harmed, the company's legal obligation to keep that person safe doesn't disappear just because it subcontracts the actual driving.
 
 This ruling came out of one state's law, but as Chaffin Luhana LLP noted in their April 22, 2026 coverage of the second bellwether verdict, the implications stretch well beyond the two tried cases. Plaintiffs' attorneys in other states are already arguing the same theory, and Judge Breyer's reasoning will be cited in courtrooms across the country.
 
-I've seen how insurance companies and corporate defendants respond to rulings like this. They don't ignore them. They start reassessing their exposure, and that reassessment eventually affects whether cases settle and for how much.
+Insurance companies and corporate defendants typically reassess their exposure following significant rulings. That reassessment affects whether cases settle and for how much.
 
 ## What's Different for Lyft Users
 
@@ -71,7 +69,7 @@ You should talk to a personal injury attorney who has actual experience with rid
 
 The September 14, 2026 trial date before Judge Breyer is the next real inflection point. Four more bellwethers follow after that. If the plaintiff win streak continues, Uber's calculus on settling the remaining 3,500-plus cases changes significantly. If Uber scores a defense win, the company gains leverage to push settlements lower or fight more cases to trial.
 
-I've watched this dynamic play out before, in asbestos litigation, in product liability cases, in earlier rounds of rideshare injury lawsuits. The bellwether process exists precisely because resolving thousands of individual cases one at a time is unworkable. The verdicts are meant to pressure both sides toward realistic numbers.
+The bellwether process exists because resolving thousands of individual cases one at a time is unworkable. The verdicts are meant to pressure both sides toward realistic settlement numbers.
 
 For the people whose cases are in that MDL, it's a slow process. It can feel like your experience is just a number on a docket. But what's happening this year in Judge Breyer's courtroom is real accountability, and for the first time, juries are saying clearly that being picked up in a car with an Uber logo on it comes with a promise that matters legally.
 

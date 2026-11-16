@@ -62,7 +62,7 @@ Some states also allow **punitive damages** in cases involving especially reckle
 
 Insurance adjusters use a couple of standard methods to calculate an opening offer. The "multiplier method" adds up your economic damages and multiplies by a number, usually between 1.5 and 5, depending on injury severity. The "per diem" method assigns a daily dollar value to your pain and suffering for each day you suffered. Neither is law. They're just negotiating tools. Knowing they exist helps you push back when an offer feels low.
 
-I've watched clients accept an initial offer that covered their ER bill and nothing else, not realizing future care costs, lost wages, and non-economic losses were entirely on the table.
+An initial offer that covers only the ER bill often leaves out future care costs, lost wages, and non-economic losses that should be negotiated.
 
 ---
 
@@ -145,7 +145,6 @@ Getting hurt because of someone else's carelessness is already hard enough. The 
 - [The American Bar Association's guidance](https://www.americanbar.org/groups/public_education/)
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
 - [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -120,7 +120,7 @@ A sideswipe that caused injuries requiring more than a single doctor visit? Diff
 | Underinsured or uninsured other driver | Can become very complicated | Strongly advisable |
 | Insurance company is pressuring or delaying | Frustrating to navigate alone | Very helpful |
 
-Most personal injury attorneys work on contingency, meaning they take a percentage of the settlement rather than charging upfront. This means there's usually no cost to consult with one and understand your options. What you're really buying is informed perspective, someone who knows what claims like yours actually resolve for, and what leverage you have.
+Most personal injury attorneys work on contingency, meaning they take a percentage of the settlement rather than charging upfront. This means there's usually no cost to consult with one and understand your options. You're getting informed perspective on what similar claims typically resolve for and what options you actually have.
 
 ---
 
@@ -139,7 +139,6 @@ The weeks after a sideswipe accident feel like a fog of paperwork, phone calls, 
 - [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

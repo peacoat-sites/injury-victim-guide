@@ -52,8 +52,6 @@ The lesson isn't to panic. It's to understand the game early enough to play it w
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Not the whole case. But a lot of it.
 
 The evidence that exists on day one starts vanishing fast. Skid marks. Road debris. Surveillance footage from nearby businesses (most systems overwrite every 48 to 72 hours). Witness memories. Your own physical condition. Every one of these matters, and most injured riders are in the hospital or in shock, which is exactly when they need to be thinking about documentation. That's a cruel irony.
@@ -100,7 +98,7 @@ The components adjusters are calculating:
 
 **General damages** are the subjective part: pain and suffering, emotional distress, loss of enjoyment of life, loss of consortium (the impact on your relationship with a spouse or partner). This is where the biggest swing happens, and where the insurer's software is most aggressive about suppressing the number.
 
-Traumatic brain injury (TBI) is where I've seen the most significant undervaluation in motorcycle cases. Helmet or not, the rotational forces in a motorcycle crash can cause concussive injury that doesn't show up on an initial CT scan. Riders often don't connect subsequent cognitive symptoms, mood changes, or sleep disruption to the crash. If you had any head impact or were knocked unconscious, even briefly, push for a neurological evaluation. Don't let an adjuster tell you that "the CT was clear" means you're fine.
+Traumatic brain injury (TBI) is significantly undervalued in motorcycle cases. Helmet or not, the rotational forces in a motorcycle crash can cause concussive injury that doesn't show up on an initial CT scan. Cognitive symptoms, mood changes, or sleep disruption after a crash are often not connected to the injury. If you had any head impact or were knocked unconscious, even briefly, push for a neurological evaluation. Don't let an adjuster tell you that "the CT was clear" means you're fine.
 
 Spinal injuries follow a similar pattern. An MRI done six weeks post-accident can show disc herniations that weren't visible (or weren't there yet) on the emergency room imaging. Pre-existing degenerative disc disease gets used as a weapon to minimize payouts, with insurers arguing that your injury was "pre-existing." A good orthopedic surgeon or physiatrist can speak to whether the accident accelerated or aggravated a pre-existing condition, which is still compensable.
 
@@ -139,7 +137,6 @@ What I'd say plainly: the gear argument is a pressure tactic more than a legal p
 - [Jury Verdict Research / LexisNexis](https://www.lexisnexis.com/): Aggregated verdict and settlement data used by practitioners to benchmark injury claim values by injury type and jurisdiction.
 
 ---
-
 
 ---
 

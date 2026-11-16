@@ -39,7 +39,7 @@ None of this means your claim is hopeless. It means you need to understand what 
 
 ## The Factors That Actually Determine What Your Claim Is Worth
 
-Settlement value isn't a single number pulled from a chart. It's a range built from several overlapping factors. I've watched adjusters mentally calculate these in real time during recorded statements, so let me walk you through their thinking.
+Settlement value isn't a single number pulled from a chart. It's a range built from several overlapping factors. Adjusters calculate these factors during recorded statements. Here's how they typically think through them.
 
 **Severity and duration of symptoms.** A whiplash that resolves in six weeks with chiropractic care is valued very differently from one that requires months of physical therapy, steroid injections, or ultimately surgery. Claims with documented nerve involvement, herniated discs, or cervical radiculopathy (meaning pain radiating down the arm) carry substantially higher value than pure muscle strain claims.
 
@@ -51,7 +51,7 @@ Settlement value isn't a single number pulled from a chart. It's a range built f
 
 **Your jurisdiction.** This is underappreciated. Some states have reputation for plaintiff-friendly juries and generous verdicts. Others are defense-oriented. Your county matters too. A Fulton County, Georgia jury and a rural Nebraska jury will view the same case very differently. Attorneys call this "venue value," and it's baked into every serious settlement calculation.
 
-**Policy limits.** If the at-fault driver carries only a 25/50 policy (meaning $25,000 per person, $50,000 per accident), that's a hard ceiling unless you have underinsured motorist coverage of your own. I've seen clients with genuine six-figure damages walk away with $25,000 simply because that's all there was.
+**Policy limits.** If the at-fault driver carries only a 25/50 policy (meaning $25,000 per person, $50,000 per accident), that's a hard ceiling unless you have underinsured motorist coverage of your own. A claimant with genuine six-figure damages may walk away with $25,000 simply because that's all the policy provides.
 
 ## How Adjusters Calculate a Settlement Range
 
@@ -92,7 +92,7 @@ This is where I get practical, because documentation is something you control ri
 
 **Step 4: Track every expense and loss.** Medical co-pays, prescriptions, mileage to appointments, any hired help you needed (lawn care, childcare) because you couldn't do it yourself, and every hour of work you missed. Keep receipts. Get a formal lost-wage statement from your employer.
 
-**Step 5: Obtain your complete medical records before settling.** Don't accept a settlement offer before you or your attorney has reviewed every page of your medical records. I've seen clients settle for $4,000 only to discover two weeks later that their MRI showed a disc herniation that needed surgery.
+**Step 5: Obtain your complete medical records before settling.** Don't accept a settlement offer before you or your attorney has reviewed every page of your medical records. A claimant who settles without reviewing medical records might later discover an MRI showing a disc herniation that requires surgery, leaving them undercompensated.
 
 **Step 6: Understand your health insurance subrogation rights.** If your health insurer paid your medical bills, they may have the right to be repaid from your settlement. This is called subrogation. An attorney can often negotiate this amount down, which directly increases what you keep.
 

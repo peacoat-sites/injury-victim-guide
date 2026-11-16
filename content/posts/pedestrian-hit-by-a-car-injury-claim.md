@@ -27,25 +27,21 @@ faqs:
 
 Roughly 7,500 pedestrians are killed by vehicles in the United States every single year. That number stopped me cold the [first time](/florida-raises-government-injury-caps-for-the-first-time-since-2010/) I really looked at it, because it works out to more than 20 people every day who went for a walk and didn't come home. And for every fatality, the National Highway Traffic Safety Administration (NHTSA) estimates there are somewhere around 8 to 10 serious injury survivors navigating hospital bills, lost wages, and an insurance system that was never designed to make their lives easier.
 
-I'll be honest: when I was on the other side of the desk as an adjuster, pedestrian claims made me uncomfortable in a way that car-on-car crashes didn't. The injuries are almost always severe. The liability questions can get genuinely complicated. And the victims are usually the least prepared people in any claim I ever handled, because nobody thinks to learn this stuff until they're already hurt. That discomfort is part of why I eventually switched sides. So what follows is the real story of how these claims work, what actually affects the money, and where people consistently make mistakes that cost them dearly.
-
+Pedestrian claims are complicated. The injuries tend to be severe. The liability questions are often difficult. And claimants are usually unprepared, because most people don't learn about injury claims until after they're already hurt. What follows is how these claims work, what actually affects the money, and where people consistently make mistakes that cost them dearly.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pedestrians hit by cars can pursue compensation for medical bills, lost wages, pain and suffering, and future care costs.</li><li style="margin:5px 0">You have a limited time to file (statutes of limitations vary by state, typically 2-3 years, but some are shorter).</li><li style="margin:5px 0">Insurance companies routinely use comparative fault arguments to reduce payouts, even when the driver was clearly negligent.</li><li style="margin:5px 0">Documenting injuries immediately, before any recorded statement to insurers, is the single most protective thing you can do.</li><li style="margin:5px 0">Serious pedestrian injuries often settle in the range of tens of thousands to several hundred thousand dollars, but outcomes vary wildly by case specifics.</li></ul></div>
-
 
 ## The Injury Picture Is Uglier Than Most People Realize
 
 Pedestrians have zero protection when a 4,000-pound vehicle hits them. No crumple zones, no airbags, no seatbelt. What this produces, medically, is a predictable pattern of trauma: lower extremity fractures (the bumper zone), upper body and head injuries from the hood impact, and secondary head trauma from hitting the pavement. A 2023 study published in the *Journal of Trauma and Acute Care Surgery* found that [traumatic brain injury](/traumatic-brain-injury-claim-guide/) was present in roughly 40% of hospitalized pedestrian crash survivors. Forty percent. That's not a fringe complication, that's a near-majority outcome.
 
-What surprised me was how often the full injury picture doesn't emerge for weeks. I've seen claimants whose initial emergency department workup looked manageable, and then three weeks later they're in surgery for a subdural hematoma or a delayed spinal injury diagnosis. This is critically important for your claim: the insurance company's adjuster is going to try to get a [recorded statement](/should-i-give-a-recorded-statement-to-the-insurance-company/) and, ideally from their perspective, a quick settlement offer in those first few days. The logic is simple, they want to settle before you know how hurt you actually are. Don't let them.
+The full injury picture often doesn't emerge for weeks. An initial emergency department workup can look manageable, and then three weeks later a subdural hematoma or delayed spinal injury diagnosis appears. This is critically important for your claim: the insurance company's adjuster will try to get a [recorded statement](/should-i-give-a-recorded-statement-to-the-insurance-company/) and a quick settlement offer in those first few days. They want to settle before you know how hurt you actually are. Don't let them.
 
 If you're the person hurt, or helping someone who was, get a personal injury attorney involved before you give any recorded statement. That's not paranoia, that's just understanding how the process works.
 
 ## What Your Claim Is Actually Worth (And Why No One Can Tell You Upfront)
 
 > **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I get this question constantly, and I'll give you the honest answer: there's no reliable ballpark I can hand you. Here's why that's not me dodging.
 
@@ -59,11 +55,9 @@ Pedestrian injury claim values are driven by four main categories of damages, an
 
 **Insurance policy limits** are the hard ceiling that most people don't think about until it's too late. If the driver who hit you carries only the state minimum liability coverage (in many states, that's as low as $15,000 or $25,000), that might be all you can collect from their insurance even if your damages are ten times that. Your own underinsured motorist (UIM) coverage and medical payments (MedPay) coverage then become enormously important.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">State minimum auto liability limits for bodily injury (per person)</div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">$10,000</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">$15,000</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$30,000</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$25,000</span></div><div class="sc-row"><span class="sc-label">Michigan</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$50,000</span></div><div class="sc-src">Source: Insurance Information Institute, 2026</div></div>
 
-
-Florida's $10,000 minimum jumped out at me when I first looked at this, because Florida also has some of the highest pedestrian fatality rates in the country. Low mandatory coverage, lots of pedestrian crashes. That's a brutal combination that plays out in settlements every day.
+Florida's $10,000 minimum is notable given that Florida also has some of the highest pedestrian fatality rates in the country. Low mandatory coverage combined with high pedestrian crash frequency creates difficult settlement scenarios.
 
 ## Liability: It's Not Always as Clear as You'd Think
 
@@ -104,7 +98,7 @@ If you're physically able in the immediate aftermath: call 911, stay at the scen
 
 Go to the emergency room, even if you think you feel okay. Adrenaline masks pain. The ER visit also creates an official medical record linking your injuries to the accident date, which matters enormously later.
 
-Photograph your injuries repeatedly in the days that follow. Bruising often looks worse on day 3 or 4 than day 1. I've seen cases where the insurance company argued injuries were minor because the ER photos didn't look dramatic, when the day-5 photos showed something completely different.
+Photograph your injuries repeatedly in the days that follow. Bruising often looks worse on day 3 or 4 than day 1. Insurance companies may argue injuries were minor based on ER photos, but day-5 photos often show a substantially different picture.
 
 Keep a written log. Every day, write down your pain levels, what you couldn't do, how your sleep was affected, what you missed. This becomes the documentation of your non-economic damages. (A simple injury journal can make a real difference here. If you want a structured option, [injury documentation journals on Amazon](https://www.amazon.com/s?k=injury+documentation+journal) run around $12-18 and are worth every penny. Full disclosure: this site may earn a small commission if you purchase through that link.)
 
@@ -121,7 +115,6 @@ Get a personal injury attorney consultation. Most work on contingency, meaning n
 - [Insurance Research Council](https://www.insurance-research.org/): Data on uninsured and underinsured motorist claim trends and settlement patterns.
 
 ---
-
 
 *Photo: [Bruno Brandao](https://www.pexels.com/@bruno-brandao-727244277) via Pexels*
 

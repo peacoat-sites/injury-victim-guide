@@ -30,7 +30,7 @@ Most people take three photos at an accident scene. A shot of the cars, a shot o
 
 They haven't. And I know this because I spent over a decade on the other side of these claims, reviewing exactly those three photos and watching them fail to tell the story that actually mattered.
 
-I'll be honest: when I was an adjuster, incomplete accident scene documentation made my job easier. Not because I was trying to cheat anyone, but because a claim without visual evidence defaults to the official version of events. The [police report](/police-report-personal-injury-claim/). The other driver's statement. Whatever the insurance company already suspects about how the crash happened. Your three photos of a crumpled bumper don't change any of that.
+Incomplete accident scene documentation often defaults to the official version of events: the [police report](/police-report-personal-injury-claim/), the other driver's statement, and whatever the insurance company already suspects about how the crash happened. A few photos of vehicle damage alone may not shift this narrative.
 
 What surprised me, after switching sides and working with injury victims, was how many people think the police will document everything for them. Police officers are there to manage a chaotic scene, redirect traffic, and write a report. They are not building your [personal injury case](/what-evidence-do-i-need-for-a-personal-injury-claim/). Their photos, if they take any, serve the investigation. A good officer might snap a dozen pictures. A busy one might take two. You cannot count on it.
 
@@ -50,8 +50,6 @@ Then get close. Real close. Every panel that's damaged, every piece of trim that
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Skid marks. I cannot stress this enough. Skid marks tell a forensic story about speed, braking distance, and where a vehicle was in the lane before impact. They're also temporary. A rainstorm, a street sweeper, three hours of traffic, and they're gone. Take multiple shots from different angles. Photograph the full length of the marks, not just where they start or end. If you can get a wide shot that shows the skid marks leading to the final vehicle position, you've just created a piece of evidence that reconstructionists use to calculate pre-impact speed.
 
 Road conditions deserve their own set of photos. Wet pavement, gravel, a pothole near the point of impact, faded lane markings. If road conditions played any role in the crash, document them immediately. These are the kinds of factors that can shift liability significantly and that almost nobody captures.
@@ -64,7 +62,7 @@ One more that people overlook: tire marks that aren't skid marks. Side-slip mark
 
 ## The Other Driver and the Scene Context
 
-Photograph the other driver's license plate immediately. Not eventually. Immediately. People have driven away from scenes. I've seen it happen in claims I worked. Get the plate before anything else.
+Photograph the other driver's license plate immediately. Not eventually. Immediately. Get the plate before anything else.
 
 Then photograph their vehicle's VIN if you can access it through the windshield, usually visible at the lower left corner of the driver's side. The license plate tells you who the car is registered to; the VIN is the car's permanent identity regardless of registration changes.
 
@@ -76,7 +74,7 @@ Photograph any witnesses before they leave. Their cars, their license plates, th
 
 ## Injuries: The Photos You Don't Want to Take But Absolutely Should
 
-I've had clients tell me they didn't take photos of their injuries at the scene because they were embarrassed, or in shock, or thought it was unnecessary because they were heading to the ER. Here's the problem: bruising develops over 24 to 72 hours. Soft tissue injuries often look worse on day three than they did at the scene. A photograph taken immediately shows initial injury state. Photos taken over the following days and weeks document progression. Both matter.
+Bruising develops over 24 to 72 hours. Soft tissue injuries often look worse on day three than they did at the scene. A photograph taken immediately shows initial injury state. Photos taken over the following days and weeks document progression. Both matter.
 
 Take photos of every visible injury. Cuts, road rash, bruising, swelling. Remove clothing if necessary and appropriate. Your seatbelt left a mark across your chest? That's documentation of the impact force, not just injury. A bruise across your collarbone from the shoulder belt is evidence. Photograph it.
 
@@ -86,7 +84,7 @@ A good personal injury documentation journal (there are several decent ones avai
 
 ## What Happens to Photos After You Take Them
 
-Back them up. Right now, before you leave the scene if possible, enable automatic backup to iCloud or Google Photos. I've worked claims where the injured person's phone was destroyed in a subsequent incident, stolen, or simply failed, and every photo was gone.
+Back them up. Right now, before you leave the scene if possible, enable automatic backup to iCloud or Google Photos. Phone damage, theft, or failure can result in loss of all photos stored only on the device.
 
 Send them to your email. Old school but reliable. An email timestamp creates an independent record of when the photos existed and what they showed.
 
@@ -94,10 +92,9 @@ Do not edit or filter them. I mean it. Not even a brightness adjustment. The mom
 
 The American Bar Association's public education guidance emphasizes keeping organized records of all documentation related to an injury claim, and Nolo's personal injury resources go into considerable detail about how photographic evidence is actually used during the claims and litigation process. Both are worth bookmarking if you're trying to understand how the system actually works.
 
-One thing I'd push back on: the idea that you should send all your photos to the insurance company immediately. I understand the impulse to be cooperative and transparent. But photos shared too early, before the full scope of injuries and damages is known, can be used to argue that the harm was minor. Talk to an attorney before you share your full documentation with any insurer. That's not being deceptive; that's understanding how the process works.
+Avoid sending all your photos to the insurance company immediately. I understand the impulse to be cooperative and transparent. But photos shared too early, before the full scope of injuries and damages is known, can be used to argue that the harm was minor. Talk to an attorney before you share your full documentation with any insurer. That's not being deceptive; that's understanding how the process works.
 
 ---
-
 
 ---
 
@@ -112,7 +109,6 @@ One thing I'd push back on: the idea that you should send all your photos to the
 - [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
 - [Rui Dias](https://www.pexels.com/@rui-dias-469842)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

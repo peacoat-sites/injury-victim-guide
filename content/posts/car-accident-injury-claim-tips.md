@@ -25,12 +25,11 @@ author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 lastmod: 2026-07-08
 ---
-You walk away from a car accident feeling shaken but okay. You decline the ambulance. You figure it's just some stiffness. Three days later you can't turn your neck, your back is in spasms, and your doctor is talking about an MRI. Now the other driver's insurance company is calling you twice a day, friendly as can be, asking you to give a recorded statement. Here's the thing: that adjuster isn't your friend. I know, because I used to be that adjuster.
+You walk away from a car accident feeling shaken but okay. You decline the ambulance. You figure it's just some stiffness. Three days later you can't turn your neck, your back is in spasms, and your doctor is talking about an MRI. Now the other driver's insurance company is calling you twice a day, friendly as can be, asking you to give a recorded statement. That adjuster isn't your friend. I know, because I used to be that adjuster.
 
 Spending 12 years on the insurance side taught me exactly how claims get minimized, delayed, and denied. The good news is that most of those tactics only work when injured people don't know what they're up against. The tips in this article are designed to close that gap.
 
 ---
-
 
 <div class="value-module">
  <div class="vm-head">Injury Documentation Checklist With Red-Flag Thresholds</div>
@@ -45,13 +44,11 @@ Spending 12 years on the insurance side taught me exactly how claims get minimiz
 
 **"Insurance companies pay whatever you claim"**: Most people assume that if they submit an injury claim, the insurer will simply cut a check for the amount requested. But the data tells a different story. According to the Insurance Information Institute, insurers deny approximately 7-10% of injury claims outright, and underpay another 40-60% of approved claims. A 2023 study by the American Association for Justice found that claimants who negotiated without legal representation received settlements 30% lower than their actual damages. The insurer's job is to minimize payouts, they employ adjusters trained to identify gaps in documentation and lowball initial offers. Your claim amount is just an opening bid, not a guarantee.
 
-
 **"Insurance companies automatically pay fair value for your claim": Most people assume that submitting an injury claim means the insurer will offer a reasonable settlement based on your damages. Reality check: The Insurance Research Council found that insurers deny or underpay roughly 30-40% of legitimate injury claims. Adjusters often lowball initial offers by 50-70% compared to actual medical costs and lost wages. Without documentation, negotiation, or legal representation, claimants accept settlements worth a fraction of their true damages, sometimes leaving tens of thousands on the table.**
-
 
 The first three days after a crash are the most critical window for building a strong injury claim. Most people spend that time resting, dealing with car repairs, and calling their family. Insurance companies spend it building a file that protects their client, not you.
 
-Start with medical care, even if you feel "okay." Adrenaline masks pain. Whiplash, soft tissue injuries, and even small brain bleeds can take 24 to 72 hours to fully announce themselves. If you wait a week to see a doctor, the insurer's defense is simple: the gap proves the accident didn't really hurt you. That argument works, and I've watched it save insurance companies significant money.
+Start with medical care, even if you feel "okay." Adrenaline masks pain. Whiplash, soft tissue injuries, and even small brain bleeds can take 24 to 72 hours to fully announce themselves. If you wait a week to see a doctor, the insurer's defense is simple: the gap proves the accident didn't really hurt you. That argument often succeeds in reducing settlement values.
 
 Go to the ER, urgent care, or your primary care physician as soon as symptoms appear. Be honest and thorough with the doctor. Don't downplay. If your back hurts, say so. If you have a headache, say so. Everything you describe gets written into your medical record, and that record becomes the foundation of your claim.
 
@@ -122,7 +119,7 @@ Understanding [how insurance companies calculate settlements](/how-insurance-com
 
 ## When to Get an Attorney and What That Looks Like
 
-A lot of people hesitate to contact an attorney because they think it's complicated, expensive, or confrontational. The reality is simpler.
+Many people hesitate to contact an attorney because they think it's complicated, expensive, or confrontational.
 
 Personal injury attorneys almost universally work on contingency. No upfront cost. They take a percentage of the settlement, typically between 33 and 40 percent, only if they recover money for you. If they don't win, you don't owe attorney fees. Nolo's personal injury resources explain this model clearly and are worth reading if you want to understand the basics before any consultation.
 
@@ -155,7 +152,6 @@ The car accident itself lasted a few seconds. The claim process that follows can
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
 - [Artyom Kulakov](https://www.pexels.com/@artyom-kulakov-1190754)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

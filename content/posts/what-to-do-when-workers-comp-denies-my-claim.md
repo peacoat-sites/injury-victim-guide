@@ -40,7 +40,7 @@ Most people don't. They accept it, try to tough it out, or quietly pay for their
 | "No medical evidence" | Employer's preferred doctor found insufficient basis for claim | Obtain independent medical evaluation; gather records from your own physician |
 | "Independent contractor, not employee" | Misclassification dispute | Document employment relationship; consult attorney on worker classification rules |
 
-This sounds obvious, but I've seen injured workers spend months fighting the wrong battle because they didn't read the denial reason carefully. Your denial letter is required by law to state the specific reason. That reason dictates your entire next move.
+A common mistake is fighting the wrong battle because the denial reason wasn't read carefully. Your denial letter is required by law to state the specific reason. That reason dictates your entire next move.
 
 Common denial reasons break down like this:
 
@@ -70,11 +70,11 @@ I know some people want to handle this themselves, and for minor disputes with c
 
 ## Build Your Evidence Like You're Preparing for Court. Because You Might Be.
 
-This is what I wish someone had told injured workers when I was on the other side. The biggest reason denials hold up isn't that injuries aren't real. It's that injured workers can't prove them to the standard required.
+The biggest reason denials hold up isn't that injuries aren't real. It's that injured workers can't prove them to the standard required.
 
 Start with a written incident report. If you didn't file one at the time of injury, write one now with as much detail as you can recall: the date, the time, what you were doing, who was nearby, what happened immediately after. Date it today.
 
-Get copies of every piece of medical documentation related to your injury. Not just the workers' comp doctor's records. Your own primary care physician's notes, emergency room visit records, specialist reports, prescription records. If the company doctor says you're fine but your own doctor sees nerve damage, that contradiction is your leverage.
+Get copies of every piece of medical documentation related to your injury. Not just the workers' comp doctor's records. Your own primary care physician's notes, emergency room visit records, specialist reports, prescription records. If the company doctor says you're fine but your own doctor sees nerve damage, that contradiction supports your case.
 
 Witness statements matter more than most people realize. If a coworker saw you get hurt, or saw you limping afterward, or heard you report it to a supervisor, get that in writing while memories are fresh. Witnesses don't always want to get involved, and that's a real obstacle. Even a short statement saying "I saw Dana leave the warehouse holding her back on March 3rd" can move the needle.
 
@@ -96,7 +96,7 @@ Don't go in without knowing what to expect. Don't minimize your symptoms to seem
 
 If your initial appeal doesn't resolve things, most states have a formal hearing process before a workers' compensation judge or board. It's less formal than a civil trial, there's no jury, and evidence rules are more relaxed. But it is a legal proceeding, and it matters.
 
-At this stage, an attorney isn't optional in my view. The insurance company will have a defense attorney presenting medical evidence and cross-examining witnesses. The playing field is uneven without representation.
+At this stage, an attorney isn't optional. The insurance company will have a defense attorney presenting medical evidence and cross-examining witnesses, and you need representation to match that.
 
 The hearing lets you present your medical evidence, witness testimony, symptom documentation, and your own account. The judge weighs all of it. These hearings go well when documentation is solid and your story is consistent. They go poorly when you show up without records, without witnesses, and without a clear narrative of how the injury happened and affected your work.
 
@@ -121,7 +121,6 @@ You have more time, more options, and more leverage than the insurance company w
 - [Medical Injury Journal](https://www.amazon.com/s?k=medical+injury+journal)
 - [American Bar Association's guidance on workers' compensation disputes](https://www.americanbar.org/groups/public_education/)
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

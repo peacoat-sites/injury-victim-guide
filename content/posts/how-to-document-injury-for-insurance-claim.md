@@ -33,7 +33,7 @@ I used to believe that too. Then I spent 12 years as an insurance adjuster, and 
 As of June 2026, 
 Here's what no one tells you: insurance companies don't pay for your pain. They pay for proof of your pain. That's a massive difference.
 
-When an adjuster cracks open your file, they're hunting for a coherent story. Every missing piece becomes a negotiating tool. A two-week gap between accident and first doctor visit? That's "inconsistent with injury severity." Pain you mention in your personal diary but never showed up in a medical chart? Didn't happen, according to the claim file. I've watched adjusters cut settlements by 30 to 50 percent because the documentation didn't back up the full picture.
+When an adjuster cracks open your file, they're hunting for a coherent story. Every missing piece becomes a negotiating tool. A two-week gap between accident and first doctor visit? That's "inconsistent with injury severity." Pain you mention in your personal diary but never showed up in a medical chart? Didn't happen, according to the claim file. Adjusters often cut settlements by 30 to 50 percent when documentation doesn't support the full picture of injury and losses.
 
 The Insurance Information Institute notes that documentation disputes rank as one of the most common reasons claims get delayed or disputed. That's not some technical nitpick. That's your money.
 
@@ -67,7 +67,7 @@ This is where most people leave serious money on the table. Medical records aren
 
 ## The Daily Injury Journal: Your Most Underused Tool
 
-When I was an adjuster, the claims that made me actually careful were ones where someone kept a daily journal. Not because I was worried about fiction. Because a detailed, dated, real-time account is nearly impossible to dismiss.
+A detailed, dated, real-time account is nearly impossible to dismiss. Daily journals with specific observations create a factual record that adjusters must reckon with.
 
 A daily injury journal does two things. It refreshes your own memory when you're asked about symptoms six months later. And it creates a timeline of suffering that medical records alone never capture. Doctors don't write down that you cried because you couldn't pick up your daughter. They don't note that you paid someone to mow the lawn for the third straight week. That's your actual life, and it belongs in your claim.
 
@@ -118,7 +118,7 @@ This isn't complex. It's just consistent discipline. People who get fair settlem
 
 ---
 
-Insurance claims live or die on paper. Your actual pain, losses, and recovery only matter as much as what you documented. That's frustrating, but it's also powerful: you control your own record far more than you realize. Start now. Stay consistent. Don't assume anyone else is building this case for you. In my experience, clients who showed up with organized, detailed documentation almost always got better outcomes than those who didn't, regardless of injury severity. Your story deserves to be told completely.
+Insurance claims live or die on paper. Your actual pain, losses, and recovery only matter as much as what you documented. That's frustrating, but it's also powerful: you control your own record far more than you realize. Start now. Stay consistent. Don't assume anyone else is building this case for you. Those with organized, detailed documentation consistently achieve better outcomes than those without, regardless of injury severity. Your story deserves to be told completely.
 
 ---
 

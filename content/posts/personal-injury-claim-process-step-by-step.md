@@ -33,7 +33,7 @@ The personal injury claim process isn't complicated, but it is unforgiving if yo
 
 ## What Happens Immediately After the Injury (The First 72 Hours Matter Most)
 
-The decisions you make in the first three days after an injury can shape your entire claim. I've seen strong cases fall apart because of what someone did, or didn't do, right after the accident.
+The decisions you make in the first three days after an injury can shape your entire claim. Strong cases can fall apart because of what someone does, or doesn't do, right after the accident.
 
 **Get medical attention. Today.** Not tomorrow, not "when you feel worse." Gaps in treatment are one of the first things an insurance company will use to argue that your injuries couldn't be serious. You saw a doctor on day one and then waited two weeks to follow up? The adjuster will be pointing to that gap during settlement negotiations.
 
@@ -83,7 +83,7 @@ The insurance company will almost always respond with a counteroffer significant
 
 Back-and-forth can take weeks or months. The adjuster looks for reasons to reduce value: pre-existing conditions, gaps in treatment, inconsistencies in medical records, anything creating doubt about the connection between accident and injury. Your attorney counters these arguments with evidence.
 
-In my experience, the majority of personal injury claims settle without trial. Roughly 95% of cases settle, according to Nolo's personal injury resources, which tracks with what I observed during my time on the other side of the desk. Insurers generally prefer certainty over the risk and expense of trial. But don't let that statistic make you complacent. A fair settlement requires leverage, and leverage comes from strong evidence and a credible attorney willing to litigate if necessary.
+The majority of personal injury claims settle without trial. Roughly 95% of cases settle, according to Nolo's personal injury resources. Insurers generally prefer certainty over the risk and expense of trial. But don't let that statistic make you complacent. A fair settlement depends on strong evidence and a credible attorney willing to litigate if necessary.
 
 ---
 
@@ -116,7 +116,6 @@ The personal injury claim process rewards the people who are organized, patient,
 - [medical records organizer](https://www.amazon.com/s?k=medical+records+organizer)
 - [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

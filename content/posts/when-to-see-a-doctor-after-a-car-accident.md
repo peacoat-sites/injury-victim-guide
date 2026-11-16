@@ -31,13 +31,11 @@ That number comes from a 2019 study published in *Pain Reports*, and I can't tel
 
 This is the thing that keeps me up at night when I think about people who've been in crashes. The decision of when to see a doctor isn't just a health decision. It's a legal and financial one too, and most people get it wrong for the same reason: they feel okay, so they assume they are okay.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">See a doctor within 24-72 hours of any car accident, even with no symptoms.</li><li style="margin:5px 0">Adrenaline and inflammation delays can mask serious injuries for 48-72 hours post-crash.</li><li style="margin:5px 0">Whiplash, brain injuries, and internal bleeding are the three most common "delayed presentation" injuries.</li><li style="margin:5px 0">Waiting more than a week to seek care gives insurers a strong argument to deny or reduce your claim.</li><li style="margin:5px 0">A same-day urgent care visit costs roughly $150-$350 out of pocket, far less than the cost of a denied claim.</li></ul></div>
-
 
 ## The Biology of Why You Feel Fine Right Now
 
-Here's something I wish someone had explained to me in plain language back when I started adjusting claims: your body is not a reliable injury detector in the first few hours after a crash.
+Your body is not a reliable injury detector in the first few hours after a crash.
 
 When you're in a collision, your adrenal glands dump cortisol and adrenaline into your bloodstream within seconds. That hormonal flood is ancient biology, designed to get you out of danger. It suppresses pain signals, floods your muscles with blood, sharpens your focus. It also completely masks the sensation of injury. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) consistently shows that motor vehicle crashes are among the leading causes of traumatic brain injury in the United States, and TBIs are notoriously silent in the first 12-24 hours. You can have intracranial bleeding and feel nothing but a mild headache.
 
@@ -46,8 +44,6 @@ Whiplash is the other sneaky one. The [soft tissue](/soft-tissue-injury-settleme
 ## When to Go: A Timeline by Scenario
 
 > **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 People ask me some version of this constantly: "Do I really need to go to the doctor? Nothing hurts." My honest answer is yes, and the urgency depends on what happened.
 
@@ -61,7 +57,7 @@ People ask me some version of this constantly: "Do I really need to go to the do
 | Delayed headache, dizziness, or nausea | ER immediately | ER | These are red flags for post-concussion syndrome or intracranial pressure |
 | No symptoms whatsoever | Primary care within 72 hours | Your own doctor | Documentation baseline; catches subclinical injuries on exam |
 
-That last row is the one people skip. I get it, you feel fine, you're busy, it seems like a wasted trip. But a physician's exam creates a baseline record dated close to the accident. If something surfaces two weeks later, that record is the bridge between the crash and your injury. Without it, an insurer can (and will) argue the injury came from something else entirely.
+Many people skip the follow-up exam. Even when you feel fine and are busy, the exam matters. But a physician's exam creates a baseline record dated close to the accident. If something surfaces two weeks later, that record is the bridge between the crash and your injury. Without it, an insurer can (and will) argue the injury came from something else entirely.
 
 ## The Three Injuries That Show Up Late
 
@@ -73,9 +69,7 @@ I want to spend real time here because this is where I see people get hurt twice
 
 **Internal abdominal injuries.** The seatbelt that saves your life can also cause injury to your spleen, liver, or bowel. This one is genuinely dangerous in ways the others aren't. Splenic lacerations can bleed slowly for hours or days before you feel it. If you have abdominal tenderness, bruising across your belly where the belt sat, or shoulder pain (which can indicate referred pain from a bleeding spleen), go to an ER immediately. Don't drive yourself.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Hours to symptom onset by injury type</div><div class="sc-row"><span class="sc-label">Whiplash peak pain</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">48 hrs</span></div><div class="sc-row"><span class="sc-label">TBI symptoms</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">24 hrs</span></div><div class="sc-row"><span class="sc-label">Abdominal (splenic) bleed</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">12 hrs</span></div><div class="sc-row"><span class="sc-label">Adrenaline clearance</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">6 hrs</span></div><div class="sc-row"><span class="sc-label">Soft tissue inflammation peak</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">72 hrs</span></div><div class="sc-src">Source: Pain Reports 2019, Spine Journal 2021, ACS Trauma Guidelines</div></div>
-
 
 ## What the Insurance Company Sees When You Wait
 
@@ -97,7 +91,7 @@ The difference in those two cases isn't the severity of the injury. It's the pap
 
 People sometimes avoid the doctor after a crash because they don't know what to say or they're worried about cost. Let me walk you through what actually happens, because it's more straightforward than you'd think.
 
-Bring: the accident date and time, the police report number if you have it, your insurance card (both health and auto), and a written list of any symptoms you've noticed, however minor. "I feel a little stiff in my neck" counts. "I've had a mild headache" counts. Write it down before you go so you don't underreport in the exam room. I made this mistake myself the first time I saw a doctor after a minor fender-bender years ago. I walked in saying "I'm probably fine" and walked out with a note saying "patient reports no complaints." That note was useless.
+Bring: the accident date and time, the police report number if you have it, your insurance card (both health and auto), and a written list of any symptoms you've noticed, however minor. "I feel a little stiff in my neck" counts. "I've had a mild headache" counts. Write it down before you go so you don't underreport in the exam room. For example, walking into an exam and saying "I'm probably fine" can result in a note saying "patient reports no complaints," which does nothing to support a later injury claim.
 
 Tell the doctor exactly what happened mechanically, meaning: which direction was the impact, were you braced or relaxed, did your head hit anything, were you wearing your seatbelt. These details actually affect what they look for on exam. A rear-end impact at rest vs. a T-bone at 40 mph create completely different injury patterns.
 
@@ -114,7 +108,6 @@ As of July 2026, an urgent care visit for post-accident evaluation typically run
 - [American Bar Association, Public Education Division](https://www.americanbar.org/groups/public_education/): Guidance on the intersection of injury claims, medical documentation, and legal process following auto accidents.
 
 ---
-
 
 *Photo: [Th2city Santana](https://www.pexels.com/@th2city) via Pexels*
 

@@ -31,9 +31,7 @@ Here's what the standard articles skip: a significant portion of people who suff
 
 I spent twelve years reviewing injury claims for carriers before I switched sides. The thing that struck me most was how often adjusters would close a file at ninety days using "[soft tissue injury](/soft-tissue-injury-settlement-amounts/) resolves with conservative care" as the rationale, regardless of what the claimant was actually experiencing. That isn't medicine. It's a billing assumption dressed up as a prognosis.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Roughly 50% of whiplash patients still have symptoms after one year, per published spinal research.</li><li style="margin:5px 0">"Soft tissue" doesn't mean minor, ligament and disc injuries often don't appear on standard X-rays.</li><li style="margin:5px 0">Continuing to treat and document is the single most important thing you can do for your health and your claim.</li><li style="margin:5px 0">Settling before you reach maximum medical improvement risks leaving significant compensation on the table.</li><li style="margin:5px 0">A physiatrist or spine specialist referral, not just a general practitioner, is the diagnostic step most people skip.</li></ul></div>
-
 
 ## Why the Pain Isn't Going Away
 
@@ -50,8 +48,6 @@ Ligament laxity is less discussed but genuinely nasty. The ligaments that stabil
 ## What the Insurance Company Is Doing With Your Claim Right Now
 
 > **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me be blunt. If your neck pain is still present at ninety days post-accident, the claims department has likely already flagged your file for closer scrutiny or a medical review. This is standard. It doesn't mean they think you're lying. It means the file has moved from "routine" to "reserves may need to increase," and someone is now paying attention to every treatment note looking for inconsistencies.
 
@@ -80,7 +76,7 @@ Functional imaging and specialized diagnostic injections have changed the diagno
 | Cervical discography | Discogenic pain at specific levels | $2,000-$5,000 | Inconsistent coverage |
 | EMG/nerve conduction study | Nerve root compression, radiculopathy | $500-$1,500 | Usually covered |
 
-The diagnostic medial branch nerve block deserves its own sentence: it's both diagnostic and potentially therapeutic. If your pain decreases by 80% or more for the duration of the block's anesthetic effect, that confirms the facet joint is the pain generator and opens the door to a longer-term treatment called radiofrequency ablation. I've seen clients go from "barely functional" to working full-time again after this procedure. Not everyone, but it's not rare either.
+The diagnostic medial branch nerve block is both diagnostic and potentially therapeutic. If your pain decreases by 80% or more for the duration of the block's anesthetic effect, that confirms the facet joint is the pain generator and opens the door to a longer-term treatment called radiofrequency ablation.
 
 Digital motion X-ray is the underdog here. It records the cervical spine in real-time movement, which is the only way to visualize instability that standard static imaging misses entirely. It's not covered by most insurers, which is infuriating, but the images are admissible in litigation and can dramatically shift an insurance negotiation.
 
@@ -100,9 +96,7 @@ James, 51, T-boned on a suburban road at roughly 25 mph. Initial MRI clear. Six 
 
 The contrast matters. Earlier specialist involvement doesn't just get you better faster. It creates a medical record that accurately reflects the severity of the injury.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Percentage of whiplash patients with symptoms at each timepoint</div><div class="sc-row"><span class="sc-label">At 3 months</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">65%</span></div><div class="sc-row"><span class="sc-label">At 6 months</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">58%</span></div><div class="sc-row"><span class="sc-label">At 12 months</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">50%</span></div><div class="sc-row"><span class="sc-label">At 24 months</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">38%</span></div><div class="sc-src">Source: The Spine Journal systematic review, 2020</div></div>
-
 
 ## Your Claim and Your Timeline
 
@@ -123,7 +117,6 @@ If your neck pain is genuinely not resolving, you're probably past the point whe
 - Panjabi, M.M. (2006, *Journal of Electromyography and Kinesiology*): Research on whiplash-induced subfailure injuries to cervical ligaments and their relationship to long-term instability.
 
 ---
-
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

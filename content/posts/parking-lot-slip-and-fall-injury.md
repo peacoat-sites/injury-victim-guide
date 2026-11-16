@@ -29,17 +29,17 @@ You stepped out of your car, arms full of groceries, and the next thing you reme
 
 ## Who Actually Owns the Responsibility Here
 
-Here's the thing most people get wrong immediately: they assume the store is responsible because they fell in the store's parking lot. Sometimes that's true. Sometimes it's not even close.
+A common mistake is assuming the store is responsible because you fell in the store's parking lot. Sometimes that's true. Sometimes it's not even close.
 
 Parking lot liability is a tangled web of ownership, leases, and maintenance contracts. A grocery store might lease its space from a commercial property management company, which contracts snow removal to a third-party vendor, which subcontracts the actual salting to a seasonal crew. When you fall on an icy surface, you could theoretically have a claim against any one of them, all of them, or in some cases, none of them if the condition was genuinely unforeseeable or existed for only a few minutes.
 
 The legal concept at play is called *[premises liability](/property-owner-liability-slip-and-fall/)*. It means property owners and occupiers have a legal duty to keep their property reasonably safe for people who are there lawfully. "Reasonably safe" does a lot of heavy lifting in that sentence. It doesn't mean perfect. It means the kind of care that a reasonable property manager would exercise given what they knew or should have known about the hazard.
 
-What struck me when I started researching this was how much the outcome depends on the state you're in. Some states follow *contributory negligence* rules, where if you're found even 1% at fault, you can be barred from recovery entirely. Most states now use some version of *comparative negligence*, where your compensation gets reduced by your percentage of fault. Looking down at your phone while walking? That matters. Wearing shoes with no traction in a blizzard? That gets argued too.
+The outcome depends heavily on the state you're in. Some states follow *contributory negligence* rules, where if you're found even 1% at fault, you can be barred from recovery entirely. Most states now use some version of *comparative negligence*, where your compensation gets reduced by your percentage of fault. Looking down at your phone while walking? That matters. Wearing shoes with no traction in a blizzard? That gets argued too.
 
 ## The Hazards That Actually Cause These Claims
 
-Not all parking lot hazards are created equal when it comes to legal viability. I've seen people try to build cases around conditions that any court would call trivial, and I've seen genuinely dangerous situations get dismissed because the victim couldn't show the property owner knew about them.
+Not all parking lot hazards are created equal when it comes to legal viability. Some conditions courts would call trivial may form weak cases, while genuinely dangerous situations can get dismissed if the victim can't show the property owner knew about them.
 
 The hazards that tend to produce the most defensible claims are the ones that were visible, persistent, and known (or should have been known) to the property owner:
 
@@ -55,7 +55,7 @@ The hazards that tend to produce the most defensible claims are the ones that we
 
 ## What to Do in the First 48 Hours (This Part Actually Matters)
 
-I cannot stress this strongly enough: what you do in the immediate aftermath shapes everything that comes later. I've watched solid cases collapse because the injured person didn't take 10 minutes to do a few basic things.
+What you do in the immediate aftermath shapes everything that comes later. Solid cases can collapse because the injured person didn't take 10 minutes to do a few basic things.
 
 Here's a practical sequence to follow:
 
@@ -106,7 +106,6 @@ The parking lot where you fell doesn't look like a courtroom, but in a very real
 - [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
 - [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

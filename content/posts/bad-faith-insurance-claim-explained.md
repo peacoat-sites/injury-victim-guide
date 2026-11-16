@@ -29,7 +29,7 @@ Most people filing an insurance claim think the worst that'll happen is a settle
 
 Bad faith is something else entirely. It's not a stingy adjuster or a slow claims process. It's your insurance company (or the other driver's) breaking the law in how it handles your claim, and it opens the door to compensation that goes way beyond what your original claim was worth.
 
-I spent 12 years working inside that system before I switched sides. I've watched bad faith happen by accident, through pure incompetence. I've also watched it happen deliberately, as a calculated strategy to protect the company's loss ratios. Both are illegal. Neither gets explained clearly enough.
+Bad faith can happen by accident, through pure incompetence, or deliberately, as a calculated strategy to protect a company's loss ratios. Both are illegal. Neither gets explained clearly enough.
 
 ---
 
@@ -60,7 +60,7 @@ Most articles skip right past this part. So I'll say it directly: a successful b
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Here's the thing about "bad faith", it gets thrown around loosely, and that hurts legitimate claimants. Call every frustrating insurance interaction bad faith and you dilute the concept until attorneys who might actually help you won't touch your case.
+"Bad faith" gets thrown around loosely, and that hurts legitimate claimants. Call every frustrating insurance interaction bad faith and you dilute the concept until attorneys who might actually help you won't touch your case.
 
 What actually qualifies, based on state insurance codes and the [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on policyholder rights:
 

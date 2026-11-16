@@ -31,9 +31,7 @@ You might be wondering whether you're being lowballed. Almost certainly, yes, bu
 
 I spent twelve years on the other side of this, reviewing claims for a regional carrier in the Midwest. I know exactly what adjusters put in their notes, what they hope you don't ask about, and which variables move the settlement number the most. Here's what I tell people who come to me confused and exhausted after months of back-and-forth with an insurance company:
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most workers' comp settlements range from $10,000 to $60,000, but severe injury cases routinely exceed $100,000.</li><li style="margin:5px 0">The two biggest levers on your settlement amount are your average weekly wage and your permanent impairment rating.</li><li style="margin:5px 0">Insurance companies calculate a "reserve" on your claim from day one ,  knowing that number changes your negotiating position.</li><li style="margin:5px 0">Structured settlements (periodic payments) often pay more total dollars than lump sums, but lump sums are negotiable.</li><li style="margin:5px 0">Hiring an attorney typically increases final settlement amounts even after their fee, according to multiple state studies.</li></ul></div>
-
 
 ## What Actually Goes Into the Number
 
@@ -43,13 +41,11 @@ Your **average weekly wage (AWW)** is the foundation. In most states, the insure
 
 Then there's the **permanent impairment rating**. This is where people get the most confused and, frankly, where the system is most gameable. A doctor assigns a number, often as a percentage of your whole body or of a specific body part, following the AMA Guides to the Evaluation of Permanent Impairment. That percentage gets multiplied by a state-specific schedule of weeks to produce a dollar value. A 10% impairment rating to your lumbar spine in one state might yield $28,000. The same rating in a neighboring state might yield $9,000 or $75,000. The variance is genuinely that wide.
 
-I used to see adjusters target the IME (Independent Medical Examination) doctor selection carefully. The word "independent" is doing a lot of work in that phrase. Some physicians who do IME work for carriers have strong financial incentives to rate impairment conservatively. That's not a conspiracy theory; it's an economic relationship that anyone who's worked in claims understands. If you receive an impairment rating that feels shockingly low, you have every right to seek a second opinion from your own treating physician, and in many states you can formally contest the rating.
+Adjusters often target the IME (Independent Medical Examination) doctor selection carefully. The word "independent" warrants scrutiny in that phrase. Some physicians who do IME work for carriers have strong financial incentives to rate impairment conservatively. This is an economic relationship worth understanding when you receive your rating. If you receive an impairment rating that feels shockingly low, you have every right to seek a second opinion from your own treating physician, and in many states you can formally contest the rating.
 
 ## Settlement Ranges by Injury Type
 
 > **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This table won't tell you exactly what your case is worth, and anyone who gives you a precise number without reviewing your complete records is guessing. But after years of reviewing claims, here are realistic ranges based on injury severity, drawing on current workers' comp data as of 2026:
 
@@ -86,7 +82,7 @@ The lump sum wins if you have high-interest debt, a business opportunity, or rea
 
 What many people don't realize: in most states, you can negotiate the split. Part lump sum now, part structured going forward. That hybrid option comes up less often than it should because adjusters don't volunteer it.
 
-A worked example from a case profile I've seen replicated many times: A warehouse worker, age 44, with a herniated disc at L4-L5 and a 15% whole-body impairment rating after spinal fusion. Initial lump sum offer from the insurer: $67,000. After retaining an attorney who challenged the impairment rating (bumped to 22% after independent evaluation) and negotiated a structured settlement: $148,000 total over seven years, with $40,000 paid immediately at closing.
+For example, a worker with a herniated disc at L4-L5 receives a 15% whole-body impairment rating after spinal fusion, with an initial lump sum offer of $67,000. After an attorney challenges the rating (bumped to 22% after independent evaluation) and negotiates a structured settlement, the total value becomes $148,000 over seven years, with $40,000 paid at closing.
 
 ## When Attorneys Make the Math Work
 
@@ -109,7 +105,6 @@ A second worked example: A construction laborer with a knee injury in Ohio, no a
 - [Workers Compensation Research Institute (WCRI)](https://www.wcrinet.org): Independent research on claim outcomes, medical costs, and indemnity by state, including comparative studies on attorney representation effects.
 
 ---
-
 
 *Photo: [Cytonn Photography](https://www.pexels.com/@cytonn) via Pexels*
 

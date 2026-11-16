@@ -100,7 +100,7 @@ I spoke with a woman in Phoenix two years ago, I'll call her Rosa, who was rear-
 
 ## The Specific Paperwork That Will Haunt You If You Skip It
 
-When I was adjusting claims, the file that walked in organized was the one that settled faster. Not because adjusters are soft-hearted, but because a well-documented claim is harder to chip away at.
+A well-documented claim is harder to chip away at, which tends to speed settlement. Adjusters respond to solid evidence, not goodwill.
 
 Keep a folder (physical or digital) containing:
 

@@ -48,7 +48,7 @@ Picture this: you're a delivery driver who slips on an unmarked wet floor at a c
 The clock starts the moment you hit the floor. What you do in the first three days shapes the entire claim.
 
 **Step 1: Get medical attention immediately, even if you feel "okay."**
-Adrenaline is a powerful painkiller. Soft tissue injuries, spinal compression, and concussions often don't show up for 24 to 48 hours. A same-day medical record creates a direct, undeniable link between the incident and your injuries. Wait five days, then go to urgent care, and you've handed an insurance adjuster exactly the gap they need to argue your injuries came from somewhere else. I've seen that argument win.
+Adrenaline is a powerful painkiller. Soft tissue injuries, spinal compression, and concussions often don't show up for 24 to 48 hours. A same-day medical record creates a direct, undeniable link between the incident and your injuries. Wait five days, then go to urgent care, and you've handed an insurance adjuster exactly the gap they need to argue your injuries came from somewhere else. Insurance adjusters often exploit such gaps to argue injuries arose from a different cause.
 
 **Step 2: Report the incident to your employer in writing.**
 Tell your supervisor verbally if you need to, but follow up with something written: an email, a text, a completed incident report form. Get a copy. Most states require you to notify your employer within a specific window (commonly 30 days, though it varies) or you risk losing workers' comp eligibility entirely. Don't assume the verbal conversation counts.
@@ -117,7 +117,6 @@ The core thing to take away is this: a workplace slip and fall can generate mult
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

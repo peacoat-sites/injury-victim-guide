@@ -29,11 +29,9 @@ Most people assume the [insurance adjuster](/recorded-statement-insurance-adjust
 
 I spent 12 years on the other side of that negotiation table. I reviewed claims, I wrote evaluations, I submitted settlement recommendations to supervisors. And I'll be honest: the lowball offer almost always wasn't random. It was calculated. There was a logic to it, and once you understand that logic, you stop feeling victimized by a mystery and start seeing it as a solvable problem.
 
-What surprised me when I switched sides was how consistent the pattern is. Doesn't matter if it's State Farm or a small regional carrier. The mechanics are basically the same.
-
+Insurance carriers follow consistent patterns regardless of size. State Farm and small regional carriers use similar claim-handling mechanics.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Insurance adjusters are trained to open low, most initial offers are 40-60% below a fair settlement value.</li><li style="margin:5px 0">Three main levers drive the lowball: incomplete documentation, software-driven valuation caps, and your own urgency.</li><li style="margin:5px 0">You have the right to counter any offer in writing, and doing so almost always improves the outcome.</li><li style="margin:5px 0">Getting an independent medical exam (IME) or attorney review before accepting can add thousands to a final settlement.</li><li style="margin:5px 0">Accepting an offer closes your claim permanently, there's no "oops, I got worse" do-over once you sign.</li></ul></div>
-
 
 ## The Adjuster Isn't Your Friend (But They're Also Not a Villain)
 
@@ -46,8 +44,6 @@ That distinction matters. It means the adjuster is looking for reasons to minimi
 ## Why the Software Number Is Probably Lowering Your Offer
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the thing nobody talks about, and it took me embarrassingly long to fully appreciate even while I was using it.
 
@@ -67,7 +63,7 @@ I don't love laying out insurance company tactics this openly, but frankly the [
 
 **They're counting on you not knowing your claim's actual value.** Most people have no baseline. If someone tells you your broken wrist claim is worth $8,000, you don't know if that's fair because you've never had a broken wrist before. A personal injury attorney, even for a free consultation, can give you a ballpark built from comparable cases in your jurisdiction.
 
-**They're counting on the release form being permanent.** When you accept a settlement and sign a release, that's it. Your claim is closed. If your "minor" back injury turns into a disc herniation requiring surgery six months later, you get nothing additional. I've seen this happen. It's awful to watch and completely legal.
+**They're counting on the release form being permanent.** When you accept a settlement and sign a release, your claim is closed. If your "minor" back injury turns into a disc herniation requiring surgery six months later, you get nothing additional. This outcome is completely legal.
 
 ## What the Initial Offer Gap Usually Looks Like
 
@@ -83,7 +79,7 @@ The research here is somewhat mixed on exact averages, because settlement data i
 
 These ranges are drawn from industry experience as of July 2026, and they vary significantly by state, by carrier, and by whether you have legal representation. They are not guarantees of any outcome in any individual case.
 
-The thing that genuinely surprised me when I first compiled numbers like these: claimants with attorney representation consistently settle for more, even after attorney fees. A study published in the Journal of Empirical Legal Studies found that represented claimants received settlements roughly 3.5 times higher than unrepresented claimants with similar injuries, net of fees. You're probably thinking "that can't be right, the lawyer takes a third." I thought the same. Run the math: 3.5x the payout, minus 33%, still leaves you ahead by a factor of two or more.
+A study published in the Journal of Empirical Legal Studies found that represented claimants received settlements roughly 3.5 times higher than unrepresented claimants with similar injuries, net of fees. Even accounting for a typical 33% attorney fee, this leaves represented claimants ahead by a factor of two or more.
 
 ## What You Can Actually Do About It
 
@@ -106,7 +102,6 @@ And get a free consultation with a personal injury attorney. Most take cases on 
 - National Center for State Courts, civil case disposition data (ongoing): Tracks litigation rates and outcomes by case type across jurisdictions.
 
 ---
-
 
 *Photo: [Vanessa Garcia](https://www.pexels.com/@vanessa-garcia) via Pexels*
 

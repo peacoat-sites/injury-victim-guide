@@ -27,7 +27,7 @@ faqs:
 
 Most people drive home from a fender-bender thinking they dodged a bullet. A little neck stiffness, maybe some shaken nerves, but nothing serious. Then the headache starts.
 
-Sometimes it shows up that same evening. Sometimes it doesn't arrive until two or three days later, which honestly catches people off guard more than anything else I've seen. They've already told their insurance company they "felt fine" at the scene. They haven't kept any notes. And now their head is pounding, and they don't know whether to take some ibuprofen and wait it out or go straight to the ER.
+Sometimes it shows up that same evening. Delayed symptoms are common. A person might tell their insurance company they feel fine at the scene, but symptoms can emerge hours or days later. When a headache develops and there's uncertainty about severity, it's worth getting evaluated rather than waiting it out.
 
 If that's where you are right now, you're in the right place. And I want to give you a straight answer, not a liability-hedging non-answer.
 
@@ -41,13 +41,11 @@ The one that worries me more is a headache from a concussion. Traumatic brain in
 
 There's also the intracranial bleed to consider, which is the one I won't sugarcoat: it's rare, but it can be fatal if missed. A subdural or epidural hematoma can cause a headache that starts mild and progressively worsens over hours or days. This is the "talk and die" scenario that emergency physicians train for, where a person seems fine, declines imaging, goes home, and deteriorates.
 
-I used to think, back when I was adjusting claims, that people who went to the ER for a headache after a minor crash were being overly cautious. I was wrong about that. I saw enough serious claims come through years later to understand that the ER visit I might have mentally dismissed as "unnecessary" was often the visit that caught something real.
+An ER visit for a headache after a crash may seem overly cautious, but post-accident imaging can catch serious injuries that aren't obvious at first. A headache warrants medical evaluation, not dismissal.
 
 ## When you need to be seen immediately
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 No hedging here. Go to the emergency room if you have any of these:
 
@@ -55,7 +53,7 @@ A headache that's rapidly getting worse, not staying stable. A headache that wok
 
 These are red flags that suggest something beyond a tension headache or even a concussion. They can indicate bleeding or swelling in the brain. Don't wait. Don't "see how you feel in the morning."
 
-The challenge, and I've watched this happen with people I cared about, is that some of the most dangerous symptoms feel manageable at first. A subdural hematoma can present as a mild, annoying headache for hours before it becomes catastrophic. If there's any question, get imaging done.
+Some dangerous symptoms feel manageable at first. A subdural hematoma can present as a mild, annoying headache for hours before it becomes catastrophic. If there's any question, get imaging done.
 
 ## The middle zone: headaches that aren't emergencies but aren't nothing
 
@@ -75,7 +73,7 @@ Your doctor may order imaging. A standard X-ray won't show a brain injury, so if
 | Intracranial bleed | Can be delayed up to 72 hours | Progressive worsening, neurological changes | Emergency room immediately |
 | Rebound headache (overuse of OTC pain meds) | After several days of heavy ibuprofen or acetaminophen use | Daily, diffuse, often morning | Doctor visit, medication adjustment |
 
-One thing almost nobody tells you: if you're taking ibuprofen or acetaminophen every day for your post-accident headache, after about ten days you can actually trigger what's called a medication overuse headache (sometimes called a rebound headache). I've seen this happen to people who thought they were managing their symptoms, and instead they ended up in a cycle where stopping the medication caused a worse headache. The [Nolo personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) touch on documentation of ongoing symptoms, but this medication piece is worth flagging to your doctor directly, because many people don't connect the two.
+Daily ibuprofen or acetaminophen for a post-accident headache can trigger a medication overuse headache (or rebound headache) after about ten days. Stopping the medication then causes a worse headache, creating a difficult cycle. Mention this risk to your doctor directly, as many people don't connect the two. The [Nolo personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) cover documentation of ongoing symptoms.
 
 ## Documenting your symptoms: the part that actually matters for your claim
 
@@ -91,7 +89,7 @@ One more thing: photograph any visible injuries at the scene and in the days aft
 
 ## A few real scenarios that show how this plays out
 
-Marcus, a 41-year-old teacher in Dallas, was rear-ended at a stoplight in 2023 at about 25 mph. He felt "mostly fine" and declined the ambulance. By the next evening he had a crushing headache and nausea. His wife insisted he go to urgent care. CT scan was normal, but he was diagnosed with a grade 1 concussion. He followed up with a neurologist, kept a pain diary for eight weeks, and his post-concussion headaches were fully documented. His eventual settlement included compensation for sixteen missed workdays and ongoing treatment.
+For example, a person rear-ended at low speed might decline an ambulance and feel fine initially, then develop a crushing headache and nausea by the next evening. Urgent care evaluation could reveal a grade 1 concussion. Following up with a neurologist and keeping a detailed pain diary for several weeks documents the injury and supports any future claims for missed work and ongoing treatment.
 
 Scenario: Delayed headache onset, no initial ER visit. Action: Urgent care the next day, consistent follow-up. Result: Symptoms documented from day two, clean paper trail, claim paid without dispute.
 
@@ -110,7 +108,6 @@ The [Insurance Information Institute](https://www.iii.org/) notes that documenta
 - American Academy of Neurology (AAN): Clinical guidelines on concussion diagnosis and management, including post-traumatic headache classification (current as of July 2026).
 
 ---
-
 
 ---
 

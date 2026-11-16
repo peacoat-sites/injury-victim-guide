@@ -27,13 +27,11 @@ faqs:
 
 Most people who get hurt at work assume they have to choose: file a workers comp claim *or* sue somebody. That framing is wrong, and [insurance companies](/how-insurance-companies-handle-injury-claims/) quietly benefit every time an injured worker believes it.
 
-The reality is messier and, honestly, more interesting. Workers comp and a [personal injury lawsuit](/personal-injury-lawsuit-vs-settlement/) aren't always mutually exclusive. Sometimes you can pursue both. Sometimes one kills the other. The outcome depends on a handful of specific facts about your situation, and getting those facts wrong can cost you tens of thousands of dollars, or your entire claim.
+Workers comp and a [personal injury lawsuit](/personal-injury-lawsuit-vs-settlement/) aren't always mutually exclusive. Sometimes you can pursue both. Sometimes one kills the other. The outcome depends on a handful of specific facts about your situation, and getting those facts wrong can cost you tens of thousands of dollars, or your entire claim.
 
 I spent 12 years on the insurance side adjusting claims before I switched to helping [injury victims](/georgia-tort-reform-is-now-live-what-injury-victims-must-know/). I've watched the same mistakes play out so many times I could practically script them. So let me give you the version of this explanation that the industry doesn't particularly want you to have.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Workers comp pays regardless of fault; a personal injury lawsuit requires proving someone else was negligent.</li><li style="margin:5px 0">In most states, you cannot sue your own employer in civil court if you're covered by workers comp, this is called the "exclusive remedy" rule.</li><li style="margin:5px 0">Third-party lawsuits (against a contractor, equipment maker, or negligent driver) are often possible even when you're already collecting workers comp.</li><li style="margin:5px 0">Personal injury verdicts or settlements can include pain and suffering; workers comp never pays for that category of damage.</li><li style="margin:5px 0">If you win a personal injury case while collecting workers comp, your employer's insurer almost always has a lien, they'll want some money back.</li></ul></div>
-
 
 ## The Fundamental Difference Nobody Explains Clearly
 
@@ -48,8 +46,6 @@ A personal injury lawsuit can recover all of that. But you have to prove neglige
 ## When the Exclusive Remedy Rule Blocks You
 
 > **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The "exclusive remedy" doctrine is the legal wall between workers comp and a civil lawsuit against your employer. The [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on this is consistent: in virtually every state, if your employer carries workers comp coverage, that coverage is your exclusive remedy against them. You can't collect benefits and then also sue them for the same injury.
 
@@ -105,7 +101,7 @@ The catch: you generally can't recover the same dollar twice. If workers comp pa
 
 [Scenario] Construction worker in Florida breaks his back when scaffolding collapses; scaffolding was rented from a third-party company → Employer's workers comp pays $140,000 in medical costs and wage benefits → Personal injury suit against the scaffolding company settles for $780,000 → After paying back the $140,000 workers comp lien (negotiated down from $140k to $98,000) and attorney's fees of 33%, worker nets roughly $425,000 above what workers comp already paid.
 
-The numbers in that scenario aren't hypothetical, they're representative of cases I've seen play out at roughly that scale. Scaffolding collapse cases with serious spinal injuries often settle in that range. The exact figures vary by jurisdiction, evidence, and the specific insurer's appetite for risk.
+Scaffolding collapse cases with serious spinal injuries often settle in that range. The exact figures vary by jurisdiction, evidence, and the specific insurer's appetite for risk.
 
 ## A Few Mistakes That Will Cost You
 
@@ -126,7 +122,6 @@ Not documenting the third party's role. After an injury, most people focus on th
 - ProPublica / NPR "Insult to Injury" series: Investigative reporting documenting the systematic reduction of workers comp benefits across dozens of states over the past two decades.
 
 ---
-
 
 *Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
 

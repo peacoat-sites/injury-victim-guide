@@ -27,8 +27,7 @@ lastmod: 2026-07-08
 ---
 You get rear-ended at a red light. The other driver gets out, looks at the damage, and then says three words that make your stomach drop: "I don't have insurance." You're hurt, your car is damaged, and suddenly everything you thought you knew about how this works goes out the window. It's a nightmare scenario, but it happens more often than most people realize. According to the Insurance Research Council, roughly 1 in 8 drivers on American roads is uninsured. In some states, that number climbs closer to 1 in 4.
 
-Here's the thing nobody tells you upfront: you're not necessarily out of options just because the other driver has no coverage. You may have more paths to compensation than you think.
-
+You're not necessarily out of options just because the other driver has no coverage. You may have more paths to compensation than you think.
 
 <div class="value-module">
  <div class="vm-head">UM/UIM Coverage Decision Checklist</div>
@@ -45,7 +44,7 @@ Before you panic, take a breath. The at-fault driver being uninsured doesn't era
 
 You're dealing with an "uninsured motorist" situation now, and your options depend on what's in your own policy, your state's laws, how badly you're hurt, and whether the at-fault driver has anything worth suing for. That last point matters more than people think.
 
-I've seen clients walk away from these situations with full compensation. I've also seen people leave serious money on the table because they didn't know what to ask for. Let's go through every realistic option.
+Outcomes in these situations vary widely depending on what coverage options you explore and pursue. Let's go through every realistic option.
 
 ## Your Own Insurance Policy: The First Place to Look
 

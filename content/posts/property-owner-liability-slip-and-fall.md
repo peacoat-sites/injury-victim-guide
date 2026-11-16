@@ -53,7 +53,7 @@ A [slip and fall claim](/slip-and-fall-injury-claim-process/) isn't just "I fell
 
 **4. You suffered actual damages.** Medical bills, lost wages, pain and suffering. You need documentation for all of it.
 
-I've seen legitimate claims fall apart because the injured person couldn't establish a clear connection between the hazard and their injury. Documentation from day one isn't optional; it's the foundation of your case.
+Legitimate claims can fall apart when the injured person fails to establish a clear connection between the hazard and their injury. Documentation from day one isn't optional; it's the foundation of your case.
 
 ## How Property Owners (and Their Insurers) Fight Back
 
@@ -109,7 +109,6 @@ The gap between "I was injured on someone else's property" and "I have a strong 
 - [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
 - [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

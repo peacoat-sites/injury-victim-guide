@@ -40,7 +40,7 @@ Let's talk about what actually drives settlement timelines. Not the optimistic v
 | Serious injury, disputed fault, multiple defendants | 2-4 years | Litigation, discovery, court dockets, complex causation |
 | Post-litigation (if filed, before trial) | 12-24 months | Court scheduling, discovery (6-9 months), settlement possible before trial |
 
-Straightforward car accident claims with clear liability, soft tissue injuries, and cooperative insurance companies can settle in 60 to 90 days. I've seen it happen. But "straightforward" is doing a lot of work in that sentence, and most cases don't qualify.
+Straightforward car accident claims with clear liability, soft tissue injuries, and cooperative insurance companies can settle in 60 to 90 days. But "straightforward" is doing a lot of work in that sentence, and most cases don't qualify.
 
 On the other end: cases involving serious injuries, disputed fault, multiple defendants, or litigation run two to four years. A 2022 analysis from the Insurance Research Council found the median time to close represented injury claims was climbing, not shrinking, as insurers got more aggressive about documentation requirements and causation challenges.
 
@@ -58,7 +58,7 @@ This one thing alone can add months. Break your wrist in January, still in occup
 
 **The insurance company's pace.**
 
-Once your attorney sends a demand letter, the insurance company has 30 days to respond under most state laws (some states give them longer). Here's what most people don't realize: that response is rarely a settlement offer. It's usually a counteroffer, often a low one, designed to test whether you'll blink. Multiple rounds of negotiation are normal. I've seen cases where the back-and-forth alone took four months.
+Once your attorney sends a demand letter, the insurance company has 30 days to respond under most state laws (some states give them longer). That response is rarely a settlement offer. It's usually a counteroffer, often a low one, designed to test whether you'll blink. Multiple rounds of negotiation are normal and can extend the timeline considerably.
 
 **Liability disputes.**
 
@@ -66,7 +66,7 @@ If the other side contests who was at fault, or argues that you were partially r
 
 **Multiple parties.**
 
-If your accident involved more than one defendant, or if multiple insurance policies are in play (your own underinsured motorist coverage, the at-fault driver's policy, a commercial vehicle policy), coordinating between them is genuinely complicated. I've worked files where just identifying all the applicable coverage took six weeks.
+If your accident involved more than one defendant, or if multiple insurance policies are in play (your own underinsured motorist coverage, the at-fault driver's policy, a commercial vehicle policy), coordinating between them is genuinely complicated.
 
 **The litigation decision.**
 
@@ -115,7 +115,6 @@ The timeline matters. So does not making major financial decisions, like accepti
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
 - [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
