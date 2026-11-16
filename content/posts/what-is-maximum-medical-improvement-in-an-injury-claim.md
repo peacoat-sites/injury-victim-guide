@@ -31,9 +31,7 @@ Most injured people don't realize that a single three-word phrase in their medic
 
 I spent 12 years on the insurance side reviewing thousands of claims before switching to help [injury victims](/georgia-tort-reform-is-now-in-full-effect-what-injury-victims-must-kno/). In that time, I watched more claimants get blindsided by MMI than by almost any other concept in the process. Here's what I wish someone had explained to them early.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">MMI means your condition has stabilized, not that you are fully healed or pain-free.</li><li style="margin:5px 0">Insurance companies often push for an early MMI date to close claims faster and reduce payouts.</li><li style="margin:5px 0">Settlement before MMI is generally a mistake, you can't know your full damages yet.</li><li style="margin:5px 0">A permanent impairment rating assigned at MMI directly affects the value of your claim.</li><li style="margin:5px 0">You have the right to dispute an MMI finding with an independent medical evaluation (IME).</li></ul></div>
-
 
 ## What "Stable" Actually Means (and What It Doesn't)
 
@@ -48,8 +46,6 @@ One detail that doesn't show up in the standard explanations: the actual MMI det
 ## Why Insurance Companies Love an Early MMI
 
 > **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I'll be direct here, because I watched this dynamic play out from the inside.
 
@@ -81,10 +77,6 @@ TBI with ongoing cognitive symptoms, attorney requested life care plan before se
 
 The pattern is clear enough. Patience has value here. Settling in a hurry almost always benefits one party, and it's not you.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Claim outcomes by MMI settlement timing</div><div class="sc-row"><span class="sc-label">Before MMI</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">41 avg % of</span></div><div class="sc-row"><span class="sc-label">At MMI (immediate)</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">63 avg % of</span></div><div class="sc-row"><span class="sc-label">60-90 days post-MMI</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">79 avg % of</span></div><div class="sc-row"><span class="sc-label">MMI disputed and won</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">91 avg % of</span></div><div class="sc-src">Source: Industry adjuster experience / case review composite, 2026</div></div>
-
-
 ## The Impairment Rating Process Up Close
 
 When a physician assigns a permanent impairment rating at MMI, they're following a structured protocol, not making a judgment call from the gut. Under the AMA Guides Sixth Edition (which, as of August 2026, remains the most widely adopted framework, used in over 40 states for workers' comp), impairment ratings combine objective clinical findings with validated outcome measures and functional assessments.
@@ -104,7 +96,6 @@ One thing the guides can't fully capture: pain that doesn't show on imaging. Chr
 - National Council on Compensation Insurance (NCCI): Annual data reports on average workers' comp claim duration and settlement values by injury type.
 
 ---
-
 
 ---
 

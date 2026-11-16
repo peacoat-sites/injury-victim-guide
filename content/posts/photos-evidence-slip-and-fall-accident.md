@@ -31,9 +31,7 @@ That gap isn't about fault. It's about evidence. And evidence disappears fast.
 
 I've seen a [wet floor](/wet-floor-slip-and-fall-injury/) sign appear in an incident report that definitely wasn't there when my client fell. I've seen freshly mopped floors dry out completely within 20 minutes of a fall. I've seen broken handrails get repaired the same afternoon someone was injured on them. Property owners and their insurers aren't necessarily doing this maliciously (though sometimes they are). Mostly it's just how facilities operate. But the practical result for you is the same: if you don't document it yourself, it's gone.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Photograph the hazard, your injuries, and the surrounding area within minutes, not hours.</li><li style="margin:5px 0">Get 15-30 photos minimum: wide establishing shots, medium context shots, and tight close-ups of the exact defect.</li><li style="margin:5px 0">Metadata (timestamp, GPS coordinates) embedded in your phone photos can corroborate your account in court.</li><li style="margin:5px 0">Wet floors dry, signs get moved, and lights get replaced fast, sometimes within hours of an incident.</li><li style="margin:5px 0">Video walkthroughs are more powerful than stills because they're harder for insurers to reframe.</li></ul></div>
-
 
 ## What You're Actually Trying to Prove
 
@@ -47,8 +45,6 @@ The [Insurance Information Institute](https://www.iii.org/) consistently tracks 
 
 > **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Most people take three blurry pictures and think they've done enough. They haven't.
 
 Think of it in three layers: establishing, context, and close-up. The establishing shot shows where you are inside the property. A wide-angle photo that includes a store sign, an aisle number, a visible landmark, something that places you at a specific location. Context shots show what's around the hazard: other people walking past it, the absence of a warning sign, the distance from the nearest light source. Close-up shots show the defect itself. Every angle. Multiple.
@@ -56,10 +52,6 @@ Think of it in three layers: establishing, context, and close-up. The establishi
 For a liquid spill, you want to capture the spread pattern (it tells you how long it's been there), whether it's been partially cleaned or tracked through, and whether any signage exists and where it's positioned relative to the actual wet area. For a structural defect like a broken step or cracked pavement, get a shot that includes something to establish scale, like your hand or a coin near the defect.
 
 One thing I've seen people miss every single time: photograph your own shoes. Both of them. Soles up. The condition of your footwear becomes an issue in almost every case because the defense will argue contributory negligence, that you were wearing inappropriate shoes for the conditions.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Evidence type effectiveness in slip-and-fall settlements (industry experience estimate)</div><div class="sc-row"><span class="sc-label">Video walkthrough</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">78 % of cla</span></div><div class="sc-row"><span class="sc-label">15+ photos with metadata</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">71 % of cla</span></div><div class="sc-row"><span class="sc-label">3-5 photos, no metadata</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">44 % of cla</span></div><div class="sc-row"><span class="sc-label">Incident report only</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">31 % of cla</span></div><div class="sc-row"><span class="sc-label">No documentation</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">18 % of cla</span></div><div class="sc-src">Source: Denise Wallace, based on 12 years adjuster experience and industry patterns</div></div>
-
 
 These figures reflect patterns I observed over more than a decade of claims work, not a controlled study. But the directional story they tell is consistent with what I've seen repeatedly.
 
@@ -105,7 +97,6 @@ Also: if someone at the scene says anything like "oh, that drain has been leakin
 - Cornell Law School Legal Information Institute: Plain-language overview of premises liability and negligence standards
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

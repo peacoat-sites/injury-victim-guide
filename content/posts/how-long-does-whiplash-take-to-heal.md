@@ -31,9 +31,7 @@ That's the thing that surprises people most when they come to me after a rear-[e
 
 I spent 12 years on the insurance side reading medical records, talking to adjusters, and watching [companies calculate](/how-insurance-companies-calculate-settlements/) settlement timelines based on average recovery curves. What I know now, working with injury victims instead of against them, is that the average hides a lot. So let me give you the real picture.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Mild whiplash typically resolves in 6-12 weeks; moderate-to-severe cases can take 6-24 months.</li><li style="margin:5px 0">About 50% of whiplash patients report some symptoms persisting at one year post-injury.</li><li style="margin:5px 0">Early active movement (not just rest) consistently shows better outcomes than immobilization.</li><li style="margin:5px 0">Delayed symptom onset of 24-48 hours after the crash is completely normal, not a sign you're faking.</li><li style="margin:5px 0">Documenting symptoms daily from day one protects both your health and any potential legal claim.</li></ul></div>
-
 
 ## What Whiplash Actually Does to Your Neck
 
@@ -45,13 +43,7 @@ Here's something I got wrong for years: I assumed the severity of the crash pred
 
 > **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 You might be wondering: okay, but what's the actual range? Here's what the research and my experience suggest, broken down by severity grade. The Quebec Task Force classification is still the most widely used framework in clinical practice as of 2026, and it maps pretty well onto what I've seen in medical records.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical whiplash recovery time by grade</div><div class="sc-row"><span class="sc-label">Grade I (mild)</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">6 weeks</span></div><div class="sc-row"><span class="sc-label">Grade II (moderate)</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">18 weeks</span></div><div class="sc-row"><span class="sc-label">Grade III (nerve symptoms)</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">40 weeks</span></div><div class="sc-row"><span class="sc-label">Grade IV (fracture/dislocation)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">104 weeks</span></div><div class="sc-src">Source: Quebec Task Force Classification + clinical estimates</div></div>
-
 
 | Grade | Symptoms | Typical Recovery Range | Notes |
 |---|---|---|---|
@@ -103,7 +95,6 @@ The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) puts motor vehicle 
 - [Nolo Personal Injury Resources](https://www.nolo.com/legal-encyclopedia/personal-injury): Accessible legal and medical background on whiplash claims.
 
 ---
-
 
 ---
 

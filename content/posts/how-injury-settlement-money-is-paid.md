@@ -31,9 +31,7 @@ Here's what actually happens: settlement money moves through a specific sequence
 
 The good news is the process is predictable once you understand it. And knowing it protects you from being misled about where your money is.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Settlement funds must clear a trust account before disbursement, this typically adds 1-3 weeks after settlement is signed.</li><li style="margin:5px 0">Attorney fees (usually 33%-40%) and medical liens are deducted before you receive anything.</li><li style="margin:5px 0">You receive a settlement statement itemizing every deduction; review it carefully before signing.</li><li style="margin:5px 0">Structured settlements pay over time; lump sums pay once, choosing wrong can cost you significantly.</li><li style="margin:5px 0">Signing a release triggers the payment clock, but "signed" and "funded" are not the same day.</li></ul></div>
-
 
 ## The Moment You Sign Is Not the Moment You Get Paid
 
@@ -46,8 +44,6 @@ This is the part nobody expects and then gets annoyed by. Your attorney is legal
 ## Where the Money Goes Before It Reaches You
 
 > **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Think of your gross settlement as a pie. Several people have slices already spoken for before you eat.
 
@@ -88,10 +84,6 @@ Don't rush this. I made the mistake of skimming one myself years ago during a he
 
 Once you sign the disbursement statement, your attorney will cut you a check or initiate a wire transfer. As of August 2026, most larger settlements are being paid by wire because it's faster and traceable, but some offices still mail checks. Ask which method your attorney uses so you're not watching for the wrong thing.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical time from settlement agreement to client payment (in days)</div><div class="sc-row"><span class="sc-label">Simple auto claim, fast insurer</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">18 days</span></div><div class="sc-row"><span class="sc-label">Moderate injury, lien resolution needed</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">45 days</span></div><div class="sc-row"><span class="sc-label">Complex case, multiple liens</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">90 days</span></div><div class="sc-row"><span class="sc-label">Minor's settlement, court approval required</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">120 days</span></div><div class="sc-src">Source: Industry estimates based on state practices and case complexity, 2026</div></div>
-
-
 ## A Few Real Scenarios
 
 **Simple rear-end collision, no litigation** → Attorney negotiates $42,500 settlement, client signs release, insurer funds in 17 days, health insurer lien of $3,200 negotiated down to $1,900, attorney fee 33% ($14,025), costs $2,100 → **Client receives approximately $24,475** about five weeks after signing.
@@ -108,7 +100,6 @@ Once you sign the disbursement statement, your attorney will cut you a check or 
 - American Bar Association Model Rules of Professional Conduct, Rule 1.15: Governs attorney trust accounts and client fund handling requirements
 
 ---
-
 
 *Photo: [https://kaboompics.com/](https://www.pexels.com/@karola-g) via Pexels*
 

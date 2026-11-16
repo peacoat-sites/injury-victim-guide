@@ -41,8 +41,6 @@ There's also the disc issue, which is the one I wish more people understood upfr
 
 > **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's something I got wrong for years when I was adjusting claims: I treated a delay in symptoms as a red flag suggesting the injury wasn't real or wasn't related to the accident. I wasn't alone. That was standard adjuster training. It's medically wrong.
 
 When you show up at a spine specialist's office in week four complaining of new radiating pain down your left leg, that symptom timeline actually tells the doctor something specific. It suggests a disc that was injured during the crash has progressed to the point of nerve compression. The delay isn't suspicious, it's diagnostic.
@@ -72,10 +70,6 @@ What "continuous care" means practically: don't skip appointments because you ha
 If you want to build a solid record, a physical pain journal is one of the best low-tech tools available. Something like this [Daily Pain Journal on Amazon](https://www.amazon.com/s?k=pain+journal+diary) (the site may earn a small commission) gives you structured space to log intensity, activities, sleep disruption, and emotional impact. Those specific details matter more than most people realize when a claim goes to negotiation or litigation.
 
 ## What Back Injury Looks Like Across the Timeline
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical symptom onset by injury type (days post-accident)</div><div class="sc-row"><span class="sc-label">Muscle strain</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">1 days</span></div><div class="sc-row"><span class="sc-label">Ligament sprain</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">2 days</span></div><div class="sc-row"><span class="sc-label">Disc inflammation</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">4 days</span></div><div class="sc-row"><span class="sc-label">Disc herniation symptoms</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">14 days</span></div><div class="sc-row"><span class="sc-label">Nerve compression signs</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">21 days</span></div><div class="sc-src">Source: Clinical experience + Spine (2021) cohort data</div></div>
-
 
 | Injury Type | Typical Symptom Onset | Common Symptoms | Typical Imaging Needed |
 |---|---|---|---|
@@ -123,7 +117,6 @@ One more thing: the [CDC's injury data](https://www.cdc.gov/injury/wisqars/) con
 - *Pain Medicine* (2022): "Delayed presentation of lumbar radiculopathy following low-velocity motor vehicle collisions" ,  documented the common 2-6 week lag between crash and nerve compression symptoms.
 
 ---
-
 
 ---
 

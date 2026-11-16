@@ -31,17 +31,11 @@ The rest? Most articles skip it entirely. Let me fill in the gaps.
 
 I spent 12 years on the adjuster side of this equation, which means I watched a lot of injured people make the same four or five mistakes in the first 72 hours after a crash, mistakes that cost them real money later. Not because they were careless. Because nobody told them what the [insurance company](/insurance-company-delay-tactics-injury-claim/) was actually looking for, and what their own policy quietly covered.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">1 in 8 U.S. drivers is uninsured; your own UM/UIM coverage is your primary financial shield.</li><li style="margin:5px 0">Call police even for minor crashes, an official report is often required to trigger UM claims.</li><li style="margin:5px 0">Document everything at the scene: photos, witness names, the other driver's plate and face.</li><li style="margin:5px 0">UM/UIM claims must typically be filed within 30 days; missing that window can void coverage entirely.</li><li style="margin:5px 0">An uninsured driver can still be sued personally, but collecting is a separate, harder problem.</li></ul></div>
-
 
 ## The Number That Should Scare You a Little
 
 The IRC puts the national uninsured driver rate at around 14% as of this year, but that average conceals wild variation by state. In Mississippi, roughly 1 in 4 drivers has no coverage. Florida sits near 20%. If you're in California, Oklahoma, or Tennessee, you're not far behind.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated uninsured driver rate by state (%)</div><div class="sc-row"><span class="sc-label">Mississippi</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">29%</span></div><div class="sc-row"><span class="sc-label">Michigan</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">25%</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">20%</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">17%</span></div><div class="sc-row"><span class="sc-label">Tennessee</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">16%</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">9%</span></div><div class="sc-src">Source: Insurance Research Council, 2026 estimates</div></div>
-
 
 What this means practically: the lower your state's rate, the less likely you'll ever need this information. But if you live in the Sun Belt or the South, this isn't a remote contingency. It's a legitimate weekly risk.
 
@@ -50,8 +44,6 @@ The CDC's injury data reinforces the stakes: motor vehicle crashes are among the
 ## What to Do in the First 30 Minutes
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where people lose their cases before they even know they have one.
 
@@ -132,7 +124,6 @@ The American Bar Association's public resources on personal injury rights are wo
 - Insurance Research Council (2023): "Uninsured Motorists" report, foundation for 1-in-8 national statistic and state-level variance data
 
 ---
-
 
 *Photo: [Ulrick Trappschuh](https://www.pexels.com/@ulrick-t) via Pexels*
 

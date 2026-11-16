@@ -41,17 +41,11 @@ What surprised me, even after years in the industry, was how often cyclists leav
 
 The severity and permanence of your injuries will dominate the settlement math. Soft tissue injuries (sprains, road rash, minor fractures) typically settle in a lower range. Traumatic brain injuries, spinal damage, internal injuries, or anything requiring surgery or long-term rehabilitation pull numbers into territory that's genuinely life-changing. I don't want to quote you ranges here because they vary so much by state, by specific injury, and by insurance policy limits, but the [Insurance Information Institute](https://www.iii.org/) publishes data on average liability claim payouts that give you at least a baseline orientation.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg settlement range by injury severity (bicycle accidents)</div><div class="sc-row"><span class="sc-label">Soft tissue/road rash</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$12,000</span></div><div class="sc-row"><span class="sc-label">Broken bones (single)</span><span class="sc-track"><span class="sc-bar" style="width:13%"></span></span><span class="sc-val">$38,000</span></div><div class="sc-row"><span class="sc-label">Multiple fractures</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">$85,000</span></div><div class="sc-row"><span class="sc-label">TBI/spinal injury</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$285,000</span></div><div class="sc-src">Source: Industry claim data estimates, 2025-2026</div></div>
-
-
 These are industry estimates, not guarantees. Your actual outcome depends on policy limits, comparative fault rules in your state, and the quality of your documentation. Current as of July 2026.
 
 ## The Documentation Problem Nobody Warns You About
 
 > **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the part that costs people real money, and it usually happens in the first 72 hours after the crash when you're still in shock, possibly in the hospital, and the last thing on your mind is building a paper record.
 
@@ -110,7 +104,6 @@ What surprises people: consultations are almost universally free. You have nothi
 - [Bicycle Coalition of Greater Philadelphia](https://bicyclecoalition.org/): Rider rights resources and documentation guidance for crash victims
 
 ---
-
 
 ---
 
