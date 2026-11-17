@@ -23,7 +23,7 @@ faqs:
    a: "In most states, yes. The majority of states use some form of comparative negligence, which reduces your recovery by your percentage of fault rather than eliminating it. A few states still use contributory negligence, where any fault on your part bars recovery entirely. Your state's rule matters enormously here, which is one more reason to get a local attorney involved early."
  - q: "My injuries didn't show up right away. Is it too late to file a claim?"
    a: "No, and this is actually common after motorcycle accidents. Adrenaline masks pain. Soft tissue injuries swell over 24 to 48 hours. TBI symptoms can emerge over days or weeks. As long as you're within your state's statute of limitations, delayed symptom onset doesn't disqualify your claim. Document when symptoms appeared and connect them to your treating physician as early as possible."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about motorcycle accident claims spend three paragraphs explaining what a [personal injury lawsuit](/pedestrian-accident-injury-claim/) is, then bury the one thing you actually need to know: insurers treat motorcyclists differently, and almost none of the general "how to file a claim" advice accounts for that.

@@ -1,6 +1,7 @@
 ---
 title: "Workers Comp Settlements: What You Can Actually Expect"
 date: 2026-07-24T12:46:01.088063+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how workers compensation settlements are calculated, what factors affect your payout, and how to maximize your claim amount."
 image: "/img/heroes/955389.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "12 Key Facts About Construction Accident Injury Lawsuits"
 date: 2026-07-10T13:20:40.249891+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Injured on a construction site? Learn how 66% of cases settle, what $58.6M verdicts reveal, and how to protect your rights after an accident."
 image: "/img/heroes/12008095.jpg"

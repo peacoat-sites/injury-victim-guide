@@ -23,7 +23,7 @@ faqs:
     a: "It complicates things, but it doesn't eliminate your claim. Under the 'eggshell plaintiff' doctrine, a defendant takes you as they find you. If a prior back injury was aggravated by the accident, you can still recover for the aggravation. Adjusters will fight this hard. Strong medical documentation showing the difference between your baseline and your post-accident condition is how you counter it."
   - q: "What if my injuries are mostly emotional, not physical?"
     a: "Pure emotional distress claims without accompanying physical injury are harder to win and generally produce lower settlements. Documented psychiatric or psychological treatment helps significantly. States vary on how they treat stand-alone emotional distress claims, so the law in your jurisdiction matters a lot here."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about pain and suffering calculations lead with the multiplier method, explain it badly, and leave you no better off than when you started. Let me fix that.

@@ -1,6 +1,7 @@
 ---
 title: "Camp Lejeune Claims: What Victims Need to Know Right Now"
 date: 2026-08-05T13:03:35.637525+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Camp Lejeune water contamination victims can file claims for health issues. Learn eligibility requirements, deadlines, and how to pursue compensation now."
 image: "/img/heroes/33972284.jpg"

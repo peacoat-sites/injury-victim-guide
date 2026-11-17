@@ -1,6 +1,7 @@
 ---
 title: "Bicycle Accident Injury Settlements: What You Can Claim"
 date: 2026-07-15T12:43:20.114456+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how bicycle accident injury settlements work, what damages you can recover, and how to value your claim after a bike crash."
 image: "/img/heroes/14300718.jpg"

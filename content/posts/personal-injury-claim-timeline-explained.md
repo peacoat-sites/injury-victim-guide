@@ -1,6 +1,7 @@
 ---
 title: "Personal Injury Claims: Why 18 Months Is the Average Timeline"
 date: 2026-08-06T13:03:58.859795+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how long personal injury claims take from filing to settlement. Learn key phases and factors affecting your claim timeline."
 image: "/img/heroes/5673465.jpg"

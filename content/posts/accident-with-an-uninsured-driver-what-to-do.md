@@ -1,6 +1,7 @@
 ---
 title: "Hit by Uninsured Driver? 12 Steps to Protect Yourself"
 date: 2026-07-17T12:23:49.534491+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Involved in an accident with an uninsured driver? Learn the essential steps to document the incident, protect your rights, and recover damages."
 image: "/img/heroes/15534817.jpg"

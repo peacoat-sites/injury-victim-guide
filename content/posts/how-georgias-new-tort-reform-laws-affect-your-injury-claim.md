@@ -12,7 +12,7 @@ author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
 slug: "how-georgias-new-tort-reform-laws-affect-your-injury-claim"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you filed a personal injury claim in Georgia before April 2025, you were playing by one set of rules. If you're filing one now, the game has changed significantly, and most people have no idea. Governor Brian Kemp signed SB 68 and SB 69 into law on April 21, 2025, calling it the most comprehensive overhaul of Georgia's tort system in nearly two decades. By January 2026, both laws were fully operational. The injury victims filing claims right now, in the middle of 2026, are the first wave of real people experiencing these changes in actual courtrooms. What I've found after digging into this is that the impacts are more layered than either side is letting on.

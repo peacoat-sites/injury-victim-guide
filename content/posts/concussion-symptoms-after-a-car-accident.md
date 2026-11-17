@@ -1,6 +1,7 @@
 ---
 title: "50% of Car Accident Victims Experience Concussion Symptoms"
 date: 2026-07-14T12:43:12.257548+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about concussion symptoms after car accidents, including delayed signs, recovery timelines, and when to seek medical attention for head injuries."
 image: "/img/heroes/35784044.jpg"

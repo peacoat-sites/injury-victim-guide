@@ -1,6 +1,7 @@
 ---
 title: "Georgia Tort Reform Is Now in Full Effect: What Injury Victims Must Know"
 date: 2026-07-18T12:07:33.405498+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Georgia Tort Reform Is Now in Full Effect: What Injury Victims Must Know. Learn how recent changes impact your legal rights and compensation options."
 image: "/img/heroes/20519877.jpg"

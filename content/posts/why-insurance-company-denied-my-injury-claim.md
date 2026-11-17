@@ -23,7 +23,7 @@ faqs:
    a: "In my experience watching this from both sides: yes, meaningfully so. Insurers respond differently to represented claimants. Attorneys who handle personal injury cases generally know which arguments an insurer is likely to abandon and which ones they'll fight, and they can spot procedural and coverage issues that most people would miss entirely."
  - q: "What if the denial was based on my own insurance policy, not the other driver's?"
    a: "This is common in situations involving uninsured motorist coverage, underinsured motorist coverage, or med-pay claims on your own policy. The appeals process is similar, but the legal relationship is different since you're dealing with your own insurer. In some ways that creates stronger obligations on the insurer's part, and it also means bad faith claims can be easier to establish."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your claim just got denied. You're holding a letter full of policy language that somehow manages to say a lot without telling you anything useful, and you're probably feeling some combination of confused, angry, and a little defeated. That's a completely normal reaction.

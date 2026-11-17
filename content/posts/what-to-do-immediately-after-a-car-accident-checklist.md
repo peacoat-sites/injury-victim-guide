@@ -1,6 +1,7 @@
 ---
 title: "38% of Drivers Miss Critical Steps After Car Accidents"
 date: 2026-07-13T13:32:59.063673+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the essential checklist to follow immediately after a car accident, from calling 911 to documenting evidence for insurance claims."
 image: "/img/heroes/29870958.jpg"

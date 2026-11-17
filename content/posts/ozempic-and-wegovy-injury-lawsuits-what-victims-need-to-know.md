@@ -12,7 +12,7 @@ author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
 slug: "ozempic-and-wegovy-injury-lawsuits-what-victims-need-to-know"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: you started taking Ozempic or Wegovy for type 2 diabetes or weight loss, maybe sometime in 2022 or 2023 when these drugs were everywhere. Then something went wrong. Your stomach stopped working the way it should, leaving you hospitalized with severe nausea and vomiting that doctors eventually diagnosed as gastroparesis. Or you woke up one morning with blurred vision in one eye, and after a terrifying round of tests, learned you'd developed a condition called NAION, a form of optic nerve damage that can cause permanent vision loss. You reported it to your doctor. You maybe even reported it to Novo Nordisk. And then you waited, wondering if anyone else was experiencing this, wondering if you had any recourse at all.
 

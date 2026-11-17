@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You went to the doctor, you missed work, and your car is finally fixed. On paper, those losses are measurable. But here you are, three weeks later, still waking up at 3 a.m. because your neck aches, still anxious every time someone cuts you off on the highway, still explaining to your family why you're just not yourself. That part, the part that doesn't show up on a medical bill, is what a pain and suffering claim is designed to address. And if you've never heard of it before this moment, you're not alone. Most people don't know this category of compensation even exists until they're already in the middle of a situation where they desperately need it.
 

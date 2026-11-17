@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in the backseat of an Uber, heading home from a late dinner. The driver runs a yellow light, gets clipped by a pickup truck, and suddenly you're being helped out of the car by a stranger while your shoulder throbs and your phone screen is cracked. In the chaos, someone asks if you're okay and you say "I think so" because that's what people say. Two days later, the shoulder is worse. You file a claim. And then you discover that getting compensated for a rideshare accident is nothing like filing a claim after a regular car crash.
 

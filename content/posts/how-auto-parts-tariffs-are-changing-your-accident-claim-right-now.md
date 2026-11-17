@@ -12,7 +12,7 @@ author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 slug: "how-auto-parts-tariffs-are-changing-your-accident-claim-right-now"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Picture this: you're sitting across from an insurance adjuster in July 2026, three weeks after your accident, and she slides a settlement offer across the table for your totaled Hyundai. The number feels wrong. You push back. She shrugs and says repair costs "just are what they are right now." What she doesn't tell you is that the same economic forces inflating that repair estimate are also giving insurers every incentive to move fast, pay low, and close your claim before you realize what's actually happening.

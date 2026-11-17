@@ -23,7 +23,7 @@ faqs:
    a: "Because the attorney's workload increases dramatically once litigation begins: discovery, depositions, motions, potentially trial prep. The higher rate after filing compensates for that additional risk and labor. It's standard, but it's a strong incentive for both sides to settle before that milestone."
  - q: "Are personal injury lawyer fees regulated by the state?"
    a: "In some states, yes. New York, Florida, California, and New Jersey, among others, have statutory rules or caps for certain case types, particularly medical malpractice. Always ask your attorney whether state regulations apply to your specific case type."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about personal injury lawyer fees bury the only number you actually need: **33%**. They spend 800 words circling it, then hedge so hard you leave knowing nothing useful. Let's skip that.

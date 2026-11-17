@@ -1,6 +1,7 @@
 ---
 title: "No-Fault Car Insurance States: What You Need To Know"
 date: 2026-07-16T12:54:42.374984+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which states require no-fault insurance, how claims work, and what coverage protects you in these jurisdictions."
 image: "/img/heroes/968881.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Dog Bite Injury Claims: What $64,555 Really Covers"
 date: 2026-07-19T12:07:23.069025+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the dog bite injury claim process, from incident documentation to settlement. Learn what damages are typically covered and how insurers calculate pay"
 image: "/img/heroes/5721555.jpg"

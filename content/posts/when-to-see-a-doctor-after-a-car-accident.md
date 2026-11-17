@@ -1,6 +1,7 @@
 ---
 title: "40% of Car Accident Injuries Appear Later: When to See a Doctor"
 date: 2026-07-20T13:20:15.290617+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn when to seek medical care after a car accident. Many injuries appear within 24-72 hours. Know the warning signs that require immediate attention."
 image: "/img/heroes/5458450.jpg"

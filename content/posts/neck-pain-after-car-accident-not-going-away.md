@@ -1,6 +1,7 @@
 ---
 title: "Persistent Neck Pain After Car Accident: When to Seek Help"
 date: 2026-07-19T12:09:39.800233+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Neck pain lingering weeks after a car accident? Learn why it happens, red flag symptoms, and treatment options to finally get relief."
 image: "/img/heroes/4506165.jpg"

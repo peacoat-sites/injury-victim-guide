@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Nobody can tell you what your traumatic brain injury case is worth. Not me, not a personal injury attorney you found at 2 a.m., not a settlement calculator you stumbled across online. What I *can* tell you is that most of what you'll read about "average TBI settlements" is either dangerously misleading or so vague it's useless, and after 12 years on the other side of these claims, I think you deserve a more honest picture.
 

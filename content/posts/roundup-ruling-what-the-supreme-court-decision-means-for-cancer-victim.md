@@ -1,6 +1,7 @@
 ---
 title: "Roundup Ruling: What the Supreme Court Decision Means for Cancer Victims"
 date: 2026-07-11T12:05:57.990578+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what the Supreme Court's landmark Roundup ruling means for cancer victims, Bayer's liability, and the future of glyphosate litigation across the United"
 image: "/img/heroes/32276528.jpg"

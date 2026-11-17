@@ -1,6 +1,7 @@
 ---
 title: "Headaches After a Car Accident: 5 Warning Signs to Watch"
 date: 2026-07-12T12:08:41.161428+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Not all post-accident headaches are minor. Learn which symptoms signal a serious injury and when you need emergency medical care right away."
 image: "/img/heroes/7298469.jpg"

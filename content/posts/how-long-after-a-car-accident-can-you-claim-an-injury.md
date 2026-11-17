@@ -1,6 +1,7 @@
 ---
 title: "Car Accident Injury Claims: How Long Do You Have?"
 date: 2026-07-22T12:49:32.817672+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the deadline for filing injury claims after a car accident, state limits, and why acting quickly protects your case."
 image: "/img/heroes/35784044.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "For the insurance claim itself, report it promptly, usually within days. For a personal injury lawsuit, each state has a 'statute of limitations,' which is the legal deadline to file. It's commonly two to three years from the accident date, but it varies by state and sometimes by who the defendant is. Don't assume you have unlimited time."
  - q: "Should I post about the accident on social media?"
    a: "No. Not even a vague 'had a rough day, got rear-ended' post. Insurance adjusters and defense attorneys do look at social media, and anything you post, even something completely innocent, can be taken out of context or used to suggest your injuries aren't serious. Keep it offline until everything is fully resolved."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Someone rear-ends you at a stoplight. You weren't doing anything wrong. And somehow, within 48 hours, you're drowning in phone calls from adjusters, confused about your own insurance, and second-guessing whether your neck pain is serious or just stress. This scenario often spirals into financial harm for people who did nothing wrong, and it happens because the rules aren't always clear upfront.
 

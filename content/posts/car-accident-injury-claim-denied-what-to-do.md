@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You filed the claim. You waited. You did everything they told you to do. And then the letter arrived: *denied*. A denial letter is not the end of the road. Not even close. Insurance companies deny valid claims every day, sometimes because of a genuine coverage issue, but often because a denial costs them nothing and betting that you'll give up costs them very little. Understanding why your claim was denied, and what you can actually do about it, changes everything.
 

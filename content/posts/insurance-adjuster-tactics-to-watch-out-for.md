@@ -23,7 +23,7 @@ faqs:
    a: "Yes, genuinely. Even posts that seem unrelated to your injuries can be taken out of context. Adjusters and defense attorneys review public social media as a standard part of claim investigation. Set your accounts to private, and be cautious about posting anything depicting physical activity until your claim is fully resolved."
  - q: "When should I hire a personal injury attorney?"
    a: "The more serious your injury, the more you need one. If you've been hospitalized, if you're missing significant work, if there's any dispute about fault, or if the first settlement offer seems low relative to what you've been through, a free consultation costs you nothing and could change the outcome significantly. Most personal injury attorneys work on contingency, meaning they only get paid if you do."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people filing an injury claim are already losing before the adjuster says hello.
 

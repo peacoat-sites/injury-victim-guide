@@ -1,6 +1,7 @@
 ---
 title: "Dog Bite Laws by State: What You Need to Know"
 date: 2026-08-07T11:57:39.169318+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand dog bite liability laws, one-bite rules, and strict liability laws that vary by state. Know your rights and responsibilities."
 image: "/img/heroes/4085452.jpg"

@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Three months. That's what the adjuster told Maria when she called to check on her rear-end collision claim. Three months turned into eleven. By the time her case settled, she'd missed two car payments, borrowed money from her mother, and had a collection notice from her physical therapist sitting on the kitchen table.
 

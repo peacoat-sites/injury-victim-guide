@@ -1,6 +1,7 @@
 ---
 title: "Bodily Injury vs Personal Injury Claims: Key Legal Differences"
 date: 2026-07-29T13:07:45.130709+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how bodily injury and personal injury claims differ in scope, coverage, and legal implications. Learn which applies to your situation."
 image: "/img/heroes/9486084.jpg"

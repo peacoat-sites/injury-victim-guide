@@ -1,6 +1,7 @@
 ---
 title: "Social Media Addiction as Personal Injury: What the 2026 Verdicts Mean for Families"
 date: 2026-07-09T14:02:18.841913+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how 2026 social media addiction verdicts are reshaping personal injury law and what these landmark rulings mean for families seeking justice and compen"
 image: "/img/heroes/159395.jpg"

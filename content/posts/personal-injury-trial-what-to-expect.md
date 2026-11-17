@@ -1,6 +1,7 @@
 ---
 title: "What to Expect: 12-36 Months in a Personal Injury Trial"
 date: 2026-08-09T11:45:38.887592+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the personal injury trial timeline, from filing to verdict. Learn what happens at each stage and why cases take months or years to resolve."
 image: "/img/heroes/34816941.jpg"

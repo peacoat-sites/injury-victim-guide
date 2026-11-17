@@ -23,7 +23,7 @@ faqs:
    a: "Most physicians carry between $1 million and $5 million in coverage, and large verdicts can exceed policy limits. In those situations, you may be able to pursue the physician's personal assets (difficult in practice) or argue bad faith against the insurer for failing to settle within policy limits when it had the chance. This is where an experienced attorney becomes non-negotiable."
  - q: "Is a settlement taxable?"
    a: "Generally, compensation for physical injury is not subject to federal income tax under current IRS rules, but punitive damages (awarded to punish particularly egregious conduct) are taxable, and interest on a settlement can be taxable. Tax situations are individual, and it's worth asking a CPA or tax attorney about your specific case."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people assume a "good" medical malpractice settlement is whatever their lawyer tells them is fair. After 12 years on the insurance side, watching adjusters work cases, I can tell you that assumption costs victims real money.

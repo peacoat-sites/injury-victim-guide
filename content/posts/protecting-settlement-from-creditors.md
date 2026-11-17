@@ -1,6 +1,7 @@
 ---
 title: "42 Ways to Protect Your Settlement From Creditors"
 date: 2026-07-31T13:06:54.895269+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn proven strategies to shield settlement money from creditor claims. Discover legal protection methods that preserve your financial recovery."
 image: "/img/heroes/7876092.jpg"

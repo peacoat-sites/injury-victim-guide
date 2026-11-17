@@ -1,6 +1,7 @@
 ---
 title: "Can You Sue Your Employer Instead of Filing Workers Comp"
 date: 2026-07-10T13:22:38.118327+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Workers comp isn't always your only option. Learn when you can sue your employer directly for a workplace injury and what it takes to win."
 image: "/img/heroes/8112105.jpg"

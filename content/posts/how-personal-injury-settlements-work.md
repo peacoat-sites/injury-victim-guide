@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You rear-end someone at a stoplight, or a wet floor in a grocery store sends you to the ER, and suddenly you're staring at medical bills, a stack of insurance paperwork, and a phone that won't stop ringing with calls from adjusters. Most people have no idea what happens next. According to [the CDC's injury statistics](https://www.cdc.gov/injury/wisqars/), unintentional injuries are the leading cause of death for Americans aged 1 to 44, and millions more are injured seriously enough to miss work, rack up medical debt, and need long-term care. The majority of those people will eventually deal with a personal injury settlement, yet almost no one understands how that process actually works until they're already in the middle of it. Let me walk you through it.
 

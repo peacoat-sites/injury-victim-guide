@@ -1,6 +1,7 @@
 ---
 title: "Suing Your Rideshare: What the Uber MDL Verdicts Mean for Passengers"
 date: 2026-07-12T12:11:11.045648+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how recent Uber MDL verdicts impact passenger rights in sexual assault cases and what legal options you may have if harmed during a rideshare trip."
 image: "/img/heroes/37112131.jpg"

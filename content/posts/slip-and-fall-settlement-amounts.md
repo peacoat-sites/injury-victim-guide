@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 When a broken drainage pipe causes a slip and fall, you might find yourself soaking wet with a throbbing ankle and an incident report form in hand, already wondering what your claim is worth. Settlement amounts vary widely, and understanding why matters for getting fair compensation. The number that shows up on a settlement check varies wildly, and understanding why is the most useful thing you can do right now.
 

@@ -1,6 +1,7 @@
 ---
 title: "Why Insurance Adjusters Lowball Settlement Offers"
 date: 2026-07-21T12:44:17.818082+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the tactics insurers use to minimize payouts and learn how to recognize and counter lowball settlement offers on your claim."
 image: "/img/heroes/6326307.jpg"

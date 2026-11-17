@@ -12,7 +12,7 @@ author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 slug: "how-insurers-use-hidden-ai-to-lowball-your-claim-in-2026"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your insurance claim arrives at the adjuster's desk, but the adjuster isn't the first reviewer. A machine is. Before a human ever sees your file, an AI system has already assigned a settlement score, flagged you as high or low priority, and fed a low opening offer into the system for your adjuster to anchor around. This isn't theoretical anymore. It's happening now at three-quarters of major insurers, and most injured people have no idea it's occurring.

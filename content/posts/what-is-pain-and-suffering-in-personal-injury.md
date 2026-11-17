@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're rear-ended at a red light. The other driver's insurance pays your $4,200 repair bill and your $1,800 in medical bills without much argument. Case closed. Except you're waking up at 3 a.m. with neck pain. You've stopped going to your Saturday morning basketball games. Every time someone rides your bumper on the highway, you feel a spike of anxiety. None of that appears on any receipt, but the law says it's worth something real. That's pain and suffering, and most injury victims either don't know they can claim it or they drastically underestimate what it's actually worth.
 

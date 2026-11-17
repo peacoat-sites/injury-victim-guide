@@ -23,7 +23,7 @@ author: "Jennifer Harris"
 author_slug: "jennifer-harris"
 author_title: "Former Claims Adjuster & Legal Researcher"
 author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You get rear-ended at a red light. The other driver gets out, looks at the damage, and then says three words that make your stomach drop: "I don't have insurance." You're hurt, your car is damaged, and suddenly everything you thought you knew about how this works goes out the window. It's a nightmare scenario, but it happens more often than most people realize. According to the Insurance Research Council, roughly 1 in 8 drivers on American roads is uninsured. In some states, that number climbs closer to 1 in 4.
 

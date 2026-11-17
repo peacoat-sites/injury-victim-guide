@@ -1,6 +1,7 @@
 ---
 title: "Social Media Addiction Verdicts: What Victims Need to Know Now"
 date: 2026-07-17T12:21:40.620587+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Social media addiction lawsuits are advancing. Learn what victims need to know about recent verdicts, settlements, and legal options available to you now."
 image: "/img/heroes/6256022.jpg"

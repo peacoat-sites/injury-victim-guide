@@ -1,6 +1,7 @@
 ---
 title: "Back Pain After a Car Accident: Why It Starts Later"
 date: 2026-07-13T13:35:35.006724+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand why back pain develops days or weeks after a car accident and what you should do about delayed injuries."
 image: "/img/heroes/7298634.jpg"

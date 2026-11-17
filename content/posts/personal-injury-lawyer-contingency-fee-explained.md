@@ -1,6 +1,7 @@
 ---
 title: "33% Contingency Fee: What You Actually Keep After Settlement"
 date: 2026-07-11T12:08:39.987078+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "A $300,000 settlement doesn't mean $300,000 in your pocket. Learn exactly how contingency fees work and what you'll take home."
 image: "/img/heroes/8112166.jpg"

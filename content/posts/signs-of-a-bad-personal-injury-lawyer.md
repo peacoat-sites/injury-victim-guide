@@ -1,6 +1,7 @@
 ---
 title: "42% of Injury Claims Fail: Red Flags in Your Lawyer"
 date: 2026-08-15T11:34:30.720606+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover warning signs of incompetent personal injury lawyers. Learn how to spot underperforming representation before it costs you money."
 image: "/img/heroes/8382255.jpg"

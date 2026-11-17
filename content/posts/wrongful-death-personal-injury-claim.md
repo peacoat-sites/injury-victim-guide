@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Someone you loved died because of another person's negligence. You're probably exhausted, you might be deep in grief, and somewhere in the middle of all that, someone told you that you might have a "wrongful death claim." And now you're sitting here trying to figure out what that even means while also trying to hold everything else together.
 

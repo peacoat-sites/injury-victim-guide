@@ -1,6 +1,7 @@
 ---
 title: "Workers Comp Doctor vs Personal Doctor: 12 Key Differences"
 date: 2026-08-12T11:59:12.693639+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the 12 critical differences between workers comp doctors and personal physicians, including limitations, coverage, and your rights."
 image: "/img/heroes/5998452.jpg"

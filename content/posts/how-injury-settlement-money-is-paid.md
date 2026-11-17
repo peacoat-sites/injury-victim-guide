@@ -1,6 +1,7 @@
 ---
 title: "How Injury Settlement Money Gets Paid: Payment Methods Explained"
 date: 2026-08-13T11:59:47.478898+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the different ways injury settlement funds are distributed, from lump sums to structured payments, and what to expect after settlement approval."
 image: "/img/heroes/4968396.jpg"

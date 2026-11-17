@@ -12,7 +12,7 @@ author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
 slug: "when-an-algorithm-decides-your-injury-claim-payout"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've recently filed an injury claim and gotten a settlement offer that felt insultingly low, you might be wondering whether a human being ever actually looked at your case. Increasingly, the answer is no. An algorithm did. And as of March 2026, state regulators are finally starting to ask hard questions about what that means for you.
 

@@ -1,6 +1,7 @@
 ---
 title: "Spinal Cord Injury Settlements: What Victims Actually Receive"
 date: 2026-07-22T12:47:20.851454+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what spinal cord injury settlements typically award. Real case outcomes and compensation factors explained."
 image: "/img/heroes/7289670.jpg"

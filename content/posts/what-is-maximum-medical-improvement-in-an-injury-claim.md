@@ -1,6 +1,7 @@
 ---
 title: "Maximum Medical Improvement: 12 Months to Know Your Claim"
 date: 2026-08-03T13:49:08.744761+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what maximum medical improvement means for injury claims, how it affects benefits, and timelines for reaching MMI status."
 image: "/img/heroes/7659869.jpg"

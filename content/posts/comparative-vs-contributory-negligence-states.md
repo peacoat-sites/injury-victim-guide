@@ -1,6 +1,7 @@
 ---
 title: "Comparative vs Contributory Negligence: State Laws Explained"
 date: 2026-08-01T12:13:32.058956+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how comparative and contributory negligence rules differ by state and affect your personal injury claim outcomes."
 image: "/img/heroes/6077356.jpg"

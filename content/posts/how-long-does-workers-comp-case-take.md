@@ -23,7 +23,7 @@ faqs:
     a: "To a degree. Reporting promptly, attending all medical appointments, keeping detailed records, and responding quickly to any insurer requests all help. What you can't control is the insurer's timeline, the court's docket, or how long your body takes to heal. Focus on what's in your hands."
   - q: "At what point is a workers comp case considered 'closed'?"
     a: "A case is typically closed either when you reach MMI and accept a settlement, or when a judge issues a final order. In some states, accepted claims without a formal settlement can stay technically 'open' for years while future medical benefits remain available. This is actually worth understanding before you sign anything, because 'closing' a case in exchange for a lump sum may cut off those ongoing benefits."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Cases with straightforward facts and clear liability can still languish for years when disputes arise over permanent impairment ratings. What should be straightforward often becomes protracted.

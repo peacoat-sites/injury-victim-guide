@@ -1,6 +1,7 @@
 ---
 title: "Whiplash Recovery Timeline: How Long Healing Takes"
 date: 2026-07-18T12:05:06.814097+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn realistic whiplash recovery timelines, from initial injury through full healing. Understand what affects recovery speed and when to seek help."
 image: "/img/heroes/4506214.jpg"

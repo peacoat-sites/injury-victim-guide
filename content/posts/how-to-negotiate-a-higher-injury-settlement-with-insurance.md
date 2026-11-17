@@ -23,7 +23,7 @@ faqs:
    a: "No. A high but documented demand is standard negotiating practice. What can hurt your case is an undocumented or wildly unsupported demand that makes you look uninformed. As long as you can show the math behind your number, opening high gives you room to negotiate to a fair outcome."
  - q: "What is a 'bad faith' insurance claim and does it apply to me?"
    a: "Bad faith is when an insurer unreasonably denies or delays a claim, or offers a settlement they know is far below fair value without justification. It's a legitimate legal theory, but it's fact-specific and typically requires an attorney to pursue. If an insurer is ignoring clear liability, stonewalling documented claims, or refusing to explain their low offer in writing, it's worth raising the question with an attorney."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most advice about negotiating injury settlements boils down to "be persistent and document everything." That's not wrong, exactly. It's just about as useful as telling someone to "drive carefully" before a road trip. The real game is understanding how adjusters are trained to think, because once you see their playbook, countering it isn't that hard.

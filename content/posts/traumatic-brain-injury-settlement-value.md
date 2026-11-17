@@ -25,7 +25,7 @@ author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
 
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in a neurologist's office six weeks after a car accident, and the doctor is explaining that your headaches, memory gaps, and sudden irritability aren't "just stress." You have a traumatic brain injury. Meanwhile, the other driver's insurance company has already called twice, offering a settlement that sounds like a lot of money until you realize you may need ongoing care for years. That gap between what they're offering and what you actually need is exactly what this article is about.
 

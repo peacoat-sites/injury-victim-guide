@@ -1,6 +1,7 @@
 ---
 title: "24 Essential Photos to Strengthen Your Slip and Fall Claim"
 date: 2026-07-28T13:02:39.597651+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which 24 types of photos insurance adjusters need to see for slip and fall accident evidence. Documentation tips that support your case."
 image: "/img/heroes/8949852.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Comparative vs Contributory Negligence: Key Differences Explained"
 date: 2026-08-16T11:34:12.684921+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how comparative and contributory negligence affect your personal injury claim. Learn which rule applies in your state and how it impacts compensation"
 image: "/img/heroes/6077381.jpg"

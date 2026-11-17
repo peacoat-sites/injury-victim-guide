@@ -1,6 +1,7 @@
 ---
 title: "Release of Liability Forms in Injury Settlements"
 date: 2026-08-14T11:57:57.207511+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand what release of liability forms mean for your injury settlement, what you're signing away, and how they protect defendants."
 image: "/img/heroes/8730998.jpg"

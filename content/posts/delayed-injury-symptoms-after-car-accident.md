@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You walked away from the fender-bender feeling shaken but okay. The other driver exchanged insurance info, a police officer filed a report, and you told everyone on the scene that you were fine. Three days later you wake up and can't turn your head. By day five, you're having headaches so severe you're calling out of work. Sound familiar? I've sat across from dozens of people in this exact situation, and the first thing most of them say is: "I feel stupid. I told them I wasn't hurt." You're not stupid. You're human. And what happened to your body is backed by real biology.
 

@@ -12,7 +12,7 @@ author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
 slug: "when-ai-handles-your-injury-claim-your-new-rights-in-2026"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people filing an injury claim in 2026 have no idea they're being evaluated by an algorithm before a human ever reads their file. And insurance companies aren't exactly rushing to tell them. The shift toward algorithmic evaluation has been rapid, and regulatory response has begun to accelerate accordingly.
 

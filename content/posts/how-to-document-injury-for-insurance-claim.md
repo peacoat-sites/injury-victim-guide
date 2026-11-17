@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think heading to the hospital after an accident wraps things up. The insurance company collects the records. Doctors document what they see. The claim sorts itself out.
 

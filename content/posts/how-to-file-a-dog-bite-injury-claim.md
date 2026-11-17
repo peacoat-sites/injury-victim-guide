@@ -23,7 +23,7 @@ faqs:
     a: "No. The first offer is almost never the best offer. Insurers routinely open with a lowball figure to see if you'll take it. You have the right to counter, to request their reasoning in writing, and to let the negotiation run. If you've hired an attorney, this is their job."
   - q: "What if the bite happened on the dog owner's property while I was visiting?"
     a: "The same liability rules generally apply. Being a social guest doesn't forfeit your rights. The exception in some states is trespassers, though even trespassing doesn't automatically eliminate all liability in strict liability states. If you were invited, you're on solid ground."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about dog bite claims spend three paragraphs telling you dogs bite millions of people every year, then give you a generic checklist you could've found anywhere. Let me skip that and tell you what those articles consistently get wrong: the clock is already ticking, the insurance company already has a playbook, and the decisions you make in the first 72 hours matter more than anything you'll do later.

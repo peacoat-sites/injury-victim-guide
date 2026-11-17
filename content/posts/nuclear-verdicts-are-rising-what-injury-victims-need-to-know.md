@@ -1,6 +1,7 @@
 ---
 title: "Nuclear Verdicts Are Rising: What Injury Victims Need to Know"
 date: 2026-08-11T11:56:34.850454+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Nuclear Verdicts Are Rising: What Injury Victims Need to Know. Learn why jury awards are increasing, how they impact defendants, and your rights in litigation."
 image: "/img/heroes/37726687.jpg"

@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're 38, a plumber who's spent 15 years building a business. A distracted driver runs a red light and crushes your dominant hand. Surgery. Physical therapy. Six months later, your doctor says the words you've been dreading: permanent partial disability. You'll never grip a pipe wrench the same way. Your career as you knew it is over. The insurance adjuster calls with a settlement offer. How do you know if it's fair? How do you even know what "fair" looks like when this injury will affect you for the next 30 years? That's what this article answers.
 

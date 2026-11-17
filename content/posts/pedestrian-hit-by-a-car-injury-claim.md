@@ -1,6 +1,7 @@
 ---
 title: "Pedestrian Hit by Car: 40% Don't Know Their Claim Rights"
 date: 2026-07-25T12:10:39.213342+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what pedestrian injury claims typically cover, settlement ranges, and critical steps after being hit by a car."
 image: "/img/heroes/18880069.jpg"

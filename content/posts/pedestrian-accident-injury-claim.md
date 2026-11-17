@@ -23,7 +23,7 @@ author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 author_title: "Former Claims Adjuster & Patient Advocate"
 author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 For example, suppose you're hit by a driver while crossing legally at a marked crosswalk. The driver apologizes and suggests their insurance will cover everything. Three weeks later you have a fractured ankle, mounting medical bills, and an insurance adjuster offering $1,800 to sign away all your rights. This scenario plays out thousands of times every year.
 

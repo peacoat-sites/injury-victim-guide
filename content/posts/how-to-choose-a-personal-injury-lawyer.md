@@ -23,7 +23,7 @@ faqs:
     a: "Genuinely, it varies. Straightforward cases with clear liability and cooperative carriers can resolve in three to six months. Disputed cases, severe injuries, or uncooperative insurers commonly stretch 18 months to three years. Your attorney should give you a realistic range based on your specific facts, not a number designed to make you feel good about signing."
   - q: "Does it matter if my attorney is local?"
     a: "Often, yes. Local attorneys know the specific judges, typical jury pools, and local defense firms they'll be negotiating against. That familiarity has real value. It's not the only factor, but I'd be skeptical of any out-of-state attorney who can't explain specifically why their lack of local presence won't affect your case."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people spend more time researching a new refrigerator than they do choosing the lawyer who might be the single biggest factor in whether they recover $18,000 or $180,000 after a serious injury.

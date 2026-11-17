@@ -23,7 +23,7 @@ faqs:
    a: "As little as possible about fault. Stick to facts: 'I was turning left,' 'We collided,' 'Here's my contact info.' Don't say 'I didn't see them coming' or 'I probably should have waited.' Those statements will be used against you. If the other driver's insurance calls, you can politely say, 'I'm gathering information and will have a statement ready soon,' then take time to think and get advice before responding."
  - q: "What's the difference between a protected left turn and an unprotected one, and why does it matter?"
    a: "A protected left turn has a green left-turn arrow. You have the right-of-way; oncoming traffic has a red light and must stop. An unprotected left turn has a green light, but no arrow, you can turn, but you must yield to oncoming traffic with the green light. Protected turns almost always favor the left-turning driver in a collision. Unprotected turns usually put fault on the left-turning driver unless the other driver was speeding, running the light, or distracted."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 I spent twelve years sitting in adjusters' offices, reading police reports, and watching the same scenario play out in a hundred different ways. A left-turning driver and a driver going straight collide. Both drivers swear they had the light. Both their families insist the other person is lying. And I'd be there, pulling apart dashcam footage frame by frame, because honestly, the law on this isn't as clean as people think it is.

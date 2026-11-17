@@ -1,6 +1,7 @@
 ---
 title: "Workers' Comp vs Personal Injury Lawsuit: Which Path Wins"
 date: 2026-07-26T12:17:25.330685+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the key differences between workers' compensation claims and personal injury lawsuits to determine which option protects your rights and finances."
 image: "/img/heroes/6077588.jpg"

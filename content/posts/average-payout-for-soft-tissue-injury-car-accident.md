@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Nobody can tell you what your soft tissue injury is "worth." Not me, not a settlement calculator, not the adjuster who calls you three days after the crash with a number that sounds surprisingly reasonable. I spent over a decade on the insurance side helping set those numbers, and the whole framing of "average payout" is something the industry quietly benefits from you believing in.
 

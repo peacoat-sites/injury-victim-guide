@@ -1,6 +1,7 @@
 ---
 title: "After a Minor Car Accident: When Hospital Care Matters"
 date: 2026-07-27T13:45:57.857953+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn when a hospital visit is necessary after a minor car accident, what injuries to watch for, and how to protect your health and insurance claim."
 image: "/img/heroes/38720987.jpg"

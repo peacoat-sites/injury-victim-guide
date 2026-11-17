@@ -1,6 +1,7 @@
 ---
 title: "Proving Fault in Slip and Fall: 12 Key Evidence Types"
 date: 2026-07-23T12:52:46.263584+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to establish liability in slip and fall accidents. Discover the critical evidence and documentation needed to prove fault and strengthen your claim."
 image: "/img/heroes/4341.jpg"

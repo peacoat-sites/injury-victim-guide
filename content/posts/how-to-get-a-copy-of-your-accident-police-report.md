@@ -1,6 +1,7 @@
 ---
 title: "How to Get Your Accident Police Report: Step-by-Step"
 date: 2026-08-04T13:09:33.251111+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to request and obtain a copy of your accident police report. Find out where to request it, required documents, and typical processing times."
 image: "/img/heroes/6069508.jpg"

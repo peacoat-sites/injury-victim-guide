@@ -23,7 +23,7 @@ faqs:
    a: "In most states, yes. Most states use some form of comparative fault, which reduces your recovery by your percentage of fault rather than eliminating it entirely. So if you're found 20% at fault and your damages are $50,000, you'd recover $40,000. A handful of states still use contributory negligence, which can bar recovery if you were at all at fault. This is one of the reasons knowing your state's rules matters."
  - q: "Should I accept the first offer from the insurance company?"
    a: "Almost never. The first offer is almost always a lowball number designed to close the claim cheaply before you understand what your case is worth or before your medical picture is complete. Accepting it means you can't go back. If you're in active treatment, you probably haven't reached maximum medical improvement yet, which means you don't actually know your full damages. Getting a second opinion on your claim's value, from an attorney if nothing else, before accepting anything is worth the time."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A common scenario: someone gets rear-ended at a red light, feels fine enough to drive home, then wakes up unable to turn their head without shooting pain running from the neck into the shoulder blade. Many injured people in this situation ask: "What is my case worth?"

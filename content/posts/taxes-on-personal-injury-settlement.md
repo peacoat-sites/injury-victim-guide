@@ -23,7 +23,7 @@ author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 author_title: "Former Auto Claims Adjuster"
 author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You just got the call you've been waiting months for. The insurance company agreed to a settlement. You're relieved, maybe even a little emotional, and then your brain goes somewhere unexpected: *wait, do I have to pay taxes on this?* That question stops a lot of people cold, and honestly, it's one of the smartest things you can ask. Because the answer isn't a simple yes or no. It depends on what that money is actually for.
 

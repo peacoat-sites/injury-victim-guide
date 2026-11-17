@@ -23,7 +23,7 @@ faqs:
    a: "Yes, and be honest about your history. Nothing damages attorney-client trust faster than a surprise pre-existing condition that surfaces during discovery. Your attorney can only protect you from information they know about in advance."
  - q: "How do medical billing records differ from clinical records, and do I need both?"
    a: "Clinical records contain your diagnoses, treatment notes, imaging reports, and physician observations. Billing records show what was charged and what the codes were. You need both. Billing records support your damages calculation, and inconsistencies between clinical and billing records are sometimes used by defense attorneys to challenge treatment necessity."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your doctor's office just called to say your records request will take "four to six weeks." You've already been waiting three weeks. Your attorney keeps asking for them. The insurance adjuster has already made a lowball offer, and your settlement timeline is stacking up against a statute of limitations you don't fully understand. This is the moment most injury victims realize they should have started collecting their medical records on day one.

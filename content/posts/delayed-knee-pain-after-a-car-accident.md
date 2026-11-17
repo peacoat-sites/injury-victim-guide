@@ -1,6 +1,7 @@
 ---
 title: "Delayed Knee Pain After Car Accident: Causes and Next Steps"
 date: 2026-08-10T11:59:13.627603+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Why knee pain appears days after a car accident and what you should do about it. Understand injuries, treatment options, and when to seek help."
 image: "/img/heroes/8798736.jpg"

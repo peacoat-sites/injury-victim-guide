@@ -23,7 +23,7 @@ author: "Denise Wallace"
 author_slug: "denise-wallace"
 author_title: "Former Workers' Comp Claims Adjuster"
 author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in a hospital waiting room, ice pack on your neck, when the officer's words finally sink in: the driver who ran the red light and hit you had no insurance. No policy. Nothing. According to [CDC injury data](https://www.cdc.gov/injury/wisqars/), motor vehicle crashes send millions of Americans to emergency departments every year. And the Insurance Research Council estimates that roughly 1 in 8 drivers on the road is uninsured. That's not a fringe risk. That's the car two spots ahead of you in traffic right now.
 

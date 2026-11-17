@@ -23,7 +23,7 @@ author: "Maya Rivera"
 author_slug: "maya-rivera"
 author_title: "Former Bodily-Injury Claims Adjuster"
 author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in a crumpled car on the side of the highway. Your hands are shaking. Someone just rear-ended you at 45 mph, and your neck already feels wrong. In the next 60 minutes, you'll make decisions that could either protect your health and your legal rights or quietly destroy both. Most people have no idea what those decisions are. I spent 12 years on the insurance side watching injury victims make the same costly mistakes over and over, and I switched careers specifically to help people avoid them.
 

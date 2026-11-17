@@ -1,6 +1,7 @@
 ---
 title: "72 Hours After Rear-End Collision: Lower Back Pain Relief"
 date: 2026-07-16T12:51:41.004377+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why lower back pain develops after rear-end collisions and discover evidence-based relief strategies to manage symptoms and prevent long-term injury."
 image: "/img/heroes/5544753.jpg"

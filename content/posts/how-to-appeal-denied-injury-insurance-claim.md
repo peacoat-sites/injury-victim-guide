@@ -23,7 +23,7 @@ faqs:
     a: "No. Filing a formal appeal doesn't waive your rights to negotiate a settlement, pursue external review, or file a lawsuit. Be careful, however, about signing any settlement releases before your appeal is resolved, since some releases are written broadly enough to close future claims."
   - q: "What's the difference between an internal appeal and an external review?"
     a: "An internal appeal goes back to the same insurance company, reviewed internally. An external review is handled by an independent organization or your state's insurance commissioner, and the insurer is generally bound by the outcome. If your internal appeal is denied, external review is often your next step before litigation."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your claim just got denied, and right now you're probably oscillating between exhausted and furious. Maybe you've already called the insurance company twice and gotten nowhere. Maybe the denial letter is sitting on your kitchen table with language so vague you can't even tell what rule you supposedly violated. That's not an accident, by the way. But we'll get there.
