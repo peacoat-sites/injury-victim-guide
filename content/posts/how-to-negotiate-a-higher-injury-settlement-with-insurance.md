@@ -48,8 +48,6 @@ Specificity changes the tone of the entire negotiation.
 
 ## Build a Demand Package That Makes Their Job Hard
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The adjuster's goal is to close your file cheaply and quickly. Your goal is to make "quickly" impossible without "fairly." The way you do that is with a demand package that's so complete and well-organized that disputing it requires actual effort.
 
 What goes in a strong demand package:

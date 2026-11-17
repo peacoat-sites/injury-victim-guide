@@ -46,8 +46,6 @@ The traffic laws in most states require the turning driver to yield to oncoming 
 
 ## When the Left-Turning Driver Might Actually Win
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part I wish more people knew about before they got in an accident.
 
 **You're in a better position than you think if the other driver was speeding.** A lot of adjusters won't volunteer this, but if the oncoming car was doing 45 mph in a 35 zone, that fundamentally changes the math. You might have had a reasonable gap to turn that *would* have been safe at the posted speed limit. The fact that they were going faster changes the analysis. I had a case in Colorado where a woman turned left in front of an SUV that appeared to have adequate distance, until a traffic reconstruction expert clocked the SUV at 47 mph in a 30 mph zone. She wasn't found at fault. The case settled 70/30 in her favor.

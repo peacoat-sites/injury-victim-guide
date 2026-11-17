@@ -21,7 +21,7 @@ Governor Hochul signed Assembly Bill A10008 into law in late May 2026, and legal
 Here's what I tell people when they first hear this: don't panic, but do pay attention. The changes affect some victims much more than others, and understanding where you stand matters before you talk to anyone, including an [insurance adjuster](/what-to-say-to-an-insurance-adjuster-after-an-accident/).
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A10008 took effect May 26, 2026; crashes filed before that date use the old rules.</li><li style="margin:5px 0">The 90/180-day serious injury category is eliminated ,  temporary disabling injuries face a harder bar.</li><li style="margin:5px 0">Plaintiffs found more than 50% at fault cannot recover pain and suffering damages at all.</li><li style="margin:5px 0">Uninsured drivers responsible for their own lapse face a $100,000 cap on non-economic damages.</li><li style="margin:5px 0">Jury sequencing changes (fault, then injury, then damages) will likely trigger years of appeals.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A10008 took effect May 26, 2026; crashes filed before that date use the old rules.</li><li style="margin:5px 0">The 90/180-day serious injury category is eliminated, temporary disabling injuries face a harder bar.</li><li style="margin:5px 0">Plaintiffs found more than 50% at fault cannot recover pain and suffering damages at all.</li><li style="margin:5px 0">Uninsured drivers responsible for their own lapse face a $100,000 cap on non-economic damages.</li><li style="margin:5px 0">Jury sequencing changes (fault, then injury, then damages) will likely trigger years of appeals.</li></ul></div>
 
 
 ## The 90/180-Day Rule Is Gone, and That's a Big Deal
@@ -33,10 +33,6 @@ A10008 eliminates that category entirely for cases filed on or after May 26, 202
 If you suffered a back injury that kept you down for four months but resolved, you might have had a strong case under the old rules. Under the new ones, the same injury might not clear the threshold. That's not a small shift.
 
 ## Modified Comparative Fault: The 50% Bar You Need to Know About
-
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 New York used to follow what's called "pure comparative negligence." In plain terms, even if you were mostly at fault for a crash, say 80% responsible, you could still recover 20% of your damages. That's gone for auto cases. New York has switched to "modified comparative fault," and the new cutoff is strict: if you're found more than 50% responsible for the accident, you recover nothing in non-economic damages. Zero.
 

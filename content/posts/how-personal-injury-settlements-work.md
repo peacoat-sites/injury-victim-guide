@@ -43,8 +43,6 @@ The money usually comes from an insurance policy, whether that's the at-fault dr
 
 ## How Damages Are Calculated
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what catches most people off guard. There's no fixed formula. What you can recover depends on the specific facts of your case, your jurisdiction, and the evidence you can put in front of an insurer or jury.
 
 Damages split into two categories: economic and non-economic.

@@ -45,8 +45,6 @@ Here's why this matters for your legal case: an adjuster will almost always try 
 
 ## Who's Actually Responsible (This Is Where It Gets Complicated)
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Property owners have a legal duty to maintain reasonably safe conditions for people who are lawfully on their property. That's [premises liability](/property-owner-liability-slip-and-fall/), and stairs are one of the most common triggers for those claims. But "the steps were dangerous" is a starting point, not a finished argument.
 
 To have a viable claim, you generally need to show four things: the property owner controlled the staircase, there was a hazardous condition, the owner knew (or should have known) about it, and that condition caused your fall and injuries. That third element, the knowledge piece, is where cases often fall apart.

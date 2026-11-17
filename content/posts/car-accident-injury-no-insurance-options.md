@@ -48,8 +48,6 @@ Outcomes in these situations vary widely depending on what coverage options you 
 
 ## Your Own Insurance Policy: The First Place to Look
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people don't read their auto policy until something goes wrong. But right now, open that document or call your agent and ask specifically about two coverages.
 
 **[Uninsured Motorist Coverage (UM)](/uninsured-motorist-claim-process/):** This is coverage you may have bought to protect yourself exactly for this. UM pays for your bodily injuries when the at-fault driver has no insurance. Many states require insurers to offer it, and some require you to carry it. If you have it, this is your fastest, cleanest path to compensation for medical bills, lost wages, and pain and suffering. You're filing with your own insurer, but as an injured party, not the at-fault party.

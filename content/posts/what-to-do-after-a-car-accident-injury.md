@@ -45,8 +45,6 @@ While you wait, document everything. Take photos of both vehicles from multiple 
 
 ## What to Say (and What Not to Say) at the Scene
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where people get into trouble fast. You're shaken, you're polite, and someone walks over and says "are you okay?" The natural response is "I'm fine." Don't say that.
 
 You're not being deceptive if you don't know yet. You genuinely don't know whether you're fine. Say something like "I'm not sure yet" or "I need to get checked out." It's honest and it doesn't create a recorded statement you'll regret later.

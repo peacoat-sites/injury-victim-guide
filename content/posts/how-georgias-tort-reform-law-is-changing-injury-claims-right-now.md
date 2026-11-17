@@ -32,10 +32,6 @@ Only if they find the defendant liable does the trial move to phase two, where d
 
 ## The "Phantom Damages" Rule and What It Does to Your Medical Bills
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's where it gets even more concrete. Say your hospital billed $80,000 for your surgery, but your health insurer negotiated that down and actually paid $28,000. Under the old framework, the jury would typically hear the $80,000 figure when calculating what you were owed for medical expenses. Under SB 68, defendants can now introduce the lower $28,000 figure as the true measure of your medical damages.
 
 Supporters of this change call inflated billed amounts "phantom damages" because nobody actually pays sticker price. That argument isn't entirely wrong. But what gets lost is that many injury victims don't have health insurance, or they treated with providers who'll only settle their liens at the full billed rate once a case resolves. The practical gap between what insurers pay and what uninsured victims actually owe is real. The reform treats everyone as if they have good insurance coverage, and that assumption doesn't always hold.

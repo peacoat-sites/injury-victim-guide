@@ -45,8 +45,6 @@ Here's the part most articles skip: many states layer these theories on top of e
 
 ## State-by-State: The Legal Landscape in a Table
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Current as of August 2026, this is the most useful breakdown I can give you without writing a 40-page document. I've focused on the states that handle this the most unusually or see the highest bite claim volume:
 
 | State | Primary Rule | Key Notes | Statute of Limitations |

@@ -43,8 +43,6 @@ A 2021 analysis published in *Injury Epidemiology* found that a significant port
 
 ## What "Minor" Actually Means (And What It Doesn't)
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Five miles per hour sounds trivial. You probably drive faster than that in a parking lot. But biomechanical research out of the University of North Carolina shows that rear-end impacts at speeds between 5 and 10 mph generate enough force to cause cervical spine injury, the kind that shows up as a dull ache at first and a neurology referral six months later.
 
 The word "minor" in "minor accident" describes the property damage to your car. It says nothing about your body.

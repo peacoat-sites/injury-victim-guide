@@ -30,8 +30,6 @@ The other thing that makes TBI claims complicated is the spectrum. The term cove
 
 ## The Mistakes That Hurt TBI Claims the Most
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Claims often get undercut, sometimes fatally, by things the injured person didn't know they were doing wrong.
 
 **Delayed medical care.** After a concussion, many people go home and try to sleep it off. Maybe they feel better in a day or two. Then symptoms come back a week later, or a month later, and now there's a gap in the medical record. Insurers love a gap. That's their argument that the symptoms aren't related to the accident. If you had any head impact, any loss of consciousness, any confusion, any sense of feeling "off" in the hours after the incident, get evaluated that day. An ER visit or urgent care record from day-of creates an anchor for your entire claim.

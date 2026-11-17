@@ -47,8 +47,6 @@ Ligament laxity is less discussed but genuinely nasty. The ligaments that stabil
 
 ## What the Insurance Company Is Doing With Your Claim Right Now
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me be blunt. If your neck pain is still present at ninety days post-accident, the claims department has likely already flagged your file for closer scrutiny or a medical review. This is standard. It doesn't mean they think you're lying. It means the file has moved from "routine" to "reserves may need to increase," and someone is now paying attention to every treatment note looking for inconsistencies.
 
 A few things that adjusters specifically watch for in prolonged soft-tissue claims:

@@ -50,8 +50,6 @@ I watched it happen hundreds of times. A claimant would say something like "I wa
 
 ## The Evaluation Process (And How They're Sizing You Up)
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once the basic facts are established, the adjuster begins building what's called a reserve, an internal estimate of what the claim will likely cost to settle. This isn't shared with you. It's used internally to manage the company's financial exposure, and it directly influences what settlement range they'll be authorized to offer.
 
 Most large carriers use proprietary software, the best-known being Colossus, to help calculate injury claim values. The software takes inputs from the adjuster, things like injury type, treatment duration, whether surgery was involved, documented wage loss, and spits out a suggested value range. The problem is that Colossus notoriously underweights soft-tissue injuries (sprains, strains, whiplash), chronic pain conditions, and anything that doesn't have a clean diagnostic code attached to it. The [Insurance Information Institute](https://www.iii.org/) doesn't publish how these algorithms are built, and neither do the carriers. You're essentially being evaluated by a black box that was designed to benefit the company using it.

@@ -43,8 +43,6 @@ Whiplash is the other sneaky one. The [soft tissue](/soft-tissue-injury-settleme
 
 ## When to Go: A Timeline by Scenario
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 People ask me some version of this constantly: "Do I really need to go to the doctor? Nothing hurts." My honest answer is yes, and the urgency depends on what happened.
 
 | Scenario | Recommended Timeframe | Where to Go | Why It Matters |

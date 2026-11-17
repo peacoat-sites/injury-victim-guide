@@ -38,10 +38,6 @@ What you can recover, in rough order of value: medical expenses past and future,
 
 ## Why SCE Is the Central Target, and What Makes California Different
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Southern California Edison didn't just become the primary litigation target by accident. Cal Fire's investigation into the Eaton Fire is still grinding forward, potentially taking up to 18 months to conclude, according to reporting on the case status before Judge Laura Seigle. But here's the key: California's inverse condemnation doctrine means SCE can be held strictly liable for fires started by their equipment even if no one proves they were negligent. The utility just needs to have caused the harm.
 
 That's a genuinely unusual legal standard. In most states, plaintiffs have to prove a defendant did something wrong. Under inverse condemnation, California essentially says that when a utility's infrastructure ignites a fire that damages people and property, the utility bears the cost, full stop. It's one reason California is one of the most plaintiff-friendly jurisdictions in the country for exactly this kind of claim, as [Lawfold's 2026 wildfire lawsuit analysis](https://lawfold.com/wildfire-lawsuit/) makes clear.
@@ -76,11 +72,11 @@ If you were injured in the January 2025 fires and haven't spoken to a wildfire a
 
 ## Sources
 
-- [Wildfire Lawsuit 2026: Payouts, Deadlines and Claims , Lawfold](https://lawfold.com/wildfire-lawsuit/) (June 2026)
-- [LA Wildfires Lawsuit Settlement , Lawsuit Information Center](https://www.lawsuit-information-center.com/la-wildfires-lawsuit.html) (October 2025, updated 2026)
-- [California Cases To Watch In 2026 , Law360](https://www.law360.com/articles/2422266/california-cases-to-watch-in-2026) (January 2026)
-- [California Wildfire Settlements for Survivors \[2026 Guide\] , King Law](https://www.robertkinglawfirm.com/california-wildfire-attorneys/california-wildfire-settlements/) (March 2026)
-- [Filing a Wildfire Lawsuit in California , Adamson Ahdoot LLP](https://aa.law/blog/filing-a-wildfire-lawsuit-in-california-who-qualifies-for-compensation/) (May 2026)
+- [Wildfire Lawsuit 2026: Payouts, Deadlines and Claims, Lawfold](https://lawfold.com/wildfire-lawsuit/) (June 2026)
+- [LA Wildfires Lawsuit Settlement, Lawsuit Information Center](https://www.lawsuit-information-center.com/la-wildfires-lawsuit.html) (October 2025, updated 2026)
+- [California Cases To Watch In 2026, Law360](https://www.law360.com/articles/2422266/california-cases-to-watch-in-2026) (January 2026)
+- [California Wildfire Settlements for Survivors \[2026 Guide\], King Law](https://www.robertkinglawfirm.com/california-wildfire-attorneys/california-wildfire-settlements/) (March 2026)
+- [Filing a Wildfire Lawsuit in California, Adamson Ahdoot LLP](https://aa.law/blog/filing-a-wildfire-lawsuit-in-california-who-qualifies-for-compensation/) (May 2026)
 
 ---
 

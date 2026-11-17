@@ -37,10 +37,6 @@ You might be wondering: is that necessarily bad? Faster, maybe more consistent, 
 
 ## What the Software Is Actually Trained to Minimize
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 I spent 12 years on the other side of this, and here's what I tell people: insurance companies are not neutral parties trying to find the "right" number. They're businesses with loss ratios to manage. The AI they deploy reflects that reality.
 
 Consumer advocates have documented that insurer AI platforms are specifically calibrated to produce lower valuations for soft-tissue injuries, psychological harm, and future medical needs, exactly the categories that are hardest to quantify objectively. A herniated disc that causes daily pain but doesn't show dramatic imaging? The algorithm discounts it. Anxiety and sleep disruption after a serious crash? Often treated as negligible. The cost of physical therapy you'll need five years from now? Frequently undercounted or ignored entirely.

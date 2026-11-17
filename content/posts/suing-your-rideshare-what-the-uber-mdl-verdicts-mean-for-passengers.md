@@ -30,8 +30,6 @@ What most people don't realize is how much the "independent contractor" argument
 
 ## The Common-Carrier Ruling: A Legal Shift With Real Teeth
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The verdict that got less attention but may have the longest reach came not from a jury but from Judge Charles Breyer himself. On April 10, 2026, Judge Breyer ruled that Uber qualifies as a "common carrier" under North Carolina law.
 
 Here's why that matters. A common carrier, think airlines, buses, taxis, has a heightened, non-delegable duty of care to passengers. "Non-delegable" is the key phrase. It means Uber can't hand that responsibility off to a driver and walk away clean. If a passenger is harmed, the company's legal obligation to keep that person safe doesn't disappear just because it subcontracts the actual driving.

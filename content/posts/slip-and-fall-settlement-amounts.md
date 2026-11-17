@@ -43,8 +43,6 @@ If you want to understand what your case might be worth, think about it in two c
 
 **Non-economic damages** are harder to quantify and easier for insurance adjusters to dismiss. Pain and suffering. Loss of enjoyment of life. Emotional distress. The fact that you can't hike with your grandkids anymore, or coach your daughter's soccer team, or sleep through the night without pain. These are real losses, but they require real documentation to defend. A personal pain journal, started the day of your injury and updated daily, carries more weight than your memory of how bad things were six months ago.
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A few factors that can significantly increase a settlement:
 
 - Severe or permanent injuries, particularly those involving the spine, head, or joints

@@ -39,8 +39,6 @@ Your claim's value isn't determined by a single formula. It's shaped by the stre
 
 ## The Factors That Actually Move the Number
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you're trying to understand why one soft tissue claim settles for $15,000 and another reaches $200,000, here are the variables that actually matter.
 
 **Medical documentation and treatment consistency.** This is the single biggest lever you have. A continuous record of treatment, from an ER visit right through to physical therapy and specialist follow-up, tells a coherent story. Gaps in treatment are the first thing an adjuster uses to argue you weren't that hurt. I've seen solid claims shrink significantly because someone waited three weeks before seeing a doctor, or stopped going to PT after feeling slightly better.

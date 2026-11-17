@@ -45,8 +45,6 @@ An ER visit for a headache after a crash may seem overly cautious, but post-acci
 
 ## When you need to be seen immediately
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 No hedging here. Go to the emergency room if you have any of these:
 
 A headache that's rapidly getting worse, not staying stable. A headache that woke you up from sleep. Confusion, slurred speech, or difficulty finding words. Any loss of consciousness, even briefly, at the scene. One pupil that's larger than the other when you look in the mirror. Nausea and vomiting alongside the headache. Weakness or numbness on one side of your body. Vision changes.

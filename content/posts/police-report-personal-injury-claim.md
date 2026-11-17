@@ -44,8 +44,6 @@ The report also sets the factual frame: location of vehicles, road conditions, t
 
 ## Get the Report Faster Than You Think You Should
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Waiting two or three weeks to pull a report and then trying to correct errors a month after the incident creates problems. By then the officer may have no clear memory of the scene, witnesses may have scattered, and the correction process can become a bureaucratic slog.
 
 Request the report within 48 to 72 hours of the incident if you can. In most jurisdictions it's available that fast for minor crashes; major incidents with open investigations sometimes take longer. You can typically request it directly through the local police department's records division or the state highway patrol's online portal. Many departments charge a small fee, usually under $20.

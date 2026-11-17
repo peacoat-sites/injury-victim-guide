@@ -21,7 +21,7 @@ Here's the specific problem. Modern vehicles, and we're talking about a huge sha
 The dollar amounts are real and they're significant. AAA research puts ADAS-equipped vehicle repairs at 37.6% more expensive than non-equipped counterparts. A single sensor component can run $300 to $1,600 before a body shop touches a panel. A minor front-[end collision](/lower-back-pain-after-a-rear-end-collision/) can add $1,500 or more in radar and camera recalibration alone. That windshield replacement that cost you $300 a few years ago? It routinely runs $1,200 to $1,500 now once the forward-facing camera has to be recalibrated. Suddenly, an $800 fender-bender becomes a $4,000 or $5,000 repair.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">28.3% of all vehicle repairs now require ADAS calibration, per CCC Intelligent Solutions Q4 2025 data.</li><li style="margin:5px 0">AAA research shows ADAS-equipped vehicles cost 37.6% more to repair than non-equipped vehicles.</li><li style="margin:5px 0">A simple windshield replacement now averages $1,200–$1,500 once camera recalibration is included.</li><li style="margin:5px 0">Skipping required calibration can void your safety-system warranty and endanger a future claim.</li><li style="margin:5px 0">Insurers are increasingly disputing calibration costs as "unnecessary" ,  and claimants often don't know to fight back.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">28.3% of all vehicle repairs now require ADAS calibration, per CCC Intelligent Solutions Q4 2025 data.</li><li style="margin:5px 0">AAA research shows ADAS-equipped vehicles cost 37.6% more to repair than non-equipped vehicles.</li><li style="margin:5px 0">A simple windshield replacement now averages $1,200–$1,500 once camera recalibration is included.</li><li style="margin:5px 0">Skipping required calibration can void your safety-system warranty and endanger a future claim.</li><li style="margin:5px 0">Insurers are increasingly disputing calibration costs as "unnecessary", and claimants often don't know to fight back.</li></ul></div>
 
 
 ## Why Insurers Are Contesting These Costs Right Now
@@ -33,10 +33,6 @@ The Highway Loss Data Institute published findings in March 2026 confirming some
 What makes this dispute especially frustrating for claimants is that the stakes aren't just financial. Skipping manufacturer-required calibration can void your vehicle's safety-system warranty and create a situation where a denied insurance claim follows a future accident. You accepted a quick settlement, the shop skipped the calibration to keep costs down, and now your ADAS systems are giving false readings. That's a liability trap that didn't exist five years ago.
 
 ## The Real Cost Breakdown Most Claimants Never See
-
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's a direct look at how fast these numbers compound on even a routine repair.
 

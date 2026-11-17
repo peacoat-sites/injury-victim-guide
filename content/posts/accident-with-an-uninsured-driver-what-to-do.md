@@ -43,8 +43,6 @@ The CDC's injury data reinforces the stakes: motor vehicle crashes are among the
 
 ## What to Do in the First 30 Minutes
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where people lose their cases before they even know they have one.
 
 **Step 1: Do not let the other driver talk you out of calling police.** I can't count how many claims I reviewed where the uninsured driver said something like "let's keep this between us" or "I'll pay you cash." They almost never do. And without a police report, you'll have a brutal time filing a UM (uninsured motorist) claim later. Most insurers require it. Call 911, or drive to the nearest precinct if it's a minor impact and the vehicles are movable.

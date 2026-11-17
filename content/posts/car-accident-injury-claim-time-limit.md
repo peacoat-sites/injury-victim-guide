@@ -50,8 +50,6 @@ The statute of limitations is for filing a lawsuit, not for filing an insurance 
 
 ## The Discovery Rule: When the Clock Actually Starts
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You'd assume the deadline starts ticking on the day of the crash. Usually it does. But sometimes it doesn't, and this distinction has saved a lot of injury claims that looked completely dead.
 
 The discovery rule says the statute of limitations begins when you discovered, or reasonably should have discovered, that you had an injury. This matters enormously in car accident cases because some injuries don't show up immediately. Traumatic brain injuries, herniated discs, soft tissue damage, and certain internal injuries can take days, weeks, or even months to produce symptoms you'd connect to the accident.

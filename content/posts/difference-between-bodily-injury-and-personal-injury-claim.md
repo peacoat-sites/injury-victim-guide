@@ -50,8 +50,6 @@ These feel similar but run through completely different parts of the insurance s
 
 ## Personal Injury: The Legal Claim, Not Just the Insurance Bucket
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Personal injury is a legal term covering civil claims where someone's negligence, recklessness, or intentional act caused harm to another person. Physical injury is the most common example, but personal injury law also covers:
 
 - Emotional distress (even without physical injury, in some cases)

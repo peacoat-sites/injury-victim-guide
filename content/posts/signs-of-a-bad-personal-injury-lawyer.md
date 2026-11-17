@@ -45,8 +45,6 @@ This problem occurs across all firm sizes. Solo practitioners are just as likely
 
 ## The Communication Pattern Tells You Everything
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's something only someone who's been inside the process would think to mention: watch how long it takes to reach the lawyer's office *before* you sign. Call as a prospective client. Note the response time. Note whether you speak to the attorney or always an intake specialist. Note how specific their answers are.
 
 Because after you sign, that response time usually gets longer, not shorter.

@@ -39,8 +39,6 @@ The practical upside of settling is real though. You get money faster, you avoid
 
 ## What Filing a Lawsuit Actually Means
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Filing a lawsuit doesn't mean you're going to trial. That's one of the biggest misconceptions I hear. When you file a personal injury lawsuit, you're formally initiating the legal process, but roughly 95% of civil cases, including personal injury suits, settle before a jury ever hears them. Filing is often a negotiating move as much as anything else.
 
 Here's what the lawsuit timeline actually looks like:

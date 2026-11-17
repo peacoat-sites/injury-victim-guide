@@ -53,8 +53,6 @@ This scenario plays out regularly. Self-represented claimants often believe they
 | Option A: Fees calculated first | $100,000 | $33,000 | $5,000 | $62,000 |
 | Option B: Costs deducted first | $100,000 | $31,350 | $5,000 | $63,650 |
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The contingency percentage isn't the only number you need to understand. There are case costs, and this is where things get a little more complicated.
 
 Case costs are the actual expenses of building your claim: court filing fees, expert witness fees, medical record retrieval, deposition transcripts, accident reconstruction specialists, and so on. These are real costs, often ranging from a few hundred dollars on a simple case to tens of thousands on a complex one. Most personal injury firms advance these costs for you, then deduct them from your settlement at the end.

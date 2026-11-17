@@ -43,8 +43,6 @@ UM coverage typically applies to bodily injury: your medical bills, lost wages, 
 
 ## The First 72 Hours: What to Do Right After the Crash
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The steps you take in the first three days after an accident involving an uninsured driver will shape everything that follows. A common mistake is waiting too long or saying the wrong thing to an adjuster, which can undermine your claim.
 
 **Step 1: Call the police and get a report.** This isn't optional. You need a police report that documents the other driver's lack of insurance. Without it, your insurer may question whether the accident happened as you describe.

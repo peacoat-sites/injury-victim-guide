@@ -41,8 +41,6 @@ If anyone says they're hurt, including you, make sure that goes in the police re
 
 ## Seek Medical Attention, Even If You Feel Okay
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'm going to be direct here: see a doctor within 24 to 48 hours, regardless of how you feel right now. Not because I want you to run up bills or manufacture injuries, but because the CDC's injury data consistently shows that whiplash and soft tissue injuries from low-speed collisions are among the most underreported and undertreated injuries in motor vehicle accidents. People tough it out, attribute the pain to stress, and then find themselves six weeks later with documented injury and a significant gap in their medical records that an insurer will absolutely use against them.
 
 Go to your primary care doctor, an urgent care clinic, or an ER if the pain is significant. Tell them you were in a rear-end collision. Tell them every symptom: headache, neck stiffness, shoulder pain, low back pain, cognitive fog, jaw pain (yes, TMJ issues can follow rear-end crashes). Get it all documented. That visit creates a medical record that links your symptoms to the crash date.

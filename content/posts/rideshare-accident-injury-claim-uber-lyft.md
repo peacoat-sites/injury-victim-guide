@@ -50,8 +50,6 @@ The Insurance Information Institute has documented how rideshare companies intro
 | Period 2 | On, trip accepted | En route to pick up passenger | $1,000,000 | $1,000,000 | Commercial liability policy active |
 | Period 3 | On, passenger in vehicle | Passenger aboard | $1,000,000 | $1,000,000 | Full commercial liability coverage in effect |
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Uber and Lyft both structure their insurance around what the industry calls "coverage periods." Which period applies at the time of your crash determines how much money is potentially available to cover your injuries.
 
 **Period 0: App is off.** The driver is just driving their personal vehicle. If they hit you, you're dealing with their personal auto insurance policy only. Uber and Lyft have zero involvement.

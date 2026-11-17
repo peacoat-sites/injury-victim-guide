@@ -48,8 +48,6 @@ The other thing records do is establish something called the "causal link," whic
 
 ## Getting Your Own Records: More Complicated Than It Should Be
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You have a legal right to your own medical records under HIPAA (the Health Insurance Portability and Accountability Act). That's not in dispute. The problem is the process.
 
 Most providers require a written authorization form, sometimes their specific form, not a generic one you printed online. Processing times vary wildly: some practices turn records around in a week; hospital systems can genuinely take 30 days or more, especially for imaging files. And there are fees. Federal law caps what providers can charge for electronic records, but for paper copies you can sometimes see $0.25 to $0.75 per page, which adds up fast if you had a long hospitalization.

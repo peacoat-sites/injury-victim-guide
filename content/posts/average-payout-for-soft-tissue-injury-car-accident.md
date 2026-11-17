@@ -56,8 +56,6 @@ Here's why the label matters practically: insurance companies have internal soft
 
 ## The Honest Answer on Settlement Ranges
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest about what I can and can't tell you here. Published averages for soft tissue injuries are almost always pulled from self-reported attorney surveys or aggregated data that doesn't control for jurisdiction, representation status, or injury severity. The [Insurance Information Institute](https://www.iii.org/) tracks bodily injury claim averages broadly (the most recent figures hover around $20,000 for the average bodily injury liability claim), but that number includes fractures, surgeries, and everything else.
 
 For pure soft tissue with no objective imaging findings, you're often looking at a lower range. A two-week whiplash with chiropractic care and no lasting symptoms might settle for $3,000 to $8,000 in many markets. The same injury with documented treatment over four to six months, an MRI showing disc involvement, and lost wages? Easily $25,000 to $75,000 or more, depending on the liability picture and available insurance coverage.

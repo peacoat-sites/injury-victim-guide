@@ -32,8 +32,6 @@ Trucking cases are particularly fertile ground. The combination of severe injuri
 
 ## The New Caps: A State-by-State Snapshot
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where things get practical. The reforms aren't uniform. What's changed in your state, or what might change soon, directly affects the ceiling on your recovery.
 
 | State | What Changed or Is Changing | Status as of Mid-2026 |

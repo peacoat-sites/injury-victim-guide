@@ -29,10 +29,6 @@ The practical reality: anything digital that touches your life is potentially di
 
 ## Your Fitness Tracker Is Now a Witness Against You
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is the part that genuinely surprises people. A California personal injury attorney, writing for Attorney at Law Magazine in January 2026, flagged something that should alarm anyone going through rehabilitation after an injury: insurers are now demanding fitness tracker data even when doctors prescribed the devices to monitor recovery progress. Think about that. Your doctor tells you to wear a Fitbit or Apple Watch so they can track your heart rate and activity levels during physical therapy. You're complying with medical advice. And the insurance company turns around and subpoenas that same data to argue you're more active than you claim.
 
 Your Garmin, your Apple Watch, your Whoop band, your Oura ring, none of them know you're injured. They just count steps, measure sleep, record heart rate spikes. Out of context, a day where you had a higher step count because you were hobbling around a medical office could be presented as evidence that you're physically capable of more than you say.
@@ -76,11 +72,11 @@ You didn't ask to be in this situation. You got hurt, and now you're trying to g
 
 ## Sources
 
-- [Social Media Is Surveillance, And It's Destroying Your Injury Case ,  Attorney at Law Magazine](https://attorneyatlawmagazine.com/legal/legal-trends/social-media-is-surveillance-and-its-destroying-your-injury-case) (January 14, 2026)
-- [Social Media Surveillance In Personal Injury ,  Sam Aguiar Injury Lawyers](https://aguiarinjurylawyers.com/social-media-surveillance/) (November 18, 2025)
-- [How Social Media Can Hurt Your Personal Injury Claim ,  Urban Thier & Federer, P.A.](https://www.urbanthier.com/blog/2026/04/how-social-media-can-hurt-your-personal-injury-claim/) (April 29, 2026)
-- [How Social Media Can Quietly Damage Your Injury Case ,  Williams Caputo Injury Lawyers](https://www.williamscaputo.com/blog/personal-injury-claim/) (February 26, 2026)
-- [How Social Media Can Impact Your Personal Injury Case: Dos and Don'ts ,  Power Rogers Trial Lawyers](https://www.powerrogers.com/blog/2026/04/how-social-media-can-impact-your-personal-injury-case-dos-and-donts/) (April 1, 2026)
+- [Social Media Is Surveillance, And It's Destroying Your Injury Case, Attorney at Law Magazine](https://attorneyatlawmagazine.com/legal/legal-trends/social-media-is-surveillance-and-its-destroying-your-injury-case) (January 14, 2026)
+- [Social Media Surveillance In Personal Injury, Sam Aguiar Injury Lawyers](https://aguiarinjurylawyers.com/social-media-surveillance/) (November 18, 2025)
+- [How Social Media Can Hurt Your Personal Injury Claim, Urban Thier & Federer, P.A.](https://www.urbanthier.com/blog/2026/04/how-social-media-can-hurt-your-personal-injury-claim/) (April 29, 2026)
+- [How Social Media Can Quietly Damage Your Injury Case, Williams Caputo Injury Lawyers](https://www.williamscaputo.com/blog/personal-injury-claim/) (February 26, 2026)
+- [How Social Media Can Impact Your Personal Injury Case: Dos and Don'ts, Power Rogers Trial Lawyers](https://www.powerrogers.com/blog/2026/04/how-social-media-can-impact-your-personal-injury-case-dos-and-donts/) (April 1, 2026)
 
 ---
 

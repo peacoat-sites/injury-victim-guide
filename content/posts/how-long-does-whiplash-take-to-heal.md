@@ -41,8 +41,6 @@ Here's something I got wrong for years: I assumed the severity of the crash pred
 
 ## A Realistic Timeline, Not a Hopeful One
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The actual range breaks down by severity grade. The Quebec Task Force classification remains the most widely used framework in clinical practice.
 
 | Grade | Symptoms | Typical Recovery Range | Notes |

@@ -51,8 +51,6 @@ If you've suffered specific spinal injuries in a crash, you can get a clearer pi
 
 ## Documentation Is the Difference Between an Allegation and a Fact
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The single most controllable factor separating high-value settlements from low ones is documentation. Not the injury itself. The paper trail.
 
 Here's what I mean. An adjuster doesn't feel your pain. They read a file. If that file contains thorough ER records, follow-up visit notes, physical therapy discharge summaries, imaging reports, prescription records, and a detailed journal of how your injuries affected your daily life, you're presenting a story they can't easily dismiss. If the file contains one ER visit and two physical therapy sessions that stopped after two weeks, you're giving them everything they need to argue you weren't seriously hurt.

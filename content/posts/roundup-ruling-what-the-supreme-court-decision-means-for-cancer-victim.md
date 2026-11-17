@@ -28,8 +28,6 @@ As NPR reported on June 25, the ruling effectively backs Monsanto's long-standin
 
 ## The Scale of What's at Stake
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Roughly 180,000 Roundup lawsuits have been filed over the years. About 60,000 remain active. The vast majority of those are built around failure-to-warn theories, the exact theory the Court just shut down. Mass dismissals are expected. That's not a hypothetical.
 
 What surprised me most in looking at the research was how many of those 60,000 plaintiffs may have thought they were on solid ground. Many had waited years for resolution, watched earlier trials produce large verdicts, and reasonably assumed the legal path was clear. The June 25 ruling changes that calculation overnight.

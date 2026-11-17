@@ -64,8 +64,6 @@ What drives that gap? A few specific things matter far more than the rest.
 
 ## The Categories of Damages That Actually Build Your Settlement
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where a lot of people get underpaid, and not because they settled too low on the headline number. They get underpaid because they or their attorney didn't fully document and fight for every single damage category.
 
 The obvious ones are medical expenses and lost wages. But with an amputation, there are categories that are just as large, sometimes larger, that less experienced attorneys undervalue.

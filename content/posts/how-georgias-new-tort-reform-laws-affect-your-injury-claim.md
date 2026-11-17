@@ -27,8 +27,6 @@ I'll be honest, this one is genuinely complicated. On one hand, there's a legiti
 
 ## The Pain-and-Suffering Calculation Got Harder to Win
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Non-economic damages, the legal term for pain, suffering, emotional distress, and loss of enjoyment of life, are notoriously difficult to quantify. Plaintiff attorneys have long used a tactic called "anchoring," where they suggest a specific dollar figure early in closing arguments to give jurors a mental starting point. Research in behavioral psychology consistently shows that people anchor heavily on the first number they hear. Defense attorneys hate this for exactly that reason.
 
 SB 68 now restricts this directly. Plaintiff attorneys cannot suggest a specific dollar amount for non-economic damages until after all evidence has closed. And when they do make that request, it has to be, in the law's language, "rationally related to the evidence." What does that mean in practice? That's still being worked out in Georgia courts right now. The DLA Piper analysis from May 2025 flagged this as one of the more legally unsettled provisions, noting that litigation over what "rationally related" actually requires will likely define this law's real impact over the next several years.

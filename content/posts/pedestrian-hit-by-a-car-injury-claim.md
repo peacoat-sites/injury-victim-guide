@@ -41,8 +41,6 @@ If you're the person hurt, or helping someone who was, get a personal injury att
 
 ## What Your Claim Is Actually Worth (And Why No One Can Tell You Upfront)
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I get this question constantly, and I'll give you the honest answer: there's no reliable ballpark I can hand you. Here's why that's not me dodging.
 
 Pedestrian injury claim values are driven by four main categories of damages, and each one depends entirely on your specific facts.

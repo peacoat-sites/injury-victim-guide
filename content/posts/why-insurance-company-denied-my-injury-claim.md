@@ -62,8 +62,6 @@ Check out [Nolo's personal injury resources](https://www.nolo.com/legal-encyclop
 
 ## What "Bad Faith" Means, And When It Applies to You
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This term gets thrown around a lot, and I want to define it precisely because it matters. Bad faith is a legal concept that describes an insurer's unreasonable refusal to honor a valid claim. It's not just making a mistake. It's acting in a way that prioritizes the company's financial interest over its legal obligation to you.
 
 Signs of potential bad faith include: denying a claim without conducting a real investigation, ignoring submitted evidence, misrepresenting policy language, unreasonable delays in responding, or lowballing a settlement so aggressively that it has no basis in the facts of your case.

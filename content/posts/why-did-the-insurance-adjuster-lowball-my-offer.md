@@ -43,8 +43,6 @@ That distinction matters. It means the adjuster is looking for reasons to minimi
 
 ## Why the Software Number Is Probably Lowering Your Offer
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the thing nobody talks about, and it took me embarrassingly long to fully appreciate even while I was using it.
 
 Most mid-to-large insurers run your claim through valuation software. Colossus is the most widely known, though carriers use several variants. You plug in the injury codes, treatment duration, and a handful of other inputs, and it spits out a range. The adjuster then typically offers somewhere in the lower portion of that range to start.

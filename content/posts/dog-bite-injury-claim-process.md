@@ -43,8 +43,6 @@ California and New York consistently rank highest in average payout, not because
 
 ## Strict Liability vs. the One-Bite Rule
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I see people get genuinely blindsided, and I'll be honest, I got this wrong myself early in my adjusting career. I assumed all states worked the same way. They don't.
 
 About 35 states currently follow strict liability for dog bites. That means if a dog bites you, the owner is liable. Period. They don't get to argue "but my dog never bit anyone before." California, Florida, Michigan, New Jersey, and others fall here. The American Bar Association's public education resources explain this cleanly: in strict liability states, the victim only needs to prove the bite happened and caused harm.

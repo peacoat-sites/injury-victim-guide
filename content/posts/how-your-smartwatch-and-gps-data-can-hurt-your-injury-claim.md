@@ -29,10 +29,6 @@ Wearables are the part that surprises people most. Your smartwatch doesn't know 
 
 ## Why AI Has Changed the Stakes Completely
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Insurance companies have always used data. What's different in 2026 is that AI-driven tools are now doing much of the initial claim evaluation at major insurers, comparing your claim against enormous historical databases and generating settlement ranges almost automatically.
 
 Critics of these systems, including attorneys cited by the California Accident Attorneys Blog in May 2026, point out that AI evaluation tools often rely on incomplete data and formulas that are built around the insurer's historical outcomes rather than the full picture of your individual injury. The system doesn't know that your job requires physical labor, or that your doctor told you light walking was therapeutic, not evidence of recovery. It just sees the numbers.
@@ -73,11 +69,11 @@ The data landscape for injury claims has changed more in the past two years than
 
 ## Sources
 
-- [Personal Injury Law Trends 2026: AI, Digital Evidence & Insurance Tactics , Lawyer Monthly](https://www.lawyer-monthly.com/2026/05/key-legal-trends-in-personal-injury-and-accident-law-for-2026/) (May 18, 2026)
-- [How AI and Technology Are Changing California Personal Injury Claims in 2026 , California Accident Attorneys Blog](https://www.californiaaccidentattorneysblog.com/how-ai-and-technology-are-changing-california-personal-injury-claims-in-2026/) (May 15, 2026)
-- [AI in Insurance Claims: Impact on the Injured in 2026 , Coruzant](https://coruzant.com/ai/ai-insurance-claims-2026/) (February 23, 2026)
-- [2026 Marks Turning Point in War Against Litigation Financing: CSAA Legal Chief , Insurance Business](https://www.insurancebusinessmag.com/us/news/breaking-news/2026-marks-turning-point-in-war-against-litigation-financing-csaa-legal-chief-564860.aspx) (February 10, 2026)
-- [How Insurance Companies Use AI to Evaluate Injury Claims , Carter Wolden Curtis](https://cwclawfirm.com/how-insurance-companies-use-ai-to-evaluate-injury-claims-and-what-it-means-for-you/) (December 18, 2025)
+- [Personal Injury Law Trends 2026: AI, Digital Evidence & Insurance Tactics, Lawyer Monthly](https://www.lawyer-monthly.com/2026/05/key-legal-trends-in-personal-injury-and-accident-law-for-2026/) (May 18, 2026)
+- [How AI and Technology Are Changing California Personal Injury Claims in 2026, California Accident Attorneys Blog](https://www.californiaaccidentattorneysblog.com/how-ai-and-technology-are-changing-california-personal-injury-claims-in-2026/) (May 15, 2026)
+- [AI in Insurance Claims: Impact on the Injured in 2026, Coruzant](https://coruzant.com/ai/ai-insurance-claims-2026/) (February 23, 2026)
+- [2026 Marks Turning Point in War Against Litigation Financing: CSAA Legal Chief, Insurance Business](https://www.insurancebusinessmag.com/us/news/breaking-news/2026-marks-turning-point-in-war-against-litigation-financing-csaa-legal-chief-564860.aspx) (February 10, 2026)
+- [How Insurance Companies Use AI to Evaluate Injury Claims, Carter Wolden Curtis](https://cwclawfirm.com/how-insurance-companies-use-ai-to-evaluate-injury-claims-and-what-it-means-for-you/) (December 18, 2025)
 
 ---
 

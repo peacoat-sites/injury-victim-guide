@@ -41,8 +41,6 @@ Turn on your hazard lights. This sounds obvious. It isn't obvious when you're sh
 
 ## The Evidence-Collection Window (It Closes Fast)
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Insurance companies prioritize the first 24 hours after an accident. Skid marks fade. Witnesses leave. Memories shift. The adjuster assigned to your file will request a recorded statement quickly. They are trained to use casual, sympathetic conversation to gather details that may minimize your claim.
 
 Your job at the scene is to document everything, not to figure out who's at fault. That's for later.

@@ -44,10 +44,6 @@ But here's where people get tripped up: they assume their injury is minor when i
 
 ## The Signs That You Really Do Need One
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You should talk to a personal injury lawyer if any of these describe your situation.
 
 Your injuries required medical treatment beyond an ER visit. We're talking surgery, specialist appointments, physical therapy, imaging, or any ongoing treatment. The moment medical costs start accumulating, you're dealing with a case where understanding your long-term damages becomes genuinely complicated.

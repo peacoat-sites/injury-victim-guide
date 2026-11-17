@@ -43,8 +43,6 @@ Your **lawsuit deadline**, the statute of limitations, is a completely separate 
 
 ## State-by-State: The Numbers You Actually Need
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, here's a look at the statute of limitations for personal injury claims (car accidents included) across states where this question comes up most frequently. The variation is real and it matters.
 
 | State | Injury Claim Deadline | Property Damage Deadline | Notes |

@@ -30,8 +30,6 @@ What most people don't realize is how unusual it is for a case this size to have
 
 ## The Documentation Problem Is Worse Than You Think
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the number that should alarm you. Of the 408,500 administrative claims on file with the Navy, only about 11,250 contain the minimum three supporting documents required for evaluation under the Elective Option settlement framework. That's roughly 2.7 percent of all claimants who are even positioned to be considered under that pathway right now.
 
 The Elective Option is one route to compensation that doesn't require going to full litigation. It's faster and more predictable than a trial, but it has real documentation requirements. Claimants generally need to show proof of residency or service at Camp Lejeune during the contamination period, [medical records](/medical-records-release-sign-or-not/) confirming a qualifying condition, and some linking documentation. If you're missing any piece of that, your claim stalls.

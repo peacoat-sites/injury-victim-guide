@@ -50,8 +50,6 @@ I once reviewed a claim where a woman slipped on a wet floor at a grocery store.
 
 ## The Evidence That Actually Wins These Cases
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll be blunt: the first 48 hours after a fall determine whether you have a case. Not the attorney you hire. Not the severity of your injury. The first 48 hours.
 
 **At the scene, in order of priority:**

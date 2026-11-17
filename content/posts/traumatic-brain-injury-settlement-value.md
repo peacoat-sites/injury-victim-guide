@@ -49,8 +49,6 @@ Doctors classify TBIs on a spectrum from mild (which includes most concussions) 
 
 ## The Core Factors That Determine TBI Settlement Value
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 No two TBI cases settle for the same amount, and anyone who gives you a dollar figure without reviewing your specific facts is guessing. That said, there are consistent factors that every adjuster and plaintiff's attorney will examine.
 
 **Liability and fault percentage.** Before any calculation about damages makes sense, you need clear liability. If you were 20% at fault in a state that uses [comparative negligence](/how-insurance-companies-calculate-settlements/), your recovery is reduced by that percentage. Some states use contributory negligence, which can bar recovery entirely if you're even slightly at fault. Where you live matters enormously.

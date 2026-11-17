@@ -40,8 +40,6 @@ Most states allow victims to recover both. A handful of states cap non-economic 
 
 ## Medical Expenses: Past, Present, and Future
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your medical costs anchor your claim, and they cover far more than the ambulance and the ER.
 
 You can typically seek compensation for:

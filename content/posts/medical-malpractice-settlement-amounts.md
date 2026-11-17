@@ -54,8 +54,6 @@ Damages in malpractice cases break into two buckets: economic and non-economic. 
 | Non-Economic Damages | Pain and suffering, loss of enjoyment of life, emotional distress | Capped at $350,000 (as of 2022 phase-in); previously $250,000 for decades |
 | Total Settlement Range | Varies by case severity | $50,000-$150,000 (minor cases) to millions (permanent disability/birth injury) |
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the piece that genuinely surprises most people when they first hear it: many states cap non-economic damages in medical malpractice cases. Not total damages. Specifically non-economic damages. And those caps can gut a settlement in ways that feel fundamentally unfair.
 
 California's cap under MICRA (the Medical Injury Compensation Reform Act) was stuck at $250,000 for non-economic damages for *decades*. It was finally adjusted in 2022 (effective over a phase-in period), raising it toward $350,000 for most cases. But for years, a patient who suffered genuine, life-altering harm with well-documented pain and suffering could only recover $250,000 on that portion of their claim, no matter what a jury thought the case was worth.

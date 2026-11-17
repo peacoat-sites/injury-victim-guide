@@ -48,8 +48,6 @@ What they're looking for: prior injuries, mental health history, substance use t
 
 ## What Happens If You Refuse to Sign?
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the part that trips people up: you have the legal right to refuse to sign a broad, unrestricted medical release from the opposing insurer. You don't have to hand over your entire medical history.
 
 You're probably thinking, "but won't they just deny my claim if I don't cooperate?" Fair question. The answer is: not automatically, and not legally, if you cooperate in a reasonable and limited way.

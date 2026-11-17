@@ -49,8 +49,6 @@ That last point matters more than people realize. Studies consistently show that
 
 ## How to Tell If an Offer Is Actually Too Low
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before you react emotionally, you need to understand what your claim should realistically include. "Too low" isn't a feeling. It's a calculation.
 
 A personal injury settlement generally covers two categories of damages. Economic damages are the concrete, countable losses: medical bills, future treatment costs, lost wages, property damage, out-of-pocket expenses. Non-economic damages are real but harder to quantify: pain and suffering, emotional distress, loss of enjoyment of life, impact on your relationships.

@@ -49,8 +49,6 @@ Then go to the doctor. Even if you think you're fine. "I felt okay so I didn't s
 
 ## Medical Records: The Core of Your Case
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering why medical documentation matters so much if the accident was clearly the other person's fault. Fault and damages are two separate questions. Even if liability (meaning who caused the accident) is completely clear, the insurance company still has to evaluate how much your injuries are worth. Medical records are how they do that.
 
 What you want is a paper trail that connects the accident to your injuries and tracks your recovery over time.

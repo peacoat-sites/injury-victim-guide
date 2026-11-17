@@ -41,8 +41,6 @@ Dashboard injuries are a specific mechanism worth knowing. Even with airbags, yo
 
 ## The Injuries That Hide the Longest
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all delayed knee injuries are equal. Some show up in 48 hours. Others take weeks to fully declare themselves.
 
 | Injury Type | Typical Delay in Symptoms | Key Symptom to Watch For | Often Requires Surgery? |

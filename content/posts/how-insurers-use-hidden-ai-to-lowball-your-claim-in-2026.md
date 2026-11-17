@@ -36,8 +36,6 @@ Here's what matters: you won't see the score. Insurance companies don't disclose
 
 ## The Data They're Using Against You
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 AI systems aren't just reading medical records. They're watching you. Insurers are now monitoring smartwatch activity, GPS records, fitness tracker data, and vehicle braking patterns to challenge injury credibility. If your Apple Watch shows you walked 8,000 steps on a day you told the adjuster you were in severe pain, the AI flags it. If your vehicle's data shows aggressive braking patterns suddenly stopped after your collision, it might signal you're faking the whiplash.
 
 Some of this data collection is legitimate. Your car's telematics can show impact severity. Your medical records are fair game. But the volume and specificity of data being ingested into AI systems now goes well beyond that. Combined with [social media surveillance](/social-media-addiction-personal-injury-claims-explained/) (which has long been standard), insurance companies are building a behavioral profile of you that's designed to undermine credibility before you know you're being evaluated.

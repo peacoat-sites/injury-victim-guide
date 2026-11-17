@@ -54,8 +54,6 @@ Insurance companies also look hard at liability. Twelve states follow a "one bit
 | Moderate | $25,000-$75,000 | Deep lacerations, surgical repair, weeks of wound care, visible scarring |
 | Severe | $100,000+ | Multiple bites, facial disfigurement, nerve damage, reconstructive surgery, psychological trauma |
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A dog bite isn't one kind of injury. It's a category that runs from "painful but minor" to "life-altering."
 
 On the lower end: a single bite, clean puncture, you go to urgent care, get a tetanus shot and maybe a short course of antibiotics, no permanent scarring. That claim might settle for $5,000 to $15,000, and that's reasonable. You were hurt, you were scared, you deserve compensation, but the damages are objectively limited.

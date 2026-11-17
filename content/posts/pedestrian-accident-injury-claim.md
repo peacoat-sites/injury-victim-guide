@@ -41,8 +41,6 @@ Then there's comparative fault. Adjusters are trained to find reasons you share 
 
 ## The First 72 Hours: What You Do Right Now Matters
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Solid cases often get damaged, sometimes permanently, by missteps in the first three days.
 
 **Get medical care, even if you feel fine.** Adrenaline hides pain. A soft tissue neck injury or slow intracranial bleed can feel like nothing until it's serious. Seeing a doctor creates a medical record linking your injuries to the accident. A gap between the accident and your first doctor visit gives insurers ammunition: your injuries happened elsewhere, or they weren't serious.

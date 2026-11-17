@@ -47,8 +47,6 @@ The practical takeaway here: lienholders come first. Unsecured creditors have to
 
 ## State Exemption Laws: The Wildly Uneven Map
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The variation here is something the average person would never guess. Your ZIP code has an enormous effect on how much of your settlement you can protect.
 
 Florida, for example, has some of the strongest debtor protections in the country. Under Florida Statute § 222.21, proceeds from personal injury judgments and settlements are completely exempt from creditor claims, with essentially no dollar cap. That's not a typo. A person who receives a $500,000 settlement in Florida can, if they handle it correctly, protect every dollar from unsecured creditors.

@@ -53,8 +53,6 @@ Third: the damages themselves. Soft-tissue cases with smaller medical bills sett
 | Settlement or Trial | 2-4 years total (if litigated) | Court schedule, mediation outcomes |
 | **Overall Range** | **6 weeks to several years** | **All factors combined** |
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to give you a practical map here, because the sequence matters.
 
 **The treatment phase** comes first, and you can't rush it. This is where you're going to doctors, following through on recommendations, keeping records. If you skip appointments, I promise you an adjuster will find out, and it will be used to argue your injuries weren't as serious as claimed. During my time adjusting, we requested medical records going back years in cases with significant claims. Gaps in treatment are red flags we were trained to spot.

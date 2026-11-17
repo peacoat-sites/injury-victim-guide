@@ -62,8 +62,6 @@ Some states cap contingency fees by statute. New York, Florida, California, and 
 
 ## What "Costs" Actually Means (It's Separate from the Fee)
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part that blindsides people most. The contingency fee and case costs are two different things.
 
 Costs are the out-of-pocket expenses to build and pursue your case: filing fees, expert witness fees, medical record requests, deposition transcripts, accident reconstruction specialists, and so on. A complex car accident case might run $5,000 to $15,000 in costs. A medical malpractice case can exceed $100,000 in expert expenses alone.

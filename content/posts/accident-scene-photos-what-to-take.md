@@ -48,8 +48,6 @@ Then get close. Real close. Every panel that's damaged, every piece of trim that
 
 ## The Detail Shots People Almost Never Think to Take
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Skid marks. I cannot stress this enough. Skid marks tell a forensic story about speed, braking distance, and where a vehicle was in the lane before impact. They're also temporary. A rainstorm, a street sweeper, three hours of traffic, and they're gone. Take multiple shots from different angles. Photograph the full length of the marks, not just where they start or end. If you can get a wide shot that shows the skid marks leading to the final vehicle position, you've just created a piece of evidence that reconstructionists use to calculate pre-impact speed.
 
 Road conditions deserve their own set of photos. Wet pavement, gravel, a pothole near the point of impact, faded lane markings. If road conditions played any role in the crash, document them immediately. These are the kinds of factors that can shift liability significantly and that almost nobody captures.

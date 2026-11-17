@@ -47,8 +47,6 @@ The timing is the tell.
 
 ## Timing Is Your Best Evidence (And Your Biggest Vulnerability)
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Courts and administrative agencies look hard at timing when evaluating retaliation claims. If you filed a claim in January and got terminated in February with no prior performance issues documented, that's a suspicious pattern. A jury can see that. Employers know this too, which is why sophisticated HR departments often wait longer, or build a paper trail first.
 
 I'll be honest: the research here is mixed on how often retaliation cases succeed. A 2021 analysis from the Workers Compensation Research Institute found that fear of job loss is one of the most commonly cited reasons injured workers *don't* file claims at all. That statistic stuck with me. Retaliation doesn't have to happen to be effective as a deterrent. The mere possibility keeps a lot of people quiet and injured.

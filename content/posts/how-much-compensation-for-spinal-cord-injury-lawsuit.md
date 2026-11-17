@@ -53,8 +53,6 @@ The reason spinal cord injury lawsuits result in large numbers isn't courtroom t
 
 ## How Compensation Is Actually Calculated
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are two broad categories of damages in a personal injury case, and understanding both is non-negotiable if you want to make sense of any settlement figure you read about.
 
 **Economic damages** are the calculable losses: past medical bills, future medical costs, lost wages (past and projected future earnings), costs of home care, and similar out-of-pocket expenses. These get calculated by economists and life care planners using actuarial tables, labor market data, and sometimes employment records. They're not guesses. They're formal projections, and they're contested vigorously by the defense.

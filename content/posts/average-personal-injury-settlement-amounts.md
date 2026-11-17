@@ -39,8 +39,6 @@ That doesn't mean knowing the landscape is useless. It helps you spot when an of
 
 ## The Six Factors That Determine Your Settlement Value
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The following variables typically affect how adjusters evaluate claims.
 
 **Liability clarity.** Three witnesses saw the other driver run a red light and hit you. Liability is clear. Clear liability means stronger leverage. Shared fault complicates everything. Most states use comparative negligence, so if you're found 20% at fault, your recovery drops by 20%. A few states still use contributory negligence, which can bar recovery entirely if you're even slightly at fault. Know your state's rule before evaluating any offer.

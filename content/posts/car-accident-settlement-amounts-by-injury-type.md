@@ -39,8 +39,6 @@ What I can give you is a realistic breakdown by injury category, the factors tha
 
 ## Soft Tissue Injuries: The Most Common and Most Underestimated
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Whiplash, muscle strains, and ligament sprains account for a huge share of car accident claims. Insurers also fight them the hardest, because they don't show up cleanly on X-rays.
 
 Soft tissue settlements often range from a few thousand dollars to $30,000 or $40,000 for cases with documented treatment, time off work, and lingering symptoms. But "soft tissue" doesn't mean "minor." Chronic whiplash can derail someone's career, disrupt sleep, and cause years of pain. The problem is proving it.

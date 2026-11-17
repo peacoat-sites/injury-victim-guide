@@ -39,8 +39,6 @@ There's also the disc issue, which is the one I wish more people understood upfr
 
 ## What "Weeks Later" Actually Tells a Doctor
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A common mistake in claims adjustment is treating a delay in symptoms as a red flag suggesting the injury wasn't real or wasn't related to the accident. This was standard adjuster training for years. It's medically wrong.
 
 When you show up at a spine specialist's office in week four complaining of new radiating pain down your left leg, that symptom timeline actually tells the doctor something specific. It suggests a disc that was injured during the crash has progressed to the point of nerve compression. The delay isn't suspicious, it's diagnostic.
@@ -110,11 +108,11 @@ One more thing: the [CDC's injury data](https://www.cdc.gov/injury/wisqars/) con
 
 ## Sources
 
-- [*Spine* (2021): "Progressive intervertebral disc changes following whiplash-associated disorders"](https://journals.lww.com/spinejournal/pages/default.aspx) ,  cohort study tracking disc pathology on MRI up to 12 weeks post-injury.
-- [Insurance Information Institute](https://www.iii.org/) ,  industry data on soft tissue claim dispute rates and auto liability trends.
-- [CDC WISQARS Injury Data](https://www.cdc.gov/injury/wisqars/) ,  national injury statistics including motor vehicle-related spinal injury prevalence.
-- *Journal of Orthopaedic & Sports Physical Therapy*, multiple volumes ,  clinical guidelines for lumbar diagnosis and physical therapy timing post-trauma.
-- *Pain Medicine* (2022): "Delayed presentation of lumbar radiculopathy following low-velocity motor vehicle collisions" ,  documented the common 2-6 week lag between crash and nerve compression symptoms.
+- [*Spine* (2021): "Progressive intervertebral disc changes following whiplash-associated disorders"](https://journals.lww.com/spinejournal/pages/default.aspx), cohort study tracking disc pathology on MRI up to 12 weeks post-injury.
+- [Insurance Information Institute](https://www.iii.org/), industry data on soft tissue claim dispute rates and auto liability trends.
+- [CDC WISQARS Injury Data](https://www.cdc.gov/injury/wisqars/), national injury statistics including motor vehicle-related spinal injury prevalence.
+- *Journal of Orthopaedic & Sports Physical Therapy*, multiple volumes, clinical guidelines for lumbar diagnosis and physical therapy timing post-trauma.
+- *Pain Medicine* (2022): "Delayed presentation of lumbar radiculopathy following low-velocity motor vehicle collisions", documented the common 2-6 week lag between crash and nerve compression symptoms.
 
 ---
 

@@ -49,8 +49,6 @@ What most people don't realize is that "whiplash" isn't a precise medical diagno
 
 ## The Factors That Actually Move the Number
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll give you something more useful than a dollar range.
 
 **The severity and duration of your treatment.** Insurance companies calculate something called a "multiplier," typically between 1.5 and 5, applied to your medical bills (your "specials") to arrive at a [pain and suffering estimate](/how-is-pain-and-suffering-calculated-in-a-settlement/). The longer you treat, and the more specialized your treatment, the higher the multiplier tends to go. Physical therapy for twelve weeks reads differently than one urgent care visit and three ibuprofen.

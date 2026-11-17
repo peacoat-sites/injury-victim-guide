@@ -49,8 +49,6 @@ One thing I didn't fully appreciate until I started working with [injury victims
 
 ## The Timeline That Will Shape Your Claim
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The 72-hour window isn't just a medical recommendation. It's also a legal and practical reality that affects how your case gets handled.
 
 According to data compiled by [the CDC's injury reporting systems](https://www.cdc.gov/injury/wisqars/), motor vehicle crashes are the second-leading cause of emergency department visits for musculoskeletal injuries in adults under 65. But most rear-end collision victims don't go to the ER. They go home, take some ibuprofen, and figure they'll feel better in the morning. Then two days later they can barely get out of bed.

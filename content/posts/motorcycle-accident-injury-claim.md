@@ -50,8 +50,6 @@ The lesson isn't to panic. It's to understand the game early enough to play it w
 
 ## The First 72 Hours Decide More Than You Think
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not the whole case. But a lot of it.
 
 The evidence that exists on day one starts vanishing fast. Skid marks. Road debris. Surveillance footage from nearby businesses (most systems overwrite every 48 to 72 hours). Witness memories. Your own physical condition. Every one of these matters, and most injured riders are in the hospital or in shock, which is exactly when they need to be thinking about documentation. That's a cruel irony.

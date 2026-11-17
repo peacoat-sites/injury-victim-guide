@@ -56,8 +56,6 @@ There are two broad categories of neck injury that show up in car accident claim
 
 ## The Factors That Actually Drive Settlement Value
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Ask ten people what a neck injury settlement is worth and you'll get ten different answers. The range is genuinely enormous, from a few thousand dollars to well into six figures. There is no universal average that means anything useful.
 
 Here are the factors that carry the most weight:

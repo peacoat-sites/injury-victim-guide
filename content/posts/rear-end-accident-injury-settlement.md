@@ -43,8 +43,6 @@ The Insurance Information Institute consistently notes that bodily injury claims
 
 ## The Injuries That Drive Settlement Value
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Settlement value in any personal injury claim comes down to damages, the legal term for everything you lost or suffered because of someone else's negligence. In rear-end cases, damages generally fall into two buckets: economic and non-economic.
 
 **Economic damages** are calculable losses:

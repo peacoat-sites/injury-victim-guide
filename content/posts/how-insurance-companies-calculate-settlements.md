@@ -65,8 +65,6 @@ Neither method is legally required. They're negotiation tools, and whoever uses 
 
 ## How Liability Percentage Changes Everything
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what surprises people: even if the other driver was mostly at fault, you might not collect 100% of your calculated damages. Most states use comparative negligence, which reduces your payout by your percentage of fault in the accident.
 
 Say your total calculated damages come to $50,000. If the adjuster decides you were 20% at fault (maybe you were slightly speeding or didn't brake in time), they reduce the offer by 20%. You'd receive $40,000 instead.

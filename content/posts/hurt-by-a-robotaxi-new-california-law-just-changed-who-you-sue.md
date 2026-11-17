@@ -28,10 +28,6 @@ This matters enormously for injury victims because it changes who you pursue a c
 
 ## A New Standard of Care, and New Ways to Prove It Was Violated
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 One of the parts of AB 1777 that doesn't get enough attention is what it requires of manufacturers operationally, not just financially. Every driverless vehicle must now have a functioning 24/7 emergency hotline and two-way voice communication available to occupants and, by extension, to people involved in a crash. That's not just a safety feature. It's an enforceable standard of care.
 
 In personal injury law, a "standard of care" is essentially the baseline of what a reasonable party in that position should be doing. When someone fails to meet that standard and someone else gets hurt as a result, that failure becomes a central pillar of a negligence claim. If a Waymo vehicle is involved in a crash and that emergency communication line isn't functioning, or no one answers, that breach could directly support your civil injury claim.

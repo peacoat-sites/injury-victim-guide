@@ -54,8 +54,6 @@ The keyword here is *physical*. That one word does a lot of heavy lifting in tax
 | Interest (pre-judgment or post-judgment) | Taxable | Always reportable as income |
 | Medical expense reimbursement (previously deducted) | Potentially taxable | Tax benefit rule may require recapture if itemized deductions were claimed |
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The physical injury exclusion has clear edges, and what falls outside those edges can absolutely be taxed. Before you assume your entire settlement is tax-free, you need to understand how the money was categorized.
 
 **Emotional distress damages** are taxable unless they flow directly from a physical injury. That's a real distinction. If you were in a car accident, suffered a broken arm, and developed anxiety and PTSD as a result, the emotional distress damages are generally considered part of your physical injury claim and can be excluded. But if you sued someone for discrimination or harassment, experienced emotional distress with no underlying physical injury, and settled, that emotional distress payment is taxable income.

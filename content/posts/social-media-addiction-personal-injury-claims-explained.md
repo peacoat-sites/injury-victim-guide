@@ -24,10 +24,6 @@ That $6 million verdict is significant not because of the dollar amount alone, b
 
 ## The Federal MDL: Scale You Need to Understand
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 MDL-3047, formally *In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation*, is pending in the Northern District of California. As of June 2026, it holds over 2,664 personal injury cases. The case count surged 174% in 2025 alone, making it one of the fastest-growing multidistrict litigations in the federal system, according to [MDL Update's June 2026 tracker](https://mdlupdate.com/mdl/3047-social-media-adolescent-addiction/).
 
 MDLs work differently than class actions. Each plaintiff keeps their individual case. The MDL just consolidates pretrial proceedings so that discovery, expert witnesses, and procedural motions don't have to be re-litigated thousands of times. If and when settlements happen, they're negotiated based on the bellwether results. The school-district cases are running on a parallel track, nearly 800 of them. Breathitt County School District in Kentucky reportedly reached a $27 million settlement with Meta and other defendants in May 2026, which tells you the defendants are taking the school-district exposure seriously. The June 15 federal bellwether trial was another test, and its outcome will put pressure on the remaining school cases.

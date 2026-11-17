@@ -41,8 +41,6 @@ None of this means your claim isn't valid. It means you need to understand the l
 
 ## What You Should Do Immediately After the Fall
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you're reading this right after it happened, or even a few days later, here's a practical roadmap. Some of these steps are more time-sensitive than others.
 
 **Step 1: Get medical attention, even if you feel "okay."**

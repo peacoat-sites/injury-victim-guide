@@ -30,8 +30,6 @@ Two big verdicts in one month. Two different legal theories. Two different court
 
 ## Why Meta Isn't Writing Checks Yet
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Meta has already asked the Los Angeles Superior Court to overturn the K.G.M. verdict or order a new trial. Their primary argument: Section 230 of the Communications Decency Act, a federal law from 1996 that generally shields online platforms from liability for content created by third-party users.
 
 Section 230 has been the tech industry's legal force field for decades. The question courts are wrestling with now is whether it covers algorithmic recommendations, specifically a platform's choice to amplify certain content to certain users, or whether that design decision is the platform's own conduct and therefore outside 230's protection. The K.G.M. jury apparently found the latter. Meta disagrees.
@@ -80,12 +78,12 @@ These are early, contested, consequential rulings in a litigation that will take
 
 ## Sources
 
-- [Social Media Harm Verdicts ,  Motley Rice](https://www.motleyrice.com/technology-and-media/social-media-harm-verdicts) (June–July 2026)
-- [KGM Social Media Addiction Verdict: Meta & YouTube Liable 2026 ,  Spencer Law](https://www.spencer-law.com/post/social-media-addiction-trial) (April 13, 2026)
-- [Social Media Addiction Lawsuit | July 2026 Update ,  Lawsuit Information Center](https://www.lawsuit-information-center.com/social-media-addiction-lawsuits.html) (July 2026)
-- [Social Media Addiction Lawsuit Payouts & Updates | July 2026 ,  Sokolove Law](https://www.sokolovelaw.com/personal-injury/social-media-addiction/) (July 2026)
-- [Social Media Addiction Litigation Timeline ,  Verus LLC](https://verusllc.com/articles/case-management/social-media-addiction-litigation-timeline/) (June 2026)
-- [Top Personal Injury, Med Mal News: 2026 Midyear Report ,  Law360](https://www.law360.com/articles/2497666/top-personal-injury-med-mal-news-2026-midyear-report) (July 8, 2026)
+- [Social Media Harm Verdicts, Motley Rice](https://www.motleyrice.com/technology-and-media/social-media-harm-verdicts) (June–July 2026)
+- [KGM Social Media Addiction Verdict: Meta & YouTube Liable 2026, Spencer Law](https://www.spencer-law.com/post/social-media-addiction-trial) (April 13, 2026)
+- [Social Media Addiction Lawsuit | July 2026 Update, Lawsuit Information Center](https://www.lawsuit-information-center.com/social-media-addiction-lawsuits.html) (July 2026)
+- [Social Media Addiction Lawsuit Payouts & Updates | July 2026, Sokolove Law](https://www.sokolovelaw.com/personal-injury/social-media-addiction/) (July 2026)
+- [Social Media Addiction Litigation Timeline, Verus LLC](https://verusllc.com/articles/case-management/social-media-addiction-litigation-timeline/) (June 2026)
+- [Top Personal Injury, Med Mal News: 2026 Midyear Report, Law360](https://www.law360.com/articles/2497666/top-personal-injury-med-mal-news-2026-midyear-report) (July 8, 2026)
 
 ---
 

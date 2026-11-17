@@ -41,8 +41,6 @@ The Insurance Information Institute consistently reports that bodily injury liab
 
 ## The Specific Factors That Determine Your Settlement Value
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me walk you through what actually moves the needle on a broken bone claim. This is the framework adjusters use internally, and knowing it puts you on equal footing.
 
 **The type and severity of the fracture.** Not all breaks are created equal. A closed fracture, where the bone breaks but doesn't pierce the skin, typically heals more predictably than a compound or comminuted fracture (where the bone shatters into fragments). Fractures requiring open reduction and internal fixation surgery, meaning a surgeon physically opens the site and installs screws, plates, or rods, signal far greater trauma and typically result in higher settlements. The medical costs, recovery time, and complication risk are all significantly greater.

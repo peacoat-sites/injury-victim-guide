@@ -47,8 +47,6 @@ One practical tool I recommend to clients: keep a daily injury journal from day 
 
 ## Finding the Right Attorney and Understanding Fee Structures
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You don't technically need a lawyer for every personal injury claim. A minor fender-bender with a small medical bill and a cooperative insurance company? You might handle that yourself. Anything involving significant injuries, disputed fault, multiple parties, or insurance company pushback? Having an attorney changes the dynamic entirely.
 
 Most personal injury attorneys work on contingency. You pay nothing upfront. The attorney takes a percentage of your final settlement or court award, typically 25% to 40% depending on complexity and whether it goes to trial. No recovery means no attorney fees. This makes legal representation accessible to people who couldn't otherwise afford it.

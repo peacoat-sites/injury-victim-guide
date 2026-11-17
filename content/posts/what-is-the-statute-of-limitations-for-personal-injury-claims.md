@@ -48,8 +48,6 @@ What most people don't realize is that the statute of limitations varies signifi
 | Medical malpractice | 2 years (common) | Often starts from date of negligent act or discovery of injury |
 | Products liability (statute of repose) | 10+ years | Hard cutoff from manufacture/sale date, regardless of injury date |
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Every state sets its own deadline for personal injury claims, and they range from one year (Kentucky, Louisiana, Tennessee) to six years (Maine, North Dakota). Most states cluster around two to three years. California gives you two years. Texas gives you two years. New York gives you three. Florida recently changed from four years to two years for most personal injury cases, which caught a lot of people off guard.
 
 The Insurance Information Institute maintains updated consumer resources at [iii.org](https://www.iii.org/) that can point you in the right direction if you want current deadlines by state.

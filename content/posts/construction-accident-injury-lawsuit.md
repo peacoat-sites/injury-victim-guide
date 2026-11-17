@@ -43,8 +43,6 @@ The Bureau of Labor Statistics reported that in 2023 there were 1,075 constructi
 
 ## Who Can Actually Be Sued
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the question I get asked most often, usually with some skepticism attached: "But the guy who dropped the load wasn't trying to hurt me, so how can I sue anyone?"
 
 Negligence in personal injury law doesn't require intent. It requires showing that someone had a duty to keep you reasonably safe, they failed to meet that standard, and that failure caused your injury. On a construction site, that web of potential defendants can be wide.

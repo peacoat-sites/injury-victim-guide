@@ -36,8 +36,6 @@ That's a fundamental conflict of interest. Your doctor's job is to treat your in
 
 ## The Numbers Behind Why This Industry Exploded
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Litigation funding didn't get this aggressive because someone had a clever idea. It got aggressive because personal injury claims became extraordinarily profitable to finance.
 
 Swiss Re analysis found that liability claim severity increased 57% over the past decade, with verdicts and awards routinely exceeding $100 million. That's not just inflation. That's a structural shift in how juries value harm and how plaintiff attorneys argue damages, partly enabled by well-resourced, funder-backed litigation that can outspend a typical insurance defense team. When a funder puts $50,000 into a soft-tissue injury case and walks out with $200,000 at settlement, the math works. The injured person gets less than they might realize after repaying the advance with interest, fees, and whatever else is buried in the contract.

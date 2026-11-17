@@ -51,8 +51,6 @@ Lost wages in a personal injury context includes any income you couldn't earn be
 
 ## How Insurance Companies Calculate Lost Wages (and Where They Cheat You)
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Want to understand why so many injury victims feel shortchanged? Read this section carefully. Understanding [how insurance companies calculate settlements](/how-insurance-companies-calculate-settlements/) is the single most powerful thing you can do for your claim.
 
 For simple wage loss, adjusters typically want:

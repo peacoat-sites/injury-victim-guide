@@ -37,8 +37,6 @@ If a customer spilled a drink 30 seconds before you walked by, that's a complete
 
 ## The First 24 Hours: Do This Before You Do Anything Else
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The actions you take immediately after a slip and fall can make or break a future claim. I know you might be in pain, or shaken, or both. Do what you can. Even if you only manage a few of these steps, you'll be ahead of most people.
 
 **Step 1: Get medical attention, even if you feel "okay."**

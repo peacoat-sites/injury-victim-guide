@@ -43,8 +43,6 @@ If it's a genuine emergency, go to the ER. For non-emergency injuries, skipping 
 
 ## The Workers' Comp Doctor: What They're Actually Doing
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most workers' comp doctors are genuinely trying to provide good care. But the system creates incentives that don't always align with your recovery.
 
 Workers' comp physicians are often part of occupational medicine networks that contract with insurers. Their documentation language tends to track certain phrases: "[maximum medical improvement](/what-is-maximum-medical-improvement-in-an-injury-claim/)," "work capacity," "return-to-work date." These aren't neutral medical terms. They're administrative milestones that trigger changes in your benefit payments.

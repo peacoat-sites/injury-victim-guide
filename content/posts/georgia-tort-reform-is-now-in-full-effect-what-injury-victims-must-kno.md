@@ -32,8 +32,6 @@ This doesn't mean you can't recover medical costs. It means the floor shifts dow
 
 ## What "Anchoring" Restrictions Mean for Pain and Suffering
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I've seen cases where the opening argument in a trial changed everything. A skilled plaintiff's attorney might tell a jury, "We're asking you to award $15 million for what this family lost," and that number anchors the jury's thinking before a single witness testifies. This reflects documented psychological anchoring effects.
 
 SB 68 restricts that. Georgia attorneys are now limited in how they can suggest specific high-dollar figures for non-economic damages like pain and suffering. The law also eliminates double recovery of attorney fees in certain circumstances. The practical effect is that plaintiffs' lawyers have less room to frame the magnitude of what a client deserves before the evidence comes in.

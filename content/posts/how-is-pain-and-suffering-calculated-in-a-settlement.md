@@ -48,8 +48,6 @@ Honest take: neither method is binding on anyone. They're frameworks. As [the In
 
 ## What Actually Moves the Multiplier
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most claimants get it wrong. A common assumption is that the multiplier is driven primarily by injury severity. It is, but not in the way people assume.
 
 What actually drives a high multiplier isn't just how bad you got hurt. It's how well you can *document* how bad you got hurt.

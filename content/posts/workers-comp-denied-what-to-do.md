@@ -51,8 +51,6 @@ One more thing: get the actual claims file. You have a right to request it in mo
 
 ## Do Not Wait, Because Deadlines Will End You
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Workers' comp has some of the harshest [statute of limitations rules](/workers-compensation-claim-process/) in all of personal injury law. Miss a deadline by one day and a valid claim can be permanently barred. No exceptions. No sympathy.
 
 Most states give you somewhere between 30 and 90 days to file an appeal after a denial. Some states, like California, have their own formal process with the Workers' Compensation Appeals Board. Others use a state labor department hearing. A few route everything through a judge immediately. The process varies wildly by state, which is why the generic advice you find online is often useless or actively misleading.

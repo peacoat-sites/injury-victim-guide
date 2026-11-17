@@ -36,10 +36,6 @@ The remaining serious injury categories, things like permanent consequential lim
 
 ## The 50% Bar: New York's Shift Away from Pure Comparative Fault
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is the other change that's going to sting. New York had long operated under "pure comparative negligence," meaning that even if you were 99% at fault for a crash, you could still recover 1% of your damages. It wasn't perfect, but it protected people in genuinely complicated situations.
 
 Under new CPLR §1411(b), that's over. If a jury finds you more than 50% responsible for the accident, you recover nothing in non-economic damages. Zero. Not a reduced amount. Nothing.

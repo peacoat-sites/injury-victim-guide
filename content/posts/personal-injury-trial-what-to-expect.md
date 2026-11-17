@@ -41,8 +41,6 @@ Carriers sometimes lowball legitimate claims for extended periods, then scramble
 
 ## The Timeline: What You're Actually Signing Up For
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 People ask me all the time how long a trial takes. Here's the honest answer: it depends on variables that are genuinely hard to predict.
 
 | Case Type | Typical Trial Length | Pre-Trial Prep (after filing) | Total Case Duration |

@@ -45,8 +45,6 @@ These are industry estimates, not guarantees. Your actual outcome depends on pol
 
 ## The Documentation Problem Nobody Warns You About
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part that costs people real money, and it usually happens in the first 72 hours after the crash when you're still in shock, possibly in the hospital, and the last thing on your mind is building a paper record.
 
 Here's what I'd do if I could go back and hand a checklist to every cyclist I saw undercompensated: photograph everything at the scene if you're physically able to. Not just the damage, but the road conditions, any skid marks, traffic control devices, sight lines, and the position of vehicles. Get the police report number before you leave. Get witness names and phone numbers yourself, because officers don't always do this reliably. Note the weather, the time, and whether you had lights on if it was dusk or dark.

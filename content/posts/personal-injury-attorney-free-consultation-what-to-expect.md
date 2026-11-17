@@ -39,8 +39,6 @@ Those three factors are what every personal injury attorney is quietly running t
 
 ## Before You Walk In: The Preparation That Actually Moves the Needle
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people show up with a folder of papers they're not sure about and a lot of anxiety. Understandable. But a little preparation makes you look credible and helps the attorney assess your case faster, which benefits both of you.
 
 Here's what to bring, ranked by usefulness:

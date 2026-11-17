@@ -60,8 +60,6 @@ Knowing which theory fits your situation shapes everything: what evidence to pre
 
 ## The Evidence Problem (This Is Where Claims Actually Die)
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I watched this happen repeatedly. The injured person had a legitimately strong case. And then the evidence vanished.
 
 **The product itself is exhibit A.** Don't throw it away. Don't clean it up. Don't send it back to the manufacturer, no matter how nicely they ask. The moment that product leaves your control, the most important physical evidence is gone. Store it somewhere safe, photograph it from every angle in its post-incident condition, and if possible, photograph it next to something for scale. A ruler works.

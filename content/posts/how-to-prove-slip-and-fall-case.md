@@ -47,8 +47,6 @@ Then there's damages. You must show actual harm: medical bills, lost wages, docu
 
 ## The Evidence That Actually Wins These Cases
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What surprised me on the claims side was how many people would call within days of a fall, furious and hurting, but with almost nothing usable to work with. The [wet floor](/wet-floor-slip-and-fall-injury/) had dried by then. The broken handrail was fixed. Surveillance footage had been overwritten. Property owners don't always do this maliciously. They just have no legal duty to preserve your case.
 
 Here's what you need to get, fast:

@@ -39,8 +39,6 @@ Understanding [how insurance companies calculate settlements](/how-insurance-com
 
 ## Build Your Case Before You Negotiate Anything
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Negotiating without documentation is like arguing about a restaurant bill without the check. You need paper.
 
 Start with your medical records. Get every single visit, diagnosis, imaging report, and treatment note. Don't rely on the insurer to pull these properly. Request them yourself, organize them chronologically, and highlight any language that describes your condition as "permanent," "chronic," or "requiring future treatment." Those words matter.

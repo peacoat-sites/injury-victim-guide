@@ -49,8 +49,6 @@ Getting the economic side right requires paperwork discipline. Failing to keep a
 | Per Diem Method | Injuries with defined recovery arc | Daily pain/suffering value × number of days | $X per day (varies by case) |
 | Insurance Software (Colossus) | Claims evaluation by insurers | 100+ weighted variables | Insurer-favored settlement range |
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Two methods show up constantly.
 
 **The Multiplier Method** takes your total economic damages and multiplies them by a number, typically between 1.5 and 5, to arrive at a non-economic damages figure. An $8,000 whiplash case with minor soft-tissue injury might use a multiplier of 1.5, producing $12,000 in total damages. A serious injury with permanent impairment, significant surgery, and a long recovery might justify a 4 or 5. What drives that multiplier up? Severity and permanence of injury, clarity of liability, how credible and sympathetic the injured person appears, and the quality of the medical documentation.

@@ -54,8 +54,6 @@ The first time I saw contributory negligence end a legitimate claim, the injured
 
 ## Where Each System Actually Lives
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of 2026, only five jurisdictions still use pure contributory negligence: Alabama, Maryland, North Carolina, Virginia, and Washington D.C. If you're in any of those places, one careless comment to an adjuster -- "I didn't see him coming, maybe I should have been more careful" -- can hand them the argument they need to deny your entire claim.
 
 The vast majority of states (roughly 33, depending on how you count) use some form of modified comparative negligence. Most of those use the **51% bar rule**: you can recover as long as you're found to be 50% or less at fault. A smaller group uses the **50% bar rule**, meaning you have to be *less than* 50% at fault to collect anything.

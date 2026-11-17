@@ -43,8 +43,6 @@ You can say, "I'm not in a position to speak today. Can I call you back?" That's
 
 ## What You Actually Have to Say (And What You Don't)
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's a real distinction that most people miss. If the claim is against the *other driver's* insurance company, you generally have no legal obligation to speak with their adjuster at all. They're not your insurer. Your obligation is to your own insurance company under your policy's cooperation clause.
 
 If it's your own insurer calling, yes, you typically need to cooperate or risk claim denial. But "cooperate" doesn't mean "say everything you're thinking." It means provide factual information. There's a difference.

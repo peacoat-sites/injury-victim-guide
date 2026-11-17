@@ -45,8 +45,6 @@ None of this means settlement is always the right answer. It means the system is
 
 ## What Actually Determines Whether Your Case Is in the 5%
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where it gets specific, because "your case might go to trial" is not very useful information without understanding why cases end up there.
 
 **Liability is genuinely disputed.** If both drivers claim the other ran the light, and there's no camera footage, no independent witness, and conflicting police reports, you may have a case an insurer won't settle reasonably. They'd rather let a jury sort it out than pay full value on a case they think they can win.

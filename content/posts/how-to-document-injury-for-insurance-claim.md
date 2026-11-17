@@ -41,8 +41,6 @@ The good part: you have way more power here than you think, and you don't need a
 
 ## The First 72 Hours: What You Do Right Now Matters Most
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Right after an accident, most people are in shock, dealing with insurance reps, or trying not to hurt. All reasonable. But those first 72 hours contain the most valuable evidence, and it disappears fastest.
 
 **Get medical care even if you feel fine.** Adrenaline masks everything. Whiplash, soft tissue damage, even some traumatic brain injuries take time to show up. If you wait a week because pain "wasn't too bad," you've just handed the insurance company a narrative to use against you. Go to urgent care or the ER the same day if possible. That timestamp matters more than you realize.

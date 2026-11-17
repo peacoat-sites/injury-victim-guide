@@ -28,8 +28,6 @@ What surprised me was the specific theory that survived. Plaintiffs argued the p
 
 ## The Scale of This Litigation Is Hard to Overstate
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, more than 2,893 individual [personal injury claims](/what-is-the-statute-of-limitations-for-personal-injury-claims/) are consolidated in federal MDL-3047 (formally titled *In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation*) in the Northern District of California, according to Sokolove Law's July 2026 case tracker. There are also nearly 800 separate lawsuits from school districts and attorney general actions from over 41 states.
 
 A separate New Mexico jury, also in March 2026, ordered Meta to pay $375 million after finding the company misled consumers about platform safety and endangered children. That's a different case on a different theory in a different state, and it went against Meta too.
@@ -76,7 +74,7 @@ The families who got nothing from earlier dismissed cases deserved better. The l
 - [Social Media Addiction Litigation Timeline | Verus LLC](https://verusllc.com/articles/case-management/social-media-addiction-litigation-timeline/) (July 2026)
 - [Verdicts Fuel Hopes in Social Media Addiction Cases | Minnesota Lawyer](https://minnlawyer.com/2026/04/20/jury-verdicts-social-media-addiction-lawsuits/) (April 20, 2026)
 - [Social Media Addiction Lawsuits 2026: KGM Trial, MDL 3047 | Spencer Law](https://www.spencer-law.com/post/social-media-addiction-lawsuits-2026-kgm-trial-mdl-3047) (March 2026)
-- [Social Media Addiction Lawsuit ,  July 2026 Update | King Law](https://www.robertkinglawfirm.com/personal-injury/social-media-addiction/lawsuit/) (July 2026)
+- [Social Media Addiction Lawsuit, July 2026 Update | King Law](https://www.robertkinglawfirm.com/personal-injury/social-media-addiction/lawsuit/) (July 2026)
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

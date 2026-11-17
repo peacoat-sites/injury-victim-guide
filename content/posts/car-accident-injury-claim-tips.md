@@ -58,8 +58,6 @@ While you're recovering, document everything. Photograph your injuries daily, in
 
 ## The Recorded Statement Trap (and Other Early Mistakes)
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The adjuster who calls you in the first 48 hours sounds helpful. They're calling to "get your side of the story." Don't give a recorded statement to the other driver's insurance company without first speaking to an attorney. This isn't paranoia. It's just understanding how the game is played.
 
 Recorded statements are used to lock you into descriptions of your injuries before you fully know the extent of them. If you say "I feel pretty good, mostly just stiff," that quote follows you through the entire claim. Months later, when your MRI shows a herniated disc, the insurer points back to your own words.

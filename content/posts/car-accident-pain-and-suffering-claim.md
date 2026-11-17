@@ -48,8 +48,6 @@ These fall under what lawyers call "non-economic damages," which just means loss
 
 ## How Insurance Companies Calculate Pain and Suffering
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where it gets murky. Pay attention here, because insurance adjusters, and I spent 12 years as one, aren't trying to give you the most generous number possible.
 
 Two main methods show up repeatedly.

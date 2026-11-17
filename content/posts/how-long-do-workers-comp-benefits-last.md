@@ -49,10 +49,6 @@ Workers' comp isn't one benefit. It's a bundle of four separate ones, each with 
 
 ## What "Maximum Medical Improvement" Actually Means for Your Timeline
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 MMI is the moment your treating physician decides your condition has stabilized. You may still be in pain. You may still need treatment. MMI doesn't mean you're fine; it means the doctor believes further treatment won't substantially change your condition.
 
 This is the hinge point of your entire claim. Once MMI is declared, your TTD benefits stop (or convert to TPD if you're working light duty). An impairment rating gets assigned. The carrier moves to close or settle the file.

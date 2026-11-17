@@ -37,8 +37,6 @@ What the AI misses are the outliers: the injuries that present modestly at first
 | Florida | HB 527 | Prohibit algorithm as sole basis for denial/reduction; require human certification | Approved December 2025 |
 | Nationwide | NAIC Tool Rollout | Expected nationwide expansion | November 2026 |
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Something significant happened in March 2026 that most injury claimants haven't heard about. The National Association of Insurance Commissioners, which is the primary standard-setting body for state insurance regulators, launched its first-ever AI Systems Evaluation Tool across 12 pilot states: California, Colorado, Connecticut, Florida, Iowa, Louisiana, Maryland, Pennsylvania, Rhode Island, Vermont, Virginia, and Wisconsin. According to U.S. News, a nationwide rollout is expected by November 2026.
 
 What this tool actually requires is meaningful: insurers in those pilot states must now disclose what data feeds their AI claims systems. That's not a small thing. For years, insurers could tell you "our system reviewed your claim" without explaining whether that system was drawing on your credit history, your zip code's litigation rate, or injury patterns from a demographic that doesn't match your situation at all.
@@ -80,7 +78,7 @@ The regulatory tide is genuinely turning in 2026. That's not spin, it's what the
 - [How Technology Is Changing Personal Injury Auto Claims 2026](https://insurancenewsnet.com/innarticle/how-technology-is-changing-personal-injury-auto-claims-2026) (March 4, 2026)
 - [How AI Is Changing Insurance in 2026](https://www.moneygeek.com/insurance/how-ai-is-changing-insurance/) (March 27, 2026)
 - [How AI is Used by Insurance Companies to Deny Your Claim](https://www.mcquaidinjurylaw.com/how-ai-is-being-used-by-insurance-companies-deny-your-claim-2026/) (May 2, 2026)
-- [Q4 2025 Crash Course: Auto Claims & Repair Trends , CCC Intelligent Solutions](https://www.cccis.com/reports/crash-course-2025/q4) (Q4 2025)
+- [Q4 2025 Crash Course: Auto Claims & Repair Trends, CCC Intelligent Solutions](https://www.cccis.com/reports/crash-course-2025/q4) (Q4 2025)
 
 ---
 

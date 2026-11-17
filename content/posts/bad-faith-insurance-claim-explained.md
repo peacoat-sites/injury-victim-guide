@@ -58,8 +58,6 @@ Most articles skip right past this part. So I'll say it directly: a successful b
 
 ## The Specific Behaviors That Qualify
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 "Bad faith" gets thrown around loosely, and that hurts legitimate claimants. Call every frustrating insurance interaction bad faith and you dilute the concept until attorneys who might actually help you won't touch your case.
 
 What actually qualifies, based on state insurance codes and the [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on policyholder rights:

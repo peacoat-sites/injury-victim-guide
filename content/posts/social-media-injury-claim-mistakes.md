@@ -44,8 +44,6 @@ Adjusters regularly find usable content from posts made years before the acciden
 
 ## The Specific Mistakes That Kill Claims
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me be direct about what actually damages cases, because the generic "be careful on social media" advice you'll read everywhere doesn't tell you what to actually watch for.
 
 **Posting anything that contradicts your claimed injuries.** This is the obvious one, but people underestimate how easy it is to do accidentally. You claim chronic neck pain from a rear-end collision. Then a friend tags you at a concert where you're clearly standing, dancing, and having a great time. The adjuster doesn't know that you took three ibuprofen to get through that hour, or that you paid for it for a week afterward. They see what they see. A 2023 survey by the American Bar Association found that over 70% of attorneys reported finding social media evidence used against their clients in personal injury cases. That number has only grown as of 2026.

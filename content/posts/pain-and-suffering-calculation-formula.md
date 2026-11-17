@@ -44,8 +44,6 @@ The challenge is that our legal system asks juries, adjusters, and attorneys to 
 | Serious injury requiring surgery (ongoing limitations) | 4-5 | $50,000+ economic damages × 4-5 = $200,000-$250,000+ pain and suffering | Permanent effects, strong medical documentation |
 | Catastrophic/permanent disability | 5+ | Case-specific; often combined with life expectancy tables | Requires expert testimony; highest variability |
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's no universal law that dictates exactly how pain and suffering must be calculated. Different states, different insurance companies, and different attorneys approach this differently. But two methods dominate the conversation.
 
 **The Multiplier Method**

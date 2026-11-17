@@ -26,10 +26,6 @@ Then on June 9, 2026, Judge Carolyn Kuhl denied Meta and Google's motions for a 
 
 ## The Settlement Picture and What It Signals
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 TikTok's July 2026 settlement in the second California bellwether case (plaintiff identified as R.K.C.) is the quieter story, but arguably the more telling one. YouTube had already settled with the same plaintiff before the July 27, 2026 trial date. TikTok followed. Both deals are confidential, so no dollar figures are public.
 
 Companies settle when they calculate that a trial verdict costs more than the settlement amount, or when they don't want additional damaging internal documents entering the public record. That TikTok chose to pay rather than face a Los Angeles jury just weeks after watching a $6 million verdict survive post-trial review tells you something about how their lawyers are reading this.
@@ -78,11 +74,11 @@ This litigation is not a lottery. It's a product liability case grounded in inte
 
 ## Sources
 
-- [Social Media Settlement Updates: Verdicts and Cases ,  LegalClarity](https://legalclarity.org/social-media-settlement-updates-verdicts-and-cases/) (June 2026)
-- [Social Media Addiction Lawsuit Payouts & Updates | July 2026 ,  Sokolove Law](https://www.sokolovelaw.com/personal-injury/social-media-addiction/) (July 8, 2026)
-- [Social Media Addiction Lawsuit ,  July 2026 Update | King Law](https://www.robertkinglawfirm.com/personal-injury/social-media-addiction/) (July 2026)
-- [Social Media Addiction Lawsuit Settlement Amounts (2026) ,  ConsumerShield](https://www.consumershield.com/product-liability/social-media-addiction/settlements) (June–July 2026)
-- [Top Personal Injury, Med Mal News: 2026 Midyear Report ,  Law360](https://www.law360.com/articles/2497666/top-personal-injury-med-mal-news-2026-midyear-report) (July 8, 2026)
+- [Social Media Settlement Updates: Verdicts and Cases, LegalClarity](https://legalclarity.org/social-media-settlement-updates-verdicts-and-cases/) (June 2026)
+- [Social Media Addiction Lawsuit Payouts & Updates | July 2026, Sokolove Law](https://www.sokolovelaw.com/personal-injury/social-media-addiction/) (July 8, 2026)
+- [Social Media Addiction Lawsuit, July 2026 Update | King Law](https://www.robertkinglawfirm.com/personal-injury/social-media-addiction/) (July 2026)
+- [Social Media Addiction Lawsuit Settlement Amounts (2026), ConsumerShield](https://www.consumershield.com/product-liability/social-media-addiction/settlements) (June–July 2026)
+- [Top Personal Injury, Med Mal News: 2026 Midyear Report, Law360](https://www.law360.com/articles/2497666/top-personal-injury-med-mal-news-2026-midyear-report) (July 8, 2026)
 
 ---
 

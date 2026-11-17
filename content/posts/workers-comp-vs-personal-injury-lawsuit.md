@@ -45,8 +45,6 @@ A personal injury lawsuit can recover all of that. But you have to prove neglige
 
 ## When the Exclusive Remedy Rule Blocks You
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The "exclusive remedy" doctrine is the legal wall between workers comp and a civil lawsuit against your employer. The [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on this is consistent: in virtually every state, if your employer carries workers comp coverage, that coverage is your exclusive remedy against them. You can't collect benefits and then also sue them for the same injury.
 
 There are narrow exceptions. If your employer *intentionally* harmed you, and "intentional" means they actually meant to hurt you, not just that they knew the workplace was dangerous, some states allow a civil suit. A few states, like California and Ohio, have carved out slightly broader exceptions, but they're still narrow in practice. Don't build your strategy around an exception without talking to an attorney first.

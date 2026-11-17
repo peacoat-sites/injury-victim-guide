@@ -66,8 +66,6 @@ The moment you get a denial, your clock is ticking. Write down the date you rece
 
 I know some people want to handle this themselves, and for minor disputes with clear documentation, that's sometimes possible. A denied claim is different. Most workers' comp attorneys work on contingency, taking a percentage of your final award with nothing upfront. The percentage varies by state but is typically capped somewhere between 10 and 20 percent. An unrepresented injured worker statistically recovers significantly less than a represented one. The math usually works in your favor to get help.
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Build Your Evidence Like You're Preparing for Court. Because You Might Be.
 
 The biggest reason denials hold up isn't that injuries aren't real. It's that injured workers can't prove them to the standard required.

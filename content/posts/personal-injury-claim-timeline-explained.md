@@ -45,8 +45,6 @@ The practical consequence is that your own timeline should be built around your 
 
 ## The Phase-by-Phase Breakdown
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I want to give you something genuinely concrete. The timeline isn't one monolithic thing. It's a sequence of phases, each with its own clock.
 
 | Phase | Typical Duration | What's Actually Happening |

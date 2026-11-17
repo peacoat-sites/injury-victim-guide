@@ -45,10 +45,6 @@ Muscle strain and bruising from the seatbelt itself are far more common and much
 
 ## Seatbelt Syndrome
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Seatbelts save lives. They also cause a specific, well-documented pattern of injury called seatbelt syndrome, which the medical literature has recognized for decades. The classic presentation is a horizontal bruise across the lower abdomen (called a seatbelt sign), but the bruise doesn't always appear immediately, and not everyone gets visible bruising at all.
 
 The injury pattern typically involves the small bowel, the mesentery (the tissue that anchors your intestines), the lumbar spine at L1-L2, and sometimes the bladder. Children are more vulnerable because their lap belts often sit above the hip bones rather than across them. Adults in improperly positioned seats have similar exposure.

@@ -52,8 +52,6 @@ Severe TBI cases, paradoxically, are sometimes more straightforward to value bec
 
 ## The Factors That Actually Move the Needle
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Forget the average. These are the variables that actually determine where your case lands.
 
 **Liability clarity.** Was the other driver 100% at fault and caught on a red-light camera? Or is there a genuine dispute about who caused the accident? Contested liability cases rarely settle at full value. Insurance companies know that jurors sometimes split fault even when they shouldn't, and they price offers accordingly.

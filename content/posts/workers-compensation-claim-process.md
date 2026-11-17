@@ -43,8 +43,6 @@ Your employer is supposed to file what's called a "First Report of Injury" with 
 
 ## What Happens After the Claim Is Filed
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once the carrier gets the First Report of Injury, an adjuster gets assigned to your case. Here's something almost nobody tells injured workers: that adjuster's job is to manage the cost of the claim. They're not your advocate. They're not your enemy either, honestly, but they're not neutral. Their job is to pay what the claim legitimately costs and not a dollar more.
 
 The adjuster will reach out to you, probably within a few business days. They'll want a recorded statement. This is where people get into trouble. You're generally not required to give a recorded statement in a workers' comp claim the same way you might be in an auto liability case. Check your state's rules, but if you're asked to give one before you've had any legal guidance, you can ask to do it after you've talked with an attorney or a workers' comp advocate. There's nothing suspicious about wanting to be prepared.

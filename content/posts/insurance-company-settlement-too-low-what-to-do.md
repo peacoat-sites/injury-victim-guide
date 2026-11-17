@@ -53,8 +53,6 @@ Knowing *why* the offer is low helps you figure out which lever to pull.
 
 ## Step-by-Step: What to Do When the Offer Is Too Low
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most articles skip the practical part. Let's get specific.
 
 **Step 1: Don't accept and don't say anything that sounds like acceptance.**

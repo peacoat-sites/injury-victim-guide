@@ -43,8 +43,6 @@ The [Insurance Information Institute](https://www.iii.org/) consistently tracks 
 
 ## The Shots That Actually Matter
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people take three blurry pictures and think they've done enough. They haven't.
 
 Think of it in three layers: establishing, context, and close-up. The establishing shot shows where you are inside the property. A wide-angle photo that includes a store sign, an aisle number, a visible landmark, something that places you at a specific location. Context shots show what's around the hazard: other people walking past it, the absence of a warning sign, the distance from the nearest light source. Close-up shots show the defect itself. Every angle. Multiple.

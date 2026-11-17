@@ -45,8 +45,6 @@ In a contributory negligence jurisdiction, an insurer might argue that a driver 
 
 ## Comparative Negligence: Two Flavors
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Every other state uses some version of comparative negligence, but this is where people get confused, because "comparative negligence" isn't one thing. There are two distinct versions, and the difference matters enormously.
 
 **Pure comparative negligence** means your damages are reduced by your percentage of fault, no matter how high that percentage is. If you're 80% at fault in a car accident and your damages are $100,000, you recover $20,000. Thirteen states use this rule, including California, New York, Florida, and Louisiana.

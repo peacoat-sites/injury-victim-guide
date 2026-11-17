@@ -40,8 +40,6 @@ The single biggest timeline driver? Medical Maximum Improvement, which adjusters
 
 ## What's Actually Happening During Each Phase
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me break down the actual phases, because most articles on this skip the part where months disappear into bureaucratic limbo.
 
 **Reporting and initial claim filing:** If you report promptly and your employer cooperates, this takes a week or two. Delays here (your employer "forgets" to file, there's a dispute about whether you reported in time) can add weeks or months before the claim is even accepted.

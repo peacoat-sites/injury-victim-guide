@@ -48,8 +48,6 @@ I once reviewed a claim where a woman said on her recorded statement, three days
 
 ## Are You Actually Required to Give One?
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the question most people don't think to ask. The answer depends on whose insurance company is calling.
 
 **If it's the other driver's insurance (the at-fault party's insurer):** You're generally not required to give a recorded statement. You have no contract with that company. Their job is to minimize what they pay out. You owe them basic cooperation, sure, but a recorded statement is not the same thing as cooperating. The [American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on insurance matters makes clear that claimants have rights in this process, and politely declining to record is squarely within them.

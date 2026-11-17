@@ -41,8 +41,6 @@ Your legal status on the property also matters, though this has become less of a
 
 ## The Four Things You Actually Have to Prove
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A [slip and fall claim](/slip-and-fall-injury-claim-process/) isn't just "I fell on their property, pay me." You have to establish four elements. Miss one, and the claim fails.
 
 **1. The owner owed you a duty of care.** This is usually easy to establish if you were a customer or invited guest.

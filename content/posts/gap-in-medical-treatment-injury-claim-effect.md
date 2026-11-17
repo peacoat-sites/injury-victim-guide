@@ -44,8 +44,6 @@ Treatment gaps can reduce the settlement value of otherwise solid claims. The ga
 
 ## The Most Common Reasons Gaps Happen (And Why "I Had a Good Reason" Isn't Enough on Its Own)
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 People stop treatment for completely understandable reasons. No health insurance. A job that wouldn't let them take time off for appointments. They thought they were getting better. They live in a rural area where the nearest specialist is an hour away. Their doctor told them to rest and come back if it got worse, and they took that as "you're basically fine."
 
 Every single one of those reasons makes sense to a human being. None of them automatically make sense in a claims file.

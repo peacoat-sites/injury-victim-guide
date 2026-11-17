@@ -51,8 +51,6 @@ Economic damages are straightforward: medical bills (past and projected future),
 
 Non-economic damages are harder: pain and suffering, loss of enjoyment of life, emotional distress. These don't have a receipt. What they have is a narrative, supported by medical records, your own testimony, and how well your attorney communicates what you've actually been through. The "multiplier method" you might've read about (medical bills times 1.5x to 5x) is not how sophisticated insurers value claims. It's a rough shorthand. Adjusters use claim databases and case comparisons, just like good plaintiff's attorneys do.
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for organizing documentation. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If negligence was egregious, punitive damages are theoretically possible. In a standard slip and fall at a grocery store? Forget about it. Unless your attorney specifically raises it, put that out of your mind.
 
 ## Why Grocery Store Cases Specifically Are a Different Animal

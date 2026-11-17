@@ -41,8 +41,6 @@ Then there's the data problem. When you search for settlement amounts, you're se
 | Pain and suffering multiplier | Moderate | Typically 1.5-5× medical bills; 2× for moderate injury, 4× for surgery with permanent restrictions |
 | Per diem method | Moderate | $100-$300 per day of impact, multiplied by affected days |
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Several specific variables can swing settlements by six figures.
 
 **Surgical vs. non-surgical treatment.** This is probably the biggest single factor. A herniated disc that goes away with physical therapy and maybe an epidural injection is worth substantially less than one requiring a microdiscectomy or spinal fusion. Surgery creates hard evidence of how serious things were. It also generates bills in the $50,000 to $150,000 range or higher, which anchors the economic damages part of your claim.

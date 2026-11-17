@@ -45,8 +45,6 @@ Disability ratings come next. A physician, often a specialist, assigns a percent
 
 ## The Factors That Drive Settlement Value Up or Down
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 No two permanent disability cases produce the same number. The variables are real, and they interact in ways that dramatically shift what ends up on the table. Understanding [the factors that increase settlement value](/factors-that-increase-settlement-value/) gives you a genuine edge when evaluating any offer.
 
 **The nature and severity of the impairment.** A spinal cord injury causing paraplegia carries far greater weight than permanent partial hearing loss in one ear. Both are permanent. Both are compensable. The lifetime impact is incomparable.

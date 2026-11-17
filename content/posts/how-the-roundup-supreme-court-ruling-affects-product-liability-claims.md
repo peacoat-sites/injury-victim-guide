@@ -32,10 +32,6 @@ The ruling also resolved what lawyers call a "circuit split," meaning different 
 
 ## Where the Claims Stand Right Now
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The landscape for pending cases is genuinely complicated, and anyone with a claim needs to understand the basic categories. Not every theory of liability got wiped out. The *Durnell* ruling targets failure-to-warn specifically. Other claims, like defective design or manufacturing defects, weren't directly addressed by this decision. Whether those survive in any given case depends on specific facts, jurisdiction, and how courts interpret the ruling going forward.
 
 Here's a rough comparison of how the main claim types look after *Durnell*:

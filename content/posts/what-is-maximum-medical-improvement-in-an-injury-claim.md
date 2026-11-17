@@ -45,8 +45,6 @@ One detail that doesn't show up in the standard explanations: the actual MMI det
 
 ## Why Insurance Companies Love an Early MMI
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be direct here, because I watched this dynamic play out from the inside.
 
 Insurers have a financial incentive to push for early MMI. The sooner MMI is declared, the sooner future medical costs get capped in the settlement conversation. If your treating physician declares MMI at six months when you're still actively symptomatic, the insurer can argue your damages are now finite and calculable. That argument is a lot easier to make if the clock has already stopped.

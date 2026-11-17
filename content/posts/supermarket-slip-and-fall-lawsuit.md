@@ -69,8 +69,6 @@ Even if you feel like you can walk it off, go. A delay in medical care is the si
 
 That evening, write a detailed account of exactly what happened, what the floor looked like, what you were wearing, and how you felt. Memories fade. Written accounts created close to the event carry real weight. An organized claim workbook from Amazon can be genuinely useful for tracking your symptoms, medical visits, and expenses going forward.
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **6. Don't post on social media.**
 
 I can't stress this enough. The insurer's adjuster will look at your Facebook, Instagram, and TikTok. A photo of you at your niece's birthday party three weeks after a knee injury can and will be used to challenge your claim.

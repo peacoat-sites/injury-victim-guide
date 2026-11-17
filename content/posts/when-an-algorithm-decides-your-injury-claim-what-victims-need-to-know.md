@@ -38,8 +38,6 @@ Consumer advocates have documented exactly this pattern: unrepresented claimants
 
 ## The Soft-Tissue Problem
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest, this is where the issue gets most personal for injury victims. Soft-tissue injuries, things like whiplash, muscle tears, and nerve damage, are notoriously hard to quantify with imaging. So is psychological harm: anxiety after a crash, sleep disruption, PTSD. These are real, they're compensable, and they can be life-altering. They're also exactly the kinds of damages that algorithms handle poorly.
 
 Bodily injury claim severity rose 9.2% year-over-year in 2026, which tells you that the real-world cost of being hurt is going up. Medical inflation, longer recovery times, the lasting economic disruption of serious injuries, it's all trending upward. But the AI systems are, at least in part, trained on historical settlement data that undervalued these injuries when [human adjusters lowballed them](/when-ai-handles-your-injury-claim-your-new-rights-in-2026/). Garbage in, garbage out. If the training data reflects years of suppressed soft-tissue payouts, the model learns that those payouts are normal.

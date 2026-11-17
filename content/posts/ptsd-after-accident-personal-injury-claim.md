@@ -30,7 +30,7 @@ Post-traumatic stress disorder is a legitimate, compensable injury in a [persona
 A serious accident doesn't just break bones or tear ligaments. For many people, the psychological damage outlasts the physical damage by years. Flashbacks, hypervigilance, sleep disruption, panic attacks triggered by driving, the smell of gasoline, the sound of brakes. These aren't character weaknesses. They're recognized clinical injuries, and under tort law in every U.S. state, they're recoverable damages.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PTSD is a compensable injury in personal injury claims, not just a "soft" add-on.</li><li style="margin:5px 0">A formal DSM-5 diagnosis from a licensed mental health professional is your foundation ,  without it, the claim is nearly impossible to defend.</li><li style="margin:5px 0">Insurers frequently dispute psychological injuries; documented treatment history is your strongest counter.</li><li style="margin:5px 0">Pain and suffering damages for PTSD can exceed medical specials (your medical bills) in serious cases.</li><li style="margin:5px 0">Most personal injury attorneys take PTSD claims on contingency, so upfront cost isn't a barrier to pursuing one.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PTSD is a compensable injury in personal injury claims, not just a "soft" add-on.</li><li style="margin:5px 0">A formal DSM-5 diagnosis from a licensed mental health professional is your foundation, without it, the claim is nearly impossible to defend.</li><li style="margin:5px 0">Insurers frequently dispute psychological injuries; documented treatment history is your strongest counter.</li><li style="margin:5px 0">Pain and suffering damages for PTSD can exceed medical specials (your medical bills) in serious cases.</li><li style="margin:5px 0">Most personal injury attorneys take PTSD claims on contingency, so upfront cost isn't a barrier to pursuing one.</li></ul></div>
 
 
 ## Why Insurers Fight PTSD Claims Hard
@@ -42,10 +42,6 @@ The other complication is causation. An adjuster will look for any pre-existing 
 Don't assume a pre-existing mental health history kills your claim. It complicates it. There's a difference.
 
 ## The Diagnosis Problem (and How to Solve It)
-
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You cannot build a PTSD claim on your own description of your symptoms. You need a formal diagnosis from a licensed mental health professional, ideally a psychiatrist or a psychologist with experience in trauma. The diagnosis should use DSM-5 criteria (the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, published by the American Psychiatric Association). DSM-5 requires documented evidence of exposure to a traumatic event, intrusion symptoms, avoidance, negative changes in cognition or mood, and hyperarousal. All four clusters need to be present.
 

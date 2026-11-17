@@ -58,8 +58,6 @@ Here's where it gets practical: a guilty plea or DUI conviction in criminal cour
 
 ## What You Can Actually Recover, and What Gets Missed
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 People focus on medical bills. Understandably. But a well-documented drunk driving injury claim covers more ground than that.
 
 **Economic damages** are concrete and calculable:

@@ -54,8 +54,6 @@ The key phrase is "on account of." As long as the money traces back to a physica
 | Interest (pre/post-judgment) | Taxable | Investment income |
 | Medical deduction reimbursement | Taxable | Tax benefit rule applies |
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where people make expensive mistakes.
 
 **Punitive damages.** Always taxable. The point of punitive damages isn't to compensate you, it's to punish the defendant. The IRS won't let punishment money flow through tax-free. Even if those damages were awarded in a case involving serious, documented physical injury, they get taxed as ordinary income. Settlement or verdict, doesn't matter.

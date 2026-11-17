@@ -48,8 +48,6 @@ Within 24 hours, go to an emergency room or urgent care if you haven't already. 
 
 ## Understanding Who You're Filing Against (and Why It Matters)
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This surprises a lot of people: you may need to file with multiple insurance companies depending on your state and the circumstances of the crash.
 
 **The other driver's liability insurance** covers your injuries and property damage when they're at fault. This is the most common claim path.

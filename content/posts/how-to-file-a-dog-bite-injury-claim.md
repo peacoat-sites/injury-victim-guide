@@ -54,8 +54,6 @@ One more thing on documentation: if you want a structured way to track medical v
 
 ## Understanding Who Pays and Under What Theory
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I see people get it wrong even when they've done everything else right: they assume they need to prove the dog owner was careless. In a lot of states, you don't.
 
 Dog bite liability law runs on two different tracks depending on the state.

@@ -30,10 +30,6 @@ What it doesn't change is your right to recover your actual losses, your out-of-
 
 ## Split Trials: Why You Might Not Get to Tell Your Full Story Right Away
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You might be wondering why this matters separately from the damages question. It's a fair thing to ask, and the answer is about courtroom psychology as much as law.
 
 SB 68 now gives defendants the right to request what's called a bifurcated trial. That means the case is split into two phases. In phase one, the jury only decides whether the defendant is liable. They don't hear anything about your injuries, your medical bills, how your life has changed, or what you've lost. Only after they find liability does phase two begin, when the jury finally hears about your damages.
@@ -76,12 +72,12 @@ Whether you agree with these reforms or not, they are the rules your case will p
 
 ## Sources
 
-- [How Georgia's 2025 Tort Reforms Impact 2026 Personal Injury Claims ,  National Law Review / Greathouse Trial Law](https://natlawreview.com/press-releases/how-georgias-2025-tort-reforms-impact-2026-personal-injury-claims) (July 2, 2026)
-- [Georgia Tort Reform 2025: What SB 68 and SB 69 Mean for Injury Victims ,  Reynolds, Horne & Survant](https://reynoldsinjurylaw.com/georgia-tort-reform-2025-what-sb-68-and-sb-69-mean-for-injury-victims-in-macon-ga/) (March 11, 2026)
-- [Georgia's New Tort Reform Laws and Their Impact on Personal Injury Claims ,  Hoff Law](https://www.hoff-law.com/blog/georgias-new-tort-reform-laws-and-their-impact-on-personal-injury-claims/) (July 2, 2025)
-- [National Litigation Trends in Tort Reform: Georgia Leading the Charge ,  Attorney at Law Magazine](https://attorneyatlawmagazine.com/legal/opinion/national-litigation-trends-in-tort-reform-georgia-leading-the-charge) (August 7, 2025)
-- [Georgia's Latest Efforts at Tort Reform: SB 68 & SB 69 ,  Zelle LLP](https://www.zellelaw.com/Georgias_Latest_Efforts_at_Tort_Reform_SB_68_and_SB_69_Reshape_the_Liability_Landscape_for_Insurers_and_Policyholders_Alike) (2025/2026)
-- [Impact of Georgia Tort Reform on Personal Injury Litigation ,  Bader Law / FinanzWire](https://www.finanzwire.com/press-release/bader-law-personal-injury-lawyers-analyzes-impact-of-georgia-tort-reform-on-personal-injury-litigation-0HSvTaLcahY) (June 2026)
+- [How Georgia's 2025 Tort Reforms Impact 2026 Personal Injury Claims, National Law Review / Greathouse Trial Law](https://natlawreview.com/press-releases/how-georgias-2025-tort-reforms-impact-2026-personal-injury-claims) (July 2, 2026)
+- [Georgia Tort Reform 2025: What SB 68 and SB 69 Mean for Injury Victims, Reynolds, Horne & Survant](https://reynoldsinjurylaw.com/georgia-tort-reform-2025-what-sb-68-and-sb-69-mean-for-injury-victims-in-macon-ga/) (March 11, 2026)
+- [Georgia's New Tort Reform Laws and Their Impact on Personal Injury Claims, Hoff Law](https://www.hoff-law.com/blog/georgias-new-tort-reform-laws-and-their-impact-on-personal-injury-claims/) (July 2, 2025)
+- [National Litigation Trends in Tort Reform: Georgia Leading the Charge, Attorney at Law Magazine](https://attorneyatlawmagazine.com/legal/opinion/national-litigation-trends-in-tort-reform-georgia-leading-the-charge) (August 7, 2025)
+- [Georgia's Latest Efforts at Tort Reform: SB 68 & SB 69, Zelle LLP](https://www.zellelaw.com/Georgias_Latest_Efforts_at_Tort_Reform_SB_68_and_SB_69_Reshape_the_Liability_Landscape_for_Insurers_and_Policyholders_Alike) (2025/2026)
+- [Impact of Georgia Tort Reform on Personal Injury Litigation, Bader Law / FinanzWire](https://www.finanzwire.com/press-release/bader-law-personal-injury-lawyers-analyzes-impact-of-georgia-tort-reform-on-personal-injury-litigation-0HSvTaLcahY) (June 2026)
 
 ---
 

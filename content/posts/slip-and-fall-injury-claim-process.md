@@ -65,8 +65,6 @@ Not for anyone else. Just for yourself. What you were doing, what you saw, how y
 **Step 6: Preserve your clothing and shoes.**
 Don't wash them. Put them in a bag. The soles of your shoes can show evidence relevant to whether the surface was unreasonably slippery.
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for walking through the claim process. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Keeping your documentation organized from the start makes everything that follows easier.
 
 ## How the Claims Process Actually Works

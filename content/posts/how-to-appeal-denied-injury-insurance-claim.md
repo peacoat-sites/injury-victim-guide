@@ -48,8 +48,6 @@ You might be wondering whether your specific denial reason matters for how you a
 
 ## Read Your Policy Before You Do Anything Else
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I know. Nobody wants to read their insurance policy. But before you draft a single word of your appeal, you need to find two things in that document: the definition of covered injuries or occurrences, and the appeals procedure section.
 
 The appeals procedure section tells you your deadlines, the format required, who to address it to, and whether there's an internal appeals process you must exhaust before you can escalate. Missing an internal deadline can forfeit your right to an external review or even litigation, depending on your state. This is not a place to guess.

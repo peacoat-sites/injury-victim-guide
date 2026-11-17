@@ -68,8 +68,6 @@ The window after a hit-and-run closes fast. Evidence vanishes. Witnesses scatter
 
 For the full walk-through on building an evidence file, see the guide on [how to document injuries after an accident](/how-to-document-injuries-after-accident/).
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ---
 
 ## Your Insurance Coverage: What Actually Pays Your Bills

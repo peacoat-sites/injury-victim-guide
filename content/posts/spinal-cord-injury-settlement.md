@@ -56,8 +56,6 @@ I want to be direct about something: these numbers are averages. Your situation 
 
 ## The Gap Between Offer and Reality
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell people who call me frustrated after getting a first offer: the initial number is almost never based on your actual lifetime costs. It's based on what the adjuster thinks they can get you to accept.
 
 Claims management under financial pressure often prioritizes policy limits and reserves over actual care needs. Settlement offers may be calculated to avoid engagement of a life care planner rather than to cover actual costs.

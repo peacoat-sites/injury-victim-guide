@@ -45,8 +45,6 @@ One detail that only someone who's read hundreds of these documents would catch:
 
 ## The Timing Problem Nobody Talks About
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'd push back on the conventional wisdom that "you should settle as soon as possible to get paid." Fast settlement is great for the insurance company. It's often disastrous for you.
 
 The problem is called "[maximum medical improvement](/what-is-maximum-medical-improvement-in-an-injury-claim/)," or MMI. It's the point at which your doctors determine that your condition has stabilized and won't significantly improve further. Signing a release before you reach MMI means you're settling a claim before anyone, including your doctors, actually knows the full extent of your damages.

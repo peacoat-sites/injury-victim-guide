@@ -42,8 +42,6 @@ The factors that genuinely control timing include:
 
 ## The Pre-Litigation Phase: Weeks to About a Year
 
-> **Helpful resource:** [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most personal injury claims never see a courtroom. They're resolved directly between the victim (or their attorney) and the insurance company before any lawsuit is filed. This stage is called pre-litigation, and it's where the fastest resolutions happen.
 
 Here's roughly how it unfolds:

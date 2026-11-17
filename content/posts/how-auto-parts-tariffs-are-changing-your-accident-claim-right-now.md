@@ -35,8 +35,6 @@ What this means practically is that a car worth $14,000 with a front-end collisi
 
 ## The Parts Tariff Nobody Is Talking About at the Claims Office
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 About 60% of the auto replacement parts used in U.S. repair shops come from Mexico, Canada, and China. That single statistic explains a lot about why your claim is taking longer and costing more. The 25% tariff that hit those imports has driven up the cost of everything from quarter panels to electronic control modules, and repair shops are passing that cost directly into their estimates.
 
 But here's the part that should actually concern you as a claimant: Insurify projects that tariffs could push average full-coverage premiums up by as much as 4% by the end of 2026, with broader industry analysis suggesting an 8% increase directly attributable to tariffs. Insurers are fully aware of this pressure. They know their claims payouts are going up. Their response, historically and predictably, is to fight harder on individual settlements to offset the overall financial hit.
@@ -73,11 +71,11 @@ The system isn't designed to explain itself to you. But once you understand what
 
 ## Sources
 
-- [Record 23.1% of Auto Claims Are Total Losses in 2025 ,  InsureMojo](https://www.insuremojo.com/total-loss-rate-record-auto-repair-costs-2026/) (April 20, 2026)
-- [What Do Tariffs Mean for Car Insurance Relief? ,  Insurify](https://insurify.com/car-insurance/news/what-do-tariffs-mean-for-car-insurance-relief/) (June 2026)
-- [How Tariffs Affect Car Insurance in 2026 ,  Spill the Tea Daily](https://www.spilltheteadaily.com/2026/04/how-tariffs-affect-car-insurance-in.html) (April 14, 2026)
-- [Why Car Repair Costs Are Rising in 2026 ,  CoverageX](https://coveragex.com/auto/why-car-repair-costs-rising-2026) (April 7, 2026)
-- [2026 Auto Market Trends and Their Impact on Total Loss Insurance Settlements ,  Total Loss Appraisals](https://totallossappraisals.com/2026-auto-market-total-loss-settlements/) (March 16, 2026)
+- [Record 23.1% of Auto Claims Are Total Losses in 2025, InsureMojo](https://www.insuremojo.com/total-loss-rate-record-auto-repair-costs-2026/) (April 20, 2026)
+- [What Do Tariffs Mean for Car Insurance Relief?, Insurify](https://insurify.com/car-insurance/news/what-do-tariffs-mean-for-car-insurance-relief/) (June 2026)
+- [How Tariffs Affect Car Insurance in 2026, Spill the Tea Daily](https://www.spilltheteadaily.com/2026/04/how-tariffs-affect-car-insurance-in.html) (April 14, 2026)
+- [Why Car Repair Costs Are Rising in 2026, CoverageX](https://coveragex.com/auto/why-car-repair-costs-rising-2026) (April 7, 2026)
+- [2026 Auto Market Trends and Their Impact on Total Loss Insurance Settlements, Total Loss Appraisals](https://totallossappraisals.com/2026-auto-market-total-loss-settlements/) (March 16, 2026)
 
 ---
 

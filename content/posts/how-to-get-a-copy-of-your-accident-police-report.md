@@ -43,8 +43,6 @@ Don't assume the report will be favorable just because the other driver was clea
 
 ## Where to Actually Get the Report
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where people lose time, because there's no single national system. In the U.S., police reports are held by whichever agency responded to your crash. That might be:
 
 - Your local city or municipal police department

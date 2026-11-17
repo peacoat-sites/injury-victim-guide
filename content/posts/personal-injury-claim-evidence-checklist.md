@@ -51,8 +51,6 @@ About that police report: call the cops, get a report, and grab the report numbe
 
 ## Medical Records Are Your Claim's Spine
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Six-figure injury claims often fall apart when a claimant waits even four days to see a doctor. A defense attorney will argue that delayed treatment suggests the injury wasn't serious.
 
 Go to the ER or urgent care the same day if at all possible. If your injuries are internal or soft-tissue (whiplash, for instance), you may not feel the full extent until 24-48 hours later. Document the symptoms you have now and go back when more appear.

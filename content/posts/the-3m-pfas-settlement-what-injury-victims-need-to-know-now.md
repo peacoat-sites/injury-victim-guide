@@ -43,10 +43,6 @@ Exposure history matters too. The claims center on people who had substantial co
 
 ## The Payment Timeline: Patience Is Not Optional
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's something that could catch people off guard. Of the full $7.35 billion, only $50 million is scheduled for 2026. Nothing is due in 2027. The bulk of the money flows from 2028 through 2034, with roughly 20% of the total concentrated in the final two years of that schedule.
 
 What that means practically: even claimants who qualify and opt in shouldn't expect a check anytime soon. The present value of the settlement is approximately $5.8 billion, which reflects the time value of money across those eight years. Settlement administrators will work through the claims process, and individual payment amounts will vary based on severity of injury, duration and intensity of exposure, and other case-specific factors. No one should count on a fixed number right now.

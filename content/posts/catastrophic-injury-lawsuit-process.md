@@ -43,8 +43,6 @@ The other thing that separates these cases: the stakes of getting it wrong are p
 
 ## The Process, Laid Out Honestly
 
-> **Helpful resource:** [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what actually happens, without the glossy brochure version.
 
 **Step 1: Secure immediate medical documentation.**

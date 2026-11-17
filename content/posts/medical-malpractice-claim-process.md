@@ -46,8 +46,6 @@ Expert witnesses define the standard of care itself, which is why every legitima
 
 ## The First Step Nobody Talks About: Getting Your Records
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before anything else happens, you need your complete medical records. Not just the discharge summary. Everything: nursing notes, operative reports, medication administration logs, imaging studies, the actual radiology reads, billing records, consent forms. You're legally entitled to all of it under HIPAA, and facilities typically have 30 days to provide them (some states are faster).
 
 Request everything in writing, certified mail if you can. Keep a copy of the request. The facility may charge a per-page copying fee, it varies by state law but usually runs between $0.25 and $1.00 per page. For a complex hospitalization, you could be looking at hundreds of pages, so budget accordingly.

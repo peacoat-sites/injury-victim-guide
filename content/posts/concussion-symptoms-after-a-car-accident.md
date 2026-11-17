@@ -39,8 +39,6 @@ Standard CT scans and MRIs detect structural damage: bleeding, swelling, torn ti
 
 ## The Symptoms: What to Watch For, and When They Show Up
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where things get genuinely complicated, and where I see people get blindsided. Concussion symptoms after a car accident don't always announce themselves immediately. The adrenaline response during and after a crash is powerful enough to mask a lot. I've read hundreds of statements from crash victims who said they "felt fine at the scene" and then woke up the next morning feeling like they'd been hit by a second truck.
 
 Here's a rough breakdown of symptom timing based on what the clinical literature describes and what I've observed in claim files over a combined 20-plus years on both sides of this:

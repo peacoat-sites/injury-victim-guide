@@ -61,8 +61,6 @@ What's also true: back injuries are expensive to treat and often long-lasting. T
 
 ## The Factors That Actually Drive Settlement Amounts
 
-> **Helpful resource:** [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's no published price list for back injury settlements. Anyone who quotes you a "typical" number without knowing your specific facts is guessing. What I can tell you is that adjusters and attorneys use the same core framework when they evaluate a claim, even if they arrive at very different conclusions.
 
 **Medical specials.** This is the insurance industry term for your documented medical expenses. Bills from the ER, imaging (MRI, CT scans, X-rays), physical therapy, specialist visits, injections like epidural steroid injections, and surgery all factor in. Your "specials" form the measurable foundation of any claim.

@@ -45,8 +45,6 @@ I'll confess something: the first time I handled a PIP claim in Florida, I assum
 
 ## The 12 States (and Puerto Rico)
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, the states operating under genuine no-fault systems are: Florida, Michigan, New Jersey, New York, Pennsylvania, Hawaii, Kansas, Kentucky, Massachusetts, Minnesota, North Dakota, and Utah. Puerto Rico also uses a no-fault system.
 
 A few of these states, specifically Kentucky, New Jersey, and Pennsylvania, are what's called "choice" or "verbal threshold" states. They let you choose at policy purchase whether you want the full no-fault protection or whether you want to retain the right to sue. If you're in one of these three states and you've never thought consciously about which option you picked, go check your declarations page right now. It matters more than most people think.

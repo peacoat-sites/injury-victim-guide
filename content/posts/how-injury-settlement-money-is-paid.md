@@ -43,8 +43,6 @@ This is the part nobody expects and then gets annoyed by. Your attorney is legal
 
 ## Where the Money Goes Before It Reaches You
 
-> **Helpful resource:** [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Think of your gross settlement as a pie. Several people have slices already spoken for before you eat.
 
 **Attorney fees** come first. If you hired a personal injury attorney on a contingency fee basis (which is how almost everyone does it), they typically take 33% if the case settled before a lawsuit was filed, or 40% if it went into litigation. Some attorneys charge a flat third across the board. Get this percentage in writing before you sign anything with them, because without it in writing you could be genuinely surprised by a 40% deduction when you assumed it was a third.

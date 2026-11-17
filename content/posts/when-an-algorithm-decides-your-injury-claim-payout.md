@@ -36,8 +36,6 @@ For a minor fender-bender with a clean repair bill, that speed can genuinely be 
 | Ongoing/future medical needs | Underweighted | Requires projection, not historical data |
 | Pain affecting daily life | Underweighted | Subjective, not scan-visible |
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part nobody tells you upfront. Consumer advocates have documented that AI settlement platforms used by major insurers are specifically calibrated in ways that produce lower valuations for injuries that don't show up cleanly on imaging or a repair estimate. Whiplash. Chronic back pain. Anxiety after a serious crash. These are real harms, but they're hard to reduce to a number a model can process with confidence, so the model discounts them.
 
 Think about what an algorithm is actually doing. It's trained on historical claims data, which means it's learning what past settlements looked like. If insurers historically lowballed soft-tissue claims (and they did, I know because I spent 12 years on that side of the table), the model learns to replicate that pattern and optimizes it further. It's not malicious. It's math. But the output is the same: an offer that doesn't reflect your actual situation.

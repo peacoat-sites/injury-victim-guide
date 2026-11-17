@@ -53,8 +53,6 @@ Commercial trucking policies are substantially larger than personal auto policie
 
 ## The Evidence That Disappears Fast
 
-> **Helpful resource:** [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Trucking companies often move quickly to preserve evidence favorable to them, and evidence can become unavailable to claimants who delay.
 
 Modern commercial trucks generate a remarkable volume of data. The electronic logging device (ELD) records driving time, speed, and rest breaks. The electronic control module (ECM), sometimes called the truck's "black box," captures brake applications, throttle position, and vehicle speed in the moments before impact. Dashcam footage, if the truck was equipped, shows exactly what the driver was doing. GPS fleet tracking systems log the vehicle's location history. Driver qualification files, maintenance records, and inspection logs round out the picture.

@@ -48,8 +48,6 @@ The sweet spot? An attorney who handles personal injury cases specifically, is l
 
 ## The Contingency Fee System: What It Actually Means for You
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Personal injury lawyers almost universally work on contingency. You pay nothing upfront; they take a percentage of your recovery, typically 33% if the case settles before trial and often 40% or more if it goes to litigation. This is actually a good system for injury victims, and I say that as someone who used to sit on the insurance side watching it work.
 
 Here's why it aligns incentives: your lawyer only gets paid if you do. They're not billing you $400 an hour to write letters; they're motivated to actually win. That said, there are a few things about contingency that catch people off guard.

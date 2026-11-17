@@ -43,8 +43,6 @@ Here's what I tell people who feel "mostly fine" after a sideswipe: see a doctor
 
 ## Who's At Fault in a Sideswipe Accident?
 
-> **Helpful resource:** [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is usually the first real question, and it's more complicated than most expect.
 
 The most common sideswipe scenarios:

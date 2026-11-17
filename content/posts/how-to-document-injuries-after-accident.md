@@ -37,8 +37,6 @@ Good documentation does two things. It creates a contemporaneous record, meaning
 
 ## What to Do in the First 24 Hours
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The first day matters more than almost any other window. Your memory is freshest, physical evidence still exists at the scene, and your initial medical records will anchor everything that follows.
 
 **At the scene, if you're physically able:**

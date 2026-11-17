@@ -41,8 +41,6 @@ But here's where people give up too soon.
 
 ## The Exceptions That Actually Matter
 
-> **Helpful resource:** [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **Intentional harm.** If your employer, or a supervisor acting on behalf of the company, intentionally causes your injury, most states will let you sue. And I don't mean negligent, I mean deliberate. Think: an employer who physically assaults you, or who orders you into a situation knowing, with near-certainty, that serious injury will result. California's standard is particularly specific here, requiring that the employer knew injury was "substantially certain" to occur, not just likely. Ohio takes a similar approach. This exception exists in theory in most states, but courts apply it narrowly, so don't assume anger on your employer's part equals intent.
 
 **Fraudulent concealment of a hazard.** This one surprises people. Several states allow a direct lawsuit if your employer actively hid a known occupational hazard from you. The key word is "actively," not just "failed to fix." A documented paper trail where management knew about asbestos exposure and chose not to disclose it, for instance, is different from a company that simply let something slip through inspection.

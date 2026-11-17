@@ -44,8 +44,6 @@ Many attorneys quietly settle everything regardless of case strength, simply bec
 
 ## The Consultation Is a Two-Way Interview
 
-> **Helpful resource:** [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people walk into a [free consultation](/personal-injury-attorney-free-consultation-what-to-expect/) feeling like they're applying for a job. Flip that dynamic.
 
 You're evaluating whether this person is the right fit for something that might occupy the next one to three years of your life. The Insurance Information Institute has documented that [litigated personal injury cases](/when-to-hire-a-personal-injury-lawyer/), particularly those involving disputed liability or serious injury, routinely take 18 months or more to resolve. That's a long relationship.
