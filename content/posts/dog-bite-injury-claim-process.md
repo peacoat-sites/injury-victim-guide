@@ -26,9 +26,9 @@ faqs:
     a: "For anything beyond a very minor bite with minimal medical costs, yes. Most personal injury attorneys take dog bite cases on contingency, meaning no upfront cost to you. In my experience evaluating these claims, represented claimants consistently receive higher settlements than unrepresented ones, often substantially so, and the attorney's fee is typically offset by that difference."
 ---
 
-Nearly 4.5 million people are bitten by dogs in the United States every year, according to the CDC's injury surveillance data, and what genuinely floored me when I first dug into those numbers was this: roughly one in five bites requires medical attention, yet the majority of victims never file a claim at all. They just... absorb the cost. The missed work, the ER visit, the follow-up care, the scar that requires a plastic surgeon. I spent 12 years on the other side of these claims, evaluating them for [insurance companies](/how-insurance-companies-calculate-settlements/), and I'll be honest: that silence is exactly what insurers count on.
+Nearly 4.5 million people are bitten by dogs in the United States every year, according to the CDC's injury surveillance data, and what genuinely floored me when I first dug into those numbers was this: roughly one in five bites requires medical attention, yet the majority of victims never file a claim at all. They just... absorb the cost. The missed work, the ER visit, the follow-up care, the scar that requires a plastic surgeon. Adjusters who have evaluated these claims know that silence is exactly what insurers count on.
 
-The dog bite [claim process](/personal-injury-claim-process-step-by-step/) isn't as complicated as most people fear. But it has real landmines, specific windows you can miss, and a handful of moves that will quietly kill your case before you've even started. So I went back through my old casework and talked to people currently going through the process in 2026, and I want to give you the unfiltered version.
+The dog bite [claim process](/personal-injury-claim-process-step-by-step/) isn't as complicated as most people fear. But it has real landmines, specific windows you can miss, and a handful of moves that will quietly kill your case before you've even started. Drawing on how these claims actually play out and what people currently going through the process in 2026 are experiencing, this guide offers an unfiltered look at what to expect.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Dog bites generate over $1 billion in homeowner insurance claims annually, per Insurance Information Institute data.</li><li style="margin:5px 0">Most states give you 2-3 years to file a personal injury lawsuit (statute of limitations varies).</li><li style="margin:5px 0">Liability rules differ sharply: "strict liability" states vs. "one-bite rule" states change your odds significantly.</li><li style="margin:5px 0">Seeking medical care within 24 hours both protects your health and creates the documentation your claim depends on.</li><li style="margin:5px 0">Never give a recorded statement to the dog owner's insurer without understanding what you're agreeing to.</li></ul></div>
 
@@ -44,7 +44,7 @@ California and New York consistently rank highest in average payout, not because
 
 ## Strict Liability vs. the One-Bite Rule
 
-This is where I see people get genuinely blindsided, and I'll be honest, I got this wrong myself early in my adjusting career. I assumed all states worked the same way. They don't.
+This is where people get genuinely blindsided. It is easy to assume all states work the same way. They don't.
 
 About 35 states currently follow strict liability for dog bites. That means if a dog bites you, the owner is liable. Period. They don't get to argue "but my dog never bit anyone before." California, Florida, Michigan, New Jersey, and others fall here. The American Bar Association's public education resources explain this cleanly: in strict liability states, the victim only needs to prove the bite happened and caused harm.
 
@@ -58,9 +58,9 @@ The first three days after a dog bite are, without exaggeration, the most conseq
 
 1. Get medical care immediately. Dog bites introduce bacteria, including Pasteurella and, in rare cases, rabies exposure risk. But beyond your health: every treatment record is a piece of evidence. The ER intake note, the wound photos the nurse takes, the rabies prophylaxis protocol, all of it becomes documentation. A gap in care is the first thing an adjuster looks for when they want to reduce your settlement offer.
 
-2. Report the bite to animal control. This is the step most people skip. That report creates an official record, triggers a rabies investigation, and may uncover prior complaints about the same dog. For example, if a previous complaint exists, it can strengthen liability in a borderline case.
+2. Report the bite to animal control. This is the step most people skip. That report creates an official record, triggers a rabies investigation, and may uncover prior complaints about the same dog. For example, if a previous complaint about the same dog exists on record, it can strengthen liability in a borderline case.
 
-3. Document everything before it heals. I cannot stress this enough. Take photos every single day for at least the first two weeks. The progression of bruising, swelling, and wound healing tells a story that a single snapshot doesn't. Courts and adjusters alike respond to visual evidence. A $19 injury documentation journal (like this [Daily Injury Documentation Log on Amazon](https://www.amazon.com/s?k=injury+documentation+journal), note the site may earn a small commission) can help you track symptoms, medical appointments, and out-of-pocket expenses consistently.
+3. Document everything before it heals. This step is critical. Take photos every single day for at least the first two weeks. The progression of bruising, swelling, and wound healing tells a story that a single snapshot doesn't. Courts and adjusters alike respond to visual evidence. A $19 injury documentation journal (like this [Daily Injury Documentation Log on Amazon](https://www.amazon.com/s?k=injury+documentation+journal), note the site may earn a small commission) can help you track symptoms, medical appointments, and out-of-pocket expenses consistently.
 
 4. Get the dog owner's information and their homeowner or renter's insurance details. They're not required to hand it over on the spot, but ask directly and calmly. Their insurer is who you'll likely be dealing with.
 
@@ -85,19 +85,19 @@ Many people accept first settlement offers without countering. The first offer i
 
 ## Recorded Statements and Why I'd Be Cautious
 
-Here's where I get a little blunt: if the dog owner's insurance adjuster calls you and asks for a recorded statement, you are not required to give one. You're not the insured. You're the claimant.
+To be direct: if the dog owner's insurance adjuster calls and asks for a recorded statement, the claimant is not required to give one. You're not the insured. You're the claimant.
 
-In my 12 years adjusting, recorded statements were a tool. They weren't malicious exactly, but they were used to lock people into descriptions of their injuries and lock in admissions like "I was reaching toward the dog" or "I didn't really see it coming" that could later be used to argue comparative fault, meaning you were partly responsible. Comparative fault can reduce your settlement in many states or eliminate it entirely in a few.
+In practice, recorded statements are a tool. They weren't malicious exactly, but they were used to lock people into descriptions of their injuries and lock in admissions like "I was reaching toward the dog" or "I didn't really see it coming" that could later be used to argue comparative fault, meaning you were partly responsible. Comparative fault can reduce your settlement in many states or eliminate it entirely in a few.
 
-My honest suggestion: consult an attorney before giving any recorded statement to the opposing insurer. Most personal injury attorneys offer free consultations on dog bite cases, and many work on contingency (they get paid a percentage of your settlement, typically 33%, only if you recover something).
+The strongly recommended approach is to consult an attorney before giving any recorded statement to the opposing insurer. Most personal injury attorneys offer free consultations on dog bite cases, and many work on contingency (they get paid a percentage of your settlement, typically 33%, only if you recover something).
 
 **A concrete example of how this plays out:**
 
-A woman in Phoenix was bitten on her forearm while visiting a friend's home. The dog's owner's State Farm policy was for $300,000 in liability. The adjuster called within 48 hours asking for a recorded statement. She gave one without consulting an attorney, describing how she'd "kind of bent down near the dog." The adjuster later used that statement to argue she'd provoked the animal. Arizona is a strict liability state, so provocation is actually one of the few defenses available. Her eventual settlement was reduced by 20% from what her original demand was. That one recorded call probably cost her around $14,000 based on the final numbers.
+For example, consider a situation where someone is bitten on the forearm while visiting a friend's home. The dog owner's homeowner policy carried $300,000 in liability coverage. The adjuster called within 48 hours asking for a recorded statement. Without consulting an attorney first, the victim gave a statement describing how she had "kind of bent down near the dog." The adjuster later used that statement to argue the victim had provoked the animal. Arizona is a strict liability state, so provocation is actually one of the few defenses available. The eventual settlement was reduced by 20% from the original demand. That one recorded call likely cost around $14,000 based on the final numbers.
 
 ## Settlement Ranges and What Affects Your Number
 
-I get asked constantly: "What is my dog bite case worth?" And the honest answer is that I can't tell you, and neither can anyone who hasn't reviewed your specific medical records and circumstances. But I can tell you what moves the number in either direction.
+A common question is: "What is my dog bite case worth?" The honest answer is that no one can say without reviewing specific medical records and circumstances. But I can tell you what moves the number in either direction.
 
 **Factors that increase value:** Visible or permanent scarring, especially on the face or hands. Nerve damage. A child victim. Lost wages. Psychological injury (documented PTSD, anxiety around animals). Prior documented aggression by the dog. A high-value homeowner's policy.
 

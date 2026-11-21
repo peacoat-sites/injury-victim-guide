@@ -74,7 +74,7 @@ What actually qualifies, based on state insurance codes and the [American Bar As
 
 **Failing to defend you.** If you have liability coverage and someone sues you, your insurer has to defend you. Refusing to, or defending you so poorly that you end up with a judgment against you, triggers bad faith liability.
 
-One I dealt with personally as an adjuster: the company wanted us to request the same documentation multiple times, letting the statutory clock reset with each request. Management called it thoroughness. It was actually a stall tactic. I stopped doing it eventually. Not everyone else did.
+One documented tactic involves insurers requesting the same documentation multiple times, letting the statutory clock reset with each request. Management in such cases often calls it thoroughness. It was actually a stall tactic.  
 
 ---
 
@@ -114,7 +114,7 @@ What does pursuing it actually look like?
 
 Your attorney typically sends a formal demand letter, laying out the insurer's conduct and the legal basis for bad faith. Sometimes this alone moves an insurer that was unmovable before. A company willing to ignore a claimant gets very cooperative when potential damages jump past their policy limits.
 
-If the demand doesn't work, litigation follows. Discovery in bad faith cases is unusual because your attorney can often force production of the insurer's internal claim notes, training materials, reserve calculations, and anything written about your file. That's where patterns emerge. Adjusters write things in notes they'd never say aloud. I know. I wrote some of them.
+If the demand doesn't work, litigation follows. Discovery in bad faith cases is unusual because your attorney can often force production of the insurer's internal claim notes, training materials, reserve calculations, and anything written about your file. That's where patterns emerge. Adjusters write things in notes they would never say aloud, and those internal records often reveal the pattern of conduct your case depends on.
 
 Outcomes depend heavily on your state, because bad faith law is largely state-specific. California and Florida have fairly robust bad faith frameworks. Some states allow punitive damages routinely; others cap them or rarely award them. Some states offer weak protections. Where you live matters as much as what happened to you.
 

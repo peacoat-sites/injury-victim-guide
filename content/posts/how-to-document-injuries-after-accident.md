@@ -29,7 +29,7 @@ You took the ibuprofen, iced your neck, and figured you'd feel better in a coupl
 
 ## Why Documentation Is Your Most Powerful Tool
 
-Insurance companies are not your friends. I spent 12 years on their side of the table, and I can tell you plainly: adjusters are trained to look for gaps. A gap in time between the accident and your first medical visit. A gap between your complaint of pain and a doctor's written record of it. A gap between what you told the ER and what you said three months later. Every gap is an opportunity to reduce or deny your claim.
+Insurance companies are not your friends. Adjusters are trained to look for gaps. A gap in time between the accident and your first medical visit. A gap between your complaint of pain and a doctor's written record of it. A gap between what you told the ER and what you said three months later. Every gap is an opportunity to reduce or deny your claim.
 
 The Insurance Information Institute notes that disputed liability and inadequate documentation are among the leading reasons [personal injury claim](/what-is-a-personal-injury-claim/)s settle for less than their potential value. That's not a scare tactic. It's just how the system works.
 
@@ -69,7 +69,7 @@ Think of this as building a case file, because that's exactly what it is. Start 
 
 ## Talking to Doctors: What You Say Becomes Evidence
 
-Your medical records are a legal document. What you tell your doctor, and what they write down, can help or hurt your claim significantly. I've reviewed thousands of claims where a client casually said "it's not that bad" to a doctor because they didn't want to complain, and that phrase ended up in the chart notes and was later used by an insurance adjuster to minimize the settlement.
+Your medical records are a legal document. What you tell your doctor, and what they write down, can help or hurt your claim significantly. Claims reviewers frequently encounter situations where an injured person casually said "it's not that bad" to a doctor to avoid seeming like a complainer, and that phrase ended up in the chart notes and was later used by an insurance adjuster to minimize the settlement.
 
 Be honest and be thorough. Don't exaggerate, but don't minimize either. If you have pain that prevents you from picking up your child, or makes it hard to sleep, or stops you from doing your job, say that out loud to your doctor and make sure it gets recorded.
 

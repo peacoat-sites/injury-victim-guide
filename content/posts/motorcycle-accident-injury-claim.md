@@ -30,7 +30,7 @@ Most articles about motorcycle accident claims spend three paragraphs explaining
 
 Let me fix that.
 
-I spent 12 years adjusting claims for a major carrier before I crossed the table. In that time, I watched motorcycle claims get undervalued more consistently than almost any other vehicle category. Not always because of bad math. Often because of bias that gets baked into the process from the first call, and riders who don't know enough to push back.
+ Motorcycle claims get undervalued more consistently than almost any other vehicle category. Not always because of bad math. Often because of bias that gets baked into the process from the first call, and riders who don't know enough to push back.
 
 Here's what actually happens, and what you can do about it.
 
@@ -38,7 +38,7 @@ Here's what actually happens, and what you can do about it.
 
 ## Why Motorcycle Claims Are a Different Animal
 
-The moment a rider files a claim, an adjuster's internal framing shifts. I know, because I did it myself, without realizing it at first. There's a persistent industry assumption that motorcyclists are higher-risk, less sympathetic claimants. Studies on jury behavior bear this out: [the American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on personal injury litigation notes that juror perception of "assumption of risk" hits motorcycle cases harder than car accidents, even when the rider was legally faultless.
+The moment a rider files a claim, an adjuster's internal framing shifts.  There's a persistent industry assumption that motorcyclists are higher-risk, less sympathetic claimants. Studies on jury behavior bear this out: [the American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on personal injury litigation notes that juror perception of "assumption of risk" hits motorcycle cases harder than car accidents, even when the rider was legally faultless.
 
 That assumption shows up early. Adjusters will note whether you were wearing full gear. They'll flag any prior speeding violations. They'll look for any way to argue [comparative negligence](/defective-product-injury-claim/), which is the legal concept that says if you're partially at fault, your payout gets reduced by that percentage. In a handful of states, if you're found more than 50% at fault, you recover nothing.
 
@@ -72,7 +72,7 @@ One more thing: don't give a recorded statement to the other driver's insurance 
 
 ## Documenting Your Injuries (And Why Medical Records Alone Aren't Enough)
 
-Here's something I got wrong for years as an adjuster: I thought a solid stack of medical records was all an injury victim needed to prove damages. It's not.
+A common misconception is that a solid stack of medical records is all an injury victim needs to prove damages. It's not.
 
 Medical records prove treatment. They don't prove how that injury affected your ability to work, sleep, ride, parent, or live. That gap is where a lot of claim value gets lost.
 
@@ -82,7 +82,7 @@ What fills the gap between records and reality is a personal injury journal. Sta
 
 A basic injury documentation journal or medical records organizer (you can find several on Amazon for under $20, and yes, this site may earn a small commission) gives you a structured format so you're not staring at a blank page when you're already exhausted. Not glamorous advice, but it's practical.
 
-**Scenario:** Rider with a fractured clavicle and two cracked ribs. Medical bills total $34,000. No documentation beyond records. Initial settlement offer: $62,000. Rider's attorney introduces a 14-week daily journal plus testimony from the rider's employer about missed shifts and modified duty. Final settlement: $118,000. Same injury. Better evidence.
+For example, consider a rider with a fractured clavicle and two cracked ribs with medical bills totaling $34,000 but no documentation beyond records; an initial offer might come in around $62,000, while introducing a 14-week daily journal and employer testimony about missed shifts and modified duty could push a final settlement to $118,000 for the same injury with better evidence.
 
 ---
 
@@ -112,7 +112,7 @@ Serious injury cases, TBI, spinal damage, permanent scarring, surgical intervent
 
 A word of caution on timing: every state has a statute of limitations on personal injury claims. Most are two to three years from the date of injury, but some are as short as one year, and claims against government entities often require formal notice within 90 to 180 days. Missing that deadline is fatal to your case. Not "reduces your payout." Eliminates it entirely.
 
-**Scenario:** Rider in Georgia suffers a knee injury requiring ACL reconstruction after being sideswiped. Handles it herself for seven months, corresponds with the adjuster, accepts a $40,000 offer "to be done with it." Actual surgical costs alone: $38,000. Lost wages: $11,000. Post-surgery physical therapy: $8,200. She left at minimum $17,200 on the table, probably more. This happens constantly.
+For example, if a rider suffers a knee injury requiring ACL reconstruction after being sideswiped and handles the claim without an attorney for seven months before accepting a $40,000 offer, that settlement could easily fall $17,200 or more short once surgical costs, lost wages, and post-surgery physical therapy are accounted for.
 
 ---
 
@@ -122,7 +122,7 @@ Some states have contributory negligence arguments that explicitly factor in whe
 
 This doesn't mean you lose your case without a helmet. It means the defense will argue your injuries were worse because of your choice, and a portion of your damages may be reduced accordingly. The counterargument is that the other driver's negligence caused the crash regardless of what you were wearing. Both things can be true.
 
-What I'd say plainly: the gear argument is a pressure tactic more than a legal powerhouse, but it works on unrepresented claimants who don't know better. An attorney shuts it down quickly.
+The gear argument is a pressure tactic more than a legal powerhouse, but it works on unrepresented claimants who don't know better. An attorney shuts it down quickly.
 
 ---
 

@@ -36,7 +36,7 @@ So let's talk about what actually gives you the right to step outside the comp s
 
 Workers' comp is what lawyers call the "exclusive remedy," meaning it's the only legal path against your employer for a work injury in the vast majority of states. The trade-off made sense when legislatures designed it: workers get fast, no-fault benefits; employers get protection from unpredictable jury verdicts. The American Bar Association's public education resources describe this as a "grand bargain" that has defined workplace injury law for over a century.
 
-So before you get your hopes up, yes, that barrier is real. If you slip on a wet floor at your warehouse job and break your wrist, you almost certainly can't take your employer to civil court, even if they knew the floor had been a hazard for months. That's maddening, and I say that as someone who spent twelve years on the insurance side watching legitimate anger get channeled into comp claims that paid out a fraction of what a jury might have awarded.
+So before you get your hopes up, yes, that barrier is real. If you slip on a wet floor at your warehouse job and break your wrist, you almost certainly can't take your employer to civil court, even if they knew the floor had been a hazard for months. Adjusters on the insurance side routinely watch legitimate anger get channeled into comp claims that paid out a fraction of what a jury might have awarded.
 
 But here's where people give up too soon.
 
@@ -96,11 +96,11 @@ As of July 2026, most states still allow this parallel approach, though the subr
 
 ## When Fraud Actually Hurts You Instead
 
-One thing I got wrong early in my career as an adjuster: I assumed workers who pursued civil claims on top of comp were doing something shady, doubling up improperly. That was the industry's framing, and I absorbed it without questioning it.
+Adjusters early in their careers sometimes assume workers who pursue civil claims on top of comp are doing something shady, doubling up improperly. 
 
 The actual rule is more nuanced. You can pursue both. You just can't collect full compensation twice for the same expense. The subrogation lien your comp insurer places on your civil recovery makes sure of that. This is a reimbursement mechanism, not a penalty. The practical effect is that you lose some of your civil recovery to pay back the insurer, but you're still almost always better off financially than if you'd filed comp alone.
 
-The fraud risk runs the other way, too: misrepresenting your injury to receive comp benefits you're not entitled to. That's a criminal matter. Don't do it, obviously, but I raise it because adjusters are specifically trained to look for inconsistencies, and if you're pursuing a civil claim at the same time, the insurer's lawyers may scrutinize your medical records across both cases.
+The fraud risk runs the other way, too: misrepresenting your injury to receive comp benefits you're not entitled to. That's a criminal matter. Don't do it, obviously, It is worth noting that adjusters are specifically trained to look for inconsistencies, and if you are pursuing a civil claim at the same time, the insurer's lawyers may scrutinize your medical records across both cases.
 
 If you want to track your injury documentation carefully from day one, a structured injury journal can help you stay consistent across a workers' comp claim and a civil case simultaneously. (Amazon has several medical and legal documentation journals that readers have found useful; the site may earn a small commission if you purchase through a link here.)
 

@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most people assume their personal injury case will settle in a few months. I'll be honest: that assumption causes more frustration, more bad decisions, and more money left on the table than almost anything else I saw in my 12 years adjusting claims.
+Most people assume their personal injury case will settle in a few months. That assumption causes more frustration, more bad decisions, and more money left on the table than almost anything else adjusters and attorneys commonly observe.
 
 The real answer is somewhere between six weeks and several years, and that range isn't vague hand-waving. It reflects a genuine spectrum of cases that look nothing alike from the inside.
 
@@ -34,7 +34,7 @@ The real answer is somewhere between six weeks and several years, and that range
 
 Insurance company internal processes are often the biggest driver of timeline, not the courts or your attorney's caseload. Many carriers operate under internal benchmarks called "cycle time goals." A soft-tissue rear-end claim might be targeted to close in 90 days or fewer. A case with disputed liability or significant injuries typically gets escalated to a senior adjuster and moved into a different workflow, often with no meaningful deadline pressure.
 
-What I was tracking, constantly, was your medical status. Specifically, whether you'd reached what we called MMI: maximum medical improvement. That's the point where your doctor says your condition has stabilized and further treatment won't meaningfully change your outcome. Until you're at MMI, a competent adjuster will not make a full settlement offer, because we don't know yet what your injury actually cost you. And you shouldn't accept one either, because [once you sign a release](/structured-settlement-vs-lump-sum-injury/), that's it. No going back if your back surgery costs more than you thought.
+What adjusters track, constantly, is your medical status. Specifically, whether you'd reached what we called MMI: maximum medical improvement. That's the point where your doctor says your condition has stabilized and further treatment won't meaningfully change your outcome. Until you're at MMI, a competent adjuster will not make a full settlement offer, because the full cost of the injury is not yet known. And you shouldn't accept one either, because [once you sign a release](/structured-settlement-vs-lump-sum-injury/), that's it. No going back if your back surgery costs more than you thought.
 
 So the first variable is how long your medical treatment takes. A sprained wrist that resolves in six weeks is a very different story from a herniated disc requiring surgery, physical therapy, and potentially a pain management specialist across 18 months.
 
@@ -55,11 +55,11 @@ Third: the damages themselves. Soft-tissue cases with smaller medical bills sett
 
 I want to give you a practical map here, because the sequence matters.
 
-**The treatment phase** comes first, and you can't rush it. This is where you're going to doctors, following through on recommendations, keeping records. If you skip appointments, I promise you an adjuster will find out, and it will be used to argue your injuries weren't as serious as claimed. During my time adjusting, we requested medical records going back years in cases with significant claims. Gaps in treatment are red flags we were trained to spot.
+**The treatment phase** comes first, and you can't rush it. This is where you're going to doctors, following through on recommendations, keeping records. If you skip appointments, adjusters will find out, and those gaps will be used to argue your injuries weren't as serious as claimed. In cases with significant claims, adjusters routinely request medical records going back years. Gaps in treatment are red flags we were trained to spot.
 
 **The demand phase** begins after your attorney (if you have one) collects all your medical records, bills, wage loss documentation, and prepares a demand package to send to the insurer. In a straightforward case, this package might go out 30 to 60 days after you finish treatment. Getting records from hospitals and specialists, though, can take weeks on its own, sometimes longer.
 
-**Negotiation.** The insurer responds to your demand, usually with a lower number. Your attorney counters. This back-and-forth is normal and can take anywhere from a few weeks to several months. What surprised me, sitting on the adjuster's side, was how often the first response was a lowball that no one expected to be accepted. It was a calibration move.
+**Negotiation.** The insurer responds to your demand, usually with a lower number. Your attorney counters. This back-and-forth is normal and can take anywhere from a few weeks to several months. On the adjuster's side, the first response is very often a lowball that no one expects to be accepted. It was a calibration move.
 
 **Filing suit.** If negotiations stall, your attorney files a lawsuit. This doesn't mean you're going to trial; the overwhelming majority of cases settle before that point. But filing changes the dynamic entirely. Now there are court deadlines, depositions, and the insurer's outside defense counsel running up fees. That pressure often breaks open negotiations that were previously stuck.
 
@@ -75,11 +75,11 @@ This is one area where I'll give you a direct opinion with no hedging: get at le
 
 Here's the contrarian take, and I expect some pushback on it: a fast settlement is often a bad settlement.
 
-Insurers know that injured people are frequently in pain, out of work, stressed about bills, and eager to put the whole thing behind them. An early offer feels like relief. I watched claims close for $8,000 or $12,000 on cases that, had the person waited until MMI and gotten proper legal help, might have settled for three or four times that amount. The insurer isn't doing you a favor with a quick offer. They're managing their exposure.
+Insurers know that injured people are frequently in pain, out of work, stressed about bills, and eager to put the whole thing behind them. An early offer feels like relief. Claims regularly close for $8,000 or $12,000 on cases that, had the person waited until MMI and gotten proper legal help, might have settled for three or four times that amount. The insurer isn't doing you a favor with a quick offer. They're managing their exposure.
 
 That said, genuinely minor injuries with low bills and no complications? Sometimes a faster settlement is completely reasonable. Speed itself isn't the problem; accepting a settlement before you know the full extent of your damages is almost always wrong.
 
-If you're trying to get organized about your claim, something like a medical records organizer or an injury documentation journal can genuinely help you track appointments, symptoms, and expenses in one place. (Amazon has several options; this site may earn a small commission on purchases made through links here.) Good documentation consistently leads to better outcomes, and I say that having been on the side that reviewed those records.
+If you're trying to get organized about your claim, something like a medical records organizer or an injury documentation journal can genuinely help you track appointments, symptoms, and expenses in one place. (Amazon has several options; this site may earn a small commission on purchases made through links here.) Good documentation consistently leads to better outcomes, as anyone who has reviewed claims records from the insurer's side will confirm.
 
 ## Factors That Can Actually Speed Things Up
 

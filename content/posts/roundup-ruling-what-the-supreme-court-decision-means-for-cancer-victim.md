@@ -31,7 +31,7 @@ As NPR reported on June 25, the ruling effectively backs Monsanto's long-standin
 
 Roughly 180,000 Roundup lawsuits have been filed over the years. About 60,000 remain active. The vast majority of those are built around failure-to-warn theories, the exact theory the Court just shut down. Mass dismissals are expected. That's not a hypothetical.
 
-What surprised me most in looking at the research was how many of those 60,000 plaintiffs may have thought they were on solid ground. Many had waited years for resolution, watched earlier trials produce large verdicts, and reasonably assumed the legal path was clear. The June 25 ruling changes that calculation overnight.
+Notably, many of those 60,000 plaintiffs may have thought they were on solid ground. Many had waited years for resolution, watched earlier trials produce large verdicts, and reasonably assumed the legal path was clear. The June 25 ruling changes that calculation overnight.
 
 ## Claims That Still Survive
 
@@ -57,13 +57,13 @@ For people with active claims, the settlement program may now represent a more r
 
 ## What You Should Actually Do Right Now
 
-I want to be careful here, because the situation is moving fast and I'm not your lawyer. What I can tell you is what I'd tell a friend.
+A note of caution is warranted here, because the situation is moving fast and this article is not legal advice. What follows is practical guidance on steps worth taking now.
 
 If you have an active Roundup lawsuit, the single most important thing you can do this week is get on the phone with your attorney and ask them directly: is my case primarily a failure-to-warn claim, and what's left of it after *Durnell*? If your attorney doesn't have a clear answer, that's information too.
 
 If you've been diagnosed with non-Hodgkin's lymphoma or another cancer you believe is linked to Roundup exposure and you haven't filed, the ruling complicates your path but doesn't end it. Design-defect and negligence theories are technically still available. The statute of limitations in most states means waiting has real costs. Consulting an attorney who specifically handles toxic tort litigation, not just any personal injury lawyer, is worth doing soon. Many offer free consultations.
 
-If you're a farmer or agricultural worker who uses or has used glyphosate-based herbicides, this ruling is a signal to document your exposure history now, not later. Medical records, purchase records, application logs. Not because I'm predicting your health outcome, but because documentation is far easier to gather before it's needed.
+If you're a farmer or agricultural worker who uses or has used glyphosate-based herbicides, this ruling is a signal to document your exposure history now, not later. Medical records, purchase records, application logs. Not because any particular health outcome is inevitable, but because documentation is far easier to gather before it is needed.
 
 The people most affected by this ruling weren't in the courtroom on June 25. They were working in their fields, or sitting in oncology waiting rooms, or managing the aftermath of treatment that changed their lives. The legal system's answer to their situation just got harder. That deserves to be said plainly, and it deserves attention beyond a single news cycle.
 

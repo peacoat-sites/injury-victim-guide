@@ -25,7 +25,7 @@ author_title: "Car Accidents"
 author_bio: "Lisa Anderson is the byline used at Injury Victim Guide for articles on car accident claims. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You submitted a claim. The insurance adjuster reviewed it, ran it through their system, and sent back a number. It feels official. It looks final. But here's what most people don't know: that first offer is almost never the best offer. In my 12 years adjusting claims, I watched insurance companies routinely open with figures 30 to 50 percent below what they were ultimately authorized to pay. The adjuster isn't trying to be cruel. They're doing their job, which is to close your claim for as little as possible. Your job is to push back, and push back smart.
+You submitted a claim. The insurance adjuster reviewed it, ran it through their system, and sent back a number. It feels official. It looks final. But here's what most people don't know: that first offer is almost never the best offer. Insurance companies routinely open with figures 30 to 50 percent below what they were ultimately authorized to pay. The adjuster isn't trying to be cruel. They're doing their job, which is to close your claim for as little as possible. Your job is to push back, and push back smart.
 
 ## Why the First Offer Is Just the Opening Bid
 
@@ -94,7 +94,7 @@ The American Bar Association's public education resources [make clear that claim
 
 ## When to Get an Attorney Involved (and Why It Changes the Math)
 
-There's a point where doing this alone stops making sense. That point is different for everyone, but I'll give you some clear markers.
+There is a point where doing this alone stops making sense, and that point is different for everyone.
 
 You should seriously consider retaining a personal injury attorney if:
 

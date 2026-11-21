@@ -26,11 +26,11 @@ faqs:
     a: "BI claims handled purely through insurance negotiation often resolve in 30 days to 8 months for straightforward cases. Personal injury lawsuits in the same jurisdiction frequently take 18 months to 3 years or longer, particularly if they go to trial. Most do settle before trial, but 'before trial' can still mean 12 to 24 months of litigation."
 ---
 
-Most people who walk into an attorney's office after a car accident use "bodily injury" and "[personal injury](/what-percentage-do-personal-injury-lawyers-take-2026/)" interchangeably. I did too, for years, before I spent over a decade on the other side of those claims as an adjuster. Turns out, conflating these two terms can cost you real money and real time, because they operate in completely different parts of the legal and insurance universe.
+Most people who walk into an attorney's office after a car accident use "bodily injury" and "[personal injury](/what-percentage-do-personal-injury-lawyers-take-2026/)" interchangeably. Many people make this mistake, even those who have spent years working on the other side of those claims as adjusters. Turns out, conflating these two terms can cost you real money and real time, because they operate in completely different parts of the legal and insurance universe.
 
 "Bodily injury" is primarily an insurance coverage term, and "personal injury" is a legal cause of action. They overlap, sure. But they're not the same animal, and the distinction matters enormously depending on which side of a claim you're on.
 
-I'll be honest, I spent probably my first three years as an adjuster not fully appreciating how differently these terms played out in litigation versus in a policy. It wasn't until a claimant's attorney sent a demand letter citing personal injury tort claims that reached well beyond what the bodily injury liability limits would cover that I really sat up and paid attention.
+Even experienced adjusters can spend years not fully appreciating how differently these terms play out in litigation versus in a policy. A common wake-up call is when a claimant's attorney sends a demand letter citing personal injury tort claims that reach well beyond what the bodily injury liability limits would cover.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">"Bodily injury" is an insurance coverage type; "personal injury" is a broader legal claim category.</li><li style="margin:5px 0">Bodily injury (BI) coverage pays third parties hurt by the insured's negligence, up to policy limits.</li><li style="margin:5px 0">Personal injury claims can include emotional distress and reputational harm, not just physical injuries.</li><li style="margin:5px 0">BI limits in most states run $25,000 to $100,000 per person; your damages may far exceed that.</li><li style="margin:5px 0">Filing a personal injury lawsuit and making a BI insurance claim are separate processes that often run simultaneously.</li></ul></div>
 
@@ -38,7 +38,7 @@ I'll be honest, I spent probably my first three years as an adjuster not fully a
 
 Bodily injury liability is a line item on your auto (or homeowners or commercial) insurance policy. When you cause an accident and someone else gets hurt, your bodily injury coverage is what pays their [medical bills](/medical-bills-personal-injury-settlement/), lost wages, and pain and suffering, up to your policy's per-person and per-accident limits. That's it. The coverage exists to protect the at-fault party from out-of-pocket financial exposure when they hurt someone else.
 
-The Insurance Information Institute notes that bodily injury liability is legally required in most U.S. states, though the minimum limits vary dramatically. In California, the current minimums are $15,000 per person / $30,000 per accident (as of July 2026, though there's been legislative pressure to raise those floors). In Maine, you're looking at $50,000 per person. These minimums are embarrassingly low compared to what a serious injury actually costs, and I watched adjusters deny this reality to claimants for years.
+The Insurance Information Institute notes that bodily injury liability is legally required in most U.S. states, though the minimum limits vary dramatically. In California, the current minimums are $15,000 per person / $30,000 per accident (as of July 2026, though there's been legislative pressure to raise those floors). In Maine, you're looking at $50,000 per person. These minimums are embarrassingly low compared to what a serious injury actually costs, and adjusters have long had to navigate this reality with claimants.
 
 One thing only someone who's actually worked inside an [insurance company](/should-i-give-a-recorded-statement-to-the-insurance-company/) would tell you: the bodily injury claim you file against the other driver's insurance is evaluated by an adjuster whose job, at least partially, is to resolve that claim for as little as the file will justify. That's not cynicism, that's how reserves work. The adjuster literally has a reserve figure attached to your claim from day one.
 
@@ -66,7 +66,7 @@ The CDC's injury data consistently shows that unintentional injuries are a leadi
 
 ## How These Two Things Interact (and Where People Get Burned)
 
-This is the section I wish someone had explained to me before I processed my first thousand claims.
+This section covers what many injured people wish they had understood before filing their first claim.
 
 When you're hurt in an accident caused by someone else, you'll typically do both things at once: file a bodily injury claim with the at-fault driver's insurer, AND potentially pursue a personal injury lawsuit if the insurer's offer is inadequate. These run parallel. The insurance claim is the "lane" where the insurer holds most of the cards initially. The lawsuit is the "lane" where you start to equalize.
 
@@ -83,21 +83,21 @@ Here's a comparison that might clarify how they differ in practice:
 | Emotional distress covered? | Sometimes (pain & suffering) | Yes, often as separate damages category |
 | Reputational harm covered? | No | Yes (defamation claims) |
 
-Scenario A: Maria is rear-ended in Austin by a driver with a $50,000 BI policy. Her medical bills hit $38,000 and she misses six weeks of work. She files a BI claim, the insurer offers $42,000, she accepts. Clean resolution inside the insurance lane.
+For example, imagine someone is rear-ended in Austin by a driver with a $50,000 BI policy. Her medical bills hit $38,000 and she misses six weeks of work. She files a BI claim, the insurer offers $42,000, and she accepts. This is a clean resolution inside the insurance lane.
 
-Maria's scenario → BI claim filed, adjuster negotiates → Settled at $42,000 without litigation.
+In this hypothetical → BI claim filed, adjuster negotiates → Settled at $42,000 without litigation.
 
-Scenario B: Same accident, but her bills are $85,000. The $50,000 policy limit won't cover it. Her attorney files a personal injury lawsuit against the at-fault driver personally, and also pursues Maria's own underinsured motorist (UIM) coverage.
+In a variation of the same scenario, the bills are $85,000. The $50,000 policy limit won't cover it. The injured party's attorney files a personal injury lawsuit against the at-fault driver personally, and also pursues the client's own underinsured motorist (UIM) coverage.
 
-Maria's scenario, revised → BI limits exhausted at $50,000 → Personal injury suit filed → UIM carrier contributed additional $40,000 after negotiation, total recovery $90,000.
+In this hypothetical, revised → BI limits exhausted at $50,000 → Personal injury suit filed → UIM carrier contributed additional $40,000 after negotiation, total recovery $90,000.
 
-Scenario C: A man named Robert in Chicago slips on an unmarked wet floor at a grocery store. No broken bones, but he develops documented PTSD and anxiety related to the fall. A BI claim might not even apply here (it's a premises liability case through the store's general liability policy), but a personal injury lawsuit can pursue the psychological damages specifically.
+For example, consider someone who slips on an unmarked wet floor at a grocery store. No broken bones, but he develops documented PTSD and anxiety related to the fall. A BI claim might not even apply here (it's a premises liability case through the store's general liability policy), but a personal injury lawsuit can pursue the psychological damages specifically.
 
-Robert's scenario → Premises liability claim filed, store's insurer disputes psychological-only damages → Personal injury suit filed citing emotional distress → Settled for $67,500 after deposition of store's safety manager revealed prior similar incidents.
+In this hypothetical → Premises liability claim filed, store's insurer disputes psychological-only damages → Personal injury suit filed citing emotional distress → Settled for $67,500 after deposition of store's safety manager revealed prior similar incidents.
 
 ## The Statute of Limitations Problem
 
-I cannot tell you how many times I watched a legitimate claim get thrown out because the injured person waited too long. Every state has a statute of limitations for personal injury lawsuits, typically ranging from one to six years from the date of injury, with two years being the most common. Filing a BI insurance claim does NOT pause that clock. The lawsuit clock runs independently.
+Legitimate claims are thrown out regularly because injured people wait too long to act. Every state has a statute of limitations for personal injury lawsuits, typically ranging from one to six years from the date of injury, with two years being the most common. Filing a BI insurance claim does NOT pause that clock. The lawsuit clock runs independently.
 
 This is where the bodily injury/personal injury distinction becomes genuinely urgent. People focus on the insurance claim, months pass during negotiations, and then they realize they've got 90 days left to file suit if the settlement falls through. Most attorneys will tell you: get a consultation early, even if you think the insurance claim will resolve things.
 

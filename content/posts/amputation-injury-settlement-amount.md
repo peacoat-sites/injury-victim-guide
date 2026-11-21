@@ -29,7 +29,7 @@ Most people I talk to after a [catastrophic injury](/catastrophic-injury-lawsuit
 
 With amputation injuries specifically, that pattern plays out differently. The damages are so obviously severe that insurance companies don't bother lowballing the way they do with soft tissue cases. Instead, they go quiet. They drag their feet. They wait for your medical bills to pile up and your savings to drain while their defense team builds a strategy.
 
-I spent 12 years as an adjuster before I switched sides. I've sat in rooms where defense teams discussed amputation claimants by their file numbers, not their names, and talked about how long they could reasonably delay before the claimant's financial pressure peaked. I'm not proud of that. But it means I know exactly what's being done on the other side of your claim.
+Adjusters who later switch to plaintiff-side work have described sitting in rooms where defense teams discussed amputation claimants by their file numbers, not their names, and talked about how long they could reasonably delay before the claimant's financial pressure peaked.   Understanding that dynamic is essential to protecting your claim.
 
 So let me tell you what actually shapes an amputation settlement, what the insurance company already knows that you probably don't, and where the real money gets left on the table.
 

@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most advice about negotiating injury settlements boils down to "be persistent and document everything." That's not wrong, exactly. It's just about as useful as telling someone to "drive carefully" before a road trip. The real game is understanding how adjusters are trained to think, because once you see their playbook, countering it isn't that hard.
 
-I spent 12 years on the other side of these calls. I know what adjusters write in their notes when you accept the first offer (usually something like "claimant settled quickly, possible undervaluation confirmed"), and I know which moves by injured people genuinely make them nervous. Let me tell you what actually works.
+Experienced adjusters know what gets written in claim notes when a claimant accepts the first offer (usually something like "claimant settled quickly, possible undervaluation confirmed"), and they know which moves by injured people genuinely make them nervous.  Here is what actually works.
 
 ---
 
@@ -38,7 +38,7 @@ Insurance companies make low initial offers for the same reason car dealerships 
 
 Here's what most people get wrong: they think the first offer reflects what the insurer actually thinks the claim is worth. It rarely does. It reflects what they think they can get away with paying.
 
-When I was adjusting, we had internal reserve figures on every single claim. That reserve is the amount we genuinely expected the claim to cost. Our first offer was almost never the reserve. It was a test number, lower than the reserve, to see if the claimant bit. Many did. Every one of those was money the company kept.
+Adjusters maintain internal reserve figures on every single claim. That reserve is the amount the insurer genuinely expects the claim to cost. The first offer is almost never the reserve. It is a test number, lower than the reserve, to see if the claimant accepts it. Many did. Every one of those was money the company kept.
 
 So when you receive an initial offer, the correct response isn't gratitude or immediate counter. It's a written rejection with a specific explanation of why the number is inadequate. Not vague ("this doesn't cover my damages") but specific: "This offer does not account for the $4,200 in future physical therapy, the two months of lost wages at my documented rate of $3,800/month, or the non-economic damages for the eight weeks I was unable to perform my job duties and care for my children."
 
@@ -65,7 +65,7 @@ That last point is where people get squeamish. They worry that asking for "too m
 
 ## The Silence and the Letter: Two Tools Most People Skip
 
-Two tactics that I watched work consistently from the adjuster side, and that most claimants never use:
+Two tactics that consistently work, and that most claimants never use:
 
 **The non-response period.** After you send your demand package, stop communicating for a set period. Ten to fourteen business days. No follow-up calls to check in, no emails asking if they received it. The adjuster is counting on your anxiety to produce a phone call where they can talk you down. Don't give them the call. Let the silence work.
 
@@ -79,11 +79,11 @@ You don't have to commit to hiring an attorney. Most personal injury attorneys o
 
 ## How Adjusters Actually Evaluate Pain and Suffering
 
-This is the piece that most people fundamentally misunderstand, and I got it wrong myself early in my adjusting career.
+This is the piece that most people fundamentally misunderstand.
 
 Non-economic damages, meaning pain, suffering, emotional distress, loss of enjoyment of life, aren't calculated by a formula the way your medical bills are. Some insurers use software (Colossus is the most well-known) that spits out a range, but the adjuster still has discretion. And what moves that number is almost entirely the quality of your documentation.
 
-Adjusters are trained to look for what I'd call "narrative gaps." If you claim severe back pain but your medical records show you went two months without a single appointment, that gap will get noted and used. If your records show consistent treatment, consistent complaints to your doctor, and a documented progression, the story holds together and the discretionary number goes up.
+Adjusters are trained to look for what industry insiders call "narrative gaps." If you claim severe back pain but your medical records show you went two months without a single appointment, that gap will get noted and used. If your records show consistent treatment, consistent complaints to your doctor, and a documented progression, the story holds together and the discretionary number goes up.
 
 This is where a daily injury journal becomes one of the most underrated tools available. I'm not talking about a diary. I'm talking about two to four sentences per day: your pain level (1-10), what you couldn't do, any medical contact. That's it. After three months, it becomes compelling evidence of how the injury actually affected you day-to-day, not just at the moment you were photographed in the ER. (There are simple workbooks designed specifically for this. [Something like an injury documentation journal on Amazon](https://www.amazon.com/s?k=injury+documentation+journal) runs around $12 to $15 and the site may earn a small commission if you use that link. Worth every dollar.)
 

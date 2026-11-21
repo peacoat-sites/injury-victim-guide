@@ -28,7 +28,7 @@ faqs:
 
 Most people drive away from a fender-bender feeling fine, a little shaky maybe, heart still thudding, and they spend the next hour debating whether they're overreacting. You're not overreacting. And you're not wasting anyone's time by taking this seriously.
 
-I spent twelve years on the other side of this equation, reviewing claims for [insurance companies](/how-insurance-companies-handle-injury-claims/), and I can tell you with zero hesitation: the question "should I go to the hospital after a minor accident?" is one of the most consequential decisions you'll make, and almost everyone gets it wrong in the same direction. They skip the hospital, feel okay for a few days, and then the neck stiffness shows up, or the headaches start, or they realize three weeks later that something isn't right. By then, the insurance company's first question is going to be: "Why did you wait so long to seek treatment?"
+Claims reviewers on the insurance side consistently find that the question "should I go to the hospital after a minor accident?" is one of the most consequential decisions you'll make, and almost everyone gets it wrong in the same direction. They skip the hospital, feel okay for a few days, and then the neck stiffness shows up, or the headaches start, or they realize three weeks later that something isn't right. By then, the insurance company's first question is going to be: "Why did you wait so long to seek treatment?"
 
 That question isn't curiosity. It's strategy.
 
@@ -36,7 +36,7 @@ That question isn't curiosity. It's strategy.
 
 ## The "I Feel Fine" Problem
 
-Here's what I wish someone had told me the [first time](/florida-raises-government-injury-caps-for-the-first-time-since-2010/) I sat across from a claimant and had to tell them their delayed-treatment gap had gutted their case: adrenaline is a remarkably effective painkiller.
+Here's something claimants often learn too late, after a delayed-treatment gap has already gutted their case: adrenaline is a remarkably effective painkiller.
 
 After a collision, your body floods with cortisol and adrenaline. Those hormones suppress pain perception. They're designed to let you survive a threat and deal with the damage later. So the fact that you walked away from the [accident scene](/accident-scene-photos-what-to-take/) feeling okay, or even feeling nothing, tells you almost nothing about what happened to your soft tissue, your spine, or your brain. Research on whiplash injuries consistently shows that symptom onset is frequently delayed by 24 to 72 hours, and in some cases even longer.
 
@@ -48,7 +48,7 @@ Five miles per hour sounds trivial. You probably drive faster than that in a par
 
 The word "minor" in "minor accident" describes the property damage to your car. It says nothing about your body.
 
-I've reviewed hundreds of claims over the years where the vehicle damage was under $1,500, sometimes under $800, and the occupant ended up with a legitimate soft-tissue injury that required months of physical therapy. Insurance adjusters (and I was one) are trained to conflate "minor damage" with "minor injury." It's a useful conflation for the insurer. It's not accurate, and it's not honest.
+Claims reviewers regularly encounter cases where vehicle damage was under $1,500, sometimes under $800, and the occupant ended up with a legitimate soft-tissue injury that required months of physical therapy. Insurance adjusters are trained to conflate "minor damage" with "minor injury." It's a useful conflation for the insurer. It's not accurate, and it's not honest.
 
 The disconnect exists because modern bumpers are engineered to absorb impact and spring back, protecting the car, while the human body inside absorbs the kinetic energy differently. Your neck doesn't have a crumple zone.
 
@@ -97,13 +97,13 @@ As of July 2026, most states have a statute of limitations for personal injury c
 
 Adjusters work claim cycles. The faster they can close a file, the better their metrics look. If you don't have medical documentation, they will push for a quick settlement, often before you even know the full extent of your injuries. Accepting a settlement before you've completed treatment is almost always a mistake. Once you sign a release, that's the end of it, even if you wake up six months later needing surgery.
 
-Three worked examples from my time in the field (details changed for privacy):
+The following scenarios illustrate how the timing of medical care typically affects a claim:
 
-A woman in a rear-end collision at approximately 15 mph declined the ER at the scene, felt fine for 36 hours, then developed cervical radiculopathy. She waited another week before seeing a doctor. Gap: 9 days. The insurer's initial offer was $4,200. She ultimately settled for significantly more, but the gap in treatment required months of additional documentation to overcome.
+For example, if someone in a rear-end collision at approximately 15 mph declines the ER at the scene, feels fine for 36 hours, and then develops cervical radiculopathy, the treatment gap becomes a significant obstacle. Waiting another week before seeing a doctor in that situation could mean a gap of nine days.  In scenarios like this, initial insurer offers tend to be low, and the gap in treatment can require months of additional documentation to overcome. 
 
-A man who went to urgent care within 2 hours of a similar impact, documented neck stiffness and a mild headache, followed up with his primary care doctor 48 hours later, and had a clean, unbroken treatment record. Same type of injury. Considerably more straightforward claim process.
+By contrast, someone who goes to urgent care within two hours of a similar impact, documents neck stiffness and a mild headache, and follows up with a primary care doctor 48 hours later will have a clean, unbroken treatment record. With the same type of injury, that documentation record typically produces a considerably more straightforward claim process. 
 
-A teenager who went to the ER same-day mostly because her mom insisted, complained of "feeling a little weird." The chart documented a mild concussion. She missed two weeks of school. The medical record from day one was the foundation of that entire claim.
+Consider a scenario where someone goes to the ER the same day and reports only "feeling a little weird." The chart in that case could document a mild concussion. If that person then missed two weeks of school or work, the medical record from day one would be the foundation of the entire claim. 
 
 The pattern is not subtle.
 

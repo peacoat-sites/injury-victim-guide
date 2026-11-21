@@ -38,7 +38,7 @@ The question of how long you have to claim an injury after a [car accident](/car
 
 Most people confuse two separate deadlines that operate on completely different clocks. People use "claim" and "lawsuit" interchangeably, but they operate on completely different clocks.
 
-Your **insurance claim** deadline is set by your policy contract. Read the fine print (I know, I know) and you'll usually find language requiring you to report an accident "promptly" or "within a reasonable time." In practice, most insurers expect notice within 24 to 72 hours, and some policies explicitly state 30 days for [uninsured motorist](/uninsured-motorist-claim-process/) claims. Miss that window and the insurer can deny coverage for late notice, even if your underlying claim is solid.
+Your **insurance claim** deadline is set by your policy contract. Read the fine print and you will usually find language requiring you to report an accident "promptly" or "within a reasonable time." In practice, most insurers expect notice within 24 to 72 hours, and some policies explicitly state 30 days for [uninsured motorist](/uninsured-motorist-claim-process/) claims. Miss that window and the insurer can deny coverage for late notice, even if your underlying claim is solid.
 
 Your **lawsuit deadline**, the statute of limitations, is a completely separate creature. That's the hard legal cutoff for filing a personal injury lawsuit in civil court. These are set by state legislatures, not insurers, and they vary significantly. This is the number people usually mean when they ask "how long do I have?"
 
@@ -81,11 +81,11 @@ Worked example: A contractor in Houston had the same type of injury but waited t
 
 ## What If You're Dealing with Government Vehicles?
 
-I cannot stress this enough: if your accident involved a city bus, a county vehicle, a state highway patrol car, or any government-owned vehicle, the rules are completely different and much more aggressive.
+If your accident involved a city bus, a county vehicle, a state highway patrol car, or any government-owned vehicle, the rules are completely different and much more aggressive.
 
 Most states require you to file a formal notice of claim against a government entity within 90 to 180 days of the accident, sometimes shorter. This isn't your lawsuit; it's a preliminary notice that preserves your right to eventually sue. Miss it and you've almost certainly lost your right to file, regardless of how much time is left on the general statute of limitations. New York requires 90 days for claims against the city. California gives you six months for most government claims. Some counties have their own forms and specific language requirements.
 
-I've met people who didn't realize the bus that hit them was a municipal transit vehicle. Check the side of the vehicle, the registration, anything. If there's any government connection, treat the deadline as 90 days and start the clock immediately.
+Some people do not realize the bus that hit them was a municipal transit vehicle. Check the side of the vehicle, the registration, anything. If there's any government connection, treat the deadline as 90 days and start the clock immediately.
 
 ## The Exceptions That Can Extend Your Deadline
 
@@ -99,13 +99,13 @@ Courts are generally not sympathetic to people who just forgot or procrastinated
 
 **Military service**: Federal law protects active-duty servicemembers from certain limitation periods under the Servicemembers Civil Relief Act.
 
-These exceptions are real but they're narrow. "I didn't know about the deadline" is almost never accepted as a tolling reason. The courts expect you to know the law, which is exactly why I'm writing this.
+These exceptions are real but they're narrow. "I didn't know about the deadline" is almost never accepted as a tolling reason. The courts expect you to know the law, which is exactly why resources like this one exist.
 
-## The Part Where I Tell You What I Actually Did Wrong
+## Why Adjusters Scrutinize Delayed Injuries
 
-The first time I handled a claim as an adjuster involving a delayed-onset injury, I made a rookie mistake. The claimant came in complaining of back pain seven months post-accident. My instinct, and I'm not proud of this, was to flag it as suspicious because of the gap. I pulled every medical record trying to find proof they'd had a pre-existing condition.
+   
 
-What I didn't appreciate then, and what I fully understand now, is that delayed presentation doesn't mean fabrication. The American Journal of Emergency Medicine has published data showing that roughly 30% of patients involved in low-speed collisions who feel fine at the scene develop significant musculoskeletal symptoms within the following month. The body does weird things with trauma. Gap in symptoms does not equal gap in causation.
+Delayed presentation does not mean fabrication. The American Journal of Emergency Medicine has published data showing that roughly 30% of patients involved in low-speed collisions who feel fine at the scene develop significant musculoskeletal symptoms within the following month. The body does weird things with trauma. Gap in symptoms does not equal gap in causation.
 
 If you've got a delayed injury and you're worried about how it looks, document everything you can going forward. Every doctor visit, every missed workday, every prescription. And yes, get an attorney involved early so they can frame the timeline in your favor, because adjusters on the other side will absolutely use that gap against you if you let them.
 
@@ -115,7 +115,7 @@ Not every situation needs a lawsuit. But every situation needs these steps, as f
 
 Report the accident to your insurer the same day or the next morning. Even if you feel fine. Even if you think it won't become a claim. Late reporting gives carriers a legitimate basis to complicate things later.
 
-See a doctor within 48 to 72 hours, even for a "just in case" check. This creates a medical record that connects the accident to any symptoms. A gap of two weeks between crash and first medical visit is something I flagged every single time as an adjuster. Don't give anyone that ammunition.
+See a doctor within 48 to 72 hours, even for a "just in case" check. This creates a medical record that connects the accident to any symptoms. A gap of two weeks between crash and first medical visit is something adjusters flag routinely. Don't give anyone that ammunition.
 
 Photograph everything: all vehicles, the scene, your body (bruising often shows up 24 to 48 hours later), any property damage.
 

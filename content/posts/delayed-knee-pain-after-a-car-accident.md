@@ -54,21 +54,21 @@ Not all delayed knee injuries are equal. Some show up in 48 hours. Others take w
 | Knee contusion (bone bruise) | 24-72 hours | Deep aching, tenderness on pressure | No |
 | Patellar tendon strain | 48-96 hours | Pain going up stairs, kneeling | Rarely |
 
-The chondral injuries, damage to the cartilage surface of the bones themselves, are the sneaky ones. They can produce symptoms that feel mild for weeks, then worsen significantly as normal activity erodes already-damaged cartilage. I've talked to people who assumed their knee was "just sore" for a month and then got an MRI showing substantial cartilage loss. That timeline matters enormously for treatment options.
+The chondral injuries, damage to the cartilage surface of the bones themselves, are the sneaky ones. They can produce symptoms that feel mild for weeks, then worsen significantly as normal activity erodes already-damaged cartilage. It is not uncommon for people to assume their knee is "just sore" for a month and then get an MRI showing substantial cartilage loss. That timeline matters enormously for treatment options.
 
 ## What to Do in the First Two Weeks
 
-This is where I see people make the most costly mistakes, and I made assumptions about this myself early in my career.
+This is where people make the most costly mistakes.
 
 The single most important thing you can do in the first 72 hours is get a medical evaluation, even if your pain feels minor. Not just for health reasons, though that's obviously primary. For documentation. An ER or urgent care visit creates a medical record that anchors your symptom timeline. Without it, an insurance adjuster has a legitimate basis to question whether the injury is related to the accident at all.
 
 Write down your symptoms every single day. Not just pain levels, but what you tried to do, what made it worse, whether you had swelling in the morning versus the evening. There are inexpensive injury documentation journals on Amazon (this site may earn a commission) that give you a structured template for exactly this, and they're worth every dollar if your case goes to dispute.
 
-If you're offered a settlement check within the first two or three weeks, do not sign anything that releases the insurer from future medical claims. I cannot stress this enough. People sometimes cash settlement checks for "minor injuries" only to discover weeks later they need meniscus repair surgery that costs $15,000 to $35,000 out of pocket. Once you sign that release, it's done.
+If you're offered a settlement check within the first two or three weeks, do not sign anything that releases the insurer from future medical claims. People sometimes cash settlement checks for "minor injuries" only to discover weeks later they need meniscus repair surgery that costs $15,000 to $35,000 out of pocket. Once you sign that release, it's done.
 
-Here's a worked example from a case pattern I saw repeatedly: a driver rear-ended at a stoplight, declined an ambulance, felt fine for 36 hours, then developed swelling and a catching sensation in the knee. She went to urgent care on day two. Imaging showed a meniscal tear. Because she had that day-two medical record, the injury was cleanly connected to the crash. Her total treatment, including physical therapy and an arthroscopic procedure, came to approximately $28,000. She recovered that through a third-party claim because the documentation timeline was solid.
+For example, consider a driver rear-ended at a stoplight who declined an ambulance, felt fine for 36 hours, then developed swelling and a catching sensation in the knee. She went to urgent care on day two. Imaging showed a meniscal tear. Because she had that day-two medical record, the injury was cleanly connected to the crash. Her total treatment, including physical therapy and an arthroscopic procedure, came to approximately $28,000. She recovered that through a third-party claim because the documentation timeline was solid.
 
-Contrast that with someone in a similar crash who waited two weeks to see a doctor. His insurer disputed the injury's connection to the accident. The research here is genuinely mixed on how courts weigh that gap, but anecdotally, that documentation hole cost him significant negotiating power.
+By contrast, someone in a similar crash who waited two weeks to see a doctor faced a harder path. His insurer disputed the injury's connection to the accident. The research here is genuinely mixed on how courts weigh that gap, but anecdotally, that documentation hole cost him significant negotiating power.
 
 ## When to Get an MRI (and Why Doctors Sometimes Wait)
 

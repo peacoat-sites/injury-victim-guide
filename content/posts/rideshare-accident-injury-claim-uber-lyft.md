@@ -66,7 +66,7 @@ If you were a passenger in the rideshare vehicle, you were almost certainly in P
 
 ## What to Do Immediately After the Accident
 
-The decisions you make in the first 24 to 72 hours have an outsized impact on your claim. I can't stress this enough. What most people don't realize is that the statements they make, the documentation they skip, and the treatment they delay can all be used against them later.
+The decisions you make in the first 24 to 72 hours have an outsized impact on your claim. These early steps matter enormously. What most people don't realize is that the statements they make, the documentation they skip, and the treatment they delay can all be used against them later.
 
 Here's what to do, in order:
 
@@ -90,7 +90,7 @@ Keeping organized records throughout the entire process will save you real money
 
 ## Dealing With Uber and Lyft's Insurance Companies
 
-Here's the part nobody wants to hear: the insurance companies working with Uber and Lyft are very good at their jobs. Their job is to resolve claims for as little money as possible. I spent 12 years as an adjuster. I know how this works from the inside.
+Here's the part nobody wants to hear: the insurance companies working with Uber and Lyft are very good at their jobs. Their job is to resolve claims for as little money as possible. Adjusters are trained to resolve claims for as little money as possible. I know how this works from the inside.
 
 When you report the accident, you'll be assigned a claims representative. They'll be polite. They'll seem helpful. They might offer a quick settlement within days. That early offer is almost never in your best interest, especially if you're still receiving medical treatment and don't yet know the full extent of your injuries.
 
@@ -108,7 +108,7 @@ Nolo's personal injury resources explain that rideshare accident claims often in
 
 ## When to Talk to a Personal Injury Attorney
 
-I never recommend specific attorneys, but I do strongly recommend consulting one, especially if you have injuries that required medical treatment, missed work, or caused any lasting limitation.
+Consulting a personal injury attorney is strongly advisable, especially if you have injuries that required medical treatment, missed work, or caused any lasting limitation.
 
 Here's why: most personal injury attorneys who handle rideshare cases work on contingency, meaning they don't get paid unless you do. That structure makes legal consultation essentially risk-free for you. Many offer free initial consultations.
 

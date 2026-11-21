@@ -37,7 +37,7 @@ The legal system actually treats these differently, and understanding why matter
 
 A catastrophic injury, by most legal and medical definitions, is one that permanently prevents the victim from performing any gainful work, or one that results in permanent severe impairment. Spinal cord injuries, amputations, severe traumatic brain injuries, severe burns covering major body surface area, and loss of sight or hearing typically qualify. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) shows that traumatic brain injuries and spinal cord injuries together account for hundreds of thousands of emergency hospitalizations every year, with lifetime care costs that routinely reach into the millions.
 
-That cost reality is exactly why these cases are fought so hard by insurance companies. More money on the table means more resistance on their side. I saw every tactic deployed harder and faster in catastrophic cases during my years as an adjuster.
+That cost reality is exactly why these cases are fought so hard by insurance companies. More money on the table means more resistance on their side. Adjusters commonly deploy every tactic harder and faster in catastrophic cases because the financial stakes are so much higher.
 
 The other thing that separates these cases: the stakes of getting it wrong are permanent. Accept a low settlement on a broken wrist and you lose some money. Accept a low settlement on a complete T4 spinal cord injury and you've locked your family into financial ruin for the rest of the victim's life.
 
@@ -55,7 +55,7 @@ Photographs of the scene, damaged vehicles, defective equipment, or injury progr
 
 **Step 3: Do not give a recorded statement to the opposing insurer.**
 
-I can't stress this enough. The adjuster asking for a "quick recorded statement" is not doing you a favor. Anything you say gets used to reduce your payout. You have no obligation to give one before consulting an attorney.
+This point cannot be stressed enough. The adjuster asking for a "quick recorded statement" is not doing you a favor. Anything you say gets used to reduce your payout. You have no obligation to give one before consulting an attorney.
 
 **Step 4: Consult a personal injury attorney who handles catastrophic cases.**
 

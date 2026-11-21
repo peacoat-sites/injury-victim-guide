@@ -25,7 +25,7 @@ author_title: "Car Accidents"
 author_bio: "Lisa Anderson is the byline used at Injury Victim Guide for articles on car accident claims. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You're sitting in a hospital bed three days after a rear-end collision. The at-fault driver's insurance company calls and offers $4,500 to settle. Is that fair, or are they lowballing you? Most people have no idea, and the adjuster on the phone knows it. I spent 12 years as an adjuster before switching sides to help injury victims, and I can tell you that opening offer almost never reflects what a case is actually worth. Understanding how value gets calculated won't make you a lawyer. But it will stop you from making a decision you'll regret for years.
+You're sitting in a hospital bed three days after a rear-end collision. The at-fault driver's insurance company calls and offers $4,500 to settle. Is that fair, or are they lowballing you? Most people have no idea, and the adjuster on the phone knows it. Experienced advocates for injury victims consistently find that opening offers almost never reflect what a case is actually worth. Understanding how value gets calculated won't make you a lawyer. But it will stop you from making a decision you'll regret for years.
 
 ## The Two Buckets: Economic and Non-Economic Damages
 

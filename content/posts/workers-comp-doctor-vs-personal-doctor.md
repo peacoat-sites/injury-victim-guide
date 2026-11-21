@@ -60,7 +60,7 @@ The catch: your personal physician's findings don't automatically carry weight i
 
 What your personal physician can do is create a parallel medical record that may become important if you dispute the claim, request an Independent Medical Examination, or eventually pursue a third-party lawsuit (say, if a piece of faulty equipment caused the injury). The [Insurance Information Institute](https://www.iii.org/) notes that contested workers' comp claims frequently hinge on conflicting medical opinions, which means having your own physician's documentation isn't redundant. It's strategic.
 
-Here's what I'd actually do if I were injured today: I'd comply with the workers' comp system's requirements for the designated provider, and I'd simultaneously make an appointment with my personal doctor to document my condition independently. I'd keep both sets of records. I wouldn't rely on anyone to coordinate those two things for me.
+The practical approach is to comply with the workers' comp system's requirements for the designated provider while simultaneously making an appointment with a personal doctor to document your condition independently. Keeping both sets of records gives you the strongest position if the claim is disputed. Injured workers should not rely on anyone to coordinate those two things for them.
 
 ## Side-by-Side: What Each Doctor Controls
 
@@ -83,23 +83,23 @@ Privacy protections matter more than people realize. When you sign workers' comp
 
 ## The IME: Your Most Underused Option
 
-An Independent Medical Examination is an evaluation by a physician who's supposed to be neutral. I say "supposed to" deliberately. IMEs are usually requested and paid for by the insurer, and researchers at the [Workers Compensation](/workers-compensation-claim-process/) Research Institute have documented that IME physicians hired by insurers disagree with treating physicians at a higher rate than IMEs requested by claimants do. The incentive structure matters.
+An Independent Medical Examination is an evaluation by a physician who's supposed to be neutral. That word "supposed to" matters. IMEs are usually requested and paid for by the insurer, and researchers at the [Workers Compensation](/workers-compensation-claim-process/) Research Institute have documented that IME physicians hired by insurers disagree with treating physicians at a higher rate than IMEs requested by claimants do. The incentive structure matters.
 
-But you, as the claimant, can also request an IME in most states. This is one of the most underused tools I saw injured workers overlook during my time as an adjuster. If the workers' comp doctor's assessment feels wrong to you, an IME gives you a legitimate channel to challenge it without appearing uncooperative or litigious.
+But you, as the claimant, can also request an IME in most states. This is one of the most underused tools available to injured workers. If the workers' comp doctor's assessment feels wrong to you, an IME gives you a legitimate channel to challenge it without appearing uncooperative or litigious.
 
-A few worked examples from cases I either handled or reviewed:
+The following hypothetical scenarios illustrate how these dynamics can play out:
 
-Construction worker, lower [back injury](/back-injury-settlement-amounts-car-accident/), Illinois: Saw only the employer's designated physician, reached MMI at 12 weeks, returned to work, reinjured the same area 8 weeks later. Second claim partially denied because insurer argued the new injury was a continuation of the first. If he'd had parallel documentation from his own doctor, the timeline argument would have been harder to make. → Result: contested claim, reduced settlement.
+For example, consider a construction worker with a lower [back injury](/back-injury-settlement-amounts-car-accident/) in Illinois who saw only the employer's designated physician, reached MMI at 12 weeks, returned to work, and reinjured the same area 8 weeks later. Second claim partially denied because insurer argued the new injury was a continuation of the first. If he'd had parallel documentation from his own doctor, the timeline argument would have been harder to make. → Result: contested claim, reduced settlement.
 
-Nurse, shoulder injury from patient lift, California: Complied with Medical Provider Network, but simultaneously saw her own orthopedist and documented her pain scores and limitations weekly in a journal. When the MPN doctor cleared her for full duty at 10 weeks, her own records showed a consistent pattern of limitation. She requested an IME. The IME agreed with her orthopedist. → Result: additional 7 weeks of temporary disability benefits and a referral for surgical evaluation that the MPN had deferred.
+Or consider a nurse with a shoulder injury from a patient lift in California who complied with the Medical Provider Network but simultaneously saw her own orthopedist and documented her pain scores and limitations weekly in a journal. When the MPN doctor cleared her for full duty at 10 weeks, her own records showed a consistent pattern of limitation. She requested an IME. The IME agreed with her orthopedist. → Result: additional 7 weeks of temporary disability benefits and a referral for surgical evaluation that the MPN had deferred.
 
-Retail worker, wrist injury, Texas: Texas has a unique opt-out framework for some employers, and her employer was not part of the standard workers' comp system. She had no state-system protections at all, and her only recourse was through the employer's private plan. Her personal doctor's records became the only independent documentation in her dispute. → Result: partial recovery through private plan, ongoing dispute at last contact.
+In another hypothetical, a retail worker with a wrist injury in Texas might face a situation where her employer is not part of the standard workers' comp system due to Texas's unique opt-out framework. She had no state-system protections at all, and her only recourse was through the employer's private plan. Her personal doctor's records became the only independent documentation in her dispute. → Result: partial recovery through private plan, ongoing dispute at last contact.
 
 ## What to Document From Day One
 
 The single most practical thing you can do is start a written record the day you're injured. Not a mental note. A written one, timestamped.
 
-I've recommended this [injury documentation journal on Amazon](https://www.amazon.com/s?k=injury+documentation+journal) to more people than I can count (note: the site may earn a small commission if you purchase through our links). It sounds almost comically simple, but a contemporaneous pain journal carries real weight in disputed claims. Judges and arbitrators give it credibility precisely because it's hard to fabricate a daily log that started on day one of the injury.
+An [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) is a practical tool worth considering (note: the site may earn a small commission if you purchase through our links). It sounds almost comically simple, but a contemporaneous pain journal carries real weight in disputed claims. Judges and arbitrators give it credibility precisely because it's hard to fabricate a daily log that started on day one of the injury.
 
 Write down: date, pain level on a 1-10 scale, specific limitations (couldn't grip a coffee cup, couldn't lift my arm past 90 degrees), names of everyone you spoke to about the injury, and any statements made at your medical appointments. Note exactly what you told the doctor and what they said back. Not a paraphrase. The actual words, as close as you can get.
 

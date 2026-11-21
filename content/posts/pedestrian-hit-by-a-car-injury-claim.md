@@ -42,13 +42,13 @@ If you're the person hurt, or helping someone who was, get a personal injury att
 
 ## What Your Claim Is Actually Worth (And Why No One Can Tell You Upfront)
 
-I get this question constantly, and I'll give you the honest answer: there's no reliable ballpark I can hand you. Here's why that's not me dodging.
+This is one of the most common questions injury claimants have, and the honest answer is: there is no reliable ballpark to offer upfront. Here's why that's not me dodging.
 
 Pedestrian injury claim values are driven by four main categories of damages, and each one depends entirely on your specific facts.
 
 **Economic damages** are the calculable stuff: your medical bills, future medical expenses (sometimes enormous in cases with long-term rehab needs), lost wages while you couldn't work, and loss of future earning capacity if the injury affects your career. These are documented with actual numbers.
 
-**Non-economic damages** cover pain and suffering, emotional distress, loss of enjoyment of life, and similar harms. These don't come with receipts. Most states use either a "multiplier" method (total economic damages times a factor, often between 1.5 and 5 depending on severity) or a "per diem" approach. I don't have strong confidence that either method produces consistently fair results, and the research on standardization here is genuinely mixed.
+**Non-economic damages** cover pain and suffering, emotional distress, loss of enjoyment of life, and similar harms. These don't come with receipts. Most states use either a "multiplier" method (total economic damages times a factor, often between 1.5 and 5 depending on severity) or a "per diem" approach. Neither method produces consistently fair results, and the research on standardization is genuinely mixed.
 
 **Punitive damages** are rare, but they do show up in pedestrian cases where a driver was intoxicated, fleeing police, or showed reckless disregard. These can be substantial.
 
@@ -60,21 +60,21 @@ Florida's $10,000 minimum is notable given that Florida also has some of the hig
 
 ## Liability: It's Not Always as Clear as You'd Think
 
-Here's where I made assumptions I later had to revise. Early in my adjuster career, I assumed pedestrian claims were almost always the driver's fault. Largely true, but not universally. Comparative fault, meaning a legal concept where your own negligence can reduce your recovery, comes up in pedestrian cases more than people expect.
+ It is tempting to assume pedestrian claims are almost always the driver's fault. Largely true, but not universally. Comparative fault, meaning a legal concept where your own negligence can reduce your recovery, comes up in pedestrian cases more than people expect.
 
 Common arguments insurers raise against pedestrians: you were jaywalking, you were wearing dark clothing at night with no reflective gear, you stepped into traffic from between parked cars, you were looking at your phone, you were intoxicated. Each of these can be used to assign you a percentage of fault.
 
 In most states (which follow "modified comparative negligence" rules), you can still recover damages as long as you're less than 50% or 51% at fault, but your award is reduced by your percentage. So if your damages are $200,000 and you're found 20% at fault for jaywalking, you net $160,000. A few states still use "contributory negligence," which is brutal: Alabama, Maryland, North Carolina, Virginia, and Washington D.C. currently apply a rule where any fault on your part can bar recovery entirely.
 
-Scenario 1: Woman crossing mid-block in Phoenix, struck by driver running a stop sign. Driver is clearly at fault. She's assigned 15% comparative fault for jaywalking. Total damages: $85,000. Recovery after reduction: $72,250. Driver's insurance pays their $50,000 policy limit; remainder comes from her UIM coverage.
+For example, imagine a woman crossing mid-block in Phoenix, struck by a driver running a stop sign. Driver is clearly at fault. She is assigned 15% comparative fault for jaywalking. Total damages: $85,000. Recovery after reduction: $72,250. Driver's insurance pays their $50,000 policy limit; remainder comes from her UIM coverage.
 
-Scenario 2: Man in Atlanta, crossing at a marked crosswalk at night, no reflective clothing, driver doesn't see him. Driver carries $25,000 in liability. Man's injuries total $340,000 including surgery and three months of PT. After litigation, comparative fault assigned at 10% to pedestrian. Driver's insurer pays $25,000 policy limit. Man's own UIM policy covers an additional $75,000. The remaining gap? Out of pocket, or litigated against the driver personally, which rarely produces real money unless the driver has assets.
+As another example, consider a man in Atlanta crossing at a marked crosswalk at night with no reflective clothing, where the driver does not see him. Driver carries $25,000 in liability. Man's injuries total $340,000 including surgery and three months of PT. After litigation, comparative fault assigned at 10% to pedestrian. Driver's insurer pays $25,000 policy limit. Man's own UIM policy covers an additional $75,000. The remaining gap? Out of pocket, or litigated against the driver personally, which rarely produces real money unless the driver has assets.
 
-That second scenario is why I tell everyone: check your own UIM and MedPay limits right now, before anything happens. It's the most underappreciated protection in auto insurance.
+That second scenario illustrates why checking your own UIM and MedPay limits before anything happens is so important. It's the most underappreciated protection in auto insurance.
 
 ## The Timeline of a Pedestrian Injury Claim
 
-People want a simple answer here, and I can't give them one without context. What I can give is a realistic range.
+A simple answer here is not possible without context. What I can give is a realistic range.
 
 | Stage | Typical Timeframe | Notes |
 |---|---|---|
@@ -87,7 +87,7 @@ People want a simple answer here, and I can't give them one without context. Wha
 | Litigation (if needed) | 1-3+ additional years | Courts are backlogged in most jurisdictions |
 | Trial verdict | Rare; most cases settle | Less than 5% of personal injury cases go to verdict |
 
-The single most common mistake I see: people settle before reaching Maximum Medical Improvement (MMI), which is the point where their doctors determine their condition has stabilized. Once you cash that settlement check and sign the release, you cannot come back for more money if complications arise. I can't stress this enough. An adjuster once offered a client of mine's neighbor $18,000 in the hospital, while he was still on pain medication, four days after he was hit. He took it. His final medical bills alone exceeded $140,000.
+The single most common mistake is settling before reaching Maximum Medical Improvement (MMI), which is the point where doctors determine a condition has stabilized. Once you cash that settlement check and sign the release, you cannot come back for more money if complications arise. I can't stress this enough. For example, adjusters have been known to offer injured pedestrians as little as $18,000 in the hospital, while still on pain medication, just days after being hit. He took it. His final medical bills alone exceeded $140,000.
 
 ## What to Actually Do After You're Hit
 
@@ -101,7 +101,7 @@ Photograph your injuries repeatedly in the days that follow. Bruising often look
 
 Keep a written log. Every day, write down your pain levels, what you couldn't do, how your sleep was affected, what you missed. This becomes the documentation of your non-economic damages. (A simple injury journal can make a real difference here. If you want a structured option, [injury documentation journals on Amazon](https://www.amazon.com/s?k=injury+documentation+journal) run around $12-18 and are worth every penny. Full disclosure: this site may earn a small commission if you purchase through that link.)
 
-Do not post about the accident or your injuries on social media. I am not being overly cautious. I reviewed social media in claims all the time as an adjuster, and plaintiff attorneys know the defense does too.
+Do not post about the accident or your injuries on social media. Adjusters routinely review social media in claims, and plaintiff attorneys know the defense does too.
 
 Get a personal injury attorney consultation. Most work on contingency, meaning no upfront fee, they take a percentage (typically 33% pre-litigation, 40% if it goes to trial) of what they recover. The [Insurance Information Institute](https://www.iii.org/) and [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) both have solid, plain-language overviews of your rights that are worth reading before any meeting.
 

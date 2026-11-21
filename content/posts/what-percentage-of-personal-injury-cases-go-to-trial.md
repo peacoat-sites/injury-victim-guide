@@ -57,7 +57,7 @@ Here's where it gets specific, because "your case might go to trial" is not very
 
 **Your attorney wants to go to trial.** Honestly, this matters more than people admit. Some personal injury lawyers rarely see the inside of a courtroom and aren't comfortable there. Others have built reputations as trial lawyers, and insurance adjusters know it. A defense adjuster makes a different opening offer to John Morgan than to a solo practitioner who's never tried a case. The reputation of your counsel affects settlement dynamics directly.
 
-I watched this play out repeatedly from the other side of the table. When a case came in and the plaintiff's attorney had a strong trial record, the conversation in our office was different. Not "can we lowball this?" but "what do we actually owe here?"
+ When a case involves a plaintiff's attorney with a strong trial record, the conversation on the defense side tends to be different. Not "can we lowball this?" but "what do we actually owe here?"
 
 ---
 
@@ -100,7 +100,7 @@ And losing is a real possibility. [Nolo's personal injury resources](https://www
 
 There's no universal answer, and anyone who gives you one without knowing your case is guessing.
 
-What I can tell you is that the settlement-versus-trial decision should never be driven primarily by impatience, anger, or fear. Anger at the defendant is understandable but a terrible trial strategy metric. Impatience is legitimate, life doesn't pause while litigation runs, but a bad settlement is worse than a slower good one.
+The settlement-versus-trial decision should never be driven primarily by impatience, anger, or fear. Anger at the defendant is understandable but a terrible trial strategy metric. Impatience is legitimate, life doesn't pause while litigation runs, but a bad settlement is worse than a slower good one.
 
 The questions worth asking your attorney before making any decision:
 
@@ -112,7 +112,7 @@ What's the probability of losing outright? An honest attorney will give you a nu
 
 Is the defendant's final offer in the range of reasonable outcomes, or is it an insult designed to see if you'll fold?
 
-One practical tool I recommend to anyone in active litigation: keep an organized file of your medical records, bills, out-of-pocket expenses, and a running journal of how your injury affects your daily life. It sounds tedious, but it directly affects your ability to document damages. Something like [this personal injury documentation journal on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal) (the site may earn a commission on purchases) is a simple way to stay organized, and it makes your attorney's job easier, which in turn makes your job easier.
+One practical tool for anyone in active litigation is keeping an organized file of medical records, bills, out-of-pocket expenses, and a running journal of how the injury affects daily life. It sounds tedious, but it directly affects your ability to document damages. Something like [this personal injury documentation journal on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal) (the site may earn a commission on purchases) is a simple way to stay organized, and it makes your attorney's job easier, which in turn makes your job easier.
 
 ---
 

@@ -67,7 +67,7 @@ Required exchange:
 
 What you should absolutely not do: admit fault, apologize (even "I'm sorry this happened" can be used against you), speculate about what caused the crash, or give a recorded statement to anyone's insurance company at the scene. Be polite. Be cooperative. Be quiet about the substance.
 
-If there are witnesses, get their contact information before they leave. In my years on the claims side, independent witness statements were some of the most powerful evidence in disputed liability cases, and witnesses walk away in under three minutes if nobody asks them to stay.
+If there are witnesses, get their contact information before they leave. Independent witness statements are some of the most powerful evidence in disputed liability cases, and witnesses walk away in under three minutes if nobody asks them to stay.
 
 ## The Timeline That Actually Matters
 
@@ -83,15 +83,15 @@ Deadlines stack up fast after an accident, and missing them has real consequence
 | Send demand letter / consult attorney | Varies by state (typically 2-3 years, statute of limitations) | Missing this deadline ends your legal options entirely |
 | File with your state's DMV if required | Varies: CA requires within 10 days if damage over $1,000 | Non-filing can affect your license |
 
-The medical evaluation piece is where I see people hurt themselves most often. They feel stiff but okay, they skip the ER, and then three days later they can't turn their head. At that point, the insurance adjuster's notes already show "claimant reported no injury at scene," and you're fighting uphill for the rest of the claim. Soft tissue injuries, particularly to the cervical spine, routinely don't peak in symptoms until 48-72 hours post-impact. This isn't controversial; it's in the standard emergency medicine literature.
+The medical evaluation piece is where people hurt themselves most often. They feel stiff but okay, they skip the ER, and then three days later they can't turn their head. At that point, the insurance adjuster's notes already show "claimant reported no injury at scene," and you're fighting uphill for the rest of the claim. Soft tissue injuries, particularly to the cervical spine, routinely don't peak in symptoms until 48-72 hours post-impact. This isn't controversial; it's in the standard emergency medicine literature.
 
 ## Real Scenarios, Real Outcomes
 
-**Rear-end collision on a surface street, no airbag deployment, other driver at fault.** Driver photographs everything at the scene, gets two witness names, goes to urgent care same day (reports neck stiffness), notifies own insurer within 24 hours. Result: liability resolved without dispute; medical bills reimbursed; claim settled in roughly 4 months.
+For example, a driver in a rear-end collision with no airbag deployment who photographs everything at the scene, gets two witness names, goes to urgent care the same day, and notifies their own insurer within 24 hours is well-positioned for a favorable outcome: liability resolved without dispute, medical bills reimbursed, and the claim settled in roughly four months.
 
-**Intersection T-bone, disputed fault, no police report called.** Driver felt fine, exchanged info verbally without writing it down, didn't photograph the scene, declined medical evaluation. Three days later, severe back pain. No documentation, no witnesses, only her word against the other driver's. Result: liability disputed for 11 months; medical coverage contested; she ultimately settled for significantly less than her actual costs.
+For example, if a driver involved in an intersection T-bone with disputed fault felt fine, exchanged info verbally without writing it down, skipped photographing the scene, and declined medical evaluation, they could face serious consequences: three days later, severe back pain with no documentation, no witnesses, and only their word against the other driver's, leading to 11 months of disputed liability, contested medical coverage, and a settlement for significantly less than actual costs.
 
-**Minor parking lot scrape, other driver offered to "handle it privately."** Driver accepted, got no written documentation. Other driver later denied the incident entirely and filed a claim against her for unrelated damage. Result: without photos or a police report, she had no defense. Her insurer paid out and her rates increased.
+For example, if a driver accepted a verbal offer to "handle it privately" after a minor parking lot scrape and obtained no written documentation, they would have no defense if the other driver later denied the incident and filed a claim for unrelated damage, leaving the driver's insurer to pay out and the driver facing a rate increase.
 
 The pattern here isn't subtle.
 
@@ -103,13 +103,13 @@ The 48 hours after you leave the scene matter almost as much as the scene itself
 
 Write a full narrative of the accident while it's fresh. Not for an attorney, not for an insurance company: for yourself. What you saw, what you heard, what the road conditions were, what the other driver said, whether they seemed distracted or agitated. The [American Bar Association's guidance on accident documentation](https://www.americanbar.org/groups/public_education/) specifically recommends a written personal account created within 24 hours as part of building any potential claim file.
 
-Keep a daily log of how you feel. I know that sounds excessive for a fender-bender, but this is the thing that separates recoverable injury costs from costs you absorb yourself. A simple notebook or a symptom-tracking app works. If you want something more organized, an [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) (Amazon, around $12-$15) can help you keep medical dates, symptoms, and expenses in one place (this site may earn a small commission on purchases).
+Keep a daily log of how you feel. That may sound excessive for a fender-bender, but this is the thing that separates recoverable injury costs from costs you absorb yourself. A simple notebook or a symptom-tracking app works. If you want something more organized, an [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) (Amazon, around $12-$15) can help you keep medical dates, symptoms, and expenses in one place (this site may earn a small commission on purchases).
 
 Call your insurance company within 24-72 hours. Not to give a full statement necessarily, but to open the claim and get a claim number. Most policies have a "prompt notification" clause; waiting a week or two can give the insurer grounds to complicate your claim.
 
 The [Insurance Information Institute](https://www.iii.org/) recommends keeping a dedicated folder with all accident-related receipts, medical bills, correspondence, and photos. As of July 2026, most insurers have moved to digital claims portals, so a shared cloud folder works too; just make sure you have backups.
 
-One thing I genuinely didn't understand until I was on the advocacy side: you do not have to give a recorded statement to the other driver's insurance company. Ever. They'll ask, sometimes insistently, and they'll frame it as a standard requirement. It's not. Politely decline and let your own insurer or an attorney handle that communication if there's any chance of a significant injury claim.
+One thing many people don't realize: you do not have to give a recorded statement to the other driver's insurance company. Ever. They'll ask, sometimes insistently, and they'll frame it as a standard requirement. It's not. Politely decline and let your own insurer or an attorney handle that communication if there's any chance of a significant injury claim.
 
 ## Sources
 

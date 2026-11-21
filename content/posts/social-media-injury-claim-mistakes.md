@@ -28,13 +28,13 @@ lastmod: 2026-11-16T16:00:00Z
 
 Three days after her car accident, a woman I'll call Dana posted a photo on Instagram. She was at her cousin's birthday party, smiling, holding a piece of cake. The caption said "finally feeling more like myself." Her attorney didn't find out about that post until the insurance company's lawyer brought it up during mediation. The settlement offer dropped by more than half that same afternoon.
 
-I spent 12 years on the other side of that table. And I promise you: insurance adjusters are looking for that photo.
+Insurance adjusters spend years on the other side of that table. Insurance adjusters are looking for that photo.
 
 ---
 
 ## The Adjuster's Playbook (And Why You're Already in It)
 
-Here's what most people don't realize: the moment a claim is filed, many insurance companies assign someone to monitor the claimant's social media. Not always immediately, not always consistently, but often enough that you should assume it's happening. During my years as an adjuster, we had a process for this. It wasn't shadowy or technically sophisticated. We'd just... look. Public profiles, tagged photos, check-ins, comments. You'd be amazed what people voluntarily hand over.
+Here's what most people don't realize: the moment a claim is filed, many insurance companies assign someone to monitor the claimant's social media. Not always immediately, not always consistently, but often enough that you should assume it's happening. Adjusters commonly follow a process for this. It wasn't shadowy or technically sophisticated. They simply look. Public profiles, tagged photos, check-ins, comments. The amount of information people voluntarily hand over is significant.
 
 The assumption claimants make is that their private Instagram or locked-down Facebook is safe. That's the first mistake. Defense attorneys can and do subpoena social media data as part of the discovery process, which means your "private" posts can become evidence. Courts have consistently held that there's no reasonable expectation of privacy for content you've shared with friends, family, or followers, even if you intended it to stay in that circle.
 
@@ -60,9 +60,9 @@ Let me be direct about what actually damages cases, because the generic "be care
 
 ## What You Should Actually Do
 
-I want to be practical here because a lot of the advice in this space is either too vague or too paranoid to be useful.
+The goal here is to be practical, because a lot of the advice in this space is either too vague or too paranoid to be useful.
 
-The most protective thing you can do is simply stop posting for the duration of the claim. Full stop. I know that feels extreme. We're in 2026 and social media is woven into how people communicate. But there is no upside to posting while your claim is active, and the downside is real. Every post is a possible deposition exhibit.
+The most protective thing you can do is simply stop posting for the duration of the claim. Full stop. I know that feels extreme. We're in 2026 and social media is woven into how people communicate. There is no upside to posting while a claim is active, and the downside is real. Every post is a possible deposition exhibit.
 
 If going dark isn't realistic for you, a few things to lock down immediately:
 
@@ -72,21 +72,21 @@ Tell the people closest to you. Your family, your close friends, anyone who migh
 
 Document your actual condition, privately. This is the flip side that doesn't get enough attention. While you're keeping social media quiet, keep a private injury journal: dates, pain levels, activities you couldn't do, doctors you saw, medications you took. A simple notebook works, or something like a dedicated injury journal (you can find them on Amazon; note the site may earn a commission on purchases). This private record supports your claim in the way public posts undermine it.
 
-Worked example from something I observed firsthand:
+For example, consider this scenario:
 
-A client (not mine legally, but someone I consulted with informally after I left adjusting) had a slip-and-fall at a grocery store and was claiming significant knee damage. During the six-month claim period, she completely locked down socially, asked her friends not to tag her, and kept a detailed daily pain log. When the insurance company's investigation turned up nothing usable on her social media, and her medical records aligned precisely with her documented symptom timeline, the case settled at policy limits. The adjuster told her attorney it was one of the cleaner files they'd seen. The pain log was a big part of why.
+A claimant with a slip-and-fall at a grocery store was claiming significant knee damage. During the six-month claim period, she completely locked down socially, asked her friends not to tag her, and kept a detailed daily pain log. When the insurance company's investigation turned up nothing usable on her social media, and her medical records aligned precisely with her documented symptom timeline, the case settled at policy limits. Adjusters in such situations often note that well-documented files are among the strongest they review. The pain log was a big part of why.
 
-Contrast that with a case an attorney friend shared with me: a claimant posted a video of himself helping a friend move furniture about eight weeks after a back injury claim. He posted it himself, publicly, with a caption joking about being "basically a professional mover at this point." The case settled for roughly 30% of the original demand.
+In contrast, one documented scenario involved a claimant who posted a video of himself helping a friend move furniture about eight weeks after a back injury claim. He posted it himself, publicly, with a caption joking about being "basically a professional mover at this point." The case settled for roughly 30% of the original demand.
 
 ---
 
 ## The Part That Makes Me Genuinely Frustrated
 
-The thing that bothers me most about all of this is that it punishes people for being human. Nobody should have to perform their suffering for an insurance company. The fact that you went to your cousin's birthday party doesn't mean your injuries aren't real. People push through pain. People have good days and bad days. People don't stay home in bed for six months just because they're injured.
+What is genuinely troubling about all of this is that it punishes people for being human. Nobody should have to perform their suffering for an insurance company. The fact that you went to your cousin's birthday party doesn't mean your injuries aren't real. People push through pain. People have good days and bad days. People don't stay home in bed for six months just because they're injured.
 
 But the insurance industry built its evaluation system around moments, not trajectories. And social media is a machine for producing moments stripped of context. That's a genuinely unfair dynamic, and I don't think there's a clean solution to it except to stop feeding the machine while your claim is open.
 
-If you're feeling frustrated that you have to modify your behavior because an insurance company might be watching, that frustration is completely valid. And then, practically: do it anyway. Protect your claim.
+Feeling frustrated about having to modify behavior because an insurance company might be watching is completely valid. And then, practically: do it anyway. Protect your claim.
 
 ---
 

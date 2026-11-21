@@ -28,7 +28,7 @@ faqs:
 
 Forty-two percent of legal malpractice claims filed in the United States involve [personal injury cases](/how-long-do-personal-injury-cases-take/). Let that sit for a second. Nearly half of all attorney malpractice isn't happening in obscure corners of the law. It's happening to people who were already hurt, already stressed, and already trusting someone they thought was on their side.
 
-I spent twelve years on the other side of these cases. As an [insurance adjuster](/what-to-say-to-an-insurance-adjuster-after-an-accident/), I reviewed thousands of claims, and I can tell you with zero hesitation: the quality of an injured person's attorney is one of the two or three biggest factors determining what they actually walk away with. A bad lawyer doesn't just lose cases. They blow deadlines. They accept lowball offers their clients don't understand. They disappear. And by the time you realize it, the statute of limitations may have already buried your case.
+Insurance adjusters who have worked on these cases from the other side offer a useful perspective here. Adjusters who have reviewed thousands of claims consistently report that the quality of an injured person's attorney is one of the two or three biggest factors determining what they actually walk away with. A bad lawyer doesn't just lose cases. They blow deadlines. They accept lowball offers their clients don't understand. They disappear. And by the time you realize it, the statute of limitations may have already buried your case.
 
 Most articles on this topic hand you a generic checklist and call it a day. This one is going to be more specific than that, because the warning signs I watched play out from the claims side are different from what you'll read on a law school blog.
 
@@ -36,7 +36,7 @@ Most articles on this topic hand you a generic checklist and call it a day. This
 
 ## They Promise You a Number Before Seeing Your Records
 
-This is the one that got me every time I was on the adjuster side. I'd get a demand letter from a plaintiff's attorney that was so wildly inflated, with no documented basis, that I knew immediately the lawyer had made promises they couldn't keep.
+This pattern is one that adjusters notice consistently. Adjusters regularly receive demand letters that are so wildly inflated, with no documented basis, that it becomes clear the lawyer made promises they could not keep.
 
 Good attorneys don't promise outcomes. They can't. According to the American Bar Association's Model Rules of Professional Conduct, specifically Rule 1.5 and the comments to Rule 8.4, guaranteeing a result is an ethics violation in every state bar. If a lawyer tells you "we'll get you at least $X" before reviewing your [medical records](/medical-records-release-sign-or-not/), before seeing the police report, before running a conflicts check, walk out.
 
@@ -46,7 +46,7 @@ This problem occurs across all firm sizes. Solo practitioners are just as likely
 
 ## The Communication Pattern Tells You Everything
 
-Here's something only someone who's been inside the process would think to mention: watch how long it takes to reach the lawyer's office *before* you sign. Call as a prospective client. Note the response time. Note whether you speak to the attorney or always an intake specialist. Note how specific their answers are.
+One practical step that is easy to overlook: watch how long it takes to reach the lawyer's office *before* you sign. Call as a prospective client. Note the response time. Note whether you speak to the attorney or always an intake specialist. Note how specific their answers are.
 
 Because after you sign, that response time usually gets longer, not shorter.
 
@@ -54,7 +54,7 @@ The State Bar of California, which tracks attorney discipline more granularly th
 
 That's not a coincidence. It's a business model. High-volume firms sign too many clients, assign cases to paralegals without supervision, and surface only when a settlement offer lands. Your job is to figure out which kind of firm you're dealing with before you need them most.
 
-A concrete example: A woman I'll call Debra (she reached out through a forum I moderate) signed with a PI attorney after a slip-and-fall at a grocery store in Sacramento. Ninety days passed without a single substantive update. She called fourteen times. The attorney's paralegal kept saying the case was "in discovery." Debra eventually hired a second opinion attorney to review the file. The original lawyer had filed nothing. The statute of limitations in California for personal injury is generally two years, and she had eight months left. The second attorney filed immediately, but the lost time compressed the entire case.
+For example, consider a situation where someone signs with a PI attorney after a slip-and-fall at a grocery store. Ninety days passed without a single substantive update. She called fourteen times. The attorney's paralegal kept saying the case was "in discovery." Debra eventually hired a second opinion attorney to review the file. The original lawyer had filed nothing. The statute of limitations in California for personal injury is generally two years, and she had eight months left. The second attorney filed immediately, but the lost time compressed the entire case.
 
 Debra settled for less than she might have. She'll never know how much less.
 
@@ -77,7 +77,7 @@ Some things are worth laying out side-by-side, because the difference between a 
 
 The MMI point deserves more space. Maximum Medical Improvement is the point at which your doctors say your condition has stabilized. Settling before you reach MMI means you don't yet know your full damages. Future surgeries, ongoing physical therapy, long-term medication costs, none of that is priced in yet. An attorney pushing you to settle before MMI is either not paying attention or is optimizing for their own cash flow, not yours.
 
-I used to see this from the adjuster side constantly. We'd make an early offer specifically hoping the plaintiff's lawyer would take it before the full picture emerged. When they did, it was a good day for us.
+Adjusters see this pattern constantly. Early offers are often made specifically in hopes that the plaintiff's lawyer will accept before the full picture of damages has emerged. When they did, it was a good day for us.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Top reasons for attorney discipline (PI-related complaints)</div><div class="sc-row"><span class="sc-label">Failure to communicate</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">30%</span></div><div class="sc-row"><span class="sc-label">Missed deadlines</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">24%</span></div><div class="sc-row"><span class="sc-label">Failure to return client funds</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">19%</span></div><div class="sc-row"><span class="sc-label">Inadequate case management</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">15%</span></div><div class="sc-row"><span class="sc-label">Misrepresentation</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">12%</span></div><div class="sc-src">Source: State Bar of California 2025 Discipline Report</div></div>
 
@@ -89,7 +89,7 @@ Statutes of limitations vary by state, by defendant type (a government entity us
 
 The practical test: ask your attorney, within the first two weeks of signing, "What are our key deadlines in this case?" A good attorney rattles them off or pulls up a docket immediately. A bad one gives you something vague about "having plenty of time."
 
-Another example, this one from my adjuster years: a claimant in Arizona sued a municipal bus service for a 2021 accident. Their attorney missed the 180-day Notice of Claim requirement that Arizona imposes for government defendants. The lawsuit was dismissed. The attorney's malpractice carrier eventually paid out, but the claimant spent three additional years in litigation to collect from *his own lawyer* what he should have gotten from the city. Three extra years, extra stress, and a recovery that factored in litigation costs against the malpractice carrier.
+For example, a claimant in Arizona sued a municipal bus service for a 2021 accident. Their attorney missed the 180-day Notice of Claim requirement that Arizona imposes for government defendants. The lawsuit was dismissed. The attorney's malpractice carrier eventually paid out, but the claimant spent three additional years in litigation to collect from *his own lawyer* what he should have gotten from the city. Three extra years, extra stress, and a recovery that factored in litigation costs against the malpractice carrier.
 
 [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) include a solid state-by-state overview of statutes of limitations that I'd encourage any injury victim to read independently, before and after speaking with an attorney.
 
@@ -99,7 +99,7 @@ Bar complaint records are public. Every state bar association maintains a search
 
 Also, read the negative reviews on Google and Avvo carefully, not for emotion, but for pattern. "They didn't call me back" from three different reviewers posted in different years is a fact pattern. "They lost my case" from one angry person might mean nothing.
 
-What I've never seen mentioned anywhere: check whether the attorney is in good standing with their state bar's MCLE (Mandatory Continuing Legal Education) compliance records. Attorneys who aren't keeping current on their CLE requirements are sometimes, not always, but sometimes, attorneys who aren't keeping current on much else either.
+One often-overlooked step: check whether the attorney is in good standing with their state bar's MCLE (Mandatory Continuing Legal Education) compliance records. Attorneys who aren't keeping current on their CLE requirements are sometimes, not always, but sometimes, attorneys who aren't keeping current on much else either.
 
 The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) is a useful external reference point for understanding how common various injury types are and how they're typically documented, which matters when you're trying to assess whether your lawyer is building your case on the right medical foundation.
 

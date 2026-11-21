@@ -18,11 +18,9 @@ If you've been in a New York car accident recently, or you're still dealing with
 
 That last part is what's catching people off guard. You might be wondering: "My accident was in 2025. These new rules can't apply to me, right?" Wrong, unfortunately. If you haven't filed your lawsuit yet, you are playing by the new rules. The date that matters is when the case is commenced, not when the crash occurred. That distinction is already pushing people to have urgent conversations with attorneys, and rightfully so.
 
-Here's what I tell people when they first hear about this: take a breath, but don't wait. Understanding what changed, and how it might affect your specific situation, is the first step.
-
+The practical guidance for anyone in this situation is the same: take a breath, but don't wait. Understanding what changed, and how it might affect your specific situation, is the first step.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A10008 applies to all lawsuits filed on or after May 26, 2026, even for older crashes.</li><li style="margin:5px 0">The "90/180-day" injury category is gone, eliminating a common path to pain-and-suffering claims.</li><li style="margin:5px 0">Drivers found more than 50% at fault are now completely barred from non-economic damages.</li><li style="margin:5px 0">Uninsured or impaired drivers face a $100,000 cap on pain and suffering, even if someone else caused the crash.</li><li style="margin:5px 0">Juries now decide fault before evaluating injury threshold, changing how cases are tried and settled.</li></ul></div>
-
 
 ## The "90/180-Day" Category Is Gone. Here's Why That Matters.
 
@@ -32,7 +30,7 @@ That category is now gone. Eliminated entirely.
 
 This matters enormously for people with real, significant injuries that aren't technically permanent. Think about soft tissue injuries, disc herniations that resolve with treatment, or injuries that kept someone out of work for months. Many of those people relied on the 90/180 category to qualify for a pain and [suffering claim](/car-accident-pain-and-suffering-claim/). As the National Law Review reported in June 2026, the elimination of this threshold narrows the gateway to litigation considerably, and it will leave some genuinely hurt people without a remedy beyond their basic no-fault benefits.
 
-The remaining serious injury categories, things like permanent consequential limitation of a body organ or function, significant disfigurement, or bone fracture, are still in place. But they require more objective proof, and insurance adjusters (I was one for 12 years, remember) know exactly how to fight those claims. The bar just got higher.
+The remaining serious injury categories, things like permanent consequential limitation of a body organ or function, significant disfigurement, or bone fracture, are still in place. But they require more objective proof, and insurance adjusters know exactly how to fight those claims. The bar just got higher.
 
 ## The 50% Bar: New York's Shift Away from Pure Comparative Fault
 
@@ -53,7 +51,7 @@ Even if an [uninsured driver](/accident-with-an-uninsured-driver-what-to-do/) wa
 | Uninsured driver (regardless of fault) | $100,000 maximum |
 | Impaired driver at time of crash | $100,000 maximum |
 
-Here's what I tell people about that $100,000 figure: it sounds like a lot until you're talking about a serious injury that requires surgery, physical therapy, and years of dealing with pain. Damages in significant injury cases routinely ran into the hundreds of thousands or more before this law. That cap is a hard ceiling, and for people who were hurt badly through no fault of their own, it's a painful one.
+That $100,000 figure sounds like a lot until you are talking about a serious injury that requires surgery, physical therapy, and years of dealing with pain. Damages in significant injury cases routinely ran into the hundreds of thousands or more before this law. That cap is a hard ceiling, and for people who were hurt badly through no fault of their own, it's a painful one.
 
 ## How Trials Will Actually Run Differently Now
 

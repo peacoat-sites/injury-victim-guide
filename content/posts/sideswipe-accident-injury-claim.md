@@ -35,9 +35,9 @@ If you're reading this, you're probably somewhere between "I think I'm okay" and
 
 The physics of a sideswipe work differently than a rear-end or head-on collision. Your body doesn't absorb a direct impact. Instead, you get a sudden lateral jolt, sometimes multiple ones if the vehicles stay in contact. Your head snaps sideways. Your hands grip the wheel hard. You might swerve, overcorrect, or spin out.
 
-That sideways motion is rough on your neck, upper back, and shoulders in ways that don't always surface right away. Whiplash is obvious. But I've seen clients show up days later with symptoms that turned out to be herniated discs, torn rotator cuffs, or even concussions they'd dismissed as a tension headache. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) consistently shows that traumatic brain injuries from motor vehicle crashes are underreported, partly because people don't recognize mild TBI symptoms.
+That sideways motion is rough on your neck, upper back, and shoulders in ways that don't always surface right away. Whiplash is obvious. It is common for symptoms that turn out to be herniated discs, torn rotator cuffs, or even concussions to surface days later, initially dismissed as a tension headache. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) consistently shows that traumatic brain injuries from motor vehicle crashes are underreported, partly because people don't recognize mild TBI symptoms.
 
-Here's what I tell people who feel "mostly fine" after a sideswipe: see a doctor anyway. Not to manufacture a claim. Because you deserve to know what actually happened to your body, and because a medical record created close to the crash date is one of the most important pieces of documentation you'll have if symptoms do develop later.
+Anyone who feels "mostly fine" after a sideswipe should see a doctor anyway. Not to manufacture a claim. Because you deserve to know what actually happened to your body, and because a medical record created close to the crash date is one of the most important pieces of documentation you'll have if symptoms do develop later.
 
 ---
 
@@ -85,9 +85,9 @@ You're generally required to report accidents under your policy terms. Reporting
 
 ## Dealing With Insurance Companies After a Sideswipe
 
-Here's where things get frustrating for most people, and I'll be direct about why.
+Here's where things get frustrating for most people.
 
-Insurance adjusters, and I was one for 12 years, are trained to resolve claims efficiently. That usually means quickly and for as little as possible. They're not your adversary necessarily. But they're not your advocate either. They're doing a job.
+Insurance adjusters are trained to resolve claims efficiently. That usually means quickly and for as little as possible. They're not your adversary necessarily. But they're not your advocate either. They're doing a job.
 
 A few things to keep in mind:
 

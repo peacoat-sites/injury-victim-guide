@@ -33,7 +33,7 @@ You're sitting in your car, or maybe you're already home, and everything happene
 
 When a vehicle hits your door, your body takes a lateral impact that your seatbelt wasn't fully designed to absorb. Seatbelts excel at preventing you from flying forward in a frontal crash. But in a side impact, your torso is restrained while your head and neck can whip sideways. Your hip, shoulder, and the arm nearest the impact often absorb direct force from the door intrusion itself.
 
-The injuries I see most often in T-bone cases include:
+T-bone cases commonly involve the following injuries:
 
 - **Traumatic brain injury (TBI):** Even without a direct head strike, the violent snapping motion can cause the brain to impact the inside of the skull.
 - **Spinal injuries:** Thoracic and lumbar fractures are common, as is herniated disc damage that doesn't always show up on imaging right away.
@@ -49,7 +49,7 @@ Here's what matters about [delayed symptoms](/delayed-injury-symptoms-after-car-
 
 Fault determines which insurance company is primarily responsible for your compensation. In most T-bone accidents, liability seems obvious, but it's often more complicated than it looks.
 
-The driver who ran a red light or failed to yield typically bears clear fault. But insurance adjusters, and I was one of them for 12 years, are trained to find any thread of shared responsibility they can pull. They'll ask whether you were speeding, whether you entered the intersection on a yellow, or whether your view was obstructed and you failed to check carefully.
+The driver who ran a red light or failed to yield typically bears clear fault. But insurance adjusters are trained to find any thread of shared responsibility they can pull. They'll ask whether you were speeding, whether you entered the intersection on a yellow, or whether your view was obstructed and you failed to check carefully.
 
 This matters financially because of a legal concept called **comparative negligence**. In most states, if you're found to be 20% at fault for the crash, your compensation is reduced by 20%. In a small number of states that use **contributory negligence**, being even 1% at fault can potentially bar your recovery entirely. The [American Bar Association's public education resources](https://www.americanbar.org/groups/public_education/) are a helpful place to start understanding how your specific state approaches fault allocation.
 
@@ -91,7 +91,7 @@ If you haven't done these yet, start today. Each day that passes makes some of t
 
 **Step 4: Notify your own insurance company.** Even if the other driver is clearly at fault, your policy likely requires prompt notification. This does not mean giving a recorded statement, which I'll address below.
 
-**Step 5: Do not give a recorded statement to the other driver's insurance.** This is the step where I see people hurt themselves the most. The other driver's insurer will call quickly, often within 24 to 48 hours, and ask for a recorded statement. They'll frame it as routine. It's not in your interest. Anything you say can be used to minimize your claim. You're not legally required to give one to an insurer you have no contract with.
+**Step 5: Do not give a recorded statement to the other driver's insurance.** This is the step where many people hurt themselves the most. The other driver's insurer will call quickly, often within 24 to 48 hours, and ask for a recorded statement. They'll frame it as routine. It's not in your interest. Anything you say can be used to minimize your claim. You're not legally required to give one to an insurer you have no contract with.
 
 **Step 6: Consult a personal injury attorney.** Most offer free consultations and work on contingency, meaning they only get paid if you do. Getting a professional evaluation of your case doesn't commit you to anything, but it gives you critical information before you make any decisions.
 
@@ -126,7 +126,6 @@ You didn't choose to be in this situation. But you do get to choose how you resp
 - [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
 - [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
 - [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -61,7 +61,7 @@ No two permanent disability cases produce the same number. The variables are rea
 
 ## How Settlements Are Actually Calculated
 
-When I worked as an adjuster, I can tell you the process wasn't random, even when it felt that way to claimants. There's structure behind the numbers.
+Adjusters follow a structured process, even when it feels random to claimants. There's structure behind the numbers.
 
 The biggest components in a permanent disability settlement are typically:
 

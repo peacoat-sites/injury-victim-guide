@@ -31,7 +31,7 @@ Spoiler: most people take it.
 
 ## Why Insurance Companies Make Lowball Offers (It's Not an Accident)
 
-Let me be direct about something the industry doesn't advertise. Making low first offers is a deliberate strategy. When I worked as an adjuster, the internal pressure was constant: close claims fast, close them cheap. The first offer is rarely meant to be fair. It's meant to see what you'll accept.
+Let me be direct about something the industry doesn't advertise. Making low first offers is a deliberate strategy. Adjusters commonly describe internal pressure to close claims fast and close them cheap. The first offer is rarely meant to be fair. It's meant to see what you'll accept.
 
 The Insurance Information Institute acknowledges that insurers balance claim payouts against financial reserves, and that tension shapes how adjusters are trained to open negotiations. Your adjuster isn't necessarily a bad person. They're working a system designed to protect the company's bottom line.
 

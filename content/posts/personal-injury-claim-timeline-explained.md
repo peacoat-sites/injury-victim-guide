@@ -28,7 +28,7 @@ faqs:
 
 Most people who file a [personal injury claim](/police-report-personal-injury-claim/) assume the whole thing wraps up in a few weeks. The actual median time from incident to settlement is closer to 12 to 18 months, with cases often extending past three years when litigation gets involved. That gap between expectation and reality is where a lot of people make their worst decisions, usually by accepting a lowball offer too early just to be done with it.
 
-I'll be honest: when I was still working as an adjuster, I knew exactly how much that impatience was worth to my employer. We had a phrase for it internally that I'm [not going](/neck-pain-after-car-accident-not-going-away/) to repeat here, but the concept was simple. The longer a claimant goes without income and without understanding what's happening, the faster they'll sign a release. Understanding the timeline doesn't just satisfy curiosity. It protects your money.
+Adjusters know exactly how much that impatience is worth to their employer. We had a phrase for it internally that I'm [not going](/neck-pain-after-car-accident-not-going-away/) to repeat here, but the concept was simple. The longer a claimant goes without income and without understanding what's happening, the faster they'll sign a release. Understanding the timeline doesn't just satisfy curiosity. It protects your money.
 
 Research on settlement timelines shows that the *type* of injury drives duration more than almost any other factor, including attorney involvement.
 
@@ -38,15 +38,15 @@ Research on settlement timelines shows that the *type* of injury drives duration
 
 [Maximum medical improvement](/what-is-maximum-medical-improvement-in-an-injury-claim/), or MMI, is the point at which a doctor determines your condition has stabilized and further significant recovery isn't expected. It sounds clinical. What it actually means for your claim is enormous: you cannot accurately calculate your damages until you've reached it.
 
-I spent years on the other side of this. When a claimant settled before MMI, we'd close the file, and six months later I'd hear through the grapevine they needed a second surgery. Nothing we could do. The release they signed was final. [The Insurance Information Institute](https://www.iii.org/) tracks claim behavior broadly, but the pattern I saw firsthand was consistent: early settlements almost always undervalue future medical costs because nobody knows what they are yet.
+ When a claimant settles before MMI, the file closes, and months later that person may discover they need a second surgery with no recourse.  The release they signed is final. [The Insurance Information Institute](https://www.iii.org/) tracks claim behavior broadly, but the pattern I saw firsthand was consistent: early settlements almost always undervalue future medical costs because nobody knows what they are yet.
 
 The practical consequence is that your own timeline should be built around your treatment arc, not the insurance company's preferred pace.
 
-**Scenario:** Someone with soft tissue injuries from a rear-end collision at a stoplight, who missed six weeks of work, might receive a $4,200 offer at week three. Waiting for physical therapy to conclude and reaching maximum medical improvement at week eleven allowed an attorney to negotiate a $19,400 settlement covering lost wages, therapy costs, and a pain-and-suffering component. Same facts. Completely different outcome because of timing.
+For example, someone with soft tissue injuries from a rear-end collision at a stoplight, who missed six weeks of work, might receive a $4,200 offer at week three. Waiting for physical therapy to conclude and reaching maximum medical improvement at week eleven allowed an attorney to negotiate a $19,400 settlement covering lost wages, therapy costs, and a pain-and-suffering component. Same facts. Completely different outcome because of timing.
 
 ## The Phase-by-Phase Breakdown
 
-Here's where I want to give you something genuinely concrete. The timeline isn't one monolithic thing. It's a sequence of phases, each with its own clock.
+Here is something genuinely concrete to work with. The timeline isn't one monolithic thing. It's a sequence of phases, each with its own clock.
 
 | Phase | Typical Duration | What's Actually Happening |
 |---|---|---|
@@ -70,17 +70,17 @@ The research on case duration is more mixed. A 2023 analysis by RAND's Institute
 
 What this means practically: if your injury is relatively contained and you have good documentation, you're likely looking at something under a year. If your injuries are serious enough that you'll be treating for many months, you should expect to be in this process for at least 18 months, and possibly much longer. That's not pessimism. That's the shape of the data.
 
-**Scenario 2:** A man in Phoenix with a herniated disc from a slip-and-fall at a grocery store. Serious, genuinely debilitating, multiple epidural injections before reaching MMI at month nine. → Demand letter sent at month ten. → Grocery chain's insurer disputed liability for two months, final settlement reached at month fourteen for $87,000. → Payment received six weeks later after hospital lien negotiated down from $28,000 to $14,500.
+For example, consider a hypothetical claimant with a herniated disc from a slip-and-fall at a grocery store. Serious, genuinely debilitating, multiple epidural injections before reaching MMI at month nine. → Demand letter sent at month ten. → Grocery chain's insurer disputed liability for two months, final settlement reached at month fourteen for $87,000. → Payment received six weeks later after hospital lien negotiated down from $28,000 to $14,500.
 
-That six-week post-settlement wait blindsided him. He'd already told his landlord the money was coming.
+That six-week post-settlement wait can blindside claimants in this situation. Many have already made financial commitments based on the assumption that payment is imminent.
 
 ## The Statute of Limitations Trap
 
-As of August 2026, the statute of limitations for personal injury claims ranges from one year (in states like Tennessee and Kentucky for certain claim types) to six years in some states for contract-based injury theories. Most states cluster around two to three years for standard negligence claims. But here's where I get genuinely worried for people: the clock starts running from the date of injury in most states, not the date you realized you were hurt, and not the date treatment concluded.
+As of August 2026, the statute of limitations for personal injury claims ranges from one year (in states like Tennessee and Kentucky for certain claim types) to six years in some states for contract-based injury theories. Most states cluster around two to three years for standard negligence claims. The clock starts running from the date of injury in most states, not the date you realized you were hurt, and not the date treatment concluded.
 
 There are exceptions. The "discovery rule" applies in some jurisdictions, especially for injuries that weren't immediately apparent. Minors typically have tolled statutes (the clock is paused) until they turn 18. Claims against government entities often have notice requirements as short as 90 to 180 days that are completely separate from the main statute.
 
-I made the mistake once of assuming a client had more time than she did because I was thinking of the general two-year rule and her claim involved a city bus. The notice deadline was 180 days. We caught it with a few weeks to spare. That near-miss is why I bring it up in every conversation about timelines.
+A common mistake is assuming the general two-year rule applies when a claim involves a government entity such as a city bus. The notice deadline in such cases can be as short as 180 days. Missing that deadline would have barred the claim entirely. That is why this point deserves emphasis whenever timelines are discussed.
 
 ## Sources
 
