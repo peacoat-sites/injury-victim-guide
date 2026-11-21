@@ -88,7 +88,7 @@ Slip and fall with prior knee surgery → Claimant signed broad release sent by 
 
 Workers' comp claim with mental health component → Employer's carrier requested broad release including psychiatric records unrelated to workplace injury → Attorney objected, provided limited release excluding unrelated mental health history → Mental health records never entered into comp proceedings.
 
-These outcomes are not isolated flukes. Pattern holds up across hundreds of cases.
+These outcomes are not isolated flukes, and this pattern appears across a broad range of similar cases.
 
 ---
 

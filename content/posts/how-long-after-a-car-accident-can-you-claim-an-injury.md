@@ -75,9 +75,9 @@ The legal concept that protects you here is called the **discovery rule**. In st
 
 Here's the catch that even smart people miss: "discovery" doesn't mean "definitive diagnosis." It often means the moment you had enough information to suspect an injury. Courts have found that if you complained of neck pain to your doctor two weeks after the crash, you arguably had notice then, even if the MRI came later. Keep every single medical record, every complaint you made to a doctor, and every pharmacy receipt. The paper trail tells the story.
 
-Worked example: A 34-year-old teacher in Denver was rear-ended in November. She had headaches but attributed them to work stress. The following March, an MRI revealed a herniated disc at C5-C6. She filed suit in October of the following year, within Colorado's three-year window and within two years of her formal diagnosis. Her attorney successfully argued the discovery rule. She settled for $67,000.
+For example, imagine a 34-year-old teacher in Denver who was rear-ended in November. She had headaches but attributed them to work stress. The following March, an MRI revealed a herniated disc at C5-C6. She filed suit in October of the following year, within Colorado's three-year window and within two years of her formal diagnosis. Her attorney successfully argued the discovery rule. She settled for $67,000.
 
-Worked example: A contractor in Houston had the same type of injury but waited to see a doctor for over a year because he was uninsured and worried about costs. By the time he had documentation, he was nine months from Texas's two-year deadline. His case settled for a fraction of its potential value because the gaps in his medical records let the defense argue the injury wasn't crash-related. The lesson here isn't to be that guy.
+In another hypothetical scenario, a contractor in Houston with the same type of injury might wait to see a doctor for over a year because he was uninsured and worried about costs. By the time he had documentation, he was nine months from Texas's two-year deadline. Such a case could settle for a fraction of its potential value because the gaps in medical records let the defense argue the injury wasn't crash-related. Delaying medical care creates documentation gaps that can seriously undermine a claim.
 
 ## What If You're Dealing with Government Vehicles?
 

@@ -34,7 +34,7 @@ Experienced adjusters know what gets written in claim notes when a claimant acce
 
 ## The First Offer Is a Test, Not a Starting Point
 
-Insurance companies make low initial offers for the same reason car dealerships show you the sticker price: they're measuring how much you know. An adjuster who's handled 400 claims this year has a very clear sense of which claimants will push back and which ones won't. You want to be in the first group, and you want to signal that immediately.
+Insurance companies make low initial offers for the same reason car dealerships show you the sticker price: they're measuring how much you know. Adjusters who handle hundreds of claims per year develop a clear sense of which claimants will push back and which ones won't. You want to be in the first group, and you want to signal that immediately.
 
 Here's what most people get wrong: they think the first offer reflects what the insurer actually thinks the claim is worth. It rarely does. It reflects what they think they can get away with paying.
 
@@ -85,7 +85,7 @@ Non-economic damages, meaning pain, suffering, emotional distress, loss of enjoy
 
 Adjusters are trained to look for what industry insiders call "narrative gaps." If you claim severe back pain but your medical records show you went two months without a single appointment, that gap will get noted and used. If your records show consistent treatment, consistent complaints to your doctor, and a documented progression, the story holds together and the discretionary number goes up.
 
-This is where a daily injury journal becomes one of the most underrated tools available. I'm not talking about a diary. I'm talking about two to four sentences per day: your pain level (1-10), what you couldn't do, any medical contact. That's it. After three months, it becomes compelling evidence of how the injury actually affected you day-to-day, not just at the moment you were photographed in the ER. (There are simple workbooks designed specifically for this. [Something like an injury documentation journal on Amazon](https://www.amazon.com/s?k=injury+documentation+journal) runs around $12 to $15 and the site may earn a small commission if you use that link. Worth every dollar.)
+This is where a daily injury journal becomes one of the most underrated tools available, and it is not the same thing as a diary. I'm talking about two to four sentences per day: your pain level (1-10), what you couldn't do, any medical contact. That's it. After three months, it becomes compelling evidence of how the injury actually affected you day-to-day, not just at the moment you were photographed in the ER. (There are simple workbooks designed specifically for this. [Something like an injury documentation journal on Amazon](https://www.amazon.com/s?k=injury+documentation+journal) runs around $12 to $15 and the site may earn a small commission if you use that link. Worth every dollar.)
 
 ---
 
