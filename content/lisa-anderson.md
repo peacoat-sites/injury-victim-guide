@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Former Auto Claims Adjuster"
-author_specialty: "Motor Vehicle Accident Claims"
+author_title: "Car Accidents"
+author_specialty: "Car Accidents"
 ---
 
-Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice.
+Lisa Anderson is the byline used at Injury Victim Guide for articles on car accident claims. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards.
+
+[How Injury Victim Guide articles are written and checked](/editorial-standards/)

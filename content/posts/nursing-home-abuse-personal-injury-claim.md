@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and in some cases of egregious abuse, it may be appropriate. Criminal complaints go through local law enforcement or the state attorney general's office and are separate from your civil personal injury claim. A criminal investigation can sometimes generate evidence that strengthens your civil case, though the two processes move on different timelines and with different standards of proof."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Former Auto Claims Adjuster"
-author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
+author_title: "Car Accidents"
+author_bio: "Lisa Anderson is the byline used at Injury Victim Guide for articles on car accident claims. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Roughly 91,000 complaints about nursing home abuse and neglect get filed in the United States every year, according to federal data. Nursing home abuse cases often involve families who are already grieving and guilt-ridden about placing a loved one in a facility, and the claims process can wear them down further if they enter it unprepared.

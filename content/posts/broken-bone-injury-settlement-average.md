@@ -21,8 +21,8 @@ faqs:
    a: "For minor fractures with small medical bills and clear liability, some people successfully handle their own claims. But for anything involving surgery, significant lost wages, permanent hardware, lasting pain, or disputed fault, having legal representation almost always makes financial sense. Personal injury attorneys who handle these cases charge contingency fees, typically 33 percent pre-litigation and higher if the case goes to trial. Even after that fee, represented claimants typically recover more than unrepresented ones on comparable injuries."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Former Bodily-Injury Claims Adjuster"
-author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
+author_title: "Settlements"
+author_bio: "Maya Rivera is the byline used at Injury Victim Guide for articles on how injury claims are valued and negotiated. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You just got the call from the insurance adjuster. Your arm is still in a cast, the hospital bills are piling up on the kitchen table, and this person on the phone is throwing out a number that sounds like it might be fair, but you honestly have no idea. That moment, right there, is exactly why understanding broken bone settlements matters before you need the information, not after.

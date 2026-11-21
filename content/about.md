@@ -3,44 +3,36 @@ title: "About Injury Victim Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Injury Victim Guide,  meet Denise Wallace and learn about our mission to help injury victims understand their rights."
+description: "What Injury Victim Guide covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "denise-wallace"
-author_name: "Injury Victim Guide"
-person_name: "Denise Wallace"
 ---
 
 ## About Injury Victim Guide
 
-Injury Victim Guide is an independent information resource created to help people understand what happens after an accident,  before they make decisions they can't take back.
+Injury Victim Guide explains what happens after an accident or injury: insurance claims, settlement values, filing deadlines, medical documentation and working with a lawyer.
 
-## Meet the Editor
+## Who writes here
 
-**Denise Wallace** is the editor behind Injury Victim Guide.
+Articles are published under pen names, each covering one part of the site:
 
-Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim.
+- **[Denise Wallace](/denise-wallace/)**: workers' compensation and workplace injury claims
+- **[Jennifer Harris](/jennifer-harris/)**: the injury claims process and the law behind it
+- **[Lisa Anderson](/lisa-anderson/)**: car accident claims
+- **[Maya Rivera](/maya-rivera/)**: how injury claims are valued and negotiated
+- **[Rachel Thompson](/rachel-thompson/)**: medical treatment, documentation and recovery after an injury
 
-## What We Cover
+## How we work
 
-Injury Victim Guide covers the personal injury claims process from start to finish,  settlement values by injury type, how insurance companies calculate damages, negotiation tactics, statute of limitations by state, and when hiring an attorney makes financial sense.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## Our Approach
+## Important limits
 
-We don't represent attorneys. We don't take referral fees from law firms. Our goal is to give you accurate, useful information so you can walk into any conversation,  with an adjuster, an attorney, or an insurance company,  with a clearer picture of where you stand.
+This is general legal information, not legal advice, and reading it does not create an attorney-client relationship. Deadlines to file a claim or lawsuit (statutes of limitations) vary by state and claim type and can be short, so talk to a licensed attorney in your state early. Many personal injury lawyers offer a free first consultation, and legal aid organizations help people with low incomes.
 
-Every guide on this site is:
-- **Researched** from industry sources, state court records, and claims data
-- **Written for clarity**,  not to impress lawyers or search algorithms
-- **Updated regularly** as laws, average settlement values, and claim procedures change
+## Affiliate disclosure
 
-## Important Disclaimer
-
-Injury Victim Guide is an informational resource. Denise Wallace is a former insurance professional and researcher,  not an attorney. **Nothing on this site constitutes legal advice.** Personal injury law varies significantly by state, and every case is different. We strongly encourage you to consult a licensed personal injury attorney before making any decisions about your claim.
-
-## Affiliate Disclosure
-
-Some links on this site are affiliate links (primarily Amazon book recommendations). If you click and make a purchase, we may earn a small commission at no additional cost to you. This never influences what we cover or recommend.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
 ## Contact
 
-Questions, corrections, or topic requests? [Reach out here](/contact/).
+Questions, corrections or topic requests: use the [contact page](/contact/).

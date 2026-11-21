@@ -21,8 +21,8 @@ faqs:
    a: "Not always. For minor injuries with clear liability and a quick, fair-looking offer, some people handle claims on their own successfully. But for any injury requiring surgery, hospitalization, ongoing treatment, or resulting in permanent limitation, having a personal injury attorney evaluate your case costs you nothing upfront (most work on contingency) and almost always results in a higher recovery even after the attorney's fee. In my experience, insurers simply negotiate differently when they know you have representation."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Former Claims Adjuster & Patient Advocate"
-author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
+author_title: "Medical Documentation"
+author_bio: "Rachel Thompson is the byline used at Injury Victim Guide for articles on medical treatment, documentation and recovery after an injury. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in the hospital, arm in a cast, still shaken from the crash. A claims adjuster calls within 48 hours, friendly voice, quick offer. You have no idea if the number they mention is fair, low, or embarrassingly insulting. Most people don't. And that gap in knowledge costs injury victims real money every single year.

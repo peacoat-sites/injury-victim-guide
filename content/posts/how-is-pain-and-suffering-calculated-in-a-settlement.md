@@ -8,8 +8,8 @@ categories: ["Settlement Values"]
 tags: ["pain", "suffering", "calculated", "settlement"]
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Former Claims Adjuster & Legal Researcher"
-author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
+author_title: "Claims Process"
+author_bio: "Jennifer Harris is the byline used at Injury Victim Guide for articles on the injury claims process and the law behind it. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 slug: "how-is-pain-and-suffering-calculated-in-a-settlement"
 affiliate_disclosure: true
 faqs:

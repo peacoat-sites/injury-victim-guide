@@ -21,8 +21,8 @@ faqs:
    a: "In a catastrophic injury case? Almost certainly not. First offers in serious cases are routinely structured to close the claim before the full cost picture is established. I watched this happen from the inside for over a decade. The first offer is a starting point for negotiation, not a fair assessment. The only way to know whether any offer is reasonable is to have a complete damages analysis done first, which requires medical stabilization and expert review. A knowledgeable attorney will tell you immediately if an offer is even in the ballpark."
 author: "Denise Wallace"
 author_slug: "denise-wallace"
-author_title: "Former Workers' Comp Claims Adjuster"
-author_bio: "Denise Wallace spent years as a workers compensation claims adjuster, reviewing and often disputing the claims of injured workers, until the adversarial nature of the work pushed her to switch sides. She now writes about workplace injury claims, employer obligations, and the rights workers often do not know they have. At Injury Victim Guide she covers workers compensation claims, return-to-work disputes, and what to do when an employer or insurer pushes back on a legitimate injury claim."
+author_title: "Workplace Injuries"
+author_bio: "Denise Wallace is the byline used at Injury Victim Guide for articles on workers' compensation and workplace injury claims. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in a hospital room, three weeks after a construction crane dropped a steel beam on your spouse's car. The bills are already past $200,000. The insurance adjuster called yesterday, friendly as a neighbor, offering a settlement that won't cover next year's care, let alone the next decade. You have no idea what you're supposed to do next. And every article you've found online either reads like a law school textbook or a billboard ad.

@@ -21,8 +21,8 @@ faqs:
    a: "Don't settle anything before you've reached what doctors call 'maximum medical improvement,' the point where your condition has stabilized and your care team can give a realistic long-term prognosis. Settling too early locks in a number that may not account for future surgeries, ongoing therapy, or permanent limitations. This is another reason why having an attorney review your case before you sign anything is genuinely valuable. For a deeper look at this, how personal injury settlements work explains the process from demand to final resolution."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Former Claims Adjuster & Legal Researcher"
-author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
+author_title: "Claims Process"
+author_bio: "Jennifer Harris is the byline used at Injury Victim Guide for articles on the injury claims process and the law behind it. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You get rear-ended at a red light. The other driver gets out, looks at the damage, and then says three words that make your stomach drop: "I don't have insurance." You're hurt, your car is damaged, and suddenly everything you thought you knew about how this works goes out the window. It's a nightmare scenario, but it happens more often than most people realize. According to the Insurance Research Council, roughly 1 in 8 drivers on American roads is uninsured. In some states, that number climbs closer to 1 in 4.

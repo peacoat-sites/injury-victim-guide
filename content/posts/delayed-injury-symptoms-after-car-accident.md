@@ -21,8 +21,8 @@ faqs:
    a: "If your symptoms required any medical treatment, caused missed work, or are ongoing, at minimum you should have a free consultation with a personal injury attorney. This is especially true if the other driver was at fault and their insurance is involved. Attorneys who specialize in personal injury cases know how to document delayed injuries, handle insurer negotiations, and calculate damages you might not think to include, like future treatment costs or loss of earning capacity. You don't have to commit to anything in a consultation."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Former Bodily-Injury Claims Adjuster"
-author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
+author_title: "Settlements"
+author_bio: "Maya Rivera is the byline used at Injury Victim Guide for articles on how injury claims are valued and negotiated. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You walked away from the fender-bender feeling shaken but okay. The other driver exchanged insurance info, a police officer filed a report, and you told everyone on the scene that you were fine. Three days later you wake up and can't turn your head. By day five, you're having headaches so severe you're calling out of work. Sound familiar? I've sat across from dozens of people in this exact situation, and the first thing most of them say is: "I feel stupid. I told them I wasn't hurt." You're not stupid. You're human. And what happened to your body is backed by real biology.

@@ -21,8 +21,8 @@ faqs:
    a: "For a true fender bender with no injuries and minimal property damage, you might handle it fine on your own. But if there are any injuries, disputed fault, or significant vehicle damage, an attorney can make a real difference. Most personal injury attorneys work on a contingency fee basis, meaning they don't get paid unless you win or settle. An initial consultation is almost always free, and it gives you a clear picture of whether your situation warrants legal representation. I've seen clients leave money on the table simply because they didn't know what they were entitled to."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Former Claims Adjuster & Patient Advocate"
-author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
+author_title: "Medical Documentation"
+author_bio: "Rachel Thompson is the byline used at Injury Victim Guide for articles on medical treatment, documentation and recovery after an injury. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people leave a car accident convinced they handled it perfectly. Exchange insurance cards, snap a few photos, drive home rattled but relieved. Then six weeks later: a letter from the other driver's insurance company claiming *they* caused it. Or a [settlement offer](/how-personal-injury-settlements-work/) that covers maybe one hospital visit. I spent 12 years adjusting claims, and I'm telling you straight, the moves you make in the first 60 minutes will either protect you completely or haunt you for years.

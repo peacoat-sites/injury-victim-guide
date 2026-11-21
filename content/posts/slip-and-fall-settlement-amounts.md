@@ -21,8 +21,8 @@ faqs:
     a: "Keep everything: the incident report, photos of the scene and your injuries, medical records and bills, prescription receipts, correspondence with the property owner or their insurer, records of missed work, and any written statements from witnesses. A medical records organizer, available at office supply stores or on Amazon (this site may earn a commission), can help you keep everything in one place from day one. Organization isn't glamorous, but I've watched well-documented cases settle for multiples of what poorly documented cases of similar severity received."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Former Auto Claims Adjuster"
-author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
+author_title: "Car Accidents"
+author_bio: "Lisa Anderson is the byline used at Injury Victim Guide for articles on car accident claims. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 When a broken drainage pipe causes a slip and fall, you might find yourself soaking wet with a throbbing ankle and an incident report form in hand, already wondering what your claim is worth. Settlement amounts vary widely, and understanding why matters for getting fair compensation. The number that shows up on a settlement check varies wildly, and understanding why is the most useful thing you can do right now.

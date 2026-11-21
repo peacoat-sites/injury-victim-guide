@@ -21,8 +21,8 @@ faqs:
    a: "Please don't. Anything you post publicly can be found by insurance adjusters and defense attorneys. A photo of you smiling at a birthday party three weeks after claiming serious back pain will be used against you, even if your pain is completely real and the smile was genuine. Keep your accident, your injuries, and your claim off all social platforms for the duration of the process."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Former Bodily-Injury Claims Adjuster"
-author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
+author_title: "Settlements"
+author_bio: "Maya Rivera is the byline used at Injury Victim Guide for articles on how injury claims are valued and negotiated. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You heard the scrape before you felt it. One moment you were driving normally, and then a vehicle drifted into your lane, metal grinding against metal, and suddenly everything changed. Sideswipe accidents feel almost minor in the moment, especially if both cars kept moving. But here's what surprises people: these collisions are far more dangerous than they look. According to the [Insurance Information Institute](https://www.iii.org/), lane-change and sideswipe crashes rank among the most common causes of multi-vehicle fatalities on highways. The injuries they cause, from soft tissue damage to serious spinal trauma, often surface days after the crash when the adrenaline has worn off.

@@ -4,7 +4,7 @@ image: "/img/heroes/9519544.jpg"
 description: "Medical recovery timelines by injury type. ACL tear 12 months, fractured wrist 8 weeks, ankle sprain 3 weeks. Data from orthopedic research + clinical trials."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Former Claims Adjuster & Legal Researcher"
+author_title: "Claims Process"
 date: 2026-06-28
 featured_depth: true
 categories: ["Personal Injury Basics"]
@@ -19,6 +19,7 @@ faqs:
  - q: "Should I keep moving or rest completely?"
    a: "Complete immobilization is outdated. Move gently within pain limits (Phase 2+). Controlled movement reduces stiffness and aids healing. But do not force it."
 lastmod: 2026-07-09
+author_bio: "Jennifer Harris is the byline used at Injury Victim Guide for articles on the injury claims process and the law behind it. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 ---
 
 Nobody wants to hear a recovery timeline. You want to hear "three weeks and you are done."

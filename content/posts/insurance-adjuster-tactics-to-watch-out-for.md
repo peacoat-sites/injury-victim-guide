@@ -8,8 +8,8 @@ categories: ["Insurance Tactics"]
 tags: ["insurance", "adjuster", "tactics", "watch"]
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Former Claims Adjuster & Patient Advocate"
-author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
+author_title: "Medical Documentation"
+author_bio: "Rachel Thompson is the byline used at Injury Victim Guide for articles on medical treatment, documentation and recovery after an injury. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "insurance-adjuster-tactics-to-watch-out-for"
 affiliate_disclosure: true
 faqs:

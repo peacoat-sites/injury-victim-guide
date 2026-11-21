@@ -21,8 +21,8 @@ faqs:
    a: "Most personal injury attorneys take car accident cases on contingency, meaning you pay nothing unless they recover money for you. The fee comes out of the settlement or verdict. This structure exists specifically so that people without resources can access legal representation. A free consultation costs you nothing and gives you information to make a better decision."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Former Claims Adjuster & Patient Advocate"
-author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
+author_title: "Medical Documentation"
+author_bio: "Rachel Thompson is the byline used at Injury Victim Guide for articles on medical treatment, documentation and recovery after an injury. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You filed the claim. You waited. You did everything they told you to do. And then the letter arrived: *denied*. A denial letter is not the end of the road. Not even close. Insurance companies deny valid claims every day, sometimes because of a genuine coverage issue, but often because a denial costs them nothing and betting that you'll give up costs them very little. Understanding why your claim was denied, and what you can actually do about it, changes everything.

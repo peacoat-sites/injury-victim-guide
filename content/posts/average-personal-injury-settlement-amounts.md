@@ -21,8 +21,8 @@ faqs:
    a: "This is a real problem, particularly when policy limits are low. A few options exist. Your health insurer may have paid some bills and will expect reimbursement from your settlement through a legal concept called subrogation. Medical providers sometimes negotiate down their liens if you can show the settlement was insufficient. Your own underinsured motorist coverage, if applicable, may provide an additional layer of recovery. These are exactly the situations where an attorney's ability to negotiate with multiple parties simultaneously makes a significant difference."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Former Claims Adjuster & Patient Advocate"
-author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
+author_title: "Medical Documentation"
+author_bio: "Rachel Thompson is the byline used at Injury Victim Guide for articles on medical treatment, documentation and recovery after an injury. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in a hospital bed with your arm in a cast. The insurance adjuster just offered you $8,500. Is that fair, or are they banking on you not knowing any better?

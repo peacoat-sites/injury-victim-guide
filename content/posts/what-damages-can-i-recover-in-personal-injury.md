@@ -21,8 +21,8 @@ faqs:
    a: "The vast majority of personal injury claims settle before trial. Estimates vary, but most sources suggest roughly 95% of civil cases settle out of court. That said, having an attorney prepared to go to trial often produces significantly better settlement offers. Insurance companies know when the person across the table is willing to walk into a courtroom, and it changes the math."
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
-author_title: "Former Claims Adjuster & Legal Researcher"
-author_bio: "Jennifer Harris worked as an insurance claims adjuster before moving into legal research alongside personal injury attorneys, which gave her a view of a claim from both the insurer's desk and the plaintiff's file. She is not an attorney and does not provide legal advice, but she understands the claims process in depth and writes to help injury victims know what they are dealing with before their first consultation. At Injury Victim Guide she covers the claims process, legal terminology, and how to document and protect a case from day one."
+author_title: "Claims Process"
+author_bio: "Jennifer Harris is the byline used at Injury Victim Guide for articles on the injury claims process and the law behind it. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 
 lastmod: 2026-11-16T16:00:00Z
 ---

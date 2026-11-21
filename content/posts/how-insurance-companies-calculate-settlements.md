@@ -21,8 +21,8 @@ faqs:
    a: "Be very careful here. You're typically required to cooperate with your own insurer under the terms of your policy, but you're generally not legally obligated to give a recorded statement to the other driver's insurance company. Adjusters are trained interviewers, and they ask questions designed to elicit statements that can later reduce your claim. Phrases like 'I'm doing okay' or 'I didn't see them coming' can be used against you. If you're represented by an attorney, all communications typically go through them. If you're not yet represented and the other insurer is pushing for a recorded st"
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Former Bodily-Injury Claims Adjuster"
-author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
+author_title: "Settlements"
+author_bio: "Maya Rivera is the byline used at Injury Victim Guide for articles on how injury claims are valued and negotiated. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You filed a claim after a rear-end collision left you with whiplash, a totaled car, and three weeks of missed work. The other driver was clearly at fault. So why did the insurance company just offer you $4,200 when your medical bills alone are $6,800? That gap isn't an accident. It's math, and it's deliberate. Understanding the formula behind that offer is the first step to knowing whether you should take it, negotiate it, or get a lawyer involved.

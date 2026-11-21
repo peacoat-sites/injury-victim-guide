@@ -21,8 +21,8 @@ faqs:
     a: "Sometimes in the shock and adrenaline of a fall, people say they're fine when they're not. That initial statement can create a complication, but it's not automatically the end of the road. Courts and juries understand that injury symptoms often emerge or worsen hours or days later. What matters is seeking medical care promptly once symptoms develop and being honest and consistent about your account of events going forward."
 author: "Maya Rivera"
 author_slug: "maya-rivera"
-author_title: "Former Bodily-Injury Claims Adjuster"
-author_bio: "Maya Rivera spent a decade as a bodily-injury claims adjuster at a major auto carrier, deciding what injury claims were worth before she switched sides to help the people filing them. She writes about how adjusters actually value a claim, the tactics used to hold payouts down, and the documentation that moves a number up. At Injury Victim Guide she covers settlement valuation, negotiation, and what to expect from the insurance side of a personal injury case. She is not an attorney and does not give legal advice."
+author_title: "Settlements"
+author_bio: "Maya Rivera is the byline used at Injury Victim Guide for articles on how injury claims are valued and negotiated. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You stepped out of your car, arms full of groceries, and the next thing you remember is staring up at the sky with your hip screaming. Or maybe you slipped on a patch of black ice near the shopping cart return, or tripped over a pothole that had been there long enough to grow weeds. Parking lot slip and fall injuries happen to thousands of people every year, and what surprises most of them isn't the fall itself. It's what happens after. The store manager hands you an incident report, the security footage "malfunctions," and suddenly you're left wondering whether any of this was even someone else's fault. I've sat on both sides of this equation, and I want to give you the real picture.

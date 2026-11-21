@@ -21,8 +21,8 @@ faqs:
    a: "Not always. If your injuries were genuinely minor, you fully recovered quickly, liability is clear, and the insurer is treating you fairly, you may be able to handle the claim yourself. But 'minor' is worth scrutinizing carefully. Soft tissue injuries that seem minor can have lasting effects. If you're unsure whether you even have a viable claim, start with our overview of what it takes to have a personal injury case."
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Former Auto Claims Adjuster"
-author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
+author_title: "Car Accidents"
+author_bio: "Lisa Anderson is the byline used at Injury Victim Guide for articles on car accident claims. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You walk away from a car accident feeling shaken but okay. You decline the ambulance. You figure it's just some stiffness. Three days later you can't turn your neck, your back is in spasms, and your doctor is talking about an MRI. Now the other driver's insurance company is calling you twice a day, friendly as can be, asking you to give a recorded statement. That adjuster isn't your friend. I know, because I used to be that adjuster.

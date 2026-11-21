@@ -21,8 +21,8 @@ faqs:
    a: "Most personal injury attorneys work on a contingency fee arrangement. You pay no upfront costs. If they recover money for you, they take a percentage, commonly 33 percent before a lawsuit is filed and up to 40 percent if the case goes to litigation. If they don't win, you owe nothing. Out-of-pocket costs like filing fees and expert witnesses may be handled separately, so always clarify the full arrangement upfront."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Former Claims Adjuster & Patient Advocate"
-author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
+author_title: "Medical Documentation"
+author_bio: "Rachel Thompson is the byline used at Injury Victim Guide for articles on medical treatment, documentation and recovery after an injury. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in an urgent care waiting room, ice pack on your wrist, replaying the moment you slipped on that unmarked wet floor at the grocery store. The manager handed you an incident report form, the staff was polite, and now you're wondering: do I have a case? What does "filing a personal injury claim" even mean? Most people have heard the phrase a hundred times, but very few understand what actually happens when you pursue one.

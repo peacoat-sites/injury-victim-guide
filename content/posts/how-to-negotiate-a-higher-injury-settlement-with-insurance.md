@@ -8,8 +8,8 @@ categories: ["Insurance Tactics"]
 tags: ["negotiate", "higher", "injury", "settlement", "with"]
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
-author_title: "Former Auto Claims Adjuster"
-author_bio: "Lisa Anderson handled auto accident claims for a major insurer for years, which taught her exactly how the at-fault driver's carrier builds a case to pay you less. She now writes to level the field for accident victims. At Injury Victim Guide she covers car accident documentation, dealing with the at-fault driver's insurer, and the common mistakes that quietly reduce a settlement. She is not an attorney and does not give legal advice."
+author_title: "Car Accidents"
+author_bio: "Lisa Anderson is the byline used at Injury Victim Guide for articles on car accident claims. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 slug: "how-to-negotiate-a-higher-injury-settlement-with-insurance"
 affiliate_disclosure: true
 faqs:

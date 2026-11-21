@@ -21,8 +21,8 @@ faqs:
    a: "An attorney can't document your daily experience for you, but they can tell you exactly what evidence will matter most for your specific claim, help you avoid common documentation mistakes, and make sure you're not signing away rights accidentally. Most personal injury attorneys work on contingency (meaning they only get paid if you win) and offer free initial consultations. There's little downside to talking to one early."
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
-author_title: "Former Claims Adjuster & Patient Advocate"
-author_bio: "Rachel Thompson evaluated injury claims as an adjuster before becoming a patient advocate, a path that showed her how much a settlement depends on how well an injury is documented and treated. She now helps injury victims navigate the medical system and protect their claims at the same time. At Injury Victim Guide she covers medical documentation, navigating healthcare after an injury, and where treatment and legal claims intersect."
+author_title: "Medical Documentation"
+author_bio: "Rachel Thompson is the byline used at Injury Victim Guide for articles on medical treatment, documentation and recovery after an injury. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think heading to the hospital after an accident wraps things up. The insurance company collects the records. Doctors document what they see. The claim sorts itself out.
