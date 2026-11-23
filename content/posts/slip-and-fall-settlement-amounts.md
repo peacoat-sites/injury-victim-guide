@@ -1,5 +1,5 @@
 ---
-title: "How Much Is Your Slip And Fall Case Worth?"
+title: "Slip and Fall Settlement: What Your Case Could Be Worth"
 date: 2026-05-18T22:16:45.345645+00:00
 draft: false
 description: "Find out what slip and fall settlement amounts look like, what factors affect your payout, and how to maximize compensation after an accident on someone else's "
@@ -60,7 +60,7 @@ Factors that can reduce a settlement:
 
 ## How Fault Laws in Your State Can Cut Your Recovery
 
-This is the part most people learn about too late. Most states use some version of **[comparative negligence](/how-to-prove-slip-and-fall-case/)**, which means if you were partially at fault for your fall, your settlement gets reduced proportionally. A few states still use **contributory negligence**, which is far harsher: if you were even 1% at fault, you may recover nothing.
+This is the part most people learn about too late. Most states use some version of **comparative negligence**, which means if you were partially at fault for your fall, your settlement gets reduced proportionally. A few states still use **contributory negligence**, which is far harsher: if you were even 1% at fault, you may recover nothing.
 
 Here's how it plays out in practice. Say you fell on a [wet floor in a restaurant](/wet-floor-slip-and-fall-injury/) where a pipe had been leaking for three days and nobody fixed it. You were also looking at your phone instead of where you were going. In a comparative negligence state, a jury might decide you were 25% at fault. If your damages were valued at $100,000, you'd recover $75,000. In the handful of contributory negligence states, that same 25% finding might zero out your recovery entirely.
 

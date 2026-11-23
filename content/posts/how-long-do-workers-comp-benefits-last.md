@@ -53,7 +53,7 @@ MMI is the moment your treating physician decides your condition has stabilized.
 
 This is the hinge point of your entire claim. Once MMI is declared, your TTD benefits stop (or convert to TPD if you're working light duty). An impairment rating gets assigned. The carrier moves to close or settle the file.
 
-Here's what I saw happen constantly during my adjuster years: the carrier schedules an Independent Medical Exam. The IME doctor, who the [insurance company](/insurance-company-delay-tactics-injury-claim/) selected and paid for, declares MMI sooner than your treating physician would have. Your benefits get cut off. You appeal. That process takes months.
+Here's what I saw happen constantly during my adjuster years: the carrier schedules an Independent Medical Exam. The IME doctor, who the insurance company selected and paid for, declares MMI sooner than your treating physician would have. Your benefits get cut off. You appeal. That process takes months.
 
 I'm not saying all IME physicians are corrupt. Some are genuinely independent and thorough. But the structural incentive is real, and [the American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on workers' comp disputes specifically flags IME bias as a documented problem worth challenging. If your IME date is coming up, prepare as if your benefits depend on it. Because they do.
 

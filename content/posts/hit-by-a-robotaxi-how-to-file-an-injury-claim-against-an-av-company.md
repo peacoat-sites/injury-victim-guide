@@ -36,7 +36,7 @@ The law also requires autonomous vehicles to transmit collision data immediately
 
 Every instinct you have from a normal [car accident](/headaches-after-a-car-accident-when-to-worry/) doesn't apply here. There's no driver to blame. No one was texting. No one ran a red light out of impatience.
 
-In a robotaxi crash, liability moves to the manufacturer and the fleet operator under California's strict [product liability](/roundup-ruling-what-the-supreme-court-decision-means-for-cancer-victim/) doctrine. That means you're not trying to prove someone was careless. You're trying to prove the vehicle had a defect, either in design, manufacturing, or software, and that defect caused your injury. That's a different legal claim, and it requires different evidence.
+In a robotaxi crash, liability moves to the manufacturer and the fleet operator under California's strict product liability doctrine. That means you're not trying to prove someone was careless. You're trying to prove the vehicle had a defect, either in design, manufacturing, or software, and that defect caused your injury. That's a different legal claim, and it requires different evidence.
 
 The good news is that Waymo has handed plaintiffs some useful ammunition without anyone asking. The company recalled thousands of vehicles in 2025 and into 2026 over a documented software defect. Regulators opened multiple investigations. According to Trevino Law's March 2026 analysis of Waymo liability, those documented defects directly support product liability claims because they establish a pattern of known problems, not a one-off anomaly.
 

@@ -26,7 +26,7 @@ faqs:
     a: "BI claims handled purely through insurance negotiation often resolve in 30 days to 8 months for straightforward cases. Personal injury lawsuits in the same jurisdiction frequently take 18 months to 3 years or longer, particularly if they go to trial. Most do settle before trial, but 'before trial' can still mean 12 to 24 months of litigation."
 ---
 
-Most people who walk into an attorney's office after a car accident use "bodily injury" and "[personal injury](/how-much-does-personal-injury-lawyer-cost/)" interchangeably. Many people make this mistake, even those who have spent years working on the other side of those claims as adjusters. Turns out, conflating these two terms can cost you real money and real time, because they operate in completely different parts of the legal and insurance universe.
+Most people who walk into an attorney's office after a car accident use "bodily injury" and "personal injury" interchangeably. Many people make this mistake, even those who have spent years working on the other side of those claims as adjusters. Turns out, conflating these two terms can cost you real money and real time, because they operate in completely different parts of the legal and insurance universe.
 
 "Bodily injury" is primarily an insurance coverage term, and "personal injury" is a legal cause of action. They overlap, sure. But they're not the same animal, and the distinction matters enormously depending on which side of a claim you're on.
 

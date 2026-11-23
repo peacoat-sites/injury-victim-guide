@@ -1,5 +1,5 @@
 ---
-title: "Treatment Delays Can Tank Your Injury Claim"
+title: "How a Gap in Medical Treatment Can Hurt Your Injury Claim"
 date: 2026-06-21T13:18:46.258641+00:00
 draft: false
 description: "Learn how a gap in medical treatment can hurt your injury claim and what steps to take to protect your right to fair compensation."

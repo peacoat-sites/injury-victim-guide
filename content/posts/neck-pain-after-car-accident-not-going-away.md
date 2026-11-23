@@ -1,5 +1,5 @@
 ---
-title: "Persistent Neck Pain After Car Accident: When to Seek Help"
+title: "Neck Pain After a Car Accident Not Going Away: What to Do"
 date: 2026-07-19T12:09:39.800233+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "How Much You Can Recover From a Truck Accident"
+title: "Truck Accident Settlement: How Much You Can Recover"
 date: 2026-05-23T14:24:24.762189+00:00
 draft: false
 description: "Injured in a truck accident? Learn what factors affect your settlement amount, how to maximize compensation, and what steps to take after a crash."

@@ -68,7 +68,7 @@ There's no universal formula, but these factors carry the most weight.
 
 **The severity and permanence of your injuries.** A soft tissue strain that resolves in six weeks settles for far less than a cervical disc herniation requiring surgery. A traumatic brain injury changes the math entirely.
 
-**[Maximum Medical Improvement (MMI)](/delayed-injury-symptoms-after-car-accident/).** This is the point where your doctor says your condition has stabilized, meaning you've either recovered or reached a plateau. You should almost never settle a bodily injury claim before reaching MMI. You won't know your full medical costs until you do.
+**Maximum Medical Improvement (MMI).** This is the point where your doctor says your condition has stabilized, meaning you've either recovered or reached a plateau. You should almost never settle a bodily injury claim before reaching MMI. You won't know your full medical costs until you do.
 
 **Your state's fault rules.** Some states use pure comparative negligence, where you can recover damages even if you're 99% at fault (though your recovery is reduced proportionally). Others use modified comparative negligence with cutoff thresholds, often 50% or 51%. A handful still use contributory negligence, which can bar recovery entirely if you're even 1% at fault. If the other driver claims you stopped suddenly or your brake lights were out, these rules matter.
 

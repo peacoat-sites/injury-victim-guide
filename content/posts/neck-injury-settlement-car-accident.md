@@ -1,5 +1,5 @@
 ---
-title: "Neck Injury Settlement: What You Can Actually Expect"
+title: "Neck Injury Lawsuit: What Your Car Accident Claim Is Worth"
 date: 2026-05-25T14:20:14.426491+00:00
 draft: false
 description: "Injured your neck in a car accident? Learn what affects settlement amounts, average payouts, and how to maximize your compensation with the right legal steps."

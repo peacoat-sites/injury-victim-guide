@@ -59,7 +59,7 @@ Here's what you need to get, fast:
 
 **Your shoes and clothes.** Don't toss them. They can counter claims that your footwear was unsuitable for the conditions.
 
-**Medical records from day one.** Hit the ER or urgent care that same day, even if you feel "probably fine." Two things happen when you wait. First, [soft tissue injuries and concussions](/slip-and-fall-injury-claim-process/) often hurt worse on day two than right after impact. Second, a gap between the incident and your first medical visit gives insurers ammo to argue your injuries weren't that serious or weren't tied to the fall.
+**Medical records from day one.** Hit the ER or urgent care that same day, even if you feel "probably fine." Two things happen when you wait. First, soft tissue injuries and concussions often hurt worse on day two than right after impact. Second, a gap between the incident and your first medical visit gives insurers ammo to argue your injuries weren't that serious or weren't tied to the fall.
 
 Keeping an injury documentation journal helps track symptoms and how the injury affects your work and daily life. Organized records genuinely shift how adjusters talk to you. (Note: if you purchase through links on this site, we may earn a small commission.)
 
@@ -67,7 +67,7 @@ Keeping an injury documentation journal helps track symptoms and how the injury 
 
 ## The Comparative Fault Problem (And Why It Matters for Your Case)
 
-Here's what blindsides people. In most states, your payout can be reduced, or eliminated entirely, based on your own percentage of fault. This is [comparative negligence](/property-owner-liability-slip-and-fall/), and insurers go hunting for it immediately.
+Here's what blindsides people. In most states, your payout can be reduced, or eliminated entirely, based on your own percentage of fault. This is comparative negligence, and insurers go hunting for it immediately.
 
 Were you on your phone? Wearing heels on ice? Ignoring a warning cone that was there? Entering a closed area? These aren't rhetorical. The defense will ask them, and their answers will trim your compensation.
 

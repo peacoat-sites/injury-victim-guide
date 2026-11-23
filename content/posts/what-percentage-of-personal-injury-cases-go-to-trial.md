@@ -1,5 +1,5 @@
 ---
-title: "Most Injury Cases Never Reach Trial, Here's Why"
+title: "What Percentage of Personal Injury Cases Go to Trial"
 date: 2026-06-08T14:54:31.366670+00:00
 draft: false
 description: "Discover what percentage of personal injury cases actually go to trial, why most settle out of court, and key factors that influence whether your case will face"

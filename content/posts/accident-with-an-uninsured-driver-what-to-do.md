@@ -1,5 +1,5 @@
 ---
-title: "Hit by Uninsured Driver? 12 Steps to Protect Yourself"
+title: "Uninsured Motorist Accident: How to Protect Yourself"
 date: 2026-07-17T12:23:49.534491+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -30,7 +30,7 @@ One in eight drivers on American roads today carries zero liability insurance. T
 
 The rest? Most articles skip it entirely. Let me fill in the gaps.
 
-I spent 12 years on the adjuster side of this equation, which means I watched a lot of injured people make the same four or five mistakes in the first 72 hours after a crash, mistakes that cost them real money later. Not because they were careless. Because nobody told them what the [insurance company](/insurance-company-delay-tactics-injury-claim/) was actually looking for, and what their own policy quietly covered.
+I spent 12 years on the adjuster side of this equation, which means I watched a lot of injured people make the same four or five mistakes in the first 72 hours after a crash, mistakes that cost them real money later. Not because they were careless. Because nobody told them what the insurance company was actually looking for, and what their own policy quietly covered.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">1 in 8 U.S. drivers is uninsured; your own UM/UIM coverage is your primary financial shield.</li><li style="margin:5px 0">Call police even for minor crashes, an official report is often required to trigger UM claims.</li><li style="margin:5px 0">Document everything at the scene: photos, witness names, the other driver's plate and face.</li><li style="margin:5px 0">UM/UIM claims must typically be filed within 30 days; missing that window can void coverage entirely.</li><li style="margin:5px 0">An uninsured driver can still be sued personally, but collecting is a separate, harder problem.</li></ul></div>
 

@@ -1,5 +1,5 @@
 ---
-title: "Hold Property Owners Liable For Ice And Snow Injuries"
+title: "Snow and Ice Slip and Fall Claims: Who Is Liable"
 date: 2026-05-21T13:05:44.516246+00:00
 draft: false
 description: "Injured in an ice or snow slip and fall accident? Find out how to make a successful compensation claim and what evidence you need to support your case."

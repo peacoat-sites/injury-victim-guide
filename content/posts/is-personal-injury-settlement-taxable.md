@@ -1,5 +1,5 @@
 ---
-title: "Do You Owe Taxes on Your Injury Settlement?"
+title: "Is a Personal Injury Settlement Taxable? What You Owe"
 date: 2026-06-03T14:11:51.112082+00:00
 draft: false
 description: "Find out if your personal injury settlement is taxable. Learn which compensation is tax-free, what the IRS rules say, and when you may owe taxes on your award."

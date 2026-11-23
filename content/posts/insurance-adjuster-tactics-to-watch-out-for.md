@@ -1,5 +1,5 @@
 ---
-title: "How Insurance Adjusters Minimize Your Injury Claim"
+title: "Insurance Adjuster Tactics That Minimize Your Injury Claim"
 date: 2026-06-16T16:06:43.636050+00:00
 draft: false
 description: "Learn the common insurance adjuster tactics used to minimize your claim payout and how to protect yourself during the settlement process."
@@ -39,7 +39,7 @@ Adjusters get trained to move fast, usually within 24 to 72 hours of a claim fil
 
 They're recording you at the moment when your injuries are least documented and most uncertain. Say "my back is sore but I think I'm fine" and that quote becomes evidence later when you're claiming serious back injuries. Defense lawyers memorize early statements and read them back during depositions like scripture.
 
-You typically aren't required to give a recorded statement to the other driver's insurance company. (Check your own policy though, because cooperation clauses can be strict.) Before saying yes to anything recorded, [call a personal injury attorney](/should-i-give-a-recorded-statement-to-the-insurance-company/). Most will talk to you free. Do that.
+You typically aren't required to give a recorded statement to the other driver's insurance company. (Check your own policy though, because cooperation clauses can be strict.) Before saying yes to anything recorded, call a personal injury attorney. Most will talk to you free. Do that.
 
 ## The Quick Settlement Offer
 

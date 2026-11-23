@@ -1,5 +1,5 @@
 ---
-title: "How Long You Have To Sue: State-By-State Injury Deadlines"
+title: "Personal Injury Statute of Limitations by State"
 date: 2026-05-18T21:44:14.339773+00:00
 draft: false
 description: "The personal injury filing deadline and comparative fault rule for all 50 states plus DC in one searchable table, with the recent Florida and Louisiana changes explained."

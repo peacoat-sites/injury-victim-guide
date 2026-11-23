@@ -26,7 +26,7 @@ faqs:
     a: "Outstanding bills from providers who haven't yet filed liens don't automatically disappear. If you pay your settlement and a provider later claims they're owed money, that becomes your personal debt. Your attorney should do a thorough lien search before disbursing, and you should confirm in writing that this was completed."
 ---
 
-Most people picture a big check arriving in the mail a few [weeks after](/back-pain-weeks-after-a-car-accident/) they sign some papers. I used to watch claimants wait by the mailbox, genuinely confused about why the money hadn't shown up yet, and I never blamed them. Nobody explains this stuff clearly until something goes wrong.
+Most people picture a big check arriving in the mail a few weeks after they sign some papers. I used to watch claimants wait by the mailbox, genuinely confused about why the money hadn't shown up yet, and I never blamed them. Nobody explains this stuff clearly until something goes wrong.
 
 Settlement money moves through a specific sequence of hands before a dollar reaches you, and the gap between "we settled" and "I have cash" is almost always longer than expected. That gap typically runs anywhere from three weeks to four months. The reasons why vary more than most people realize.
 

@@ -1,5 +1,5 @@
 ---
-title: "What Insurers Actually Do With Your Injury Claim"
+title: "How Insurance Companies Handle Injury Claims Against You"
 date: 2026-06-24T13:31:14.853578+00:00
 draft: false
 description: "Learn how insurance companies evaluate injury claims, what adjusters look for, and steps to protect your settlement when filing a personal injury claim."

@@ -52,7 +52,7 @@ Here's the part that trips people up: you have the legal right to refuse to sign
 
 You're probably thinking, "but won't they just deny my claim if I don't cooperate?" Fair question. The answer is: not automatically, and not legally, if you cooperate in a reasonable and limited way.
 
-Under most states' tort law frameworks, you're required to provide records that are reasonably related to your claimed injuries. That's it. A slipped disc from a car accident doesn't entitle the insurer to your therapy notes from 2015. If they push, they can request records through the [formal discovery process in litigation](/why-insurance-company-denied-my-injury-claim/), which gives your attorney a chance to object to overreach.
+Under most states' tort law frameworks, you're required to provide records that are reasonably related to your claimed injuries. That's it. A slipped disc from a car accident doesn't entitle the insurer to your therapy notes from 2015. If they push, they can request records through the formal discovery process in litigation, which gives your attorney a chance to object to overreach.
 
 The practical reality, as of July 2026: most pre-litigation claims are resolved without the insurer ever getting a full unrestricted records dump, provided the injured person (or their attorney) pushes back appropriately. The practical guidance is straightforward: don't sign anything the insurance company sends you until an attorney has looked at it. Many personal injury lawyers offer free consultations and will review a release in 15 minutes.
 

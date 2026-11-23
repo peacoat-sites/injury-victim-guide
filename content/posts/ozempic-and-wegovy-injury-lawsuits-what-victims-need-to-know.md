@@ -33,7 +33,7 @@ On June 2, 2026, Judge Marston held what's called a Science Day for the NAION li
 
 ## Why the Science Is Increasingly on Plaintiffs' Side
 
-What most people don't realize is that the legal question in these cases isn't just whether you got hurt. It's whether Novo Nordisk knew, or should have known, about these risks and adequately warned patients and doctors. That's called a [failure-to-warn claim](/when-ai-handles-your-injury-claim-your-new-rights-in-2026/), and the science behind it has gotten significantly stronger in the past year.
+What most people don't realize is that the legal question in these cases isn't just whether you got hurt. It's whether Novo Nordisk knew, or should have known, about these risks and adequately warned patients and doctors. That's called a failure-to-warn claim, and the science behind it has gotten significantly stronger in the past year.
 
 In June 2025, the European Medicines Agency concluded that semaglutide, the active ingredient in both Ozempic and Wegovy, doubles a patient's risk of developing NAION. That finding from a major regulatory body in the European Union carries real weight in American courtrooms. Plaintiffs' attorneys are leaning on it hard, and understandably so. If regulators across the Atlantic identified a doubled risk, the argument becomes: what did Novo Nordisk know, when did they know it, and why didn't American patients get a clearer warning?
 

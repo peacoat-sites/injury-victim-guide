@@ -1,5 +1,5 @@
 ---
-title: "Can Pre-Existing Injuries Derail Your Claim?"
+title: "Pre-Existing Injuries in a Personal Injury Claim"
 date: 2026-06-18T14:25:46.554717+00:00
 draft: false
 description: "Learn how pre-existing injuries affect personal injury claims, what compensation you may still receive, and how to protect your rights after an accident."

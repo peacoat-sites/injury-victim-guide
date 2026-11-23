@@ -25,7 +25,7 @@ faqs:
     a: "You don't legally need one, but psychological injury claims are among the most contested in personal injury law. Without representation, you're negotiating alone against adjusters who handle these claims daily. Most personal injury attorneys take these cases on contingency, meaning you pay nothing unless you recover. Given how aggressively insurers dispute PTSD, the practical answer is: yes, get one."
 ---
 
-Post-traumatic stress disorder is a legitimate, compensable injury in a [personal injury claim](/how-long-do-personal-injury-cases-take/), and insurance companies know it. That's the first thing to understand. The second is that PTSD claims are routinely underpaid or denied not because they lack legal merit, but because claimants don't know how to document them. This article is about fixing that.
+Post-traumatic stress disorder is a legitimate, compensable injury in a personal injury claim, and insurance companies know it. That's the first thing to understand. The second is that PTSD claims are routinely underpaid or denied not because they lack legal merit, but because claimants don't know how to document them. This article is about fixing that.
 
 A serious accident doesn't just break bones or tear ligaments. For many people, the psychological damage outlasts the physical damage by years. Flashbacks, hypervigilance, sleep disruption, panic attacks triggered by driving, the smell of gasoline, the sound of brakes. These aren't character weaknesses. They're recognized clinical injuries, and under tort law in every U.S. state, they're recoverable damages.
 
@@ -35,7 +35,7 @@ A serious accident doesn't just break bones or tear ligaments. For many people, 
 
 ## Why Insurers Fight PTSD Claims Hard
 
-Insurance adjusters are trained to view psychological [injury claims](/social-media-addiction-personal-injury-claims-explained/) with skepticism. The internal reasoning goes like this: physical injuries leave visible evidence. X-rays, surgical reports, MRI findings. PTSD doesn't photograph. That gap between "you can't see it" and "therefore it's exaggerated" is where a lot of legitimate claims get squeezed.
+Insurance adjusters are trained to view psychological injury claims with skepticism. The internal reasoning goes like this: physical injuries leave visible evidence. X-rays, surgical reports, MRI findings. PTSD doesn't photograph. That gap between "you can't see it" and "therefore it's exaggerated" is where a lot of legitimate claims get squeezed.
 
 The other complication is causation. An adjuster will look for any pre-existing mental health history and argue that the accident didn't cause your PTSD, it just aggravated something that was already there. This is a common and often cynical argument. Under what most states call the "eggshell plaintiff" rule (sometimes called the thin skull rule), a defendant takes the plaintiff as they find them. If you had a prior anxiety disorder and the accident pushed you into full clinical PTSD, the defendant is still liable for that worsening.
 
@@ -51,7 +51,7 @@ Here's what the documentation path actually looks like:
 
 2. **Get a referral to a mental health professional.** A psychiatrist can diagnose and prescribe; a psychologist can diagnose and provide therapy. For claim purposes, you want both the diagnosis and the treatment record.
 
-3. **Be consistent and complete in your symptom reporting.** Don't minimize at appointments. If you're having nightmares four nights a week, say four nights a week. [Medical records](/medical-records-release-sign-or-not/) that understate symptoms will be used against you later.
+3. **Be consistent and complete in your symptom reporting.** Don't minimize at appointments. If you're having nightmares four nights a week, say four nights a week. Medical records that understate symptoms will be used against you later.
 
 4. **Keep a symptom journal.** Date it, write in it regularly, and be specific: "Tried to drive to the grocery store, had a panic attack at the intersection where the accident happened, turned around and went home." A notebook like a [daily journal designed for medical tracking](https://www.amazon.com/s?k=medical+symptom+journal) can help you stay organized. (This site may earn a commission from qualifying purchases.)
 

@@ -1,5 +1,5 @@
 ---
-title: "When Car Accident Injuries Show Up Days Later"
+title: "Delayed Injury Symptoms After a Car Accident: What to Watch For"
 date: 2026-05-27T05:23:59.217483+00:00
 draft: false
 description: "Learn why car accident injuries like whiplash and concussions often appear days later, and why seeking immediate medical attention protects your health and lega"
@@ -85,7 +85,7 @@ That last group, the emotional and psychological stuff, gets ignored constantly.
 Actually do these things. What you do in the first week protects both your body and your legal options.
 
 **See a doctor within 24 to 72 hours.**
-Even if you feel okay. Tell your doctor you were in a car accident. Report everything, including the vague stuff: slight headache, neck tension, feeling "off." Doctors create a [paper trail](/car-accident-injury-claim-tips/). If you say nothing, nothing gets written down. That missing record becomes ammunition later if symptoms develop and you need to make a claim.
+Even if you feel okay. Tell your doctor you were in a car accident. Report everything, including the vague stuff: slight headache, neck tension, feeling "off." Doctors create a paper trail. If you say nothing, nothing gets written down. That missing record becomes ammunition later if symptoms develop and you need to make a claim.
 
 **Keep a daily symptom journal.**
 Start on the day of the crash. Every single day, write down how you're feeling physically and mentally. Use a 1-10 scale for pain. Note what you couldn't do, how you slept, whether you missed work. This isn't being dramatic. This is building a case. A plain notebook works, or a structured [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) keeps you consistent. (The site earns a commission on these purchases.)

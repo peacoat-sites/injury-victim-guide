@@ -25,7 +25,7 @@ author_title: "Medical Documentation"
 author_bio: "Rachel Thompson is the byline used at Injury Victim Guide for articles on medical treatment, documentation and recovery after an injury. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You slipped on a wet floor at work, hit the ground hard, and now you're lying there wondering whether this counts as a workers' comp claim or [a personal injury lawsuit](/slip-and-fall-injury-claim-process/). The answer is: it depends on who owns that wet floor. Most articles skip right past that distinction and cost people real money.
+You slipped on a wet floor at work, hit the ground hard, and now you're lying there wondering whether this counts as a workers' comp claim or a personal injury lawsuit. The answer is: it depends on who owns that wet floor. Most articles skip right past that distinction and cost people real money.
 
 Let me fix that.
 

@@ -44,7 +44,7 @@ The statute of limitations varies by state. In most states, personal injury clai
 
 Document everything now. Medical records, therapy records, school performance records, psychiatric evaluations. If a provider ever noted excessive phone use or screen time in connection with a mental health diagnosis, that documentation is relevant. Screenshots of usage data from device settings can help establish the pattern. A journal entry isn't a medical record, but it can corroborate one.
 
-Fees in these cases are almost universally [contingency-based](/how-litigation-funding-companies-can-hijack-your-injury-claim/), meaning attorneys get paid a percentage of any recovery and nothing if the case doesn't succeed. That structure means reputable attorneys are screening cases carefully. If a law firm takes your case, they believe there's something there. If three firms decline, that's also useful information.
+Fees in these cases are almost universally contingency-based, meaning attorneys get paid a percentage of any recovery and nothing if the case doesn't succeed. That structure means reputable attorneys are screening cases carefully. If a law firm takes your case, they believe there's something there. If three firms decline, that's also useful information.
 
 One practical note: the MDL consolidation means individual plaintiffs don't necessarily go to trial in Oakland. Their cases are part of the larger proceeding for pretrial purposes, but if no global settlement emerges, individual cases can be remanded to their home districts. A lawyer handling these cases will explain what that means for your specific situation.
 

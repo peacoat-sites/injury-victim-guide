@@ -27,7 +27,7 @@ faqs:
 
 Most people assume that once both sides say "yes" to a number, they're essentially done. They're not. Settlement is an agreement to pay, not the payment itself, and the gap between those two things is where a lot of frustration, confusion, and occasionally real financial harm can happen.
 
-The good news: the post-settlement process is predictable. It moves through a defined sequence of steps, and knowing what comes next means you won't be blindsided when your attorney asks you to sign paperwork before any money changes hands, or when you discover that your health insurer wants a cut of your award. Here's what actually happens after a [personal injury settlement](/lost-wages-in-personal-injury-settlement/) is reached, in the order it typically unfolds.
+The good news: the post-settlement process is predictable. It moves through a defined sequence of steps, and knowing what comes next means you won't be blindsided when your attorney asks you to sign paperwork before any money changes hands, or when you discover that your health insurer wants a cut of your award. Here's what actually happens after a personal injury settlement is reached, in the order it typically unfolds.
 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Settlement funds rarely arrive in under 30 days; 4-8 weeks after signing is a realistic expectation.</li><li style="margin:5px 0">You'll sign a release before seeing any money, read it carefully, it's permanent.</li><li style="margin:5px 0">Medical liens can reduce your net payment significantly; your attorney must resolve them before disbursement.</li><li style="margin:5px 0">Medicare and Medicaid have federal reimbursement rights that cannot be waived by state law.</li><li style="margin:5px 0">Your attorney's fee and case costs come out of the gross settlement, not after your share is calculated.</li></ul></div>
@@ -35,7 +35,7 @@ The good news: the post-settlement process is predictable. It moves through a de
 
 ## You Sign the Release First
 
-Before any check is cut, the defendant's [insurance company](/why-insurance-company-denied-my-injury-claim/) will prepare a settlement release. This is a legal document, usually 3 to 10 pages, in which you agree to give up all future claims against the defendant related to this incident. All future claims. That includes injuries you don't know about yet, complications that emerge later, related property damage, the works.
+Before any check is cut, the defendant's insurance company will prepare a settlement release. This is a legal document, usually 3 to 10 pages, in which you agree to give up all future claims against the defendant related to this incident. All future claims. That includes injuries you don't know about yet, complications that emerge later, related property damage, the works.
 
 This is the document that matters most in the entire settlement process, and it deserves your full attention. Common mistakes: signing without reading the scope of the release (some releases try to cover co-defendants or related parties not originally part of the case), agreeing to confidentiality clauses without understanding what you can and cannot say publicly afterward, and overlooking language that could affect unresolved workers' compensation claims.
 
@@ -48,7 +48,7 @@ Once the signed release is returned to the insurer, the clock starts on payment.
 That check doesn't go directly to you. It goes to your attorney's trust account (sometimes called an IOLTA account, which stands for Interest on Lawyers' Trust Accounts). This is required by state bar rules, and it protects everyone. From the trust account, your attorney works through the following:
 
 1. Satisfying any outstanding liens (more on this below)
-2. Deducting their [contingency fee](/how-much-does-personal-injury-lawyer-cost/), which the American Bar Association's guidance on fee agreements describes as typically ranging from 25% to 40% depending on case stage and complexity
+2. Deducting their contingency fee, which the American Bar Association's guidance on fee agreements describes as typically ranging from 25% to 40% depending on case stage and complexity
 3. Deducting case costs (filing fees, expert witness fees, medical records, deposition transcripts, etc.)
 4. Issuing your disbursement check
 

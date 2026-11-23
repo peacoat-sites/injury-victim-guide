@@ -1,5 +1,5 @@
 ---
-title: "What Your Whiplash Claim Could Be Worth in 2026"
+title: "Whiplash Lawsuit Payouts: What Your Claim Could Be Worth"
 date: 2026-06-27T12:19:37.145130+00:00
 draft: false
 description: "Discover average whiplash injury settlement amounts in 2026, what factors affect compensation, and how to maximize your personal injury claim payout."

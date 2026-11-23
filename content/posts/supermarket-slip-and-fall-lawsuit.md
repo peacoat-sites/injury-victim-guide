@@ -1,5 +1,5 @@
 ---
-title: "What You're Owed After a Supermarket Fall"
+title: "Supermarket Slip and Fall: What You're Owed"
 date: 2026-05-28T12:36:38.723034+00:00
 draft: false
 description: "Injured in a supermarket slip and fall? Learn how to file a lawsuit, prove negligence, and recover compensation for medical bills, lost wages, and pain and suff"

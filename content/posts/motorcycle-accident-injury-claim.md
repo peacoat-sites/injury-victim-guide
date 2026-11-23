@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most articles about motorcycle accident claims spend three paragraphs explaining what a [personal injury lawsuit](/pedestrian-accident-injury-claim/) is, then bury the one thing you actually need to know: insurers treat motorcyclists differently, and almost none of the general "how to file a claim" advice accounts for that.
+Most articles about motorcycle accident claims spend three paragraphs explaining what a personal injury lawsuit is, then bury the one thing you actually need to know: insurers treat motorcyclists differently, and almost none of the general "how to file a claim" advice accounts for that.
 
 Let me fix that.
 
@@ -40,7 +40,7 @@ Here's what actually happens, and what you can do about it.
 
 The moment a rider files a claim, an adjuster's internal framing shifts.  There's a persistent industry assumption that motorcyclists are higher-risk, less sympathetic claimants. Studies on jury behavior bear this out: [the American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) on personal injury litigation notes that juror perception of "assumption of risk" hits motorcycle cases harder than car accidents, even when the rider was legally faultless.
 
-That assumption shows up early. Adjusters will note whether you were wearing full gear. They'll flag any prior speeding violations. They'll look for any way to argue [comparative negligence](/defective-product-injury-claim/), which is the legal concept that says if you're partially at fault, your payout gets reduced by that percentage. In a handful of states, if you're found more than 50% at fault, you recover nothing.
+That assumption shows up early. Adjusters will note whether you were wearing full gear. They'll flag any prior speeding violations. They'll look for any way to argue comparative negligence, which is the legal concept that says if you're partially at fault, your payout gets reduced by that percentage. In a handful of states, if you're found more than 50% at fault, you recover nothing.
 
 Concrete example: A rider in Tennessee gets rear-ended at a red light. Clear liability. But the at-fault driver's insurer argues the rider's lane positioning "contributed to the collision." The adjuster assigns 15% comparative fault to the rider. On a $120,000 injury claim, that's $18,000 that just disappears unless challenged.
 

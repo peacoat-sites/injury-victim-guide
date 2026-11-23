@@ -1,5 +1,5 @@
 ---
-title: "How To Build A Winning Medical Malpractice Claim"
+title: "Medical Malpractice Process Step by Step: What to Expect"
 date: 2026-06-15T16:25:37.790633+00:00
 draft: false
 description: "Learn how to file a medical malpractice claim step by step, from gathering evidence to working with attorneys and navigating the legal process."

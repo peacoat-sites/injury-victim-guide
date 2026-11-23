@@ -36,7 +36,7 @@ That ceiling just got raised. It's still a ceiling.
 
 ## Why 15 Years Without a Change Actually Hurt Real People
 
-Here's what bothered me most about the old cap, and I say this as someone who spent years on the insurance side of these claims: $200,000 sounds like real money until you price out what a [serious injury actually costs](/when-ai-handles-your-injury-claim-your-new-rights-in-2026/) in 2026.
+Here's what bothered me most about the old cap, and I say this as someone who spent years on the insurance side of these claims: $200,000 sounds like real money until you price out what a serious injury actually costs in 2026.
 
 A leg amputation. A traumatic brain injury. Spinal damage from a government vehicle running a red light. Any one of those can generate hundreds of thousands of dollars in emergency care, surgery, and long-term rehabilitation before you've even counted lost wages or the impact on your family. The cap wasn't designed to cover catastrophic injuries. It was designed to limit the government's exposure regardless of what your injury actually cost you.
 

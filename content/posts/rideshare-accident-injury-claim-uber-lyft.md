@@ -1,5 +1,5 @@
 ---
-title: "Injured in an Uber or Lyft? Here's Your Claim Guide"
+title: "Uber Injury Claim: How to Get What You're Owed"
 date: 2026-05-22T12:30:27.612223+00:00
 draft: false
 description: "Get help with your rideshare accident injury claim against Uber or Lyft. Learn your rights, how liability works, and how to maximize your compensation today."

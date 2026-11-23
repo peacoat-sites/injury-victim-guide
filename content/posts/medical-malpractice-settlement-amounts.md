@@ -1,5 +1,5 @@
 ---
-title: "What Medical Malpractice Cases Are Actually Worth"
+title: "Average Medical Malpractice Settlement: What Cases Are Worth"
 date: 2026-06-25T13:30:10.579416+00:00
 draft: false
 description: "Discover average medical malpractice settlement amounts, what factors affect payouts, and how victims can maximize compensation after negligence."

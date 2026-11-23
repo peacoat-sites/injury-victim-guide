@@ -1,5 +1,5 @@
 ---
-title: "What Your Free Injury Consultation Should Include"
+title: "Personal Injury Free Consultation: What to Expect and Prepare"
 date: 2026-06-12T14:16:36.672705+00:00
 draft: false
 description: "Learn what to expect during a free personal injury attorney consultation, including case evaluation, legal options, fees, and key questions to ask your lawyer."

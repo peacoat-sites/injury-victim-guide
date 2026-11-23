@@ -46,7 +46,7 @@ The three injuries that show up most often in the claims I used to handle:
 
 **Facet joint injuries.** These small joints on the back of each vertebra can get inflamed or damaged. Facet pain tends to be worse when you extend your back (leaning backward) and often refers pain into the buttocks or upper thighs. It's frequently missed on initial imaging.
 
-One thing I didn't fully appreciate until I started working with [injury victims](/how-georgias-tort-reform-law-is-changing-injury-claims-right-now/) directly: a lot of people have pre-existing degenerative changes in their lumbar spine that were completely asymptomatic before the crash. The collision doesn't cause those changes, but it can absolutely aggravate them and turn a silent condition into a painful, disabling one. That's still a valid injury under the law. Don't let anyone tell you differently.
+One thing I didn't fully appreciate until I started working with injury victims directly: a lot of people have pre-existing degenerative changes in their lumbar spine that were completely asymptomatic before the crash. The collision doesn't cause those changes, but it can absolutely aggravate them and turn a silent condition into a painful, disabling one. That's still a valid injury under the law. Don't let anyone tell you differently.
 
 ## The Timeline That Will Shape Your Claim
 

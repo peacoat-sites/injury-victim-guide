@@ -39,7 +39,7 @@ The abdomen is packed with organs that don't have a great way to hurt you until 
 
 Other common culprits include liver lacerations, bruised or perforated bowel (the lap belt pushes directly into the small intestine during a frontal impact), kidney contusions, and internal bleeding around the pancreas. None of these show up on a standard X-ray. If an ER only took plain films and sent you home, that doesn't mean you were cleared.
 
-Abdominal aortic injuries are rarer but worth mentioning because the aorta runs right through the abdomen. High-speed crashes can cause dissections or tears that produce diffuse abdominal pain, [back pain](/lower-back-pain-after-a-rear-end-collision/), or pain radiating to the legs. This is a life-threatening emergency.
+Abdominal aortic injuries are rarer but worth mentioning because the aorta runs right through the abdomen. High-speed crashes can cause dissections or tears that produce diffuse abdominal pain, back pain, or pain radiating to the legs. This is a life-threatening emergency.
 
 Muscle strain and bruising from the seatbelt itself are far more common and much less dangerous. The honest answer is that you can't tell the difference by feel alone.
 

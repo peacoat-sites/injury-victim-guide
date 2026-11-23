@@ -1,5 +1,5 @@
 ---
-title: "Photos That Protect Your Injury Claim"
+title: "Photos Needed for Car Accident Claims That Hold Up"
 date: 2026-06-27T12:22:06.429883+00:00
 draft: false
 description: "Learn exactly which accident scene photos to take after a crash to protect your claim and document damage, injuries, and road conditions effectively."
@@ -32,7 +32,7 @@ They haven't. And I know this because I spent over a decade on the other side of
 
 Incomplete accident scene documentation often defaults to the official version of events: the [police report](/police-report-personal-injury-claim/), the other driver's statement, and whatever the insurance company already suspects about how the crash happened. A few photos of vehicle damage alone may not shift this narrative.
 
-What surprised me, after switching sides and working with injury victims, was how many people think the police will document everything for them. Police officers are there to manage a chaotic scene, redirect traffic, and write a report. They are not building your [personal injury case](/what-evidence-do-i-need-for-a-personal-injury-claim/). Their photos, if they take any, serve the investigation. A good officer might snap a dozen pictures. A busy one might take two. You cannot count on it.
+What surprised me, after switching sides and working with injury victims, was how many people think the police will document everything for them. Police officers are there to manage a chaotic scene, redirect traffic, and write a report. They are not building your personal injury case. Their photos, if they take any, serve the investigation. A good officer might snap a dozen pictures. A busy one might take two. You cannot count on it.
 
 Here's what thorough documentation actually looks like.
 
@@ -44,7 +44,7 @@ Start wide. Before you touch anything, before you talk to the other driver, walk
 
 Then work your way in. Take medium-distance shots showing the relationship between the two vehicles: which part hit which part, at what angle. A head-on shot of your front bumper tells one story. A three-quarter angle showing the point of contact tells a better one.
 
-Then get close. Real close. Every panel that's damaged, every piece of trim that's hanging, every scrape and gouge. Get on one knee if you have to. And here's the thing most people skip: photograph the undamaged parts of both cars too. If the other driver later claims your car had [pre-existing damage](/pre-existing-injury-personal-injury-claim/), those photos are your defense.
+Then get close. Real close. Every panel that's damaged, every piece of trim that's hanging, every scrape and gouge. Get on one knee if you have to. And here's the thing most people skip: photograph the undamaged parts of both cars too. If the other driver later claims your car had pre-existing damage, those photos are your defense.
 
 ## The Detail Shots People Almost Never Think to Take
 

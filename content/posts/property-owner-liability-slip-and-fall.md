@@ -59,7 +59,7 @@ Insurance companies know these cases inside out. They've handled thousands. Unde
 
 **Comparative negligence.** Most states use some form of comparative fault, meaning if you were partly responsible for your fall, your compensation gets reduced by your percentage of fault. Were you looking at your phone? Wearing inappropriate footwear? Ignoring a visible warning cone? These details matter. In some states (pure contributory negligence states like Alabama, Maryland, and North Carolina), being even 1% at fault can bar your recovery entirely.
 
-**Open and obvious doctrine.** If the hazard was so visible that any reasonable person would have noticed and avoided it, the property owner may argue they had no duty to warn you. This is why [wet floor signs](/wet-floor-slip-and-fall-injury/), while not a magic shield, do shift the legal calculus.
+**Open and obvious doctrine.** If the hazard was so visible that any reasonable person would have noticed and avoided it, the property owner may argue they had no duty to warn you. This is why wet floor signs, while not a magic shield, do shift the legal calculus.
 
 **Lack of notice.** The classic defense: "We didn't know it was there, so we can't be held responsible." Your job, or your attorney's job, is to show they did know or should have known. Surveillance footage, maintenance logs, and employee testimony become crucial here.
 

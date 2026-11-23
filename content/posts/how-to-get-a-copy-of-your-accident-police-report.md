@@ -26,9 +26,9 @@ faqs:
     a: "Keep it indefinitely, or at minimum until your claim is fully resolved and any statute of limitations has passed. In practice, scan it and store a digital copy somewhere you won't lose it. Physical paper gets lost in moves and floods and kitchen disasters."
 ---
 
-Most people have never tried to get a police report before their accident. Then suddenly they need one, they have no idea where to start, and meanwhile the [insurance company](/why-insurance-company-denied-my-injury-claim/) is already calling.
+Most people have never tried to get a police report before their accident. Then suddenly they need one, they have no idea where to start, and meanwhile the insurance company is already calling.
 
-Insurance adjusters often have access to police reports before claimants do, creating an information imbalance that affects how claims are evaluated. This guide covers how police reports work, what they cost, how long they take to obtain, and what to [watch out](/insurance-adjuster-tactics-to-watch-out-for/) for.
+Insurance adjusters often have access to police reports before claimants do, creating an information imbalance that affects how claims are evaluated. This guide covers how police reports work, what they cost, how long they take to obtain, and what to watch out for.
 
 The good news: getting your accident report is almost always straightforward. The frustrating news: the process varies by jurisdiction in ways that aren't obvious, and the delays can catch people off guard if they don't know to expect them.
 

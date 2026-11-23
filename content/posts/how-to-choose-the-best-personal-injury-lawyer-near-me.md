@@ -1,5 +1,5 @@
 ---
-title: "Find Your Best Personal Injury Lawyer in 3 Steps"
+title: "How to Choose a Personal Injury Lawyer: A Practical Guide"
 date: 2026-06-30T13:16:42.867673+00:00
 draft: false
 description: "Learn how to find the best personal injury lawyer near you with expert tips on experience, fees, reviews, and consultations to win your case."
@@ -56,7 +56,7 @@ First, the percentage is negotiable. Not always by a lot, but in cases with stro
 
 Second, the fee is calculated on the gross recovery before case expenses are deducted, at most firms. So if your settlement is $100,000, your lawyer takes $33,000, and then case expenses (medical records, expert witnesses, filing fees) come off the remaining $67,000. Some firms deduct expenses first and then calculate the fee on the net, which is better for you. Ask which method they use. This is not a minor question.
 
-Third, "[no win, no fee](/personal-injury-attorney-free-consultation-what-to-expect/)" sometimes means you're still on the hook for expenses if the case loses. Read the retainer agreement carefully. Every word of it.
+Third, "no win, no fee" sometimes means you're still on the hook for expenses if the case loses. Read the retainer agreement carefully. Every word of it.
 
 ---
 

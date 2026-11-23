@@ -1,5 +1,5 @@
 ---
-title: "What Your Injury Settlement Really Covers"
+title: "How Injury Settlements Work and What They Cover"
 date: 2026-05-28T06:48:21.711488+00:00
 draft: false
 description: "Learn how personal injury settlements work, from filing a claim to negotiating compensation. Discover what factors affect your payout and how long the process t"

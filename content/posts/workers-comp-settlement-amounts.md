@@ -26,7 +26,7 @@ faqs:
     a: "A denial isn't the end. Every state has a workers' compensation appeals process, and denial rates that hold up through the full appeal process are meaningfully lower than initial denials. You'll likely need an attorney at this point. The most common grounds for denial (late reporting, disputed causation, and alleged pre-existing conditions) are all contestable. File your appeal within the deadline your denial letter specifies, because missing that window can be genuinely fatal to your claim."
 ---
 
-Nobody tells you what your case is actually worth. Not the [insurance company](/should-i-give-a-recorded-statement-to-the-insurance-company/), not your HR department, not the pamphlet they hand you after the accident. You're sitting there with a stack of medical bills, a body that isn't working the way it used to, and a workers' comp system that feels like it was designed by people who never got hurt at work.
+Nobody tells you what your case is actually worth. Not the insurance company, not your HR department, not the pamphlet they hand you after the accident. You're sitting there with a stack of medical bills, a body that isn't working the way it used to, and a workers' comp system that feels like it was designed by people who never got hurt at work.
 
 You might be wondering whether you're being lowballed. Almost certainly, yes, but let me explain why that's almost structural, not personal. And more importantly, let me walk you through how these numbers actually get calculated, because the system isn't random even when it feels that way.
 

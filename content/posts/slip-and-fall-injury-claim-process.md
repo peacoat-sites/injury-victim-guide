@@ -75,7 +75,7 @@ Once you've stabilized and documented, the formal claim process begins. Here's w
 
 **The investigation period.** The insurer assigns an adjuster (I was one of these for 12 years) who reviews the incident report, pulls surveillance footage if it exists, talks to employees or witnesses, and evaluates your medical records. This is the phase where what you documented in the first 48 hours becomes critically important. Insurers move at their own pace here. Weeks, sometimes months.
 
-**The demand letter.** Once your medical treatment has reached what's called "[maximum medical improvement](/slip-and-fall-settlement-amounts/)", the point where your doctors expect your condition to stabilize, you or your attorney can send a demand letter to the insurer. This letter lays out the facts, the liability argument, your medical expenses, lost wages, and pain and suffering damages. It asks for a specific settlement amount.
+**The demand letter.** Once your medical treatment has reached what's called "maximum medical improvement", the point where your doctors expect your condition to stabilize, you or your attorney can send a demand letter to the insurer. This letter lays out the facts, the liability argument, your medical expenses, lost wages, and pain and suffering damages. It asks for a specific settlement amount.
 
 **Negotiation.** The insurer will almost certainly counter with a lower number. This back-and-forth is normal. Most slip and fall claims are resolved through negotiation before anyone steps into a courtroom.
 

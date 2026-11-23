@@ -83,13 +83,13 @@ Privacy protections matter more than people realize. When you sign workers' comp
 
 ## The IME: Your Most Underused Option
 
-An Independent Medical Examination is an evaluation by a physician who's supposed to be neutral. That word "supposed to" matters. IMEs are usually requested and paid for by the insurer, and researchers at the [Workers Compensation](/workers-compensation-claim-process/) Research Institute have documented that IME physicians hired by insurers disagree with treating physicians at a higher rate than IMEs requested by claimants do. The incentive structure matters.
+An Independent Medical Examination is an evaluation by a physician who's supposed to be neutral. That word "supposed to" matters. IMEs are usually requested and paid for by the insurer, and researchers at the Workers Compensation Research Institute have documented that IME physicians hired by insurers disagree with treating physicians at a higher rate than IMEs requested by claimants do. The incentive structure matters.
 
 But you, as the claimant, can also request an IME in most states. This is one of the most underused tools available to injured workers. If the workers' comp doctor's assessment feels wrong to you, an IME gives you a legitimate channel to challenge it without appearing uncooperative or litigious.
 
 The following hypothetical scenarios illustrate how these dynamics can play out:
 
-For example, consider a construction worker with a lower [back injury](/back-injury-settlement-amounts-car-accident/) in Illinois who saw only the employer's designated physician, reached MMI at 12 weeks, returned to work, and reinjured the same area 8 weeks later. Second claim partially denied because insurer argued the new injury was a continuation of the first. If he'd had parallel documentation from his own doctor, the timeline argument would have been harder to make. → Result: contested claim, reduced settlement.
+For example, consider a construction worker with a lower back injury in Illinois who saw only the employer's designated physician, reached MMI at 12 weeks, returned to work, and reinjured the same area 8 weeks later. Second claim partially denied because insurer argued the new injury was a continuation of the first. If he'd had parallel documentation from his own doctor, the timeline argument would have been harder to make. → Result: contested claim, reduced settlement.
 
 Or consider a nurse with a shoulder injury from a patient lift in California who complied with the Medical Provider Network but simultaneously saw her own orthopedist and documented her pain scores and limitations weekly in a journal. When the MPN doctor cleared her for full duty at 10 weeks, her own records showed a consistent pattern of limitation. She requested an IME. The IME agreed with her orthopedist. → Result: additional 7 weeks of temporary disability benefits and a referral for surgical evaluation that the MPN had deferred.
 

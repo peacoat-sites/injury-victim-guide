@@ -1,5 +1,5 @@
 ---
-title: "How to File a Workers Comp Claim Successfully"
+title: "Workers Compensation Claim Process: How to File Successfully"
 date: 2026-06-04T12:25:47.429551+00:00
 draft: false
 description: "Learn how to file a workers compensation claim step by step. Understand your rights, deadlines, and what to expect throughout the entire claims process."

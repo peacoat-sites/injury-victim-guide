@@ -1,5 +1,5 @@
 ---
-title: "How Much Can You Get for a Brain Injury?"
+title: "Mild Traumatic Brain Injury Settlements: What Affects Your Payout"
 date: 2026-06-11T14:57:42.250887+00:00
 draft: false
 description: "Discover average traumatic brain injury settlement amounts in 2026, key factors affecting compensation, and how to maximize your TBI claim with expert legal gui"

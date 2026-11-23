@@ -1,5 +1,5 @@
 ---
-title: "Stair Injuries: Your Rights After a Fall"
+title: "Slip and Fall on Stairs: Your Rights After an Injury"
 date: 2026-06-07T12:51:19.179603+00:00
 draft: false
 description: "Injured in a slip and fall on stairs? Learn your legal rights, common causes, liability factors, and how to pursue compensation for your injuries today."
@@ -67,7 +67,7 @@ The day of the fall, if you're physically able, you need to document everything.
 
 After that, write down what happened in as much detail as you can remember: what time it was, what you were wearing, where you were going, what you felt underfoot, whether you grabbed for the railing and what happened when you did. Memory degrades fast, especially under stress, so details recorded days after a fall may be incomplete or inaccurate.
 
-If you're thinking about bringing a claim, an attorney can send what's called a [spoliation letter](/slip-and-fall-injury-claim-process/), which is a formal legal notice demanding that the property owner preserve all evidence related to your fall. That can prevent the convenient repair problem. But that letter needs to go out quickly.
+If you're thinking about bringing a claim, an attorney can send what's called a spoliation letter, which is a formal legal notice demanding that the property owner preserve all evidence related to your fall. That can prevent the convenient repair problem. But that letter needs to go out quickly.
 
 For keeping your own records organized, a personal injury documentation journal (something like this [injury documentation workbook on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal), note that the site may earn a commission on purchases) can be genuinely useful. Sounds low-tech. Works.
 

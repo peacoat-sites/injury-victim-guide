@@ -1,5 +1,5 @@
 ---
-title: "42% of Injury Claims Fail: Red Flags in Your Lawyer"
+title: "Why Personal Injury Lawyers Get a Bad Reputation"
 date: 2026-08-15T11:34:30.720606+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -38,7 +38,7 @@ Most articles on this topic hand you a generic checklist and call it a day. This
 
 This pattern is one that adjusters notice consistently. Adjusters regularly receive demand letters that are so wildly inflated, with no documented basis, that it becomes clear the lawyer made promises they could not keep.
 
-Good attorneys don't promise outcomes. They can't. According to the American Bar Association's Model Rules of Professional Conduct, specifically Rule 1.5 and the comments to Rule 8.4, guaranteeing a result is an ethics violation in every state bar. If a lawyer tells you "we'll get you at least $X" before reviewing your [medical records](/medical-records-release-sign-or-not/), before seeing the police report, before running a conflicts check, walk out.
+Good attorneys don't promise outcomes. They can't. According to the American Bar Association's Model Rules of Professional Conduct, specifically Rule 1.5 and the comments to Rule 8.4, guaranteeing a result is an ethics violation in every state bar. If a lawyer tells you "we'll get you at least $X" before reviewing your medical records, before seeing the police report, before running a conflicts check, walk out.
 
 What they *can* do is explain how cases like yours have resolved historically, discuss factors that affect value, and be honest that they don't know yet. That's competence. The other thing is salesmanship.
 

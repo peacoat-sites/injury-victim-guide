@@ -1,5 +1,5 @@
 ---
-title: "How Much Is Your Car Accident Injury Worth"
+title: "Car Accident Settlement Amounts by Injury Type"
 date: 2026-05-21T06:03:55.708726+00:00
 draft: false
 description: "Find out typical car accident settlement amounts by injury type, including whiplash, broken bones, TBI, and more, to understand what your claim may be worth."

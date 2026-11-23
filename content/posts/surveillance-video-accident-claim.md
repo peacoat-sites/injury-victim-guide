@@ -25,7 +25,7 @@ faqs:
     a: "This happens, and it's worth being honest with yourself about it early. If video contradicts how you've described the incident, that inconsistency will come out, either during the insurance company's investigation or in litigation. The right move is to review any available footage with your attorney before making formal statements about the accident. Surprises are much harder to manage once you're on record."
 ---
 
-Surveillance footage can make or break a [personal injury claim](/difference-between-bodily-injury-and-personal-injury-claim/). If a camera captured your accident, that video may be the single most valuable piece of evidence you'll ever have access to, but only if you act fast enough to preserve it.
+Surveillance footage can make or break a personal injury claim. If a camera captured your accident, that video may be the single most valuable piece of evidence you'll ever have access to, but only if you act fast enough to preserve it.
 
 Most businesses overwrite their surveillance recordings on a rolling cycle. Depending on the system, that cycle might be 24 hours, 72 hours, or 30 days. Some high-end systems store longer. Many small retailers store almost nothing at all. The window between your accident and the moment that footage disappears is often shorter than people expect, and there's no way to recover footage that's already been overwritten.
 
@@ -37,7 +37,7 @@ Most businesses overwrite their surveillance recordings on a rolling cycle. Depe
 
 Security systems today are almost all digital, running on DVR or NVR setups (digital video recorder or network video recorder). These systems record continuously and automatically overwrite older footage when storage fills up. A busy gas station might overwrite footage in 48 hours. A large retail chain might keep 30 to 90 days. Municipal traffic cameras vary by city contract. There's no federal standard requiring any private business to keep footage for any set period.
 
-The practical result: if you slip and fall in a [grocery store](/supermarket-slip-and-fall-lawsuit/) on a Monday and don't send a preservation request until the following Friday, there's a real chance the footage is already gone. This isn't necessarily sinister. It's just how the technology works. But it does mean that delay costs you in a way that nothing else in your case will.
+The practical result: if you slip and fall in a grocery store on a Monday and don't send a preservation request until the following Friday, there's a real chance the footage is already gone. This isn't necessarily sinister. It's just how the technology works. But it does mean that delay costs you in a way that nothing else in your case will.
 
 One thing most people don't know is that the business's [insurance company](/insurance-company-delay-tactics-injury-claim/) may already be looking for that footage. Adjusters are trained to investigate claims quickly, and securing video evidence is often their first move. They're not doing it as a favor to you.
 

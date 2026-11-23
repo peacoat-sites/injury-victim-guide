@@ -1,5 +1,5 @@
 ---
-title: "Your Complete Guide to Filing a Personal Injury Claim"
+title: "Personal Injury Claim Process: Step-by-Step Guide"
 date: 2026-05-19T12:08:30.985168+00:00
 draft: false
 description: "Learn how the personal injury claim process works step by step, from gathering evidence and filing your claim to negotiating a settlement or taking your case to"

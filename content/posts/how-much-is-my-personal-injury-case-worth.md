@@ -63,9 +63,9 @@ Insurance companies use their own internal software, notably a program called Co
 
 Two cases with identical medical bills can settle for very different amounts.
 
-**[Liability clarity](/factors-that-increase-settlement-value/).** Rear-ended at a red light with dashcam footage? Liability is airtight. Partially in the crosswalk when a car hit you? The other side argues comparative negligence, meaning they'll claim your own actions reduced their responsibility. Many states follow "modified comparative fault": if you're found more than 50% at fault, you recover nothing. If you're found 30% at fault, your damages are reduced by 30%. That swing alone drastically changes your outcome.
+**Liability clarity.** Rear-ended at a red light with dashcam footage? Liability is airtight. Partially in the crosswalk when a car hit you? The other side argues comparative negligence, meaning they'll claim your own actions reduced their responsibility. Many states follow "modified comparative fault": if you're found more than 50% at fault, you recover nothing. If you're found 30% at fault, your damages are reduced by 30%. That swing alone drastically changes your outcome.
 
-**The severity and permanence of your injuries.** A herniated disc that required spinal fusion carries far more weight than a strain that resolved in six weeks. Permanent scarring, loss of a limb, traumatic brain injury, chronic pain conditions, all push values higher. [Temporary injuries, even painful ones](/soft-tissue-injury-settlement-amounts/), generally receive lower multipliers.
+**The severity and permanence of your injuries.** A herniated disc that required spinal fusion carries far more weight than a strain that resolved in six weeks. Permanent scarring, loss of a limb, traumatic brain injury, chronic pain conditions, all push values higher. Temporary injuries, even painful ones, generally receive lower multipliers.
 
 **Your medical treatment and its consistency.** Gaps in treatment hurt. If you stopped going to physical therapy for two months and then started again, the defense argues you must not have been that injured. Treating consistently with appropriate providers and following your doctor's recommendations builds the narrative that your injury was serious and you took it seriously.
 

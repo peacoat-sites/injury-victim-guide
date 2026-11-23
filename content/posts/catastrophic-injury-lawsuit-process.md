@@ -1,5 +1,5 @@
 ---
-title: "Your Guide To Winning A Catastrophic Injury Case"
+title: "Catastrophic Injury Lawsuits: What the Process Looks Like"
 date: 2026-06-02T12:53:59.048680+00:00
 draft: false
 description: "Learn how catastrophic injury lawsuits work, from filing a claim to settlement or trial. Understand your legal rights and steps to pursue maximum compensation."

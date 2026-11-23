@@ -25,7 +25,7 @@ faqs:
     a: "For minor injuries with straightforward medical bills, you may be able to handle the claim yourself. For anything involving surgery, long-term treatment, lost income, or multiple at-fault parties, a personal injury attorney's involvement tends to produce better outcomes, and the contingency fee structure means you don't pay unless you recover something."
 ---
 
-If you were a passenger in a car that got into an accident, you're in a stronger legal position than most people realize. You almost certainly didn't cause the crash. That means you can typically file a [claim against](/hit-by-a-robotaxi-how-to-file-an-injury-claim-against-an-av-company/) the at-fault driver's liability insurance, and in many situations, you have multiple potential sources of compensation, not just one.
+If you were a passenger in a car that got into an accident, you're in a stronger legal position than most people realize. You almost certainly didn't cause the crash. That means you can typically file a claim against the at-fault driver's liability insurance, and in many situations, you have multiple potential sources of compensation, not just one.
 
 That flexibility matters, because passengers often get squeezed out of the claims process. The drivers are arguing over fault, the [insurance companies](/how-insurance-companies-calculate-settlements/) are focused on protecting their own policyholders, and nobody is automatically looking out for you. Understanding where you stand changes that.
 

@@ -26,7 +26,7 @@ faqs:
     a: "Generally, your home state's policy coverage travels with you, but the laws of the state where the accident occurred govern things like the right to sue. This gets legally complex fast. If you're seriously injured in a state that isn't your home state, talking to a personal injury attorney licensed in that state is genuinely worth doing, not just a precaution."
 ---
 
-Twelve years sitting on the other side of this equation, and I still get a little knot in my stomach when someone calls me in a panic because they just had an accident in Florida and their own [insurance company](/lowball-settlement-offer-what-to-do/) is suddenly managing everything. "But the other driver ran the red light," they say. "Why is my insurance paying?" That's no-fault insurance doing exactly what it was designed to do, and most people have no idea what they signed up for until they need it.
+Twelve years sitting on the other side of this equation, and I still get a little knot in my stomach when someone calls me in a panic because they just had an accident in Florida and their own insurance company is suddenly managing everything. "But the other driver ran the red light," they say. "Why is my insurance paying?" That's no-fault insurance doing exactly what it was designed to do, and most people have no idea what they signed up for until they need it.
 
 Here's the short version: in a no-fault state, your own car insurance pays your [medical bills](/medical-bills-personal-injury-settlement/) and lost wages after a crash, regardless of who caused it. You don't automatically get to sue the at-fault driver. You don't automatically get to tap their liability coverage. Your policy pays first, up to a limit, and then certain rules govern what happens next. It sounds tidy in theory. In practice, no-fault rules can leave genuinely injured people holding the bag in ways that seem unfair.
 
@@ -36,7 +36,7 @@ The confusion is real, the stakes are high, and there's a lot of bad information
 
 ## What "No-Fault" Actually Means (and What It Doesn't)
 
-The phrase "no-fault" is genuinely misleading, and I say that as someone who spent over a decade using it in official claim correspondence. It doesn't mean nobody is at fault. It doesn't mean fault is irrelevant. It means that for the purpose of paying your initial medical expenses and lost wages, fault is temporarily set aside, and your own PIP ([Personal Injury](/social-media-addiction-personal-injury-claims-explained/) Protection) coverage kicks in first.
+The phrase "no-fault" is genuinely misleading, and I say that as someone who spent over a decade using it in official claim correspondence. It doesn't mean nobody is at fault. It doesn't mean fault is irrelevant. It means that for the purpose of paying your initial medical expenses and lost wages, fault is temporarily set aside, and your own PIP (Personal Injury Protection) coverage kicks in first.
 
 What most people don't realize is that fault still absolutely matters for property damage. If someone T-bones your car, their liability insurance still pays to fix it under standard collision fault rules. No-fault only applies to the bodily injury side of things, at least initially.
 

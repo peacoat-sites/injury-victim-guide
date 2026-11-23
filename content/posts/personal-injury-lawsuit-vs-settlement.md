@@ -1,5 +1,5 @@
 ---
-title: "Should You Sue or Settle Your Injury Claim?"
+title: "Personal Injury Lawsuit vs Settlement: How to Decide"
 date: 2026-05-22T00:41:26.764156+00:00
 draft: false
 description: "Unsure whether to file a personal injury lawsuit or accept a settlement? Learn the key differences, pros, cons, and how to decide which option is right for you."
@@ -60,7 +60,7 @@ Every case is different, and I can't stress that enough. But there are concrete 
 
 **Factors that favor settling:**
 
-- Your injuries are fully diagnosed and you've reached what doctors call "[maximum medical improvement](/how-to-document-injury-for-insurance-claim/)," meaning your condition has stabilized and future costs are clearer.
+- Your injuries are fully diagnosed and you've reached what doctors call "maximum medical improvement," meaning your condition has stabilized and future costs are clearer.
 - The offer reasonably covers your medical expenses, lost income, and non-economic damages like pain and suffering.
 - Liability is genuinely disputed, which creates trial risk.
 - The defendant's insurance policy limits are low, and they don't have significant personal assets above those limits.

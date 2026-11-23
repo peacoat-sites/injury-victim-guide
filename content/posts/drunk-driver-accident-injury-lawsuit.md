@@ -1,5 +1,5 @@
 ---
-title: "Can You Sue a Drunk Driver For Your Injuries?"
+title: "Hit by a Drunk Driver? How to File Your Injury Lawsuit"
 date: 2026-05-19T10:22:27.747756+00:00
 draft: false
 description: "Injured in a drunk driver accident? Learn how to file a lawsuit, prove liability, and recover maximum compensation for your injuries, medical bills, and damages"
@@ -50,7 +50,7 @@ Most people assume that once the drunk driver gets convicted, the money follows.
 
 The criminal case is the state versus the drunk driver. Punishment is the goal: fines, license suspension, prison time maybe. You're essentially a witness in that process, not a party to it. The prosecutor doesn't represent you. They represent the public.
 
-Your civil lawsuit is entirely separate. It's you versus the drunk driver (and potentially other parties) seeking financial compensation for your injuries, lost wages, medical bills, and damages. You carry the [burden of proving your case](/car-accident-injury-claim-tips/) under a lower legal standard than criminal court requires. Criminal conviction needs proof "beyond a reasonable doubt." Civil liability needs only a "preponderance of the evidence," meaning it's more likely than not that the defendant caused your harm. That's a meaningful advantage.
+Your civil lawsuit is entirely separate. It's you versus the drunk driver (and potentially other parties) seeking financial compensation for your injuries, lost wages, medical bills, and damages. You carry the burden of proving your case under a lower legal standard than criminal court requires. Criminal conviction needs proof "beyond a reasonable doubt." Civil liability needs only a "preponderance of the evidence," meaning it's more likely than not that the defendant caused your harm. That's a meaningful advantage.
 
 Here's where it gets practical: a guilty plea or DUI conviction in criminal court can be introduced as evidence in your civil case. It doesn't guarantee a win, but it removes a lot of argument about what the driver was doing that night. Experienced attorneys call this collateral estoppel in some jurisdictions, meaning the defendant can't relitigate facts already decided against them in criminal court. Worth understanding. Worth discussing with a lawyer.
 

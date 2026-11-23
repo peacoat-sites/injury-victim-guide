@@ -15,7 +15,7 @@ slug: "nuclear-verdicts-are-rising-what-injury-victims-need-to-know"
 affiliate_disclosure: true
 ---
 
-Most coverage of nuclear verdicts focuses on outrage, either defending them as righteous accountability or condemning them as runaway jury excess. What's getting far less attention [right now](/camp-lejeune-claims-what-victims-need-to-know-right-now/) is the collision happening in real time: jury awards keep climbing while a wave of new state laws is quietly capping what injured people can actually collect. If you've been seriously hurt, or you're trying to understand what a claim is worth in 2026, that collision is the only thing that matters.
+Most coverage of nuclear verdicts focuses on outrage, either defending them as righteous accountability or condemning them as runaway jury excess. What's getting far less attention right now is the collision happening in real time: jury awards keep climbing while a wave of new state laws is quietly capping what injured people can actually collect. If you've been seriously hurt, or you're trying to understand what a claim is worth in 2026, that collision is the only thing that matters.
 
 A nuclear verdict is any jury award exceeding $10 million. According to the Institute for Legal Reform's analysis of 1,288 cases, these awards aren't a fluke or a trend that peaked. They've kept rising in frequency and average size through 2025 and into 2026. Meanwhile, [bodily injury](/difference-between-bodily-injury-and-personal-injury-claim/) severity in auto claims rose 9.2% year-over-year as of early 2026, meaning the underlying medical costs, lost wages, and permanent impairments driving those verdicts are genuinely getting worse, not just more litigated.
 

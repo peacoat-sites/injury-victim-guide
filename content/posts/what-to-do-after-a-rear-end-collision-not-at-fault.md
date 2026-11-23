@@ -1,5 +1,5 @@
 ---
-title: "Hit From Behind? Here's Your Next Move"
+title: "What to Do After a Rear End Collision Not at Fault"
 date: 2026-06-17T14:30:23.842441+00:00
 draft: false
 description: "Learn exactly what steps to take after a rear end collision that wasn't your fault, from documenting the scene to filing your insurance claim."
@@ -57,7 +57,7 @@ The at-fault driver's insurance is called the "third-party" insurer. You'll file
 
 Here's what to expect when the third-party adjuster calls:
 
-You are not required to give a recorded statement to the other driver's insurance company. They will often ask for one early, before you've fully assessed your injuries. You can decline, or delay, until you've spoken with a [personal injury attorney](/car-accident-injury-claim-tips/). This is one of the single most important things I can tell you.
+You are not required to give a recorded statement to the other driver's insurance company. They will often ask for one early, before you've fully assessed your injuries. You can decline, or delay, until you've spoken with a personal injury attorney. This is one of the single most important things I can tell you.
 
 Don't accept a quick settlement for your injuries before you know the full extent of them. Property damage (your car) can be handled quickly, that's fine. But injury claims are different. Once you sign a release, you're done. You can't go back and ask for more money because your herniated disc required physical therapy for six months.
 

@@ -81,7 +81,7 @@ I know that's not what everyone wants to hear. Attorneys take a fee, typically 1
 
 When you probably can handle it yourself: the denial is purely procedural (late filing, missing form), the facts are completely undisputed, and the fix is straightforward documentation. That's a narrow category.
 
-When you need an attorney: disputed causation, a pre-existing condition argument, an IME that went against you, any employer claiming you're not an employee, a [permanent disability com](/permanent-disability-workers-comp-settlement/)ponent, or any situation where your employer is being adversarial. That covers most denied claims.
+When you need an attorney: disputed causation, a pre-existing condition argument, an IME that went against you, any employer claiming you're not an employee, a permanent disability component, or any situation where your employer is being adversarial. That covers most denied claims.
 
 Finding one is easy. Finding a good one takes a few calls. Look for someone who handles workers' comp exclusively or primarily. Ask how many denied claims they've taken to hearing in the last two years. Ask their fee percentage. If they can't answer those questions clearly in the first call, move on.
 

@@ -26,7 +26,7 @@ faqs:
     a: "Your state attorney general's website or your state legislature's statute database will have the controlling law. You can also check resources like Justia or Enjuris, which maintain reasonably current state-by-state comparisons. When in doubt, a 30-minute consultation with a personal injury attorney in your state is the most reliable answer, and most offer free initial consultations."
 ---
 
-The phone call I remember most wasn't from a client. It was from my own sister, three days after a fender-bender in Richmond, Virginia. She'd been rear-ended at a stoplight, but because she'd rolled forward a few inches before impact (long story involving a manual transmission and a hill), the other driver's [insurance company](/why-insurance-company-denied-my-injury-claim/) told her she was "partially at fault" and that Virginia law meant she'd get nothing. Zero. She called me furious, confused, and honestly kind of devastated. And she wasn't wrong to be. Virginia is one of only a handful of states still using contributory negligence, and it's as brutal as it sounds.
+The phone call I remember most wasn't from a client. It was from my own sister, three days after a fender-bender in Richmond, Virginia. She'd been rear-ended at a stoplight, but because she'd rolled forward a few inches before impact (long story involving a manual transmission and a hill), the other driver's insurance company told her she was "partially at fault" and that Virginia law meant she'd get nothing. Zero. She called me furious, confused, and honestly kind of devastated. And she wasn't wrong to be. Virginia is one of only a handful of states still using contributory negligence, and it's as brutal as it sounds.
 
 The state where your accident happens isn't just a detail on the [police report](/police-report-personal-injury-claim/). It can be the single biggest factor determining whether you walk away with a settlement or walk away with nothing. Adjusters use state law strategically to their advantage. Understanding how this works is essential.
 
@@ -42,7 +42,7 @@ This can be harsh in practice. For example, a pedestrian who steps off a curb ha
 
 The [Insurance Information Institute](https://www.iii.org/) has noted that this doctrine dates to 19th century English common law and that virtually every other English-speaking country has abandoned it. Most U.S. states did too, starting in the 1970s. The holdouts are the holdouts for a reason, largely political and lobbying history, but that's a longer conversation.
 
-In a contributory negligence jurisdiction, an insurer might argue that a driver starting a merge 0.3 seconds before the lane was fully clear bears fault, even with dashcam proof of a turn signal. Without an attorney, such arguments can collapse a claim entirely. In these five jurisdictions, you cannot afford to talk to insurers without a [personal injury attorney](/personal-injury-attorney-free-consultation-what-to-expect/) present, full stop.
+In a contributory negligence jurisdiction, an insurer might argue that a driver starting a merge 0.3 seconds before the lane was fully clear bears fault, even with dashcam proof of a turn signal. Without an attorney, such arguments can collapse a claim entirely. In these five jurisdictions, you cannot afford to talk to insurers without a personal injury attorney present, full stop.
 
 ## Comparative Negligence: Two Flavors
 

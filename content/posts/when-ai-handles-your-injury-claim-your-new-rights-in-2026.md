@@ -22,7 +22,7 @@ AI in claims isn't just making things faster. It's making decisions, or at least
 
 AI delivers consistency in claim handling. What it doesn't always deliver is accuracy, especially when the injury in front of it doesn't fit the pattern it was trained on.
 
-Here's how it works in practice. An insurer's AI platform ingests your claim data, medical records, photos, police reports, sometimes even [social media](/how-insurers-use-fitness-trackers-and-smart-devices-against-your-claim/), and generates a severity score or settlement range before a human adjuster touches the file. Some systems flag claims for fast-track payment. Others flag them for deeper scrutiny or outright reduction. The adjuster then works around that number more often than they work from scratch.
+Here's how it works in practice. An insurer's AI platform ingests your claim data, medical records, photos, police reports, sometimes even social media, and generates a severity score or settlement range before a human adjuster touches the file. Some systems flag claims for fast-track payment. Others flag them for deeper scrutiny or outright reduction. The adjuster then works around that number more often than they work from scratch.
 
 The financial stakes matter here. According to CCC Intelligent Solutions' Q4 2025 Crash Course report, the average third-party bodily injury paid outcome hit $29,900 per injured party, a 32% increase since Q2 2021, with bodily injury severity rising 9.2% year-over-year. That's a lot of money riding on whether an algorithm correctly understands that your back injury is a genuine disc herniation and not a "soft tissue, low severity" pattern it's seen a thousand times before.
 

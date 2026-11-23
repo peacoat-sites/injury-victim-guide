@@ -26,7 +26,7 @@ faqs:
     a: "It genuinely varies. Straightforward claims in strict liability states with clear documentation can settle in 3 to 6 months. Claims involving disputed liability, severe injuries requiring ongoing treatment, or litigation can run 18 to 36 months or longer. Waiting until injuries have fully stabilized, what attorneys call 'maximum medical improvement' -- before settling is almost always worth the extra time, because you can't renegotiate once you've signed a release."
 ---
 
-Most articles about dog bite laws spend three paragraphs explaining that "laws vary by state" and then give you a list so vague it's useless. You already knew laws vary by state. What you actually need to know is *which rules apply to your situation*, because the [difference between](/difference-between-bodily-injury-and-personal-injury-claim/) one legal theory and another can be the difference between a full settlement and walking away with nothing.
+Most articles about dog bite laws spend three paragraphs explaining that "laws vary by state" and then give you a list so vague it's useless. You already knew laws vary by state. What you actually need to know is *which rules apply to your situation*, because the difference between one legal theory and another can be the difference between a full settlement and walking away with nothing.
 
 Many legitimate bite claims get denied or drastically reduced because victims don't understand the legal framework governing their state. The adjuster typically knows the rules; the victim often doesn't. That asymmetry creates a real disadvantage.
 
