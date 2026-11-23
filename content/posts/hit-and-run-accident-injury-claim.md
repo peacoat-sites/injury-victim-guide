@@ -66,7 +66,7 @@ The window after a hit-and-run closes fast. Evidence vanishes. Witnesses scatter
 
 **6. Start a paper trail today.** An injury journal where you log pain levels, symptoms, and how the injury affects your daily life is one of the most underrated pieces of evidence in any injury claim. Something like a dedicated [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) keeps everything organized in one place.
 
-For the full walk-through on building an evidence file, see the guide on [how to document injuries after an accident](/how-to-document-injuries-after-accident/).
+For the full walk-through on building an evidence file, see the guide on [how to document injuries after an accident](/how-to-document-injury-for-insurance-claim/).
 
 ---
 

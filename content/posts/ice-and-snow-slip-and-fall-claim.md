@@ -71,7 +71,7 @@ A daily journal of your symptoms, your medical appointments, your limitations, a
 
 This is where a lot of people get confused, and honestly, the answer is "it depends" in ways that actually matter.
 
-**[Commercial property owners](/average-slip-and-fall-settlement-at-grocery-store/)** (grocery stores, restaurants, shopping centers, employers) generally have the highest duty of care. They're expected to have systems in place: regular inspections, ice removal schedules, sand and salt applications. A store that opens at 7 a.m. and hasn't touched its icy entrance by noon has a hard time arguing it acted reasonably.
+**[Commercial property owners](/supermarket-slip-and-fall-lawsuit/)** (grocery stores, restaurants, shopping centers, employers) generally have the highest duty of care. They're expected to have systems in place: regular inspections, ice removal schedules, sand and salt applications. A store that opens at 7 a.m. and hasn't touched its icy entrance by noon has a hard time arguing it acted reasonably.
 
 **Residential property owners** have varying obligations depending on your state and why you were on the property. A social guest (called a **licensee** in legal terms) is often owed a different level of care than a business invitee (someone who came to the property for a commercial purpose). Trespassers have almost no protections, with narrow exceptions.
 

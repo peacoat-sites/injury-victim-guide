@@ -102,7 +102,7 @@ If you've been told your injury is permanent or likely permanent, there are conc
 
 2. **Get an independent medical examination (IME) from your own doctor.** Insurance companies will almost certainly schedule their own IME. Having your own physician's detailed assessment of your impairment rating provides a counterbalance.
 
-3. **Document everything.** Your symptoms, your bad days, the activities you can no longer do. Juries and adjusters both respond to specificity. "I can't carry my 5-year-old upstairs because of the pain" is more powerful than "I have back pain." Learn [how to document injuries after an accident](/how-to-document-injuries-after-accident/) the right way from the start.
+3. **Document everything.** Your symptoms, your bad days, the activities you can no longer do. Juries and adjusters both respond to specificity. "I can't carry my 5-year-old upstairs because of the pain" is more powerful than "I have back pain." Learn [how to document injuries after an accident](/how-to-document-injury-for-insurance-claim/) the right way from the start.
 
 4. **Quantify your lost earning capacity.** Gather tax returns, pay stubs, contracts, and anything showing your pre-injury income and career trajectory. Ask about vocational rehabilitation experts and economic experts.
 

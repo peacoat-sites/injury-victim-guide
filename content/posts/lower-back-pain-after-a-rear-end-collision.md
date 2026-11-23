@@ -46,7 +46,7 @@ The three injuries that show up most often in the claims I used to handle:
 
 **Facet joint injuries.** These small joints on the back of each vertebra can get inflamed or damaged. Facet pain tends to be worse when you extend your back (leaning backward) and often refers pain into the buttocks or upper thighs. It's frequently missed on initial imaging.
 
-One thing I didn't fully appreciate until I started working with [injury victims](/georgia-tort-reform-is-now-live-what-injury-victims-must-know/) directly: a lot of people have pre-existing degenerative changes in their lumbar spine that were completely asymptomatic before the crash. The collision doesn't cause those changes, but it can absolutely aggravate them and turn a silent condition into a painful, disabling one. That's still a valid injury under the law. Don't let anyone tell you differently.
+One thing I didn't fully appreciate until I started working with [injury victims](/how-georgias-tort-reform-law-is-changing-injury-claims-right-now/) directly: a lot of people have pre-existing degenerative changes in their lumbar spine that were completely asymptomatic before the crash. The collision doesn't cause those changes, but it can absolutely aggravate them and turn a silent condition into a painful, disabling one. That's still a valid injury under the law. Don't let anyone tell you differently.
 
 ## The Timeline That Will Shape Your Claim
 
@@ -64,7 +64,7 @@ That chart tells a story I watched play out over and over from the adjuster's si
 
 ## What the Medical Workup Looks Like
 
-Most initial evaluations start with a physical exam and X-rays. X-rays don't show [soft tissue](/average-payout-for-soft-tissue-injury-car-accident/), so they're going to miss disc herniations and ligament tears entirely. This is normal. If your symptoms persist or include leg pain, numbness, or weakness, an MRI is the study that actually shows what's going on.
+Most initial evaluations start with a physical exam and X-rays. X-rays don't show [soft tissue](/soft-tissue-injury-settlement-amounts/), so they're going to miss disc herniations and ligament tears entirely. This is normal. If your symptoms persist or include leg pain, numbness, or weakness, an MRI is the study that actually shows what's going on.
 
 The typical diagnostic pathway, current as of July 2026, looks something like this:
 

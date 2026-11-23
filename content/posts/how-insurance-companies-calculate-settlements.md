@@ -40,7 +40,7 @@ Every settlement calculation starts with two buckets of damages: economic damage
 - Property damage
 - Out-of-pocket costs like transportation to doctor appointments, medication, or medical equipment
 
-**Non-economic damages** are messier. This category covers [pain and suffering](/how-is-pain-and-suffering-calculated-in-a-settlement/), emotional distress, loss of enjoyment of life, and in some cases, loss of consortium (that's the legal term for how your injury impacts your relationship with a spouse). You can't hand someone a receipt for pain. So how do insurance companies put a dollar figure on it? That's where two specific methods come in.
+**Non-economic damages** are messier. This category covers [pain and suffering](/pain-and-suffering-calculation-formula/), emotional distress, loss of enjoyment of life, and in some cases, loss of consortium (that's the legal term for how your injury impacts your relationship with a spouse). You can't hand someone a receipt for pain. So how do insurance companies put a dollar figure on it? That's where two specific methods come in.
 
 ### The Multiplier Method
 

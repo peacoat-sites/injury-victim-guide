@@ -25,7 +25,7 @@ faqs:
     a: "If you're still in pain and your primary care physician isn't referring you out, requesting a referral to a pain management specialist or physiatrist is reasonable and often strategically important. Specialist records carry more weight in claim negotiations, and specialists are better positioned to document functional limitations and provide a formal prognosis."
 ---
 
-Chronic pain changes everything about an injury claim. It turns what might have been a straightforward settlement into a long, complicated negotiation, and if you don't understand why, you risk accepting money that runs out long before your pain does. The short answer: chronic pain claims are worth more than acute [injury claims](/social-media-addiction-injury-claims-what-victims-need-to-know/), but they're also much harder to prove and much more likely to be disputed by an insurer.
+Chronic pain changes everything about an injury claim. It turns what might have been a straightforward settlement into a long, complicated negotiation, and if you don't understand why, you risk accepting money that runs out long before your pain does. The short answer: chronic pain claims are worth more than acute [injury claims](/social-media-addiction-personal-injury-claims-explained/), but they're also much harder to prove and much more likely to be disputed by an insurer.
 
 The core problem is that chronic pain is invisible. An X-ray can confirm a broken bone. [Soft tissue](/soft-tissue-injury-settlement-amounts/) damage that persists for years, nerve pain, fibromyalgia triggered by trauma, or the kind of back pain that never quite resolves, these don't always show up cleanly on imaging. Insurers know this, and their adjusters are trained to treat "subjective" complaints with skepticism. That doesn't mean your claim is weak. It means you have to build it differently.
 
@@ -37,7 +37,7 @@ The core problem is that chronic pain is invisible. An X-ray can confirm a broke
 
 An injury is considered chronic when pain or impairment persists beyond the normal healing window, usually defined as three to six months past the initial injury. At that point, your claim shifts. You're no longer just seeking reimbursement for a past event; you're documenting a condition that will affect your life going forward. That changes what damages are available to you and how they're calculated.
 
-Legally, [personal injury claims](/what-is-the-statute-of-limitations-for-personal-injury-claims/) allow for two broad categories of damages. Economic damages cover the measurable losses: medical bills (past and future), lost wages, and costs like home modifications or ongoing physical therapy. Non-economic damages cover pain and suffering, loss of enjoyment of life, and emotional distress. With chronic pain, the non-economic damages often dwarf the economic ones, which is both why the claims can be substantial and why they attract so much insurer pushback.
+Legally, [personal injury claims](/personal-injury-statute-of-limitations-by-state/) allow for two broad categories of damages. Economic damages cover the measurable losses: medical bills (past and future), lost wages, and costs like home modifications or ongoing physical therapy. Non-economic damages cover pain and suffering, loss of enjoyment of life, and emotional distress. With chronic pain, the non-economic damages often dwarf the economic ones, which is both why the claims can be substantial and why they attract so much insurer pushback.
 
 ## How Adjusters Actually Value Chronic Pain Claims
 

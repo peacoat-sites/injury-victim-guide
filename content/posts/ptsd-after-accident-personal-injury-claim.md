@@ -25,7 +25,7 @@ faqs:
     a: "You don't legally need one, but psychological injury claims are among the most contested in personal injury law. Without representation, you're negotiating alone against adjusters who handle these claims daily. Most personal injury attorneys take these cases on contingency, meaning you pay nothing unless you recover. Given how aggressively insurers dispute PTSD, the practical answer is: yes, get one."
 ---
 
-Post-traumatic stress disorder is a legitimate, compensable injury in a [personal injury claim](/how-long-does-a-personal-injury-claim-take-to-settle/), and insurance companies know it. That's the first thing to understand. The second is that PTSD claims are routinely underpaid or denied not because they lack legal merit, but because claimants don't know how to document them. This article is about fixing that.
+Post-traumatic stress disorder is a legitimate, compensable injury in a [personal injury claim](/how-long-do-personal-injury-cases-take/), and insurance companies know it. That's the first thing to understand. The second is that PTSD claims are routinely underpaid or denied not because they lack legal merit, but because claimants don't know how to document them. This article is about fixing that.
 
 A serious accident doesn't just break bones or tear ligaments. For many people, the psychological damage outlasts the physical damage by years. Flashbacks, hypervigilance, sleep disruption, panic attacks triggered by driving, the smell of gasoline, the sound of brakes. These aren't character weaknesses. They're recognized clinical injuries, and under tort law in every U.S. state, they're recoverable damages.
 

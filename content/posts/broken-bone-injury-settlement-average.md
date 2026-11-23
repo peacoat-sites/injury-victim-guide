@@ -51,7 +51,7 @@ Let me walk you through what actually moves the needle on a broken bone claim. T
 
 **Lost income.** A broken leg that costs a construction worker six months of income is a completely different claim than the same injury for someone who works from home and lost two weeks. Both are valid. They're just worth different amounts. Document everything: pay stubs, employer letters, tax returns, contracts.
 
-**Pain and suffering.** This is the component people are most confused by. Insurance companies typically calculate [pain and suffering](/how-is-pain-and-suffering-calculated-in-a-settlement/) using one of two methods: a multiplier (taking your actual economic damages and multiplying by a number, often 1.5 to 5 depending on severity) or a per diem approach (assigning a daily dollar value to your suffering). Neither method is law. They're negotiating starting points.
+**Pain and suffering.** This is the component people are most confused by. Insurance companies typically calculate [pain and suffering](/pain-and-suffering-calculation-formula/) using one of two methods: a multiplier (taking your actual economic damages and multiplying by a number, often 1.5 to 5 depending on severity) or a per diem approach (assigning a daily dollar value to your suffering). Neither method is law. They're negotiating starting points.
 
 **Liability and comparative fault.** If you were partly responsible for your own injury, most states will reduce your compensation proportionally. In a few states, being even slightly at fault can bar recovery entirely. Knowing your state's rules matters.
 

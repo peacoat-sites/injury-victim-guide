@@ -100,7 +100,7 @@ You don't have to be an expert in personal injury law to protect yourself here. 
 
 ---
 
-*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed [personal injury attorney](/how-to-negotiate-a-higher-injury-settlement-with-insurance/) in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
+*This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed [personal injury attorney](/how-to-negotiate-higher-personal-injury-settlement/) in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
 ---
 

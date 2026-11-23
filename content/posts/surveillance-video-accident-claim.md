@@ -37,7 +37,7 @@ Most businesses overwrite their surveillance recordings on a rolling cycle. Depe
 
 Security systems today are almost all digital, running on DVR or NVR setups (digital video recorder or network video recorder). These systems record continuously and automatically overwrite older footage when storage fills up. A busy gas station might overwrite footage in 48 hours. A large retail chain might keep 30 to 90 days. Municipal traffic cameras vary by city contract. There's no federal standard requiring any private business to keep footage for any set period.
 
-The practical result: if you slip and fall in a [grocery store](/average-slip-and-fall-settlement-at-grocery-store/) on a Monday and don't send a preservation request until the following Friday, there's a real chance the footage is already gone. This isn't necessarily sinister. It's just how the technology works. But it does mean that delay costs you in a way that nothing else in your case will.
+The practical result: if you slip and fall in a [grocery store](/supermarket-slip-and-fall-lawsuit/) on a Monday and don't send a preservation request until the following Friday, there's a real chance the footage is already gone. This isn't necessarily sinister. It's just how the technology works. But it does mean that delay costs you in a way that nothing else in your case will.
 
 One thing most people don't know is that the business's [insurance company](/insurance-company-delay-tactics-injury-claim/) may already be looking for that footage. Adjusters are trained to investigate claims quickly, and securing video evidence is often their first move. They're not doing it as a favor to you.
 

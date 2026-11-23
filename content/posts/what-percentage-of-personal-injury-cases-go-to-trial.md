@@ -37,7 +37,7 @@ Insurance companies are not in the business of gambling. They have actuaries and
 
 On the plaintiff's side, the math looks similar. Trials are expensive. Your attorney fronts costs for depositions, expert witnesses, court reporters, medical record retrieval, and trial exhibits. A car accident trial with a spine injury can easily run $50,000-$100,000 in litigation costs before a verdict. Those costs get reimbursed from any award you receive, but if you lose, they don't disappear, they come out of your pocket, or your attorney eats them depending on your fee agreement. Most injured people can't roll the dice like that.
 
-And then there's time. In many metropolitan jurisdictions, a case filed today might not get a trial date for 2-3 years. Meanwhile you've got mounting medical bills, lost income, and a life that's on hold. A [settlement you can use today](/how-long-to-settle-personal-injury-case/) often beats a potentially larger verdict you might get in 2027.
+And then there's time. In many metropolitan jurisdictions, a case filed today might not get a trial date for 2-3 years. Meanwhile you've got mounting medical bills, lost income, and a life that's on hold. A [settlement you can use today](/how-long-do-personal-injury-cases-take/) often beats a potentially larger verdict you might get in 2027.
 
 None of this means settlement is always the right answer. It means the system is structurally designed to push cases toward resolution.
 

@@ -77,7 +77,7 @@ Notify the relevant insurance company. In a car accident, that's usually your ow
 **Step 3: Gather and preserve evidence.**
 Photos, witness names and contact information, surveillance footage requests (these get overwritten fast), police or incident reports. If you don't have it in the first 48 hours, you may never get it.
 
-**Step 4: [Track your losses](/how-to-document-injuries-after-accident/).**
+**Step 4: [Track your losses](/how-to-document-injury-for-insurance-claim/).**
 Keep a daily journal. Write down pain levels, what activities you couldn't do, how your sleep was affected. This documentation becomes the backbone of your non-economic damages claim. Some people find injury documentation journals or medical records organizers helpful for staying organized. (Full disclosure: this site may earn a small commission if you purchase through links on this page.)
 
 **Step 5: Reach maximum medical improvement (MMI).**

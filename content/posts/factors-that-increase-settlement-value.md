@@ -62,7 +62,7 @@ The specific items that strengthen a file include:
 - **Objective diagnostic imaging**: X-rays, MRIs, CT scans, EMG tests. Get them. Keep copies.
 - **A personal injury journal**: A daily log of your symptoms, what you couldn't do, how you slept, what activities you missed. Dated entries create a timeline that's hard to attack.
 
-You can learn more about building a strong file in this guide on [how to document injuries after an accident](/how-to-document-injuries-after-accident/). And if you want a physical tool to stay organized, an injury and medical records organizer like this one on Amazon can help you track appointments, symptoms, and correspondence in one place. (The site may earn a small commission on purchases.)
+You can learn more about building a strong file in this guide on [how to document injuries after an accident](/how-to-document-injury-for-insurance-claim/). And if you want a physical tool to stay organized, an injury and medical records organizer like this one on Amazon can help you track appointments, symptoms, and correspondence in one place. (The site may earn a small commission on purchases.)
 
 ---
 
@@ -128,7 +128,7 @@ Run your own situation against this table. Where are you strong? Where are the g
 
 ---
 
-Every injury claim is different, and the factors above don't all carry equal weight in every situation. What matters is understanding which levers exist so you can take deliberate steps to strengthen your position. If you're trying to get a baseline sense of where your case might fall, reviewing [average personal injury settlement amounts](/average-personal-injury-settlement-amounts/) can give you useful context, and speaking with a personal injury attorney for a free consultation will give you the specific picture your situation deserves. Knowledge is the first line of defense against a lowball offer.
+Every injury claim is different, and the factors above don't all carry equal weight in every situation. What matters is understanding which levers exist so you can take deliberate steps to strengthen your position. If you're trying to get a baseline sense of where your case might fall, reviewing [average personal injury settlement amounts](/how-much-is-my-personal-injury-case-worth/) can give you useful context, and speaking with a personal injury attorney for a free consultation will give you the specific picture your situation deserves. Knowledge is the first line of defense against a lowball offer.
 
 ---
 

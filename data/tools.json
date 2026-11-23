@@ -10,8 +10,8 @@
     "desc": "See how shared fault could reduce an injury settlement in your state."
   },
   {
-    "label": "Do Have Case",
-    "url": "/do-i-have-a-personal-injury-case/",
+    "label": "Do I Have a Case?",
+    "url": "/do-i-have-a-case/",
     "icon": "🧮",
     "match": [
       "case"

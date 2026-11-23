@@ -60,7 +60,7 @@ Every case is different, and I can't stress that enough. But there are concrete 
 
 **Factors that favor settling:**
 
-- Your injuries are fully diagnosed and you've reached what doctors call "[maximum medical improvement](/how-to-document-injuries-after-accident/)," meaning your condition has stabilized and future costs are clearer.
+- Your injuries are fully diagnosed and you've reached what doctors call "[maximum medical improvement](/how-to-document-injury-for-insurance-claim/)," meaning your condition has stabilized and future costs are clearer.
 - The offer reasonably covers your medical expenses, lost income, and non-economic damages like pain and suffering.
 - Liability is genuinely disputed, which creates trial risk.
 - The defendant's insurance policy limits are low, and they don't have significant personal assets above those limits.

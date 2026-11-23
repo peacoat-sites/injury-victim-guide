@@ -6,7 +6,7 @@ date: 2026-06-10
 author: "Rachel Thompson"
 author_slug: "rachel-thompson"
 description: "Use our free personal injury settlement range estimator to get a rough idea of what your case might be worth. Understand economic damages, pain and suffering multipliers, and how comparative negligence affects your recovery."
-categories: ["Settlement Value"]
+categories: ["Settlement Values"]
 image: ""
 faqs:
   - q: "How is a personal injury settlement calculated?"

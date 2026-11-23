@@ -55,7 +55,7 @@ If your pain is concentrated low in the abdomen and you were restrained by a lap
 
 Emergency rooms are set up to find immediately life-threatening injuries. If your vitals are stable and you're not in acute distress, you're likely to get an X-ray and a brief physical exam and be sent home with instructions to follow up. That's a reasonable triage protocol. It's also why delayed abdominal injuries slip through.
 
-CT scans of the abdomen and pelvis with contrast are the standard imaging for identifying solid organ [injuries after](/how-to-document-injuries-after-accident/) trauma. If you weren't given one in the ER and you're now having symptoms, ask your doctor for one explicitly. Don't accept "it's probably muscle strain" as a final answer until imaging has been done.
+CT scans of the abdomen and pelvis with contrast are the standard imaging for identifying solid organ [injuries after](/how-to-document-injury-for-insurance-claim/) trauma. If you weren't given one in the ER and you're now having symptoms, ask your doctor for one explicitly. Don't accept "it's probably muscle strain" as a final answer until imaging has been done.
 
 A common misconception is that if something serious was wrong, you'd know it right away. That's not true for the abdomen. The peritoneum (the lining of the abdominal cavity) has a delayed inflammatory response, which is part of why pain intensifies over hours or days rather than immediately.
 

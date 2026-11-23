@@ -71,7 +71,7 @@ What you *can* ask, and what a good attorney will answer thoughtfully:
 
 Personal injury attorneys almost universally work on contingency. That means they take a percentage of your settlement or verdict instead of billing you hourly. No recovery, no fee. It sounds simple. It isn't.
 
-Ask: "What is your [contingency fee percentage](/what-percentage-do-personal-injury-lawyers-take-2026/), and does it change if the case goes to trial?"
+Ask: "What is your [contingency fee percentage](/how-much-does-personal-injury-lawyer-cost/), and does it change if the case goes to trial?"
 
 Standard contingency fees run 33% pre-lawsuit and often jump to 40% or more if a lawsuit is filed and the case goes to trial. On a $300,000 settlement, the difference between 33% and 40% is $21,000 out of your pocket.
 

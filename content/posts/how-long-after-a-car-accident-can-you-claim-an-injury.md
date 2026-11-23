@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the deadline for filing injury claims after a car accident, state limits, and why acting quickly protects your case."
 image: "/img/heroes/35784044.jpg"
-categories: ["State Laws and Deadlines"]
+categories: ["Car Accidents"]
 tags: ["long", "after", "accident", "claim", "injury"]
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"
@@ -30,7 +30,7 @@ Three years. That's how long a woman I'll call Dana had to file her [injury clai
 
 Please don't be Dana.
 
-The question of how long you have to claim an injury after a [car accident](/car-accident-injury-claim-denied-what-to-do/) is one I fielded constantly as an adjuster, and now I hear it from the other side of the table. The honest answer is: it depends on where you live, what kind of claim you're filing, and a handful of timing rules that most people have completely wrong. I'm going to untangle all of it.
+The question of how long you have to claim an injury after a [car accident](/why-insurance-company-denied-my-injury-claim/) is one I fielded constantly as an adjuster, and now I hear it from the other side of the table. The honest answer is: it depends on where you live, what kind of claim you're filing, and a handful of timing rules that most people have completely wrong. I'm going to untangle all of it.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most states give you 2-3 years from the accident date to file a personal injury lawsuit, but deadlines vary from 1-6 years.</li><li style="margin:5px 0">Your insurance claim deadline is often much shorter, sometimes just 30-90 days, and is set by your policy, not state law.</li><li style="margin:5px 0">Injuries that appear weeks or months later (like herniated discs) are still claimable, but documentation timing matters enormously.</li><li style="margin:5px 0">Missing your state's statute of limitations almost always kills your case permanently, with very few exceptions.</li><li style="margin:5px 0">Reporting the accident to your insurer immediately is always the right call, even if you feel fine at the scene.</li></ul></div>
 

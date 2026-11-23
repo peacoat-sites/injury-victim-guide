@@ -52,7 +52,7 @@ Start with medical care, even if you feel "okay." Adrenaline masks pain. Whiplas
 
 Go to the ER, urgent care, or your primary care physician as soon as symptoms appear. Be honest and thorough with the doctor. Don't downplay. If your back hurts, say so. If you have a headache, say so. Everything you describe gets written into your medical record, and that record becomes the foundation of your claim.
 
-While you're recovering, document everything. Photograph your injuries daily, including bruising that often doesn't fully surface until day two or three. Keep a pain journal. Write down what activities you can't do, how you slept, whether you missed work. A simple notebook works. So does a dedicated app. If you want something more structured, physical [injury documentation journals and medical records organizers on Amazon](https://www.amazon.com/s?k=injury+documentation+journal) can help you stay organized from day one (note: this site may earn a commission on qualifying purchases). Our guide on [how to document injuries after an accident](/how-to-document-injuries-after-accident/) walks through exactly what to capture and when.
+While you're recovering, document everything. Photograph your injuries daily, including bruising that often doesn't fully surface until day two or three. Keep a pain journal. Write down what activities you can't do, how you slept, whether you missed work. A simple notebook works. So does a dedicated app. If you want something more structured, physical [injury documentation journals and medical records organizers on Amazon](https://www.amazon.com/s?k=injury+documentation+journal) can help you stay organized from day one (note: this site may earn a commission on qualifying purchases). Our guide on [how to document injuries after an accident](/how-to-document-injury-for-insurance-claim/) walks through exactly what to capture and when.
 
 ---
 
@@ -82,7 +82,7 @@ A car accident injury claim has two categories of damages: economic and non-econ
 
 **Non-economic damages** cover pain and suffering, emotional distress, loss of enjoyment of life, and the disruption the injury causes to your daily existence. These don't come with a receipt, but they're real and compensable.
 
-How much is your specific case worth? That depends on factors like injury severity, liability clarity, your state's laws, available insurance coverage, and how well you've documented everything. Our piece on [factors that increase settlement value](/factors-that-increase-settlement-value/) breaks down the variables in detail. And if you want a broader sense of ranges, the overview of [average personal injury settlement amounts](/average-personal-injury-settlement-amounts/) provides helpful context, though every case is different and no outcome is guaranteed.
+How much is your specific case worth? That depends on factors like injury severity, liability clarity, your state's laws, available insurance coverage, and how well you've documented everything. Our piece on [factors that increase settlement value](/factors-that-increase-settlement-value/) breaks down the variables in detail. And if you want a broader sense of ranges, the overview of [average personal injury settlement amounts](/how-much-is-my-personal-injury-case-worth/) provides helpful context, though every case is different and no outcome is guaranteed.
 
 One practical thing: keep every receipt. Every co-pay, every prescription, every Uber ride to the physical therapist. Economic damages are easier to recover when they're documented down to the dollar.
 

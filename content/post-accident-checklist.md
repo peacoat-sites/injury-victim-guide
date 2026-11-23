@@ -2,7 +2,7 @@
 title: "Post-Accident Evidence Checklist: What to Do After a Car Accident"
 date: 2026-06-10
 description: "A comprehensive, printable checklist of evidence to gather and steps to take after a car accident, organized by time, with localStorage so you can save your progress."
-categories: ["After an Accident"]
+categories: ["Evidence and Documentation"]
 author: "Lisa Anderson"
 author_slug: "lisa-anderson"
 slug: "post-accident-checklist"

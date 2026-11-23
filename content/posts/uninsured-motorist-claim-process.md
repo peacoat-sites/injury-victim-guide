@@ -55,7 +55,7 @@ The steps you take in the first three days after an accident involving an uninsu
 
 **Step 5: Start documenting everything.** Medical records, receipts, prescriptions, time missed from work. Create a dedicated folder, physical or digital, for every document. An injury documentation journal or medical records organizer can make it much easier to stay organized when you're also recovering.
 
-The article on [how to document injuries after an accident](/how-to-document-injuries-after-accident/) covers this in detail and is worth reading before your first adjuster call.
+The article on [how to document injuries after an accident](/how-to-document-injury-for-insurance-claim/) covers this in detail and is worth reading before your first adjuster call.
 
 ---
 

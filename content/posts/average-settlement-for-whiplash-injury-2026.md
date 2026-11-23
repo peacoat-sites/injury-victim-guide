@@ -51,7 +51,7 @@ What most people don't realize is that "whiplash" isn't a precise medical diagno
 
 Here's where I'll give you something more useful than a dollar range.
 
-**The severity and duration of your treatment.** Insurance companies calculate something called a "multiplier," typically between 1.5 and 5, applied to your medical bills (your "specials") to arrive at a [pain and suffering estimate](/how-is-pain-and-suffering-calculated-in-a-settlement/). The longer you treat, and the more specialized your treatment, the higher the multiplier tends to go. Physical therapy for twelve weeks reads differently than one urgent care visit and three ibuprofen.
+**The severity and duration of your treatment.** Insurance companies calculate something called a "multiplier," typically between 1.5 and 5, applied to your medical bills (your "specials") to arrive at a [pain and suffering estimate](/pain-and-suffering-calculation-formula/). The longer you treat, and the more specialized your treatment, the higher the multiplier tends to go. Physical therapy for twelve weeks reads differently than one urgent care visit and three ibuprofen.
 
 **Whether you have documented wage loss.** Missed time from work needs proof. Pay stubs, employer letters, tax returns for self-employed people. Without documentation, adjusters don't give wage loss claims much weight. I can tell you from experience they don't.
 

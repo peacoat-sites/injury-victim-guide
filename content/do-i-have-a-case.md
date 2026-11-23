@@ -1,9 +1,9 @@
 ---
 title: "Do I Have a Personal Injury Case? Free Self-Evaluation"
 date: 2026-06-10
-slug: "do-i-have-a-personal-injury-case"
+slug: "do-i-have-a-case"
 description: "Answer five questions to find out whether your situation shows strong, moderate, or weak indicators for a personal injury claim, and what to do next."
-categories: ["After an Accident"]
+categories: ["Personal Injury Basics"]
 author: "Maya Rivera"
 author_slug: "maya-rivera"
 faqs:

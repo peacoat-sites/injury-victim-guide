@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to request and obtain a copy of your accident police report. Find out where to request it, required documents, and typical processing times."
 image: "/img/heroes/6069508.jpg"
-categories: ["After the Accident"]
+categories: ["Evidence and Documentation"]
 tags: ["copy", "your", "accident", "police", "report"]
 author: "Jennifer Harris"
 author_slug: "jennifer-harris"

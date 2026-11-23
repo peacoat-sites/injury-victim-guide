@@ -32,7 +32,7 @@ This guide shows evidence-based recovery timelines for the 8 most common injurie
 
 ## The Four Phases
 
-**Acute (Days 0-7):** Inflammation is protection, not punishment. [RICE protocol](/average-payout-for-soft-tissue-injury-car-accident/) (Rest, Ice, Compression, Elevation) reduces swelling.
+**Acute (Days 0-7):** Inflammation is protection, not punishment. [RICE protocol](/soft-tissue-injury-settlement-amounts/) (Rest, Ice, Compression, Elevation) reduces swelling.
 
 **Subacute (Week 2-6):** Swelling decreases. Gentle movement begins. Physical therapy starts.
 

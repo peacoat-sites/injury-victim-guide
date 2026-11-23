@@ -67,7 +67,7 @@ Tell your doctor specifically that you were in a car accident, what your symptom
 
 Follow through on every treatment your doctor recommends. Missing physical therapy appointments or skipping follow-up visits creates gaps in your medical record that adjusters use to argue you weren't really that injured.
 
-Keep a detailed injury journal. Write down your pain levels, your limitations, how you slept, what activities you couldn't do. This personal documentation becomes powerful evidence of how the injury affected your daily life. A good [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) can keep all of this organized in one place (disclosure: this site may earn a small commission on Amazon purchases). If you want a more structured approach to managing your records, check out these tips on [how to document injuries after an accident](/how-to-document-injuries-after-accident/).
+Keep a detailed injury journal. Write down your pain levels, your limitations, how you slept, what activities you couldn't do. This personal documentation becomes powerful evidence of how the injury affected your daily life. A good [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) can keep all of this organized in one place (disclosure: this site may earn a small commission on Amazon purchases). If you want a more structured approach to managing your records, check out these tips on [how to document injuries after an accident](/how-to-document-injury-for-insurance-claim/).
 
 ---
 

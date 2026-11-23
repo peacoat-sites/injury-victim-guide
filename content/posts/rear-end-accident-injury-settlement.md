@@ -53,7 +53,7 @@ Settlement value in any personal injury claim comes down to damages, the legal t
 - Property damage to your vehicle
 
 **Non-economic damages** are harder to quantify but often larger:
-- [Pain and suffering](/car-accident-pain-and-suffering-claim/)
+- [Pain and suffering](/pain-and-suffering-calculation-formula/)
 - Emotional distress
 - Loss of enjoyment of life
 - Loss of consortium (impact on your relationship with a spouse)

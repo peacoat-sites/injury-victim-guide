@@ -48,7 +48,7 @@ Once the signed release is returned to the insurer, the clock starts on payment.
 That check doesn't go directly to you. It goes to your attorney's trust account (sometimes called an IOLTA account, which stands for Interest on Lawyers' Trust Accounts). This is required by state bar rules, and it protects everyone. From the trust account, your attorney works through the following:
 
 1. Satisfying any outstanding liens (more on this below)
-2. Deducting their [contingency fee](/personal-injury-lawyer-contingency-fee-explained/), which the American Bar Association's guidance on fee agreements describes as typically ranging from 25% to 40% depending on case stage and complexity
+2. Deducting their [contingency fee](/how-much-does-personal-injury-lawyer-cost/), which the American Bar Association's guidance on fee agreements describes as typically ranging from 25% to 40% depending on case stage and complexity
 3. Deducting case costs (filing fees, expert witness fees, medical records, deposition transcripts, etc.)
 4. Issuing your disbursement check
 

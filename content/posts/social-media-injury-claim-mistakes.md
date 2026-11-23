@@ -54,7 +54,7 @@ Let me be direct about what actually damages cases, because the generic "be care
 
 **Accepting new friend requests during the claim period.** This one catches people off guard. Social media tactics used by defense investigators sometimes include sending friend requests from fake accounts to gain access to private content. It's legal gray territory depending on jurisdiction, but it happens. If someone you don't recognize adds you during an active claim, decline.
 
-**Deleting posts after you've been told to [preserve evidence](/personal-injury-claim-evidence-checklist/).** Here's something most claimants don't know: if you delete social media content after litigation begins or after you reasonably anticipate it, you can be sanctioned by the court for spoliation of evidence. That means the very act of trying to clean up your digital trail can hurt you more than the original post would have. Do not delete anything without talking to your attorney first.
+**Deleting posts after you've been told to [preserve evidence](/what-evidence-do-i-need-for-a-personal-injury-claim/).** Here's something most claimants don't know: if you delete social media content after litigation begins or after you reasonably anticipate it, you can be sanctioned by the court for spoliation of evidence. That means the very act of trying to clean up your digital trail can hurt you more than the original post would have. Do not delete anything without talking to your attorney first.
 
 ---
 

@@ -42,7 +42,7 @@ I spent 12 years adjusting claims for insurance companies before I switched side
 
 The biology of your neck works against you in a legal and financial sense. The cervical spine, the seven vertebrae running from the base of your skull down to your upper back, is packed with nerves, discs, and soft tissue. A collision doesn't need to be catastrophic to cause real damage there. Studies have documented cervical injury at impact speeds as low as 5 to 10 mph.
 
-Here's the problem: [soft tissue injuries](/average-payout-for-soft-tissue-injury-car-accident/) are largely invisible on standard X-rays. An adjuster reviewing your file sees a normal skeletal X-ray and mentally discounts your claim. This is absolutely standard practice. I did it myself for years, and I'm not proud of it.
+Here's the problem: [soft tissue injuries](/soft-tissue-injury-settlement-amounts/) are largely invisible on standard X-rays. An adjuster reviewing your file sees a normal skeletal X-ray and mentally discounts your claim. This is absolutely standard practice. I did it myself for years, and I'm not proud of it.
 
 Delayed onset is the other complicating factor. Whiplash, herniated discs, and cervical strain can all take 24 to 72 hours to fully declare themselves. If you told the responding officer "I'm fine," that statement will appear in the police report and an insurance company will absolutely use it against you. This is why the advice to seek medical attention immediately, before you feel "bad enough," is not paranoia. It's strategic self-protection.
 
@@ -66,7 +66,7 @@ Here are the factors that carry the most weight:
 
 **Lost wages.** If your neck injury kept you out of work, those lost earnings are part of your damages. Document every day you missed. Get a letter from your employer. Self-employed? You'll need tax records and client records to establish your income loss.
 
-**Pain and suffering.** This is where things get subjective. Insurers often use multipliers, typically between 1.5 and 5 times your medical expenses, to calculate [pain and suffering](/how-is-pain-and-suffering-calculated-in-a-settlement/), though some use daily rate calculations instead. Neither method is legally mandated; they're just tools. A more severe, longer-lasting injury justifies a higher multiplier.
+**Pain and suffering.** This is where things get subjective. Insurers often use multipliers, typically between 1.5 and 5 times your medical expenses, to calculate [pain and suffering](/pain-and-suffering-calculation-formula/), though some use daily rate calculations instead. Neither method is legally mandated; they're just tools. A more severe, longer-lasting injury justifies a higher multiplier.
 
 **Liability clarity.** If the other driver was 100 percent at fault, you're negotiating from strength. If there's any argument that you contributed to the accident, comparative negligence rules in your state could reduce your recovery. Some states bar recovery entirely if you're more than 50 percent at fault.
 

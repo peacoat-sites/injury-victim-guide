@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn when to seek medical care after a car accident. Many injuries appear within 24-72 hours. Know the warning signs that require immediate attention."
 image: "/img/heroes/5458450.jpg"
-categories: ["Injury Recovery"]
+categories: ["Injury Symptoms"]
 tags: ["when", "doctor", "after", "accident"]
 author: "Maya Rivera"
 author_slug: "maya-rivera"
@@ -74,7 +74,7 @@ It is worth examining these injuries carefully, because this is where people get
 
 It is worth being direct here about how insurers handle these situations, because the perspective from inside the claims process is instructive.
 
-When an adjuster opens a file and sees a gap between the accident date and the first medical visit, they do not give the claimant the benefit of the doubt. They do not think "oh, maybe the adrenaline masked the pain." They think "gap in treatment" and they annotate the file. A gap of more than 7 days is often enough to trigger a request for an Independent Medical Examination (IME), which is the [insurance company](/insurance-company-settlement-too-low-what-to-do/)'s way of getting their own doctor to review your case. That doctor is hired by the insurer. Guess what direction their opinions tend to go.
+When an adjuster opens a file and sees a gap between the accident date and the first medical visit, they do not give the claimant the benefit of the doubt. They do not think "oh, maybe the adrenaline masked the pain." They think "gap in treatment" and they annotate the file. A gap of more than 7 days is often enough to trigger a request for an Independent Medical Examination (IME), which is the [insurance company](/lowball-settlement-offer-what-to-do/)'s way of getting their own doctor to review your case. That doctor is hired by the insurer. Guess what direction their opinions tend to go.
 
 A gap of 14 days or more makes it very hard for any attorney to connect your injury to the accident as a matter of evidence. It's not impossible, but it costs money, time, and often a medical expert witness to bridge. All of that is avoidable if you go to urgent care within 72 hours.
 

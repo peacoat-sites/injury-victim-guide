@@ -35,7 +35,7 @@ Think of it like a home renovation. A bathroom refresh takes a weekend. A full g
 
 The factors that genuinely control timing include:
 
-- **How serious your injuries are.** This one matters more than anything else. Settling before you've reached "[maximum medical improvement](/how-to-document-injuries-after-accident/)" (MMI) is one of the costliest mistakes an injury victim can make. MMI is the point at which your doctor says your condition has stabilized, whether you're fully recovered or not. Until you hit that point, nobody, not you, not a lawyer, not an adjuster, knows the true value of your claim. Rushing to settle before MMI is like selling a house before knowing if the foundation needs work.
+- **How serious your injuries are.** This one matters more than anything else. Settling before you've reached "[maximum medical improvement](/how-to-document-injury-for-insurance-claim/)" (MMI) is one of the costliest mistakes an injury victim can make. MMI is the point at which your doctor says your condition has stabilized, whether you're fully recovered or not. Until you hit that point, nobody, not you, not a lawyer, not an adjuster, knows the true value of your claim. Rushing to settle before MMI is like selling a house before knowing if the foundation needs work.
 - **Whether liability is clear.** If you were rear-ended at a red light and there's a police report confirming it, liability is usually straightforward. If a slip-and-fall happened at a poorly lit property and the owner is claiming you were careless too, expect a fight.
 - **How cooperative the insurance company is.** Some carriers process claims efficiently and make reasonable offers. Others are trained to delay, dispute, and wear you down. I spent over a decade on the adjusting side, and I can tell you: slow responses aren't always accidents.
 - **Whether a lawsuit is filed.** Pre-litigation settlements can happen in weeks or months. Once a lawsuit is filed, you're stepping into a formal legal process with its own calendar, and that calendar rarely moves fast.
@@ -86,7 +86,7 @@ These are ranges, not guarantees. Your case could move faster or slower dependin
 
 ## The Statute of Limitations: Your Hard Deadline
 
-While you're weighing options and waiting on the insurance company, there's a legal clock ticking in the background. Every state sets a [statute of limitations](/what-is-the-statute-of-limitations-for-personal-injury-claims/) for personal injury claims, the deadline by which you must file a lawsuit or permanently lose your right to do so.
+While you're weighing options and waiting on the insurance company, there's a legal clock ticking in the background. Every state sets a [statute of limitations](/personal-injury-statute-of-limitations-by-state/) for personal injury claims, the deadline by which you must file a lawsuit or permanently lose your right to do so.
 
 Most states give you two to three years from the date of injury. But exceptions exist. Some states allow only one year for certain claims. Claims against government entities often require a notice of claim within 90 to 180 days of the injury. Child victims may have extended timelines. And in some cases involving delayed injury discovery (like exposure to toxic substances), the clock starts when you discovered the injury, not when it happened.
 

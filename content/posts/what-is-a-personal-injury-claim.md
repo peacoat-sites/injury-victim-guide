@@ -66,7 +66,7 @@ The process feels overwhelming when you're already dealing with pain, missed wor
 
 This isn't just about your health. It creates a documented record that connects your injury to the incident. Gaps in treatment are one of the first things adjusters use to minimize payouts.
 
-**Step 2: [Document everything](/how-to-document-injuries-after-accident/).**
+**Step 2: [Document everything](/how-to-document-injury-for-insurance-claim/).**
 
 Take photos of the scene, your injuries, any property damage. Get names and contact information of witnesses. Keep every receipt and every bill. Write down what happened while it's fresh. Some people find it helpful to keep a daily journal of their symptoms and how the injury affects their daily life. A simple injury documentation journal (available on Amazon, and yes, this site may earn a small commission on purchases) can make this habit easier to stick to.
 
@@ -90,7 +90,7 @@ The adjuster reviews medical records, police reports, photos, and your account o
 
 If negotiations produce a fair number, you sign a release and the case closes. If they don't, litigation may begin.
 
-One practical note: every state has a **[statute of limitations](/what-is-the-statute-of-limitations-for-personal-injury-claims/)** for personal injury claims, typically ranging from one to three years from the date of the injury. Miss that deadline and you permanently lose your right to file. Don't wait.
+One practical note: every state has a **[statute of limitations](/personal-injury-statute-of-limitations-by-state/)** for personal injury claims, typically ranging from one to three years from the date of the injury. Miss that deadline and you permanently lose your right to file. Don't wait.
 
 ---
 

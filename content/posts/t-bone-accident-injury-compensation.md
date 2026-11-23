@@ -71,7 +71,7 @@ The term "compensation" covers more territory than most people realize. Legally,
 
 **Economic damages** are the losses you can document with a receipt or a bill: emergency room treatment, surgery, hospitalization, follow-up appointments, physical therapy, specialist visits, prescription medications, medical equipment like braces or crutches, future medical care if your injuries require ongoing treatment, lost wages from time you couldn't work, reduced future earning capacity if a permanent injury changes what work you can do, property damage to your vehicle.
 
-**Non-economic damages** are real losses that don't come with a bill: [pain and suffering](/car-accident-pain-and-suffering-claim/), emotional distress and anxiety (many T-bone survivors develop situational anxiety around driving), loss of enjoyment of life, loss of consortium, meaning the impact on your relationship with a spouse or partner.
+**Non-economic damages** are real losses that don't come with a bill: [pain and suffering](/pain-and-suffering-calculation-formula/), emotional distress and anxiety (many T-bone survivors develop situational anxiety around driving), loss of enjoyment of life, loss of consortium, meaning the impact on your relationship with a spouse or partner.
 
 In severe cases involving reckless behavior, like a driver who ran a red light while intoxicated, **punitive damages** may also come into play. These aren't meant to compensate you but to punish conduct that was especially egregious.
 
