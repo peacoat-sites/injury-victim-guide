@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You're probably staring at a stack of medical bills right now, wondering whether the settlement check you're waiting on is actually going to cover any of it. Maybe you've already gotten the check and you're not sure why there's less money than you expected. Both situations are incredibly common, and both come with a confusion that nobody warned you about when this whole thing started.
 
-Here's what I tell people who come to me in that position: the relationship between your medical bills and your personal injury settlement is one of the most misunderstood parts of the entire process. It's not intuitive. It doesn't follow common sense. And the insurance industry, frankly, benefits from you not understanding it.
+The relationship between your medical bills and your personal injury settlement is one of the most misunderstood parts of the entire process. It's not intuitive. It doesn't follow common sense. And the insurance industry, frankly, benefits from you not understanding it.
 
 Here's what's actually happening when adjusters calculate medical bills in settlement offers. Understanding their approach can help you evaluate their offers.
 

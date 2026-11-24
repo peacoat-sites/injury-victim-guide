@@ -42,7 +42,7 @@ A lien is a legal claim against your settlement that exists before you receive t
 
 Medicare liens are governed by the Medicare Secondary Payer Act. As of July 2026, the Centers for Medicare & Medicaid Services (CMS) actively monitors large settlements and requires formal reporting for cases involving claimants who are Medicare-eligible. Conditional payment demands can arrive months after a settlement closes, sometimes for amounts exceeding $40,000.
 
-Unsecured debt is different. Your credit card company, your landlord, a medical provider you owe directly (as opposed to one your insurer already paid) -- these creditors generally have no automatic claim on your settlement. They have to sue you, win a judgment, and then attempt to collect. That process takes time, and in many states, settlement proceeds carry specific protections during a window after receipt.
+Unsecured debt is different. Your credit card company, your landlord, a medical provider you owe directly (as opposed to one your insurer already paid), these creditors generally have no automatic claim on your settlement. They have to sue you, win a judgment, and then attempt to collect. That process takes time, and in many states, settlement proceeds carry specific protections during a window after receipt.
 
 The practical takeaway here: lienholders come first. Unsecured creditors have to fight for their piece. Knowing which of your creditors fall into which category is step one.
 

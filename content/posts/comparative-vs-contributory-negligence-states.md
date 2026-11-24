@@ -36,7 +36,7 @@ The core issue is how states assign blame when more than one person contributed 
 
 ## The Hard Rule: Contributory Negligence
 
-Four states and Washington D.C. -- Virginia, Maryland, Alabama, North Carolina, and D.C. -- still follow the old common-law rule that says if you were even slightly at fault, you get nothing. Not a reduced amount. Nothing.
+Four states and Washington D.C., Virginia, Maryland, Alabama, North Carolina, and D.C., still follow the old common-law rule that says if you were even slightly at fault, you get nothing. Not a reduced amount. Nothing.
 
 This can be harsh in practice. For example, a pedestrian who steps off a curb half a second before the walk signal may face a contributory negligence argument. Or a cyclist without a helmet, even if the driver ran a red light, might have comparative fault raised against them. Insurers look for any potential fault to assign, even minimal amounts.
 

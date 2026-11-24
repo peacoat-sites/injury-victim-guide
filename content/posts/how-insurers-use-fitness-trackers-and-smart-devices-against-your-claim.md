@@ -21,7 +21,7 @@ Insurance companies have moved well past the days of a private investigator sitt
 
 ## What "Surveillance" Actually Means Now
 
-Here's what I tell people who come to me after their claims have been challenged: the word surveillance doesn't mean what it used to. It's not just someone watching your public Instagram. In 2026, insurance investigators use advanced search algorithms to find claimants' comments on third-party pages, appearances in friends' photos, and activity in public online groups. You could have a completely private account and still show up in a photo a coworker tagged at a birthday party. That image, your smile, your posture, your location, can all be used to argue that your injuries aren't as severe as you've claimed.
+The word surveillance doesn't mean what it used to. It's not just someone watching your public Instagram. In 2026, insurance investigators use advanced search algorithms to find claimants' comments on third-party pages, appearances in friends' photos, and activity in public online groups. You could have a completely private account and still show up in a photo a coworker tagged at a birthday party. That image, your smile, your posture, your location, can all be used to argue that your injuries aren't as severe as you've claimed.
 
 A 2025 industry report cited by PropertyCasualty360 found that 42% of disputed insurance claims involved social media surveillance as a key factor in denial or reduction of payout. That's not a small sample. That's nearly half of all disputed claims. And that figure was compiled before the current wave of fitness tracker subpoenas really accelerated.
 

@@ -28,7 +28,7 @@ faqs:
 
 Nobody tells you it might take a year.
 
-That's the thing that surprises people most when they come to me after a rear-[end accident](/rear-end-accident-injury-settlement/). They've got a neck brace, maybe some pain meds, and a doctor who told them to rest for a week or two. And they're sitting there thinking, "Okay, I just need to get through this week and I'll be fine." Sometimes that's true. For mild whiplash, a few weeks of discomfort and you're back to your life. But for a meaningful chunk of people, whiplash is a far slower, stranger injury than anyone warned them about.
+Here's what surprises most people after a rear-[end accident](/rear-end-accident-injury-settlement/). They've got a neck brace, maybe some pain meds, and a doctor who told them to rest for a week or two. The assumption is often, "I just need to get through this week and I'll be fine." Sometimes that's true. For mild whiplash, a few weeks of discomfort and you're back to your life. But for a meaningful chunk of people, whiplash is a far slower, stranger injury than anyone warned them about.
 
 The way [companies calculate](/how-insurance-companies-calculate-settlements/) settlement timelines relies on average recovery curves. But the average hides a lot. Here's the real picture.
 

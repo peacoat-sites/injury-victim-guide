@@ -56,7 +56,7 @@ Photograph your own shoes. Both of them. Soles up. The condition of your footwea
 
 Within 15 minutes: The hazard is most likely still present. Take photos immediately, even if you're shaken up. If you think you might need medical attention, get a few photos first, you can call for help in 90 seconds.
 
-Within the hour: Ask to speak with a manager and request that they preserve surveillance footage. Do it out loud in front of witnesses and follow up in writing (a text to yourself counts as a timestamp). Stores often overwrite surveillance footage on 24 to 72-hour loops. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) puts slip-and-fall injuries at over 8 million emergency department visits per year in the U.S. -- properties know this risk and their insurance carriers have protocols. Those protocols are not designed to help you.
+Within the hour: Ask to speak with a manager and request that they preserve surveillance footage. Do it out loud in front of witnesses and follow up in writing (a text to yourself counts as a timestamp). Stores often overwrite surveillance footage on 24 to 72-hour loops. The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) puts slip-and-fall injuries at over 8 million emergency department visits per year in the U.S., properties know this risk and their insurance carriers have protocols. Those protocols are not designed to help you.
 
 Within 24 hours: Your injuries will look worse, honestly. Bruising takes 12 to 24 hours to fully surface. Photograph your injuries every day for the first two weeks. I know that's tedious. Do it anyway. A series of daily injury photos that shows a bruise developing, peaking, and fading is significantly more compelling than a single shot taken a week later.
 

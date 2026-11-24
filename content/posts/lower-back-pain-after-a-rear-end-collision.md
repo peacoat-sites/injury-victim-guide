@@ -85,7 +85,7 @@ The MRI cost range is wide because facility type makes a huge difference. A hosp
 
 Ligament damage in the lumbar spine can be permanent. Disc herniations don't always resolve. Facet joint damage can lead to chronic pain that outlasts any reasonable settlement timeline. The [Nolo personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury) do a good job of explaining how soft-tissue damages are actually calculated in personal injury claims, and I'd encourage you to read through that if you're trying to understand what your case might be worth.
 
-Here's something I got wrong early in my adjusting career: I assumed that if an MRI was "normal," the pain wasn't real. I held that view for about two years until a claims supervisor walked me through the research on ligament laxity, which doesn't show up on standard MRI sequences. Some of the people I'd lowballed on settlements had injuries that imaging simply couldn't capture at the time. I'm not proud of that period.
+A common misconception about MRI results is that "normal" imaging means pain isn't real. This assumption misses an important gap: ligament laxity doesn't show up on standard MRI sequences. Some injuries that cause genuine pain simply can't be captured by routine imaging. This distinction matters for settlement decisions, since underestimating injuries based on negative scans can lead to inadequate compensation for people with real, imaging-invisible damage.
 
 ## Protecting Yourself (Without Overcomplicating It)
 
@@ -99,11 +99,11 @@ One more thing: if you already have pre-existing lumbar issues, like degenerativ
 
 ## Sources
 
-- [Insurance Research Council (2023): "Injury Claims in Auto Insurance"](https://www.insurance-research.org) -- industry data on claim timelines, treatment gaps, and settlement patterns.
-- [Journal of Orthopaedic & Sports Physical Therapy (2021): "Impact Speed and Soft-Tissue Injury Severity in Rear-End Collisions"](https://www.jospt.org) -- peer-reviewed analysis showing weak correlation between crash speed and injury severity.
-- [CDC Injury Center WISQARS](https://www.cdc.gov/injury/wisqars/) -- national data on motor vehicle injury prevalence and emergency department utilization.
-- [Spine (Journal), 2019: "Natural History of Lumbar Disc Herniation Following Vehicular Trauma"](https://journals.lww.com/spinejournal/) -- long-term outcome data for crash-related disc injuries.
-- [Nolo Legal Encyclopedia: Personal Injury](https://www.nolo.com/legal-encyclopedia/personal-injury) -- plain-language explanation of soft-tissue damages and personal injury valuation.
+- [Insurance Research Council (2023): "Injury Claims in Auto Insurance"](https://www.insurance-research.org), industry data on claim timelines, treatment gaps, and settlement patterns.
+- [Journal of Orthopaedic & Sports Physical Therapy (2021): "Impact Speed and Soft-Tissue Injury Severity in Rear-End Collisions"](https://www.jospt.org), peer-reviewed analysis showing weak correlation between crash speed and injury severity.
+- [CDC Injury Center WISQARS](https://www.cdc.gov/injury/wisqars/), national data on motor vehicle injury prevalence and emergency department utilization.
+- [Spine (Journal), 2019: "Natural History of Lumbar Disc Herniation Following Vehicular Trauma"](https://journals.lww.com/spinejournal/), long-term outcome data for crash-related disc injuries.
+- [Nolo Legal Encyclopedia: Personal Injury](https://www.nolo.com/legal-encyclopedia/personal-injury), plain-language explanation of soft-tissue damages and personal injury valuation.
 
 ---
 
