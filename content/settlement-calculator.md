@@ -62,7 +62,7 @@ The calculator above gives a rough range, actual settlements are shaped by facto
 
 Most personal injury attorneys offer **free initial consultations** and work on contingency, you pay nothing unless you win. Consulting one costs you nothing and gives you a far more reliable case evaluation than any online tool.
 
-If you are unsure where to start, our guide on [how personal injury claims work](/posts/) walks through the full process from accident to settlement, including what insurance companies look for and the common mistakes that reduce payouts.
+If you are unsure where to start, our guide on how personal injury claims work walks through the full process from accident to settlement, including what insurance companies look for and the common mistakes that reduce payouts.
 
 ## About These Estimates
 
