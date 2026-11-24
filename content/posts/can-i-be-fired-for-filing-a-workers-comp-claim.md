@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most people assume that as long as they do everything right, [filing a workers' comp claim](/workers-compensation-claim-process/) is safe. I spent 12 years on the other side of that belief, and I'll be honest: it's one of the most persistently wrong assumptions I encountered.
+Most people assume that as long as they do everything right, [filing a workers' comp claim](/workers-compensation-claim-process/) is safe. This assumption is persistently wrong. Filing a workers' comp claim carries real risks even when you follow proper procedures.
 
 Here's the legal reality. Every state in the U.S. prohibits employers from firing an employee *specifically because* they filed a workers' compensation claim. That protection exists in some form nationwide. What the law doesn't protect you from is everything else your employer might decide to do, and that gap is where things get genuinely complicated.
 

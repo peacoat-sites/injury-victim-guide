@@ -118,7 +118,7 @@ Even two people with identical injuries from the same type of accident can end u
 
 ## Should You Hire an Attorney?
 
-I spent 12 years on the other side of this table, reviewing claims and writing settlement offers. Here's the honest truth: for a minor fender-bender with no injuries and clear-cut liability, you can probably handle it yourself. But the moment your injuries required anything beyond a single urgent care visit, the calculation changes.
+Here's the honest truth: for a minor fender-bender with no injuries and clear-cut liability, you can probably handle it yourself. But the moment your injuries required anything beyond a single urgent care visit, the calculation changes.
 
 [The American Bar Association's guidance](https://www.americanbar.org/groups/public_education/) consistently shows that injury victims who work with attorneys generally recover more, even after attorney fees are factored in. Personal injury attorneys almost universally work on contingency, meaning they take a percentage of your settlement (typically 33 percent before suit, sometimes 40 percent after) and you pay nothing upfront. You only pay if they win.
 

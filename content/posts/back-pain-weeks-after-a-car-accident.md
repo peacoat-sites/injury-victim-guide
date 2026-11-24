@@ -28,7 +28,7 @@ faqs:
 
 Most people expect to feel sore the day after a crash. What they don't expect is to feel *worse* three weeks later.
 
-That surprise is exactly what insurance companies count on. I spent 12 years on their side of the table, and I watched countless claims get undervalued because injured people didn't understand why delayed back pain happens, what it actually means for their health, or how the timing affects their legal options. So let me walk you through what's really going on.
+That surprise is exactly what insurance companies count on. Delayed back pain often goes undervalued in claims because injured people don't understand why it happens, what it actually means for their health, or how the timing affects their legal options. Here's what's really going on.
 
 ## Why Your Back Hurts More Now Than It Did at the Scene
 

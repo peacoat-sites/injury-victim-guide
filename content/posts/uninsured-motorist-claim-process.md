@@ -61,7 +61,7 @@ The article on [how to document injuries after an accident](/how-to-document-inj
 
 ## How the UM Claim Process Actually Works
 
-Here's where a lot of people get caught off guard. Filing a UM claim is not the same as calling your insurer after a fender-bender. Your own insurance company is now working against you. They want to pay you as little as possible. I know that sounds harsh, but I spent 12 years on that side of the desk. It's just how the business works.
+Here's where a lot of people get caught off guard. Filing a UM claim is not the same as calling your insurer after a fender-bender. Your own insurance company is now working against you. They want to pay you as little as possible. That's just how the business works.
 
 After you report the claim, your insurer will assign an adjuster who will:
 

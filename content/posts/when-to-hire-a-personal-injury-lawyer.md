@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Maybe you're sitting with a stack of medical bills and a settlement offer that arrived faster than you expected. Or maybe it's been weeks since your accident and you're not sure if you even need a lawyer, or whether hiring one is worth the trouble. Either way, you're probably wondering if this is one of those situations where you can handle things yourself, or whether you're already in over your head.
 
-Here's what I tell people who ask me that question: the timing of when you bring a lawyer in matters more than most people realize. I spent 12 years on the other side of this, working as an insurance adjuster, and I watched injured people make the same mistakes over and over. Not because they were naive. Because they didn't know what they didn't know.
+The timing of when you bring a lawyer in matters more than most people realize. Injured people often make the same mistakes over and over, not because they are naive, but because they don't know what they don't know.
 
 Let me try to fix that.
 

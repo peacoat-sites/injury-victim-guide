@@ -29,7 +29,7 @@ You got a call from an insurance adjuster asking for a recorded statement. Maybe
 
 Here's what I tell people in that moment: slow down. That call is not an emergency. And that adjuster, however friendly they sound, is not your advocate.
 
-I spent 12 years on the other side of that phone call. I know exactly why adjusters ask for recorded statements quickly, what they're listening for, and how a single offhand comment can quietly undo a legitimate injury claim months later. So let me walk you through what's actually happening when that request comes in, and what your real options are.
+Adjusters ask for recorded statements quickly for specific reasons, and they listen for particular details. A single offhand comment can quietly undo a legitimate injury claim months later. Here's what's actually happening when that request comes in, and what your real options are.
 
 ## Why the Insurance Company Wants That Recording
 

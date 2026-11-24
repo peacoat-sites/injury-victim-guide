@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You got hurt. You're on the couch, your car's at the body shop, and your boss just texted asking when you're coming back. The answer: you don't know. Every day you're not working is money you're not making, and that's the part that keeps you awake at 3 a.m. What most injury victims don't realize until it's almost too late is that those lost paychecks aren't just a personal hardship. They're a compensable loss, meaning the person or company responsible for your injury may owe you that money back. Lost wages are one of the most undervalued parts of a personal injury claim, and insurance adjusters know exactly how to lowball them.
 
-I spent 12 years on the other side of that desk. I know how the math gets done, and I know where victims leave money on the table.
+The math behind these cases is straightforward, and victims often leave money on the table by missing key steps.
 
 ## What "Lost Wages" Actually Covers in a Personal Injury Claim
 

@@ -29,7 +29,7 @@ You're sitting in a parking lot, heart still racing, and the back of your neck i
 
 Neck injuries are the single most common injury in rear-end collisions. Rear-end crashes account for roughly 29 percent of all serious crashes on U.S. roads, according to data tracked through [the CDC's injury statistics](https://www.cdc.gov/injury/wisqars/) database. Despite how common they are, neck injury settlements remain one of the most misunderstood areas in personal injury law. Insurers routinely lowball these claims. Victims frequently accept the first offer out of desperation or confusion. And the difference between a fair settlement and an inadequate one can literally change the course of your financial and physical recovery.
 
-I spent 12 years adjusting claims for insurance companies before I switched sides. I want to give you an honest, clear picture of how these settlements actually work.
+Here's how insurance settlements actually work, explained clearly and directly.
 
 ---
 

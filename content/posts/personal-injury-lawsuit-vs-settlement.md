@@ -31,7 +31,7 @@ You're sitting in a hospital bed, arm in a cast, replaying the moment a distract
 
 A settlement is a private agreement between you and the at-fault party, usually through their insurance company, where you accept a specific sum of money in exchange for releasing all future claims related to the incident. That last part is critical. When you sign a settlement release, you're done. Permanently. If your back injury turns out to need surgery six months from now, you can't go back and ask for more.
 
-Insurers are structured to close claims quickly and cheaply. I spent 12 years on that side of the desk, and I can tell you with certainty: the speed of that first call isn't customer service. It's strategy. A claimant who hasn't spoken to an attorney, hasn't fully understood their injuries, and is stressed about lost wages is far more likely to accept a low number.
+Insurers are structured to close claims quickly and cheaply. The speed of that first call isn't customer service. It's strategy. A claimant who hasn't spoken to an attorney, hasn't fully understood their injuries, and is stressed about lost wages is far more likely to accept a low number.
 
 Settlements resolve the vast majority of personal injury claims. The Insurance Information Institute notes that litigation costs and uncertainty push both sides toward negotiated agreements in most cases. That doesn't mean every settlement is a bad deal. Many are genuinely fair, reached after thorough negotiation. But "quick" and "fair" rarely live in the same sentence.
 

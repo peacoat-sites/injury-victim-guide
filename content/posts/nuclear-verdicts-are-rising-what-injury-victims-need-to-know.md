@@ -54,7 +54,7 @@ Sentry's 2026 C-Suite Stress Index found that 69% of roughly 1,200 business lead
 
 When a defendant's leadership genuinely fears an existential verdict, they have real incentive to settle before trial. That fear can create settlement pressure, to the extent such pressure exists in any specific case. When a defendant operates in a state with newly enacted caps, the math changes. A $5 million cap on damages reduces the worst-case scenario they're staring at, which reduces their urgency to settle at full value.
 
-I spent 12 years adjusting claims. The single biggest factor in settlement value was always the defendant's realistic assessment of trial exposure. Caps shrink that exposure. Smaller exposure means lower settlement offers, even when your injuries are just as severe.
+The single biggest factor in settlement value is the defendant's realistic assessment of trial exposure. Caps shrink that exposure. Smaller exposure means lower settlement offers, even when injuries are just as severe.
 
 ## Third-Party Litigation Funding: Georgia's New Disclosure Rule
 

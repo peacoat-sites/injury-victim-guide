@@ -25,7 +25,7 @@ faqs:
    a: "Sometimes, yes. If the negligent provider was an employee of the hospital (not an independent contractor), or if the hospital's own policies or procedures contributed to the harm, the hospital can be named as a defendant. Some hospitals try to characterize their providers as independent contractors specifically to limit liability, so this question often requires careful investigation."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most people think medical malpractice works like this: something goes wrong, you call a lawyer, the hospital apologizes and cuts a check. I spent 12 years reviewing claims on the insurance side, and I can tell you that almost never happens. Medical malpractice is one of the most contested, drawn-out, brutally difficult categories of personal injury law in the country. The average case that actually reaches trial takes three to five years. Many never do.
+Most people think medical malpractice works like this: something goes wrong, you call a lawyer, the hospital apologizes and cuts a check. In reality, medical malpractice is one of the most contested, drawn-out, brutally difficult categories of personal injury law in the country. The average case that actually reaches trial takes three to five years. Many never do.
 
 Before I dug into this properly, I underestimated how many legitimate cases got dropped not because the harm was fake, but because people got tripped up early in the process. Understanding how this actually works, before you need it, is one of the most practical things you can do.
 

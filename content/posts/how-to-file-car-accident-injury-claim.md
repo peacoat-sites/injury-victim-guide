@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in a hospital waiting room, your neck stiff, your car totaled, and your phone buzzing with calls from an insurance adjuster who somehow already knows about your accident. That adjuster is friendly, sympathetic, and asking you to give a recorded statement "just to get the claim moving." Here's what you need to know right now: that call is not on your side. It's the first move in a process that, if you're not careful, can leave you settling for far less than your injuries actually cost.
 
-Filing a car accident injury claim isn't complicated, but it has real landmines. I spent 12 years on the insurance side before switching to help injury victims, and I can tell you the mistakes people make in the first 48 hours often haunt them for months. This guide walks you through the entire process, from the scene of the crash to the day you deposit a settlement check.
+Filing a car accident injury claim isn't complicated, but it has real landmines. The mistakes people make in the first 48 hours often haunt them for months. This guide walks you through the entire process, from the scene of the crash to the day you deposit a settlement check.
 
 ---
 

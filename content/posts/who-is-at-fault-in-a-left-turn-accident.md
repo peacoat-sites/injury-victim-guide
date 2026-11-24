@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-I spent twelve years sitting in adjusters' offices, reading police reports, and watching the same scenario play out in a hundred different ways. A left-turning driver and a driver going straight collide. Both drivers swear they had the light. Both their families insist the other person is lying. And I'd be there, pulling apart dashcam footage frame by frame, because honestly, the law on this isn't as clean as people think it is.
+A left-turning driver and a driver going straight collide. Both drivers swear they had the light. Both their families insist the other person is lying. Dashcam footage can help resolve the dispute, but only when examined frame by frame. The law on this isn't as clean as people think it is. Left-turn rules vary by state and jurisdiction, and even when one driver clearly violated the law, liability doesn't always fall where drivers expect it to.
 
 Here's what surprised me: the most common assumption is completely backwards. Most people think that if you're turning left, you're automatically at fault. That's what insurance companies *want* you to believe. But that's not how the law actually works, and if you don't understand the real rules, you might accept a settlement that's way too low or give a statement that tanks your case before it even starts.
 

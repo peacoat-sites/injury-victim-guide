@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You filed the report, you iced the injury, and now you're sitting with a stack of paperwork you don't fully understand and a nagging worry that you're about to do something wrong. Maybe you've already heard a coworker say something like "they'll try to deny you" or "you need a lawyer immediately." Maybe you're afraid to say the wrong thing to your employer. Maybe you just want to know what actually happens next.
 
-Here's what I tell people in this situation: the workers' comp process is more manageable than it looks, but it's also easier to undermine than most people realize. I spent 12 years on the insurance side reviewing these claims, and I watched a lot of legitimately injured workers lose benefits they deserved, not because they were dishonest, but because they didn't understand the system they were dealing with. That's fixable.
+The workers' comp process is more manageable than it looks, but it's also easier to undermine than most people realize. Many legitimately injured workers lose benefits they deserve, not because they are dishonest, but because they don't understand the system they are dealing with. That gap is fixable.
 
 Let me walk you through how this actually works.
 

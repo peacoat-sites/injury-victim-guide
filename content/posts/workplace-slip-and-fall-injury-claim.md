@@ -90,7 +90,7 @@ The [American Bar Association's public education guidance](https://www.americanb
 
 ## What Insurance Adjusters Are Actually Looking For (And How to Not Hand Them Your Case)
 
-I spent 12 years on the other side of this. I know how claims get minimized, delayed, and denied. Here's what adjusters focus on:
+Here's what adjusters focus on:
 
 **Gaps in medical treatment.** Missed appointments, delays in seeking care, or inconsistency between your reported symptoms and your treatment records are used aggressively. If you say your back pain is a seven out of ten but you skipped two physical therapy sessions, that contradiction will appear in the adjuster's notes and it will hurt you.
 

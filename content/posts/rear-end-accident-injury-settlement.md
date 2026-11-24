@@ -29,7 +29,7 @@ You're sitting at a red light. Full stop. Then: impact. The other driver hit you
 
 Rear-end collisions are among the most common crashes on American roads, yet they produce some of the most disputed injury claims in the entire personal injury system. The reason: soft tissue injuries, the kind you almost always get from a rear-end hit, don't show up clean on an X-ray. Insurance adjusters know this. They're trained to move fast, offer early, and close the file before you fully understand what you're dealing with.
 
-I spent 12 years on their side of the table. Here's what they don't advertise.
+Here's what they don't advertise.
 
 ## Why Rear-End Settlements Are More Complicated Than They Look
 

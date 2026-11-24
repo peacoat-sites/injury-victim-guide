@@ -29,7 +29,7 @@ You're probably reading this because someone told you your pre-existing conditio
 
 It's not. But I won't pretend it's simple.
 
-I spent 12 years on the other side of this, evaluating claims for insurance companies. And I can tell you with complete honesty: pre-existing conditions were one of our most reliable tools for reducing payouts. Not because the law supported that outcome. Because claimants didn't understand their rights well enough to push back. That's what I want to change for you here.
+Pre-existing conditions have historically been one of the most common reasons insurers reduce or deny payouts. Not because the law supports that outcome, but because many claimants don't understand their rights well enough to push back. That's what this guide aims to change.
 
 ## The "Eggshell Plaintiff" Doctrine (And Why It's On Your Side)
 

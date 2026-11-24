@@ -83,7 +83,7 @@ This is where a lot of people get confused, and honestly, the answer is "it depe
 
 ## How Insurance Companies Handle These Claims
 
-I spent 12 years on the other side of this. Here's what I know: insurance companies are not your allies in this process, even when they sound friendly and helpful on the phone.
+Insurance companies are not your allies in this process, even when they sound friendly and helpful on the phone.
 
 When you file a claim, the property owner's liability insurer will typically assign an adjuster to investigate. That adjuster's job, structurally speaking, is to find reasons to reduce what they pay you. They'll look at the weather history, the property's maintenance logs, your medical records, and your own actions at the time of the fall. They may ask you to give a recorded statement. Be cautious here. You are not required to give a recorded statement to the other party's insurance company, and what you say can be used to minimize your claim.
 

@@ -46,7 +46,7 @@ Everything changes.
 
 The legal mechanism here is called an "uninsured motorist" claim, or UM. Because the at-fault driver is unknown or uninsured, your own auto insurance steps in to cover what they would have. You need UM coverage in your policy for this to work. Most states require insurers to offer it, though not all require you to buy it. What you chose matters tremendously right now.
 
-I spent 12 years adjusting claims for insurance companies. I watched how fast adjusters moved on hit-and-run files when claimants had no documentation. Don't be that person.
+Hit-and-run claims move faster when claimants have solid documentation. Don't be the person without it.
 
 ---
 

@@ -33,7 +33,7 @@ Soft tissue injuries involve muscles, tendons, ligaments, and fascia rather than
 
 Here's the real issue: bone injuries show up clean on an X-ray. A fractured femur is undeniable. Soft tissue damage often doesn't appear on standard imaging. An MRI might reveal a torn ligament or a herniated disc pressing on a nerve root, but early on, many soft tissue injuries look like nothing at all on film. That's where insurance companies pounce.
 
-I spent 12 years evaluating claims for a major carrier, and I watched adjusters flag files as "no objective findings" the moment a treating physician wrote "strain/sprain." That phrase alone triggered a lower reserve, which is the internal dollar amount the company sets aside to pay the claim. Lower reserve meant a lower offer to you.
+When a treating physician writes "strain/sprain," adjusters often flag files as "no objective findings." That phrase alone can trigger a lower reserve, which is the internal dollar amount the company sets aside to pay the claim. Lower reserve typically means a lower offer to you.
 
 Your claim's value isn't determined by a single formula. It's shaped by the strength of your evidence, the credibility of your treatment, the jurisdiction you're in, and sometimes just how stubborn both sides are willing to be.
 

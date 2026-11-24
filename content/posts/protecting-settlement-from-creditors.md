@@ -26,7 +26,7 @@ faqs:
     a: "You may have lost some protections through commingling, but not necessarily all of them. If you can document the exact deposit date, amount, and source, and show that withdrawals since then haven't exceeded other deposits, you may still be able to trace the funds. Talk to a consumer law attorney in your state as soon as possible. The longer you wait, the harder the tracing argument becomes."
 ---
 
-Nearly 30% of [personal injury settlement](/how-much-is-my-personal-injury-case-worth/) recipients see some or all of their money claimed by creditors, medical lienholders, or government agencies before they ever spend a dollar of it. That number stopped me cold the first time I saw it, because I'd spent years on the other side of the table helping insurance companies close files. I watched settlements get eaten alive by liens and debt collectors, and the people receiving the money often had no idea it was coming.
+Nearly 30% of [personal injury settlement](/how-much-is-my-personal-injury-case-worth/) recipients see some or all of their money claimed by creditors, medical lienholders, or government agencies before they ever spend a dollar of it. Settlements often get reduced significantly by liens and debt collectors, and many people receiving the money don't realize this will happen until it does.
 
 If you're reading this right now, you probably just settled a case, or you're close to it. You might be wondering: is this money mine, or is it going to disappear into someone else's pocket? You might also be worried about the debt you accumulated while you were injured and not working. [Medical bills](/medical-bills-personal-injury-settlement/), credit cards, rent. That's real, and I'm not going to brush past it.
 

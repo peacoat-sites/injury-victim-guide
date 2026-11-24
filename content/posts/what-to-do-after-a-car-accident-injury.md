@@ -25,7 +25,7 @@ author_title: "Settlements"
 author_bio: "Maya Rivera is the byline used at Injury Victim Guide for articles on how injury claims are valued and negotiated. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You're sitting in a crumpled car on the side of the highway. Your hands are shaking. Someone just rear-ended you at 45 mph, and your neck already feels wrong. In the next 60 minutes, you'll make decisions that could either protect your health and your legal rights or quietly destroy both. Most people have no idea what those decisions are. I spent 12 years on the insurance side watching injury victims make the same costly mistakes over and over, and I switched careers specifically to help people avoid them.
+You're sitting in a crumpled car on the side of the highway. Your hands are shaking. Someone just rear-ended you at 45 mph, and your neck already feels wrong. In the next 60 minutes, you'll make decisions that could either protect your health and your legal rights or quietly destroy both. Most people have no idea what those decisions are. Common mistakes after a collision can cost you later, in medical outcomes and in any claim you file.
 
 ---
 

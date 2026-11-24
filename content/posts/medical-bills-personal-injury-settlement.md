@@ -29,7 +29,7 @@ You're probably staring at a stack of medical bills right now, wondering whether
 
 Here's what I tell people who come to me in that position: the relationship between your medical bills and your personal injury settlement is one of the most misunderstood parts of the entire process. It's not intuitive. It doesn't follow common sense. And the insurance industry, frankly, benefits from you not understanding it.
 
-I spent 12 years on the other side of this. I know how adjusters think about medical bills when they're calculating what to offer you. Let me walk you through what's actually happening.
+Here's what's actually happening when adjusters calculate medical bills in settlement offers. Understanding their approach can help you evaluate their offers.
 
 ## What "Paying Your Medical Bills" from a Settlement Actually Means
 As of June 2026, 

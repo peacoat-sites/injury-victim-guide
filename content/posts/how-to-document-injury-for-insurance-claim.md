@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think heading to the hospital after an accident wraps things up. The insurance company collects the records. Doctors document what they see. The claim sorts itself out.
 
-I used to believe that too. Then I spent 12 years as an insurance adjuster, and I watched legitimate claims get slashed or rejected because the medical documentation was incomplete, vague, scattered across time. The injury was real. The suffering was absolutely real. But the paper trail looked like Swiss cheese, and that gap gave the adjuster exactly what they needed to justify a lower offer. What struck me most wasn't catching dishonest claims. It was how often honest people with serious injuries simply didn't know how to make their case on paper.
+Legitimate claims often get slashed or rejected because the medical documentation is incomplete, vague, or scattered across time. The injury may be real and the suffering absolutely real, but a paper trail with gaps gives adjusters what they need to justify a lower offer. Many honest people with serious injuries simply don't know how to make their case on paper.
 
 ## Why Documentation Is the Whole Game
 As of June 2026, 

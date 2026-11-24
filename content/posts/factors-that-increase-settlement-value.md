@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: two people are rear-ended at the same intersection, one week apart, by drivers who ran the same red light. Both suffer whiplash. Both miss two weeks of work. One settles for $18,000. The other walks away with $74,000. Same accident type, same injury label, wildly different outcomes. What's the difference? It almost never comes down to luck. It comes down to the specific factors that made one claim more compelling, more documented, and harder for the insurance company to minimize.
 
-I spent 12 years on the other side of that equation, evaluating claims for insurers and watching adjusters dissect every weakness in a file. Now I help injury victims understand what those adjusters are actually looking for. And the honest truth is that most people leave money on the table not because their injuries weren't serious, but because they didn't know which details carry the most weight.
+Adjusters evaluating claims look for specific details that many injury victims don't realize matter most. The honest truth is that most people leave money on the table not because their injuries weren't serious, but because they didn't know which details carry the most weight.
 
 ---
 

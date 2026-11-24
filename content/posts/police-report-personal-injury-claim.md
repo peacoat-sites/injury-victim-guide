@@ -74,7 +74,7 @@ One thing I'd push back on that you'll hear elsewhere: don't assume you need an 
 
 ## The Adjuster's Playbook, Because You Should Know It
 
-I spent 12 years on that side of the table. Here's how the report gets used against you in ways that aren't obvious.
+Here's how the report gets used against you in ways that aren't obvious.
 
 The first thing an adjuster looks for is the contributing circumstances field. If it says "driver 1: no contributing factor / driver 2: failure to yield," the liability picture is already painted before anyone picks up the phone. If that field is blank or ambiguous, expect the adjuster to call you early and ask open-ended questions about the accident. They're filling in what the report left out, and they're doing it with your words.
 

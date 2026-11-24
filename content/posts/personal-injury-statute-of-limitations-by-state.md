@@ -103,7 +103,7 @@ If you've been injured and aren't sure where you stand, work through these steps
 
 ## Why Insurance Companies Love Delayed Claimants
 
-I spent 12 years adjusting claims for insurers. Here's something I know from experience: adjusters are trained to recognize when a claimant is approaching their statute of limitations. A common tactic is what I'd call "delay and reassure," where an adjuster keeps a claimant engaged in friendly settlement negotiations right up to the deadline, lets it expire, and then offers nothing or walks away. You haven't sued, the clock has run, and the insurer owes you nothing.
+Adjusters are trained to recognize when a claimant is approaching their statute of limitations. A common tactic is what's called "delay and reassure," where an adjuster keeps a claimant engaged in friendly settlement negotiations right up to the deadline, lets it expire, and then offers nothing or walks away. You haven't sued, the clock has run, and the insurer owes you nothing.
 
 This isn't paranoia. The [Insurance Information Institute](https://www.iii.org/) openly acknowledges that claim handling timelines and settlement practices vary widely among insurers. Knowing your deadline removes the insurer's most powerful tool: time.
 

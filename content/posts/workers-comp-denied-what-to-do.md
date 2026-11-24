@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your claim got denied. That piece of paper feels like the end of the road. It isn't.
 
-Most articles on this topic will walk you through the appeals process like it's a polite disagreement between reasonable adults. It's not always that. Insurance carriers deny legitimate claims every day, sometimes because of a genuine coverage question, sometimes because denial is cheaper than paying and they're betting you'll give up. I spent 12 years on the inside of that system. I watched it happen. So let me tell you what actually matters.
+Most articles on this topic will walk you through the appeals process like it's a polite disagreement between reasonable adults. It's not always that. Insurance carriers deny legitimate claims every day, sometimes because of a genuine coverage question, sometimes because denial is cheaper than paying and they're betting you'll give up. Here's what actually matters.
 
 ---
 

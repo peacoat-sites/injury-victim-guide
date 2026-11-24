@@ -71,7 +71,7 @@ The practical timeline for the case itself, once filed, varies wildly. A straigh
 
 ## The Insurance Company Is Not on Your Side
 
-I spent 12 years as a claims adjuster. Hear this clearly: the insurance company's adjuster who calls you after your loved one's death is not your advocate. They are employed to resolve claims for as little money as possible. That's the job. It's nothing personal, but it's real.
+Hear this clearly: the insurance company's adjuster who calls you after your loved one's death is not your advocate. They are employed to resolve claims for as little money as possible. That's the job. It's nothing personal, but it's real.
 
 They may call very quickly, sometimes within days of a death, when you're least equipped to make major financial decisions. They may offer a settlement that sounds significant when you're overwhelmed with funeral bills and lost income but is a fraction of what a represented family might ultimately recover. They may ask you to sign a release that closes your claim permanently.
 

@@ -62,7 +62,7 @@ As attorneys at Sam Aguiar Injury Lawyers have pointed out, the safest default a
 
 ## What You Can Actually Do Right Now
 
-The most important step, and I say this as someone who used to sit on the other side of the table reviewing these files, is to talk to a personal injury attorney before you do anything else with your digital life. Not after you've cleaned up your accounts. Not after you've responded to a discovery request from the defense. Before.
+The most important step is to talk to a personal injury attorney before you do anything else with your digital life. Not after you've cleaned up your accounts. Not after you've responded to a discovery request from the defense. Before.
 
 An attorney can send what's called a litigation hold notice, which formally preserves your obligation to retain certain data and creates a clear record of what existed at a specific point in time. They can also advise you on what's legitimately private versus what a court is likely to order you to hand over. Those are very different categories, and knowing the difference matters enormously.
 

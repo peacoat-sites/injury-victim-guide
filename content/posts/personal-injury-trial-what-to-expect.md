@@ -28,7 +28,7 @@ faqs:
 
 Only about 4% of [personal injury cases](/what-percentage-of-personal-injury-cases-go-to-trial/) ever reach a jury verdict.
 
-That number stopped me cold the first time I saw it cited in trial data. I'd spent over a decade on the other side of the table as an [insurance adjuster](/what-to-say-to-an-insurance-adjuster-after-an-accident/), watching claims get settled, negotiated, lowballed, and occasionally dragged into litigation. And even I had underestimated how rare an actual trial is. The American Bar Foundation has tracked this pattern for years: the civil trial rate has declined dramatically since the 1980s, and personal injury cases are no exception. Most settle. Many settle late, right on the courthouse steps, after months or years of posturing.
+That number is striking when you see it in trial data. The [insurance adjuster](/what-to-say-to-an-insurance-adjuster-after-an-accident/) world involves watching claims get settled, negotiated, lowballed, and occasionally dragged into litigation. Even those familiar with the process often underestimate how rare an actual trial is. The American Bar Foundation has tracked this pattern for years: the civil trial rate has declined dramatically since the 1980s, and personal injury cases are no exception. Most settle. Many settle late, right on the courthouse steps, after months or years of posturing.
 
 Knowing what a trial looks like, even if you never have one, changes how you handle your case from day one. The insurance company sitting across from you has watched thousands of cases go to trial. Not understanding the process puts you at a disadvantage in settlement negotiations.
 

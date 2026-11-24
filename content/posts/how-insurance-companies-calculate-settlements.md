@@ -71,7 +71,7 @@ Say your total calculated damages come to $50,000. If the adjuster decides you w
 
 Some states use "modified comparative negligence," which bars you from any recovery if you're found to be 50% or 51% or more at fault (the threshold varies). A small number of states still use "contributory negligence," an older and harsher rule that can block your recovery entirely if you were even 1% responsible.
 
-I spent 12 years adjusting claims on the insurance side, and I can tell you this: adjusters are trained to find any angle that assigns you partial blame. A prior injury to the same body part, not wearing a seatbelt, a previous chiropractic visit for the same area, all of it gets leveraged to reduce your payout.
+Adjusters are trained to find any angle that assigns you partial blame. A prior injury to the same body part, not wearing a seatbelt, a previous chiropractic visit for the same area, all of it gets leveraged to reduce your payout.
 
 ## The Role of Medical Documentation (It's More Important Than People Realize)
 

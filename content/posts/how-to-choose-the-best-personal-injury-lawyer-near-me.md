@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most people spend more time choosing a contractor for a bathroom remodel than they do picking the lawyer who'll handle the most stressful financial event of their life. I spent 12 years on the other side of this equation, evaluating injury claims for insurance companies, and I can tell you with zero hesitation: the attorney you choose matters more than almost any other single decision you'll make after an accident.
+Most people spend more time choosing a contractor for a bathroom remodel than they do picking the lawyer who'll handle the most stressful financial event of their life. The attorney you choose matters more than almost any other single decision you'll make after an accident.
 
 So if you're here because something happened, you're hurt, the bills are piling up, and you're trying to figure out whether you even need a lawyer and how to find a decent one, you're in the right place. No judgment. This is exactly where most people start.
 

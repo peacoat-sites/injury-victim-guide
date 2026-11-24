@@ -47,7 +47,7 @@ Now, health insurance and Medicare. Big deal. If you're receiving Medicare or wi
 
 ## How the Insurance Company Calculates (and Lowballs) Your Offer
 
-I spent 12 years on the insurance side. Here's what I can tell you: the first offer is almost never the best offer. Insurance adjusters aren't trying to be evil, but they work within systems designed to close claims at the lowest defensible number. It's how they're measured.
+The first offer is almost never the best offer. Insurance adjusters aren't trying to be evil, but they work within systems designed to close claims at the lowest defensible number. It's how they're measured.
 
 The initial offer gets built on the insurer's interpretation of your disability rating, your pre-injury wages, and your state's benefit formula. What they often undervalue or ignore entirely:
 

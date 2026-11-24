@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Someone rear-ends you at a stoplight. You weren't doing anything wrong. And somehow, within 48 hours, you're drowning in phone calls from adjusters, confused about your own insurance, and second-guessing whether your neck pain is serious or just stress. This scenario often spirals into financial harm for people who did nothing wrong, and it happens because the rules aren't always clear upfront.
 
-Here's what I wish someone had told me during my 12 years on the other side of that phone call.
+Here's what works well during a phone call like that:
 
 ## The First 30 Minutes Matter More Than You Think
 

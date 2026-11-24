@@ -25,7 +25,7 @@ author_title: "Claims Process"
 author_bio: "Jennifer Harris is the byline used at Injury Victim Guide for articles on the injury claims process and the law behind it. It is a pen name, not an attorney; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most people who get hurt by a defective product assume their biggest problem is proving the product was dangerous. I spent twelve years on the other side of these claims, and I'll be honest: that's rarely where cases actually fall apart. The real landmines are the ones nobody warns you about before you throw out the broken blender or accept that first phone call from the manufacturer's insurance rep.
+Most people who get hurt by a defective product assume their biggest problem is proving the product was dangerous. In reality, that's rarely where cases actually fall apart. The real problems are the ones nobody warns you about before you throw out the broken blender or accept that first phone call from the manufacturer's insurance rep.
 
 Let me tell you what I actually saw happen, repeatedly, in that adjuster's chair.
 

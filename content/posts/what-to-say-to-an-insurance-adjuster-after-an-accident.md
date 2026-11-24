@@ -26,7 +26,7 @@ faqs:
     a: "Almost never, especially if you're still treating or haven't reached what doctors call 'maximum medical improvement' (MMI), meaning the point where your condition has stabilized. Once you accept and sign a release, that's typically permanent. You can't go back for more if new complications emerge. At minimum, wait until your medical treatment is complete and you understand the full cost before you consider any offer."
 ---
 
-Most people assume the insurance adjuster who calls after your accident is there to help you. I spent 12 years being that person on the other end of the phone. Let me tell you what's actually happening.
+Most people assume the insurance adjuster who calls after your accident is there to help you. Here's what's actually happening on that call.
 
 When an adjuster calls you, usually within 24 to 48 hours of a claim being filed, they're not your enemy, exactly. But they're not your advocate either. They work for the insurance company, their performance is often measured against how efficiently they close claims, and the recorded statement they're asking you to give? It's going to be reviewed by someone whose job is to find reasons to pay you less. That's not cynicism. That's how the system works, and I watched it work that way for over a decade.
 

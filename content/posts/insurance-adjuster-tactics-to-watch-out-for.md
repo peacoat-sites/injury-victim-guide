@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people filing an injury claim are already losing before the adjuster says hello.
 
-I'm not trying to scare you. I'm telling you what I watched happen hundreds of times from the other side of the desk. I spent 12 years as an insurance adjuster, and I bailed out because I'd seen too many families walk away from settlements that were basically insults wrapped in official paperwork. So when I write about this, it's not theoretical. I know exactly which tactics get deployed, in what order, and why they work so devastatingly well on people who are hurt, stressed, and just trying to do the right thing.
+Insurance companies deploy specific tactics in a deliberate sequence, designed to work on people who are hurt, stressed, and trying to do the right thing. These tactics are effective precisely because they target someone at their most vulnerable. The order matters: each step is calibrated to lower your guard before the next one arrives. What looks like bureaucracy is actually strategy.
 
 Is your adjuster actually trying to trick you? Sometimes, not really. Some adjusters are decent people working a brutal job under pressure to close claims cheaply. But the tactics I'm about to describe aren't mistakes. They're trained behaviors. They're in the official guidelines. And yeah, they're designed to protect the insurance company's bottom line, not your health or your future.
 
