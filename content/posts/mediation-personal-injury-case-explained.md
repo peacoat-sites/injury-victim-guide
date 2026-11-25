@@ -31,9 +31,7 @@ Here's what you need to know upfront: mediation is a structured negotiation with
 
 The process is confidential, usually faster than litigation, and far cheaper than a trial. It doesn't work for everyone, though, and I'll get to that.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Mediation is voluntary; you cannot be forced to accept a settlement</li><li style="margin:5px 0">The mediator has no power to decide your case, that's what makes it different from arbitration</li><li style="margin:5px 0">Most personal injury mediations last one full day, sometimes two</li><li style="margin:5px 0">Mediation is confidential; statements made there generally can't be used at trial if talks fail</li><li style="margin:5px 0">Both sides share mediator costs, typically ranging from a few hundred to several thousand dollars</li></ul></div>
-
 
 ## What Actually Happens in the Room
 
@@ -97,7 +95,6 @@ One more group who should be cautious: anyone without legal representation. Medi
 
 ---
 
-
 *Photo: [kaboompics](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
@@ -112,4 +109,3 @@ One more group who should be cautious: anyone without legal representation. Medi
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

@@ -95,8 +95,6 @@ The [CDC's injury data](https://www.cdc.gov/injury/wisqars/) puts motor vehicle 
 
 ---
 
----
-
 Whiplash recovery outcomes depend significantly on whether someone pursues treatment early or waits for it to resolve on its own. This is what the data shows. If you're still in that early window, the most useful thing you can do is get to a physiotherapist this week, start your symptom log tonight, and stop expecting a two-week timeline that the research doesn't support.
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
@@ -113,4 +111,3 @@ Whiplash recovery outcomes depend significantly on whether someone pursues treat
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

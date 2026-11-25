@@ -110,8 +110,6 @@ If there are witnesses, ask for their contact information directly. Don't assume
 
 ---
 
----
-
 The police report isn't the whole case. Most of the time it isn't even close. But it's the starting point, and starting points matter more than people realize. Reading it carefully, correcting what can be corrected quickly, and understanding how it'll be used against you are the three things that put you in a better position than most claimants before you've even talked to anyone. That's worth something.
 
 ---
@@ -122,16 +120,8 @@ The police report isn't the whole case. Most of the time it isn't even close. Bu
 
 ## Sources
 
-- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
-- [this claims and medical records organizer on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal)
 - [The American Bar Association's guidance](https://www.americanbar.org/groups/public_education/)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
-- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ---
 
@@ -141,4 +131,3 @@ The police report isn't the whole case. Most of the time it isn't even close. Bu
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

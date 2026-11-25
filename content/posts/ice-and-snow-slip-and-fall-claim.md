@@ -118,16 +118,7 @@ Ice and snow claims sit at the intersection of real physical harm and genuinely 
 ## Sources
 
 - [the CDC's injury data](https://www.cdc.gov/injury/wisqars/)
-- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-- [this injury documentation journal available on Amazon](https://www.amazon.com/s?k=injury+documentation+journal)
 - [Insurance Information Institute](https://www.iii.org/)
-- [This type of organizer on Amazon](https://www.amazon.com/s?k=medical+records+organizer)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ---
 
@@ -137,4 +128,3 @@ Ice and snow claims sit at the intersection of real physical harm and genuinely 
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

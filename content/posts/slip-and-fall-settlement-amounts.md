@@ -95,15 +95,7 @@ The amount of a slip and fall settlement isn't predetermined. It's the result of
 ## Sources
 
 - [Insurance Information Institute](https://www.iii.org/)
-- [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
 - [Nolo personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
-- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-- [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
 
@@ -115,4 +107,3 @@ The amount of a slip and fall settlement isn't predetermined. It's the result of
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

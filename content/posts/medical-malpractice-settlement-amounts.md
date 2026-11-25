@@ -106,8 +106,6 @@ Rather than a vague list, let me tell you what I've actually watched affect numb
 
 ---
 
----
-
 Medical malpractice settlement amounts are driven more by leverage, documentation, jurisdiction, and the willingness of both sides to bear uncertainty than by abstract notions of justice. That sounds cold, but understanding it actually helps victims position their cases better. You can't change the law in your state, but you can make sure your damages are thoroughly documented, you're not communicating desperation to the other side, and the attorney you hire has actually tried malpractice cases in your jurisdiction before. Those three things, more than anything else, are what I'd focus on.
 
 ---
@@ -118,16 +116,8 @@ Medical malpractice settlement amounts are driven more by leverage, documentatio
 
 ## Sources
 
-- [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
 - [American Bar Association's guidance on medical malpractice](https://www.americanbar.org/groups/public_education/)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
-- [personal health tracker](https://www.amazon.com/s?k=medical+journal+health+tracker)
-- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ---
 
@@ -137,4 +127,3 @@ Medical malpractice settlement amounts are driven more by leverage, documentatio
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

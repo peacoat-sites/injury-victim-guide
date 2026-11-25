@@ -29,9 +29,7 @@ If you were a passenger in a car that got into an accident, you're in a stronger
 
 That flexibility matters, because passengers often get squeezed out of the claims process. The drivers are arguing over fault, the [insurance companies](/how-insurance-companies-calculate-settlements/) are focused on protecting their own policyholders, and nobody is automatically looking out for you. Understanding where you stand changes that.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">As a passenger, you're rarely at fault, which gives you stronger claim standing than either driver.</li><li style="margin:5px 0">You can file against the at-fault driver's liability insurance, your own uninsured/underinsured motorist coverage, or both.</li><li style="margin:5px 0">If multiple parties share fault, you may have multiple insurance policies to claim against simultaneously.</li><li style="margin:5px 0">Personal injury protection (PIP) or MedPay coverage on any vehicle you were in may pay medical bills regardless of fault.</li><li style="margin:5px 0">Statute of limitations for personal injury claims is typically 2-3 years depending on state, but confirm yours early.</li></ul></div>
-
 
 ## Who Pays When a Passenger Gets Hurt
 
@@ -95,7 +93,6 @@ What complicates this: each insurer will try to point fault at the other driver 
 
 ---
 
-
 *Photo: [Mike Bird](https://www.pexels.com/@mikebird) via Pexels*
 
 ---
@@ -110,4 +107,3 @@ What complicates this: each insurer will try to point fault at the other driver 
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

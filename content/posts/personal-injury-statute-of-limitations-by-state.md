@@ -127,11 +127,6 @@ You don't need to file a lawsuit today. What you need is to know exactly how muc
 - [American Bar Association: Florida tort reform, three key changes](https://www.americanbar.org/groups/litigation/resources/newsletters/mass-torts/florida-tort-reform-three-key-changes/) (2023)
 - State statutes of limitations and comparative fault rules, compiled July 2026
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-
 ---
 
 ## Recommended Resources
@@ -140,4 +135,3 @@ You don't need to file a lawsuit today. What you need is to know exactly how muc
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

@@ -106,15 +106,7 @@ The honest truth about soft tissue injury settlements is that there's no univers
 ## Sources
 
 - [CDC's injury data](https://www.cdc.gov/injury/wisqars/)
-- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
-- [*Personal Injury Journal* on Amazon](https://www.amazon.com/s?k=personal+injury+journal)
-- [Keeping It Together Medical Organizer](https://www.amazon.com/s?k=medical+records+organizer)
 - [American Bar Association's public education resources](https://www.americanbar.org/groups/public_education/)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ---
 
@@ -124,4 +116,3 @@ The honest truth about soft tissue injury settlements is that there's no univers
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

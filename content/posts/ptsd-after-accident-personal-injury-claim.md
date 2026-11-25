@@ -29,9 +29,7 @@ Post-traumatic stress disorder is a legitimate, compensable injury in a personal
 
 A serious accident doesn't just break bones or tear ligaments. For many people, the psychological damage outlasts the physical damage by years. Flashbacks, hypervigilance, sleep disruption, panic attacks triggered by driving, the smell of gasoline, the sound of brakes. These aren't character weaknesses. They're recognized clinical injuries, and under tort law in every U.S. state, they're recoverable damages.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PTSD is a compensable injury in personal injury claims, not just a "soft" add-on.</li><li style="margin:5px 0">A formal DSM-5 diagnosis from a licensed mental health professional is your foundation, without it, the claim is nearly impossible to defend.</li><li style="margin:5px 0">Insurers frequently dispute psychological injuries; documented treatment history is your strongest counter.</li><li style="margin:5px 0">Pain and suffering damages for PTSD can exceed medical specials (your medical bills) in serious cases.</li><li style="margin:5px 0">Most personal injury attorneys take PTSD claims on contingency, so upfront cost isn't a barrier to pursuing one.</li></ul></div>
-
 
 ## Why Insurers Fight PTSD Claims Hard
 
@@ -103,7 +101,6 @@ The [CDC's injury data resources](https://www.cdc.gov/injury/wisqars/) don't add
 
 ---
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -118,4 +115,3 @@ The [CDC's injury data resources](https://www.cdc.gov/injury/wisqars/) don't add
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

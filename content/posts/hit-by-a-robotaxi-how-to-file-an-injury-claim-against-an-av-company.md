@@ -18,9 +18,7 @@ Something changed on July 1, 2026, and most injury coverage hasn't caught up yet
 
 The January 2026 crash in Santa Monica made this concrete. A Waymo robotaxi struck a student in a school zone, triggering separate investigations by both the NHTSA and the NTSB into the vehicle's predictive software and remote monitoring protocols. That's two federal agencies, one incident, and a sharp reminder that these aren't fender-benders with a distracted driver. They're potential product defects moving at 35 mph through a school zone.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">AB 1777 (eff. July 1, 2026) lets police issue a Noncompliance Notice directly to the AV manufacturer, not the driver.</li><li style="margin:5px 0">Liability in robotaxi crashes shifts to the manufacturer/operator under California's strict product-liability doctrine.</li><li style="margin:5px 0">California now requires AVs to transmit collision data immediately to first responders, preserving evidence for your claim.</li><li style="margin:5px 0">Waymo recalled thousands of vehicles in 2025–2026 over a documented software defect, a fact attorneys can use in product liability cases.</li><li style="margin:5px 0">Never sign documents or give recorded statements to a tech company's rapid-response team before speaking with an attorney.</li></ul></div>
-
 
 ## AB 1777 Changes the Paper Trail, and Paper Trails Win Cases
 
@@ -94,4 +92,3 @@ California is the first place in the country where ordinary people are filing in
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

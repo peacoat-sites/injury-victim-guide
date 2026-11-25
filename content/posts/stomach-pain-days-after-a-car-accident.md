@@ -29,9 +29,7 @@ Stomach pain that shows up two or three days after a [car accident](/headaches-a
 
 The delay is the part that catches people off guard. Adrenaline is a genuinely effective painkiller. After a collision, your nervous system floods your body with it, and many internal injuries simply don't produce obvious symptoms for 24 to 72 hours, sometimes longer. That's not unusual biology; that's just how traumatic injuries to the abdomen often behave.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Stomach pain 1-3 days post-crash can signal internal bleeding or organ damage, see a doctor the same day symptoms appear.</li><li style="margin:5px 0">A delayed symptom timeline is normal for abdominal injuries; it does not mean the injury is minor.</li><li style="margin:5px 0">Documenting symptoms with dates and descriptions strengthens any future insurance claim or lawsuit.</li><li style="margin:5px 0">Seatbelt syndrome is a real diagnosis: lap-belt pressure can injure the bowel, spleen, or lumbar spine without breaking skin.</li><li style="margin:5px 0">Refusing an ER visit at the scene does not forfeit your right to compensation if you seek care promptly after symptoms appear.</li></ul></div>
-
 
 ## What Could Actually Be Wrong
 
@@ -111,7 +109,6 @@ That last one matters. A temporary improvement can happen with some bowel injuri
 
 ---
 
-
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
@@ -126,4 +123,3 @@ That last one matters. A temporary improvement can happen with some bowel injuri
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

@@ -81,8 +81,6 @@ If you can't afford an attorney, many employment lawyers who handle workers' com
 
 ---
 
----
-
 The system here genuinely does offer protection. What it doesn't offer is automatic protection. You have to know your rights, move fast, and build your case before the other side builds theirs. That's not cynical, it's just practical. The workers I saw navigate this best were the ones who took the threat seriously from the start, not the ones who assumed good faith would be enough.
 
 ---
@@ -93,18 +91,7 @@ The system here genuinely does offer protection. What it doesn't offer is automa
 
 ## Sources
 
-- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
-- [This kind of injury and medical records organizer](https://www.amazon.com/s?k=injury+documentation+journal)
 - [CDC's injury statistics](https://www.cdc.gov/injury/wisqars/)
-- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
-- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
 
 ---
 
@@ -114,4 +101,3 @@ The system here genuinely does offer protection. What it doesn't offer is automa
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

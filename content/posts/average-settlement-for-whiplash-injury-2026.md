@@ -85,8 +85,6 @@ One more thing about timing: settlements almost always happen after you reach wh
 
 ---
 
----
-
 What I keep telling people is this: the insurance company across the table from you does this every single day. They know the system. They know the software. They know what pressure points make injured people settle early. Knowing how they think is the closest thing to an equalizer you have. You don't have to be cynical about it. Just don't walk into that negotiation blind.
 
 ---
@@ -97,16 +95,8 @@ What I keep telling people is this: the insurance company across the table from 
 
 ## Sources
 
-- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [The CDC's injury data](https://www.cdc.gov/injury/wisqars/)
-- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-- [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ---
 
@@ -116,4 +106,3 @@ What I keep telling people is this: the insurance company across the table from 
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

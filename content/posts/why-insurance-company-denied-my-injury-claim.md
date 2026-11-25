@@ -133,15 +133,11 @@ The [CDC's injury statistics](https://www.cdc.gov/injury/wisqars/) put into shar
 
 ---
 
----
-
 You've read this far, which tells me you're not ready to let this go. Good. The denial letter that's sitting on your kitchen table right now is not a verdict. It's a position. Positions change when you push back with evidence, persistence, and the right help. Start with the appeal. Document everything. And please, before you sign anything or accept anything, at least talk to an attorney who handles personal injury cases. Most of them offer free consultations, and that hour could change the outcome entirely.
 
 ---
 
 *This article is for general informational purposes only and does not constitute legal advice. Laws vary by state. Consult a licensed personal injury attorney in your jurisdiction for advice specific to your situation. Most personal injury attorneys offer free consultations.*
-
----
 
 ---
 
@@ -151,4 +147,3 @@ You've read this far, which tells me you're not ready to let this go. Good. The 
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

@@ -99,19 +99,6 @@ A consultation with a personal injury attorney (many of whom offer free initial 
 
 The parking lot where you fell doesn't look like a courtroom, but in a very real sense, it became one the moment you hit the ground. The property owner's insurer is already building a file. The maintenance company is checking its logs. You deserve to understand what's actually happening and to have someone genuinely in your corner while you figure out your next steps. Get checked out medically, document everything you can, and talk to an attorney before you say anything more to any insurance company. That is not legal advice. It is simply sound, practical guidance for anyone navigating this situation.
 
-## Sources
-
-- [Guided Medical Symptom Journal and Pain Tracker](https://www.amazon.com/dp/B08CZL6T9K?tag=contentportfo-20)
-- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
-- [Avery Durable Binder with Medical Records Organizer Pockets](https://www.amazon.com/dp/B08MBF3WNH?tag=contentportfo-20)
-- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-- [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16): Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14): Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-
 ---
 
 ## Recommended Resources
@@ -120,6 +107,8 @@ The parking lot where you fell doesn't look like a courtroom, but in a very real
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16): Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14): Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ## Sources and References
 

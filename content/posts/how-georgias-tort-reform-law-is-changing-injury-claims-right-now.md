@@ -20,9 +20,7 @@ Governor Brian Kemp signed SB 68 and SB 69 on April 21, 2025, describing the pac
 
 As the National Law Review reported in July 2026, this legislation represents the most sweeping change to Georgia tort law in nearly two decades, and its effects are landing hardest on everyday injury victims, not large institutional plaintiffs with deep pockets.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SB 68 and SB 69 fully took effect by January 1, 2026, affecting all current Georgia injury claims.</li><li style="margin:5px 0">Juries now decide liability before hearing any injury or damages evidence, a major structural disadvantage for plaintiffs.</li><li style="margin:5px 0">Defendants can show the lower amount actually paid to healthcare providers, not the higher billed amount, reducing medical damage awards.</li><li style="margin:5px 0">Seatbelt non-use is now admissible evidence against plaintiffs in claims filed after April 21, 2025.</li><li style="margin:5px 0">Litigation funding agreements are now discoverable, potentially exposing case strategy to opposing counsel.</li></ul></div>
-
 
 ## The Bifurcation Problem: Why the New Trial Structure Matters
 
@@ -88,4 +86,3 @@ If you've been hurt in Georgia, the most important thing I can tell you is this:
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

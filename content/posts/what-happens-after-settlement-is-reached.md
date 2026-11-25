@@ -29,9 +29,7 @@ Most people assume that once both sides say "yes" to a number, they're essential
 
 The good news: the post-settlement process is predictable. It moves through a defined sequence of steps, and knowing what comes next means you won't be blindsided when your attorney asks you to sign paperwork before any money changes hands, or when you discover that your health insurer wants a cut of your award. Here's what actually happens after a personal injury settlement is reached, in the order it typically unfolds.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Settlement funds rarely arrive in under 30 days; 4-8 weeks after signing is a realistic expectation.</li><li style="margin:5px 0">You'll sign a release before seeing any money, read it carefully, it's permanent.</li><li style="margin:5px 0">Medical liens can reduce your net payment significantly; your attorney must resolve them before disbursement.</li><li style="margin:5px 0">Medicare and Medicaid have federal reimbursement rights that cannot be waived by state law.</li><li style="margin:5px 0">Your attorney's fee and case costs come out of the gross settlement, not after your share is calculated.</li></ul></div>
-
 
 ## You Sign the Release First
 
@@ -109,9 +107,6 @@ Don't take tax guidance from your personal injury attorney unless they're also a
 
 ---
 
-
----
-
 To track your own claim expenses and documentation while waiting for disbursement, keeping a dedicated folder or spreadsheet for medical records, bills, and correspondence can help you stay organized and spot any discrepancies when the final settlement statement arrives.
 
 *Photo: [https://kaboompics.com/](https://www.pexels.com/@karola-g) via Pexels*
@@ -128,4 +123,3 @@ To track your own claim expenses and documentation while waiting for disbursemen
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

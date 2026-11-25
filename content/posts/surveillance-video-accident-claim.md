@@ -29,9 +29,7 @@ Surveillance footage can make or break a personal injury claim. If a camera capt
 
 Most businesses overwrite their surveillance recordings on a rolling cycle. Depending on the system, that cycle might be 24 hours, 72 hours, or 30 days. Some high-end systems store longer. Many small retailers store almost nothing at all. The window between your accident and the moment that footage disappears is often shorter than people expect, and there's no way to recover footage that's already been overwritten.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Surveillance footage is often overwritten within 30 days, sometimes within 72 hours.</li><li style="margin:5px 0">Send a written preservation demand to the property owner or business within days of your accident.</li><li style="margin:5px 0">An attorney can send a spoliation letter that creates legal liability if footage is then destroyed.</li><li style="margin:5px 0">Footage from nearby businesses, traffic cameras, and doorbell cameras may also capture your accident.</li><li style="margin:5px 0">Insurance adjusters routinely obtain surveillance video before claimants even know it exists.</li></ul></div>
-
 
 ## Why Footage Disappears So Fast
 
@@ -106,7 +104,6 @@ A good personal injury attorney will typically have a standard protocol for vide
 
 ---
 
-
 *Photo: [Star Zhang](https://www.pexels.com/@star-zhang-3254790) via Pexels*
 
 ---
@@ -121,4 +118,3 @@ A good personal injury attorney will typically have a standard protocol for vide
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

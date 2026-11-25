@@ -20,9 +20,7 @@ The scale here is hard to overstate. According to 3M's own announcement on Novem
 
 This isn't a done deal for everyone, though. And the payment timeline has some real quirks that victims need to understand before they decide anything.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">3M's $7.35 billion AFFF settlement covers roughly 115,000–120,000 plaintiffs, announced November 3, 2026.</li><li style="margin:5px 0">Six qualifying injuries: kidney cancer, testicular cancer, liver cancer, thyroid cancer, thyroid disease, ulcerative colitis.</li><li style="margin:5px 0">Only $50 million is paid in 2026; no payments occur in 2027; roughly 20% is back-loaded to the final two years.</li><li style="margin:5px 0">DuPont, Chemours, and Corteva have NOT settled; those claims continue in active litigation.</li><li style="margin:5px 0">A $680 million reserve exists for claims not covered by the main settlement pool.</li></ul></div>
-
 
 ## Who Qualifies and What Injuries Are Covered
 
@@ -98,4 +96,3 @@ The 3M settlement is a major step, but it's one piece of a larger legal picture 
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

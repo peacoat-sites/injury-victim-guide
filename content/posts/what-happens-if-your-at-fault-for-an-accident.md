@@ -31,9 +31,7 @@ Here's the short version. Your liability insurance pays for the other party's da
 
 That's the outline. The details matter a lot more.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Your liability insurance covers the other party's damages, not your own vehicle or injuries.</li><li style="margin:5px 0">If damages exceed your policy limits, you can be personally sued for the difference.</li><li style="margin:5px 0">Fault is rarely 100% clear; most states use comparative fault rules that can reduce what you owe.</li><li style="margin:5px 0">A single at-fault accident typically raises premiums for 3-5 years.</li><li style="margin:5px 0">You have a right to contest fault determinations, including through your own insurer.</li></ul></div>
-
 
 ## What "At Fault" Actually Means Legally
 
@@ -116,7 +114,6 @@ An attorney isn't required to contest fault, but on larger claims with real fina
 
 ---
 
-
 *Photo: [Mike Bird](https://www.pexels.com/@mikebird) via Pexels*
 
 ---
@@ -131,4 +128,3 @@ An attorney isn't required to contest fault, but on larger claims with real fina
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

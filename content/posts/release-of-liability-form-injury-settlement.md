@@ -96,8 +96,6 @@ Get a lien search done, or have your attorney do it, before any release is signe
 - Ahlborn v. Arkansas Department of Health (U.S. Supreme Court, 2006): Foundational ruling on Medicaid lien limitations in personal injury settlements.
 - California Civil Code Section 1542: The most-cited state statute on releasing unknown claims; frequently used as a model in other jurisdictions.
 
-If you want a tool to track your medical records and expenses as you build your claim (which makes your attorney's job much easier and directly affects your settlement number), an [injury documentation journal](https://www.amazon.com/s?k=injury+documentation+journal) can help you organize everything in one place. The site may earn a commission if you buy through that link.
-
 ---
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
@@ -114,4 +112,3 @@ If you want a tool to track your medical records and expenses as you build your 
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

@@ -127,8 +127,6 @@ The Insurance Information Institute has noted that one of the biggest sources of
 
 ---
 
----
-
 If you want to track your own medical expenses and documentation while your case is active, a simple medical expense journal or claim workbook can be surprisingly useful for keeping everything organized. (Options are available on Amazon; the site may earn a small commission if you purchase through those links.) Your attorney will ask for this information, and having it organized saves time and sometimes money.
 
 The cost of a personal injury attorney, structured correctly, is often the most financially rational decision you can make after a serious injury. The free consultation is there for a reason. Use it.
@@ -139,12 +137,9 @@ The cost of a personal injury attorney, structured correctly, is often the most 
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

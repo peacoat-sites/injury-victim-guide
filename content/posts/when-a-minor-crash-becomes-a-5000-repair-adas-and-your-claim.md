@@ -20,9 +20,7 @@ Here's the specific problem. Modern vehicles, and we're talking about a huge sha
 
 The dollar amounts are real and they're significant. AAA research puts ADAS-equipped vehicle repairs at 37.6% more expensive than non-equipped counterparts. A single sensor component can run $300 to $1,600 before a body shop touches a panel. A minor front-end collision can add $1,500 or more in radar and camera recalibration alone. That windshield replacement that cost you $300 a few years ago? It routinely runs $1,200 to $1,500 now once the forward-facing camera has to be recalibrated. Suddenly, an $800 fender-bender becomes a $4,000 or $5,000 repair.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">28.3% of all vehicle repairs now require ADAS calibration, per CCC Intelligent Solutions Q4 2025 data.</li><li style="margin:5px 0">AAA research shows ADAS-equipped vehicles cost 37.6% more to repair than non-equipped vehicles.</li><li style="margin:5px 0">A simple windshield replacement now averages $1,200–$1,500 once camera recalibration is included.</li><li style="margin:5px 0">Skipping required calibration can void your safety-system warranty and endanger a future claim.</li><li style="margin:5px 0">Insurers are increasingly disputing calibration costs as "unnecessary", and claimants often don't know to fight back.</li></ul></div>
-
 
 ## Why Insurers Are Contesting These Costs Right Now
 
@@ -45,9 +43,7 @@ Here's a direct look at how fast these numbers compound on even a routine repair
 
 These figures aren't outliers. They're the current normal, drawn from AAA's research and corroborated by what repair shops are charging right now. The gap between what an insurer's initial estimate covers and what a proper, manufacturer-compliant repair actually costs is where claimants are getting hurt.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical repair cost comparison: Pre-ADAS vs. 2026 (mid-range estimates)</div><div class="sc-row"><span class="sc-label">Windshield (then)</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">$350</span></div><div class="sc-row"><span class="sc-label">Windshield (now)</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$1,350</span></div><div class="sc-row"><span class="sc-label">Front bumper (then)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">$750</span></div><div class="sc-row"><span class="sc-label">Front bumper (now)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,250</span></div><div class="sc-row"><span class="sc-label">Single sensor (now)</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">$950</span></div><div class="sc-src">Source: AAA research / Penny Pincher April 2026</div></div>
-
 
 ## How This Hits Injury Claims, Not Just Property Damage
 
@@ -89,4 +85,3 @@ The technology in your car was sold as a safety feature. The costs of maintainin
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

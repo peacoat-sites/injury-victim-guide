@@ -29,9 +29,7 @@ Chronic pain changes everything about an injury claim. It turns what might have 
 
 The core problem is that chronic pain is invisible. An X-ray can confirm a broken bone. [Soft tissue](/soft-tissue-injury-settlement-amounts/) damage that persists for years, nerve pain, fibromyalgia triggered by trauma, or the kind of back pain that never quite resolves, these don't always show up cleanly on imaging. Insurers know this, and their adjusters are trained to treat "subjective" complaints with skepticism. That doesn't mean your claim is weak. It means you have to build it differently.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Chronic pain after an accident can support a significantly higher settlement than a standard injury claim, but requires consistent medical documentation over time.</li><li style="margin:5px 0">Insurers routinely low-ball early offers before the full scope of ongoing pain is established; settling too soon is the most expensive mistake victims make.</li><li style="margin:5px 0">A "pain and suffering" multiplier (typically 1.5x to 5x your economic losses) is how most adjusters estimate non-economic damages, though severe chronic cases can exceed that range.</li><li style="margin:5px 0">You generally cannot reopen a settled claim if pain worsens, so get a full medical prognosis before signing any release.</li><li style="margin:5px 0">Filing deadlines (statutes of limitations) vary by state and can be as short as one year; missing them ends your claim entirely.</li></ul></div>
-
 
 ## Why "Chronic" Is the Operative Word
 
@@ -93,7 +91,6 @@ Statutes of limitations for personal injury claims range from one year to six ye
 
 ---
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
@@ -108,4 +105,3 @@ Statutes of limitations for personal injury claims range from one year to six ye
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

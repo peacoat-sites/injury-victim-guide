@@ -104,19 +104,6 @@ Speaking of deadlines: every state has a **statute of limitations** for personal
 
 What you do in the hours and days after a wet floor fall quietly shapes everything that follows. You don't have to be a legal expert, and you don't have to figure this out alone. But you do have to act: document, seek medical care, report, and, if your injuries are serious, talk to someone who can help you understand your full picture. You deserve to make informed decisions about your own recovery, and now you have a better foundation to do exactly that.
 
-## Sources
-
-- [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
-- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
-- [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
-- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-- [Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-
 ---
 
 ## Recommended Resources

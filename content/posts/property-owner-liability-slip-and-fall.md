@@ -100,20 +100,6 @@ The practical takeaway: be careful what you say and to whom in the days after yo
 
 The gap between "I was injured on someone else's property" and "I have a strong premises liability claim" is filled with specific facts, preserved evidence, and timely action. None of this is meant to make the process sound hopeless; legitimate slip and fall cases are resolved successfully every day. But they're resolved because someone understood what actually mattered and acted accordingly. You're already ahead of most people just by reading this far.
 
-## Sources
-
-- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
-- [this injury documentation workbook](https://www.amazon.com/s?k=injury+documentation+journal)
-- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
-- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
-- [Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-- **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299), Complete home security kit with video doorbell, documents visitors and can lower home insurance premiums by up to 20%.
-
 ---
 
 ## Recommended Resources

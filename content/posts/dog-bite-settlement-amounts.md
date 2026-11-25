@@ -106,8 +106,6 @@ Facial scarring on a child is typically valued more seriously than the same scar
 
 ---
 
----
-
 Dog bite settlement amounts aren't random. They're the product of liability law, injury severity, documentation quality, available insurance, and how well you understand what you're worth before you sign anything. The insurance company has professionals working this from day one. You should too.
 
 ---
@@ -118,16 +116,8 @@ Dog bite settlement amounts aren't random. They're the product of liability law,
 
 ## Sources
 
-- [Nolo's Plain-English Law Dictionary](https://www.amazon.com/dp/1413328851?tag=contentportfo-20)
-- [injury documentation journals and medical records organizers on Amazon](https://www.amazon.com/s?k=personal+injury+documentation+journal)
 - [American Bar Association's public guidance on personal injury claims](https://www.americanbar.org/groups/public_education/)
 - [CDC's injury data](https://www.cdc.gov/injury/wisqars/)
-- [Fireproof Waterproof Document Bag for Medical and Legal Papers](https://www.amazon.com/dp/B08YKWXNJR?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ---
 
@@ -137,4 +127,3 @@ Dog bite settlement amounts aren't random. They're the product of liability law,
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

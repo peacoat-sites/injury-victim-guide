@@ -29,9 +29,7 @@ School bus accidents are rarer than car crashes, but when they happen, the injur
 
 The first thing most parents ask is: who do I even make a [claim against](/hit-by-a-robotaxi-how-to-file-an-injury-claim-against-an-av-company/)? The honest answer is that it depends on whether the bus was operated by a public school district, a private contractor, or a charter or private school. Each of those tracks leads to different defendants, different deadlines, and different damage caps.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Government notice-of-claim deadlines can be as short as 30-90 days, far shorter than the standard injury statute of limitations.</li><li style="margin:5px 0">Public school districts often have sovereign immunity protections that limit or complicate lawsuits.</li><li style="margin:5px 0">Multiple parties may be liable: the district, a private bus company, another driver, or the bus manufacturer.</li><li style="margin:5px 0">Children's injury claims typically have extended statutes of limitations, but government notice requirements still apply fast.</li><li style="margin:5px 0">Document everything immediately: photos, witness names, the bus number, and your child's symptoms in writing.</li></ul></div>
-
 
 ## Who Can Actually Be Sued
 
@@ -100,7 +98,6 @@ Comparative negligence can also factor in. If the investigation shows the other 
 
 ---
 
-
 *Photo: [Oleksandr Plakhota](https://www.pexels.com/@oleksandr-plakhota-1270583835) via Pexels*
 
 ---
@@ -115,4 +112,3 @@ Comparative negligence can also factor in. If the investigation shows the other 
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

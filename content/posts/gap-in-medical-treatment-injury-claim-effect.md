@@ -86,8 +86,6 @@ For everything in between, a good attorney and a thorough medical explanation ca
 
 ---
 
----
-
 If there's one thing I want you to walk away with, it's this: the gap is a problem you can often manage, but only if you take it seriously and stop hoping the adjuster won't notice. They will notice. Get back into treatment, document everything, and get an attorney in your corner before the conversation with the insurance company happens. Your past self may have created a complication, but your present self can still make smart choices from here.
 
 ---
@@ -98,16 +96,8 @@ If there's one thing I want you to walk away with, it's this: the gap is a probl
 
 ## Sources
 
-- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
 - [Nolo's personal injury resources](https://www.nolo.com/legal-encyclopedia/personal-injury)
 - [The American Bar Association's guidance](https://www.americanbar.org/groups/public_education/)
-- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
-- [Pendaflex Portable File Box for Legal Documents](https://www.amazon.com/dp/B01N7IXNDR?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
 
 ---
 
@@ -117,4 +107,3 @@ If there's one thing I want you to walk away with, it's this: the gap is a probl
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

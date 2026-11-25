@@ -94,8 +94,6 @@ You might be wondering at what point you need an attorney versus handling this y
 
 ---
 
----
-
 There's a lot that happens inside an insurance claim that claimants never get to see. I spent over a decade on the inside of that process, and I came out of it believing that most injury victims are at a real informational disadvantage from the very first phone call. That's not a conspiracy. It's just what happens when one side does this every day and the other side is doing it for the first and hopefully only time in their life.
 
 You're allowed to ask questions. You're allowed to take time before responding to offers. You're allowed to talk to an attorney before you talk to an adjuster. None of those things make you difficult. They make you someone who takes their own situation seriously.
@@ -110,18 +108,8 @@ That's exactly what you should be.
 
 ## Sources
 
-- [Smead Accordion Expanding File Folder for Legal Files](https://www.amazon.com/dp/B00L1JXTSK?tag=contentportfo-20)
 - [Insurance Information Institute](https://www.iii.org/)
 - [The CDC's injury data](https://www.cdc.gov/injury/wisqars/)
-- [Leuchtturm1917 Hardcover Notebook for Personal Records](https://www.amazon.com/dp/B09NQT9VXR?tag=contentportfo-20)
-- [How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)](https://www.amazon.com/dp/1413330045?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
-- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 
 ---
 
@@ -131,4 +119,3 @@ That's exactly what you should be.
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

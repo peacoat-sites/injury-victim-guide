@@ -31,9 +31,7 @@ How long benefits last depends almost entirely on which *type* of benefit you're
 
 The insurance claims system can be used to shorten your benefit period. Here's how it actually works.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Temporary disability benefits typically last 104 weeks (2 years), but some states cap them at 52 or extend to 260 weeks.</li><li style="margin:5px 0">Permanent disability benefits can last years, decades, or a lifetime, depending on impairment rating and state law.</li><li style="margin:5px 0">Insurers use independent medical exams (IMEs) to trigger early termination, knowing this in advance changes how you respond.</li><li style="margin:5px 0">Vocational rehabilitation benefits are often capped at 52 weeks and are among the first to end.</li><li style="margin:5px 0">Settling for a lump sum ends ongoing benefits permanently; that decision deserves a lawyer's eyes before you sign.</li></ul></div>
-
 
 ## The Four Types of Benefits (And Their Very Different Clocks)
 
@@ -89,9 +87,7 @@ Worker B is in the same scenario in a cap-heavy state. → TTD ends at 52 weeks.
 
 Same injury. Different state. Dramatically different outcomes.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Maximum TTD weeks by selected state</div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">260 weeks</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">104 weeks</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">260 weeks</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">401 weeks</span></div><div class="sc-row"><span class="sc-label">Alabama</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">300 weeks</span></div><div class="sc-row"><span class="sc-label">Tennessee</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">450 weeks</span></div><div class="sc-src">Source: State workers compensation statutes, 2026</div></div>
-
 
 (Tennessee and Alabama have relatively high statutory maximums but tighter eligibility gates. Having the weeks on paper doesn't mean you'll receive them.)
 
@@ -114,7 +110,6 @@ If you're managing your own medical records and documentation through this proce
 
 ---
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -129,4 +124,3 @@ If you're managing your own medical records and documentation through this proce
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

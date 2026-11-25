@@ -96,8 +96,6 @@ One thing the guides can't fully capture: pain that doesn't show on imaging. Chr
 
 ---
 
----
-
 If you're tracking your own claim, a dedicated medical records organizer can make a real difference when you're trying to reconstruct timelines for your attorney or at deposition. Amazon carries several injury documentation workbooks in the $12-$18 range (the site may earn a small commission on purchases through links here) that are genuinely more useful than a folder of loose papers. Not glamorous advice. True advice.
 
 The single smartest thing you can do right now, before MMI is declared: ask your treating physician directly, "Have you noted maximum medical improvement in my chart?" Get the answer in writing. Everything that follows hinges on it.
@@ -116,4 +114,3 @@ The single smartest thing you can do right now, before MMI is declared: ask your
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

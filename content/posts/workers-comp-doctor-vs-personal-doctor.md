@@ -115,8 +115,6 @@ Write down: date, pain level on a 1-10 scale, specific limitations (couldn't gri
 
 ---
 
----
-
 As of August 2026, the rules around employer-directed medical care and your right to see a personal physician vary more than they ever have, partly because several states have updated their comp statutes in the last two years. If you're not sure what your state allows, a free consultation with a workers' comp attorney in your state is worth an hour of your time before you make any decisions about your care. Not because you're planning to sue anyone, but because understanding the rules before you break them accidentally is genuinely the simplest form of self-protection available to you.
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
@@ -133,4 +131,3 @@ As of August 2026, the rules around employer-directed medical care and your righ
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

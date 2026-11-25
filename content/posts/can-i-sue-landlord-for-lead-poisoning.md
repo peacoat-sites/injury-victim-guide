@@ -29,9 +29,7 @@ Yes, you can sue your landlord for lead poisoning, and in many cases, you have s
 
 The harder questions are what you need to prove, what your claim might be worth, and how long you have to act. Those answers vary by state, by the age of your housing, and by whether your landlord had actual knowledge of the hazard. Let's get into it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Landlords of pre-1978 housing must disclose known lead hazards under federal law; failure opens them to liability.</li><li style="margin:5px 0">Children under six face the highest risk; blood lead level testing is the medical foundation of any claim.</li><li style="margin:5px 0">Damages can include medical bills, cognitive/developmental harm, and future care costs, often substantial.</li><li style="margin:5px 0">Most states give you 2-3 years to file, but the clock typically starts when you discover the harm, not the exposure.</li><li style="margin:5px 0">You'll need a lawyer for this; lead cases require expert witnesses and are rarely settled cheaply without one.</li></ul></div>
-
 
 ## Why Landlords Have Legal Duties Around Lead
 
@@ -122,7 +120,6 @@ The American Bar Association's public education guidance is worth reviewing if y
 
 ---
 
-
 *Photo: [Krakograff Textures](https://www.pexels.com/@krakograff-textures-124842124) via Pexels*
 
 ---
@@ -137,4 +134,3 @@ The American Bar Association's public education guidance is worth reviewing if y
 
 - **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16), Written by a personal injury attorney, explains the full claims process, how insurance companies calculate settlements.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-
