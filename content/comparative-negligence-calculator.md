@@ -2,6 +2,7 @@
 title: "Comparative Negligence Calculator: Estimate Your Injury Recovery"
 hide_title: true
 date: 2026-06-10
+lastmod: 2026-11-26
 slug: "comparative-negligence-calculator"
 description: "Use our free comparative negligence calculator to estimate how much you could recover after a personal injury, based on your state's fault rules."
 categories: ["Personal Injury Basics"]
@@ -15,7 +16,7 @@ faqs:
   - q: "How is fault percentage determined?"
     a: "Fault percentages are determined by courts, juries, or through negotiated settlements between attorneys and insurance companies. They are not calculated by a formula, they reflect the totality of the evidence, witness testimony, expert opinions, and applicable law."
   - q: "What is a typical attorney contingency fee?"
-    a: "Most personal injury attorneys charge a contingency fee of 33% (one-third) of the gross recovery, though this can range from 25% to 40% depending on complexity, trial involvement, and the state. You pay nothing unless you win."
+    a: "Most personal injury attorneys charge a contingency fee of 33% (one-third) of the gross recovery, though this can range from 25% to 40% depending on complexity, trial involvement, and the state ([Global Law Experts](https://globallawexperts.com/news/personal-injury-lawyer-cost-usa)). You pay nothing unless you win."
   - q: "What is the difference between economic and non-economic damages?"
     a: "Economic damages are objectively calculable: medical bills, lost wages, future medical care, and property damage. Non-economic damages include pain and suffering, emotional distress, loss of enjoyment of life, and loss of consortium. Some states cap non-economic damages in certain case types."
 image: "https://images.pexels.com/photos/7491011/pexels-photo-7491011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
@@ -31,11 +32,11 @@ This page explains the three main negligence systems used across the United Stat
 
 **Modified Comparative Negligence** is the most common system. Most states use a threshold, either 50% or 51%. Under a 50% bar, you recover nothing if you are 50% or more at fault. Under a 51% bar, you recover nothing if you are 51% or more at fault, so a plaintiff found exactly 50% at fault can still recover. If your fault is below the threshold, your damages are reduced proportionally.
 
-**Pure Contributory Negligence** is the harshest rule and is only used in a handful of states: Alabama, Maryland, North Carolina, Virginia, and Washington D.C. Under this rule, even 1% fault on your part can completely eliminate your right to recover. If you live in one of these states and share any blame, consulting an attorney is especially important, exceptions like the "last clear chance" doctrine sometimes apply.
+**Pure Contributory Negligence** is the harshest rule and is only used in a handful of jurisdictions: Alabama, Maryland, North Carolina, Virginia, and Washington D.C. Under this rule, even 1% fault on your part can completely eliminate your right to recover. If you live in one of these jurisdictions and share any blame, consulting an attorney is especially important, because exceptions like the "last clear chance" doctrine may apply depending on local law.
 
 ## How Attorney Fees Work
 
-Most personal injury attorneys work on a **contingency fee basis**, meaning they charge a percentage of your recovery, typically around 33%, and collect nothing if you lose. This makes legal representation accessible even when you cannot afford hourly rates. The calculator estimates your net recovery after a standard 33% contingency fee.
+Most personal injury attorneys work on a **contingency fee basis**, meaning they charge a percentage of your recovery, typically around 33%, and collect nothing if you lose ([Major Verdict](https://majorverdict.com/personal-injury-public-resources/how-much-does-a-personal-injury-lawyer-cost)). This makes legal representation accessible even when you cannot afford hourly rates. The calculator assumes a 33% contingency fee to estimate your net recovery. This is only an assumption, and your actual fee may be higher or lower depending on your agreement and state rules.
 
 ## Use the Calculator
 
@@ -64,8 +65,8 @@ Yes, in most states, as long as your fault does not exceed the threshold. In pur
 
 **What if the other driver had no insurance?**
 
-Your own Uninsured Motorist (UM) coverage steps in. The same comparative negligence rules apply to UM claims. An experienced attorney can help you maximize recovery from your own policy.
+If you carry Uninsured Motorist (UM) coverage, it may step in. UM coverage is not required or available in every state, and the terms depend on your policy and state law. Fault rules often still affect UM claims. An experienced attorney can help you maximize recovery from your own policy.
 
 **How long do I have to file a claim?**
 
-Statutes of limitations for personal injury claims typically range from one to six years depending on the state and the type of claim. Government entity claims often require a "notice of claim" within just 30 to 90 days of the incident. Do not wait, contact an attorney promptly.
+Statutes of limitations for personal injury claims vary widely depending on the state and the type of claim, and some claims have shorter or longer deadlines. Government entity claims often require a "notice of claim" within just 30 to 90 days of the incident ([Enjuris](https://www.enjuris.com/blog/questions/notice-of-claim/)). Do not wait, contact an attorney promptly.
