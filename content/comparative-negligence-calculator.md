@@ -27,9 +27,9 @@ This page explains the three main negligence systems used across the United Stat
 
 ## The Three Negligence Systems
 
-**Pure Comparative Negligence** is used in states like California, New York, and Florida. Under this system, your damages are simply reduced by your percentage of fault. If you were 30% at fault and suffered $100,000 in damages, you recover $70,000. Even a plaintiff who is 90% at fault can still recover 10% of their damages.
+**Pure Comparative Negligence** is used in states like California and New York. (Florida used it until March 24, 2023, when it switched to modified comparative negligence: a plaintiff found more than 50% at fault recovers nothing, except in medical negligence cases.) Under this system, your damages are simply reduced by your percentage of fault. If you were 30% at fault and suffered $100,000 in damages, you recover $70,000. Even a plaintiff who is 90% at fault can still recover 10% of their damages.
 
-**Modified Comparative Negligence** is the most common system. Most states use a threshold, either 50% or 51%. If your fault exceeds that threshold, you are completely barred from recovering anything. If your fault is below the threshold, your damages are reduced proportionally.
+**Modified Comparative Negligence** is the most common system. Most states use a threshold, either 50% or 51%. Under a 50% bar, you recover nothing if you are 50% or more at fault. Under a 51% bar, you recover nothing if you are 51% or more at fault, so a plaintiff found exactly 50% at fault can still recover. If your fault is below the threshold, your damages are reduced proportionally.
 
 **Pure Contributory Negligence** is the harshest rule and is only used in a handful of states: Alabama, Maryland, North Carolina, Virginia, and Washington D.C. Under this rule, even 1% fault on your part can completely eliminate your right to recover. If you live in one of these states and share any blame, consulting an attorney is especially important, exceptions like the "last clear chance" doctrine sometimes apply.
 

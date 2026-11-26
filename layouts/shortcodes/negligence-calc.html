@@ -100,13 +100,13 @@
 <script>
 (function(){
   var STATE_RULES = {
-    AK:'pure',AZ:'pure',CA:'pure',FL:'pure',KY:'pure',LA:'pure',MS:'pure',
+    AK:'pure',AZ:'pure',CA:'pure',KY:'pure',LA:'pure',MS:'pure',
     MO:'pure',NM:'pure',NY:'pure',RI:'pure',SD:'pure',WA:'pure',
     AR:'mod50',CO:'mod50',GA:'mod50',ID:'mod50',KS:'mod50',ME:'mod50',
     MT:'mod50',NE:'mod50',ND:'mod50',OH:'mod50',OK:'mod50',OR:'mod50',
     PA:'mod50',SC:'mod50',TN:'mod50',TX:'mod50',UT:'mod50',VT:'mod50',
     WV:'mod50',WY:'mod50',
-    CT:'mod51',DE:'mod51',HI:'mod51',IL:'mod51',IN:'mod51',IA:'mod51',
+    CT:'mod51',DE:'mod51',FL:'mod51',HI:'mod51',IL:'mod51',IN:'mod51',IA:'mod51',
     MA:'mod51',MI:'mod51',MN:'mod51',NV:'mod51',NH:'mod51',NJ:'mod51',WI:'mod51',
     AL:'contrib',DC:'contrib',MD:'contrib',NC:'contrib',VA:'contrib'
   };
@@ -119,8 +119,8 @@
   var RULE_DESC = {
     pure:'You can recover damages even if you are partly at fault. Your award is reduced by your percentage of fault.',
     mod50:'You can recover damages only if you are less than 50% at fault. If you are 50% or more at fault, you are barred from any recovery.',
-    mod51:'You can recover damages only if you are 51% or less at fault. If you are more than 51% at fault, you are barred from any recovery.',
-    contrib:'Any degree of fault on your part — even 1% — can completely bar your recovery under this traditional rule.'
+    mod51:'You can recover damages only if you are 50% or less at fault. At 51% or more, you are barred from any recovery.',
+    contrib:'Any degree of fault on your part, even 1%, can completely bar your recovery under this traditional rule.'
   };
 
   function fmt(n){ return '$'+n.toLocaleString('en-US',{minimumFractionDigits:0,maximumFractionDigits:0}); }
@@ -148,10 +148,10 @@
       if(fault>=50){ barred=true; barNote='At '+fault+'% fault, you meet or exceed the 50% threshold and are barred from recovery under the '+ruleName+' rule.'; }
       else { recovery = damages * (1 - fault/100); }
     } else if(rule==='mod51'){
-      if(fault>51){ barred=true; barNote='At '+fault+'% fault, you exceed the 51% threshold and are barred from recovery under the '+ruleName+' rule.'; }
+      if(fault>50){ barred=true; barNote='At '+fault+'% fault, you are more than 50% at fault and are barred from recovery under the '+ruleName+' rule.'; }
       else { recovery = damages * (1 - fault/100); }
     } else if(rule==='contrib'){
-      if(fault>0){ barred=true; barNote='Your state uses the harsh contributory negligence rule — even 1% fault can bar your entire recovery. An experienced attorney may argue exceptions (last clear chance doctrine, etc.). This makes attorney consultation especially critical.'; }
+      if(fault>0){ barred=true; barNote='Your state uses the harsh contributory negligence rule: even 1% fault can bar your entire recovery. An experienced attorney may argue exceptions (last clear chance doctrine, etc.). This makes attorney consultation especially critical.'; }
       else { recovery = damages; }
     }
 
